@@ -1,2 +1,6 @@
 "git status" and pull before starting a new branch
 clone repository to local 
+
+https://www.youtube.com/watch?v=9r6Fp0EeMNI - Add/Remove files
+
+gitkraken://repolink/3edd091ab1cd73e083efc1d115328249765163b2?url=git%40github.com%3AJasonBealPnP%2FPnP-Remote-Repo.git
