@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=9r6Fp0EeMNI - Add/Remove files
 https://www.youtube.com/watch?v=AMFoJoNh3V4 - GitKraken Getting Started
 https://www.youtube.com/watch?v=ceT3pm5hYvs&list=TLPQMTEwMzIwMjLOKgXske1tGw&index=2 - Cloning and more
 https://www.youtube.com/watch?v=dO9BtPDIHJ8&list=TLPQMTEwMzIwMjJq8iFItI66hw&index=2 - Merge vs Rebase
+https://www.youtube.com/watch?v=kjxV471jJhs - Stash and Pop
+https://www.youtube.com/watch?v=R1iWJNyRpQE&list=PLe6EXFvnTV78WqGmGSq8JPnafR3lAa55n&index=5 - Merge Conflict
 
 gitkraken://repolink/3edd091ab1cd73e083efc1d115328249765163b2?url=git%40github.com%3AJasonBealPnP%2FPnP-Remote-Repo.git
 
