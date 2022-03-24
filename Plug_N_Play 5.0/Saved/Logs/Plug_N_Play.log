@@ -2889,3 +2889,41 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.03.24-02.15.50:961][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Junk_Pile_2/Junkpile_2_reUV_lambert2_OcclusionRoughnessMetallic.Junkpile_2_reUV_lambert2_OcclusionRoughnessMetallic
 [2022.03.24-02.15.50:961][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Junk_Pile_2/Junkpile_2_reUV_lambert2_Normal.Junkpile_2_reUV_lambert2_Normal
 [2022.03.24-02.15.50:961][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Junk_Pile_2/Junkpile_2_reUV_lambert2_BaseColor.Junkpile_2_reUV_lambert2_BaseColor
+[2022.03.24-02.21.21:699][512]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\Plug n Play\Textures\Model Textures\Rusted Sawblade/Rusted Sawblade_Sawblade_BaseColor.png)
+[2022.03.24-02.21.21:731][512]LogTexture: Display: Building textures: Rusted_Sawblade_Sawblade_BaseColor (AutoDXT, 1024X1024)
+[2022.03.24-02.21.21:731][512]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\Plug n Play\Textures\Model Textures\Rusted Sawblade/Rusted Sawblade_Sawblade_Normal.png)
+[2022.03.24-02.21.21:776][512]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\Plug n Play\Textures\Model Textures\Rusted Sawblade/Rusted Sawblade_Sawblade_OcclusionRoughnessMetallic.png)
+[2022.03.24-02.21.21:818][512]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\Plug n Play\Textures\Model Textures\Slurm Can_1/Can_1_Coke1_BaseColor.png)
+[2022.03.24-02.21.21:828][512]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\Plug n Play\Textures\Model Textures\Slurm Can_1/Can_1_Coke1_Normal.png)
+[2022.03.24-02.21.21:857][512]LogTexture: Display: Building textures: Rusted_Sawblade_Sawblade_Normal (BC5, 1024X1024)
+[2022.03.24-02.21.21:858][512]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\Plug n Play\Textures\Model Textures\Slurm Can_1/Can_1_Coke1_OcclusionRoughnessMetallic.png)
+[2022.03.24-02.21.21:875][512]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\Plug n Play\Textures\Model Textures\Slurm Can_1 DIRTIER/Can_1_Coke1_BaseColor.png)
+[2022.03.24-02.21.21:969][512]LogTexture: Display: Building textures: Rusted_Sawblade_Sawblade_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.03.24-02.21.21:969][512]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\Plug n Play\Textures\Model Textures\Slurm Can_1 DIRTIER/Can_1_Coke1_Normal.png)
+[2022.03.24-02.21.22:086][512]LogTexture: Display: Building textures: Can_1_Coke1_BaseColor (AutoDXT, 512X512)
+[2022.03.24-02.21.22:086][512]LogTexture: Display: Building textures: Can_1_Coke1_Normal (BC5, 512X512)
+[2022.03.24-02.21.22:086][512]LogTexture: Display: Building textures: Can_1_Coke1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2022.03.24-02.21.22:086][512]LogTexture: Display: Building textures: Can_1_Coke1_BaseColor (AutoDXT, 512X512)
+[2022.03.24-02.21.22:093][512]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\Plug n Play\Textures\Model Textures\Slurm Can_1 DIRTIER/Can_1_Coke1_OcclusionRoughnessMetallic.png)
+[2022.03.24-02.21.22:124][512]LogTexture: Display: Building textures: Can_1_Coke1_Normal (BC5, 512X512)
+[2022.03.24-02.21.22:124][512]LogTexture: Display: Building textures: Can_1_Coke1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2022.03.24-02.21.25:968][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.03.24-02.21.26:082][626]LogSavePackage: Moving '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Rusted_Sawblade_Sawblade_BaseCol2840C6344E2A5FCA76A37C84F81AA2A4.tmp' to '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/Textures/Rusted_Sawblade/Rusted_Sawblade_Sawblade_BaseColor.uasset'
+[2022.03.24-02.21.26:128][626]LogSavePackage: Moving '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Rusted_Sawblade_Sawblade_Normal6A4B393C4E38EA25FC53D0B3BB95AF3E.tmp' to '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/Textures/Rusted_Sawblade/Rusted_Sawblade_Sawblade_Normal.uasset'
+[2022.03.24-02.21.26:272][626]LogSavePackage: Moving '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Rusted_Sawblade_Sawblade_Occlusi7AD03417446092A58BC89495005E688B.tmp' to '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/Textures/Rusted_Sawblade/Rusted_Sawblade_Sawblade_OcclusionRoughnessMetallic.uasset'
+[2022.03.24-02.21.26:289][626]LogSavePackage: Moving '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Can_1_Coke1_BaseColor7822A1D34ED48E1A58968695ADA0B96F.tmp' to '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/Textures/Slurm_Can_1/Can_1_Coke1_BaseColor.uasset'
+[2022.03.24-02.21.26:307][626]LogSavePackage: Moving '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Can_1_Coke1_NormalF117322B45834A5E3C6469B06CBF7484.tmp' to '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/Textures/Slurm_Can_1/Can_1_Coke1_Normal.uasset'
+[2022.03.24-02.21.26:323][626]LogSavePackage: Moving '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Can_1_Coke1_OcclusionRoughnessMeFAE7F6D7488BC7CD1CEBEEB8002AB43C.tmp' to '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/Textures/Slurm_Can_1/Can_1_Coke1_OcclusionRoughnessMetallic.uasset'
+[2022.03.24-02.21.26:342][626]LogSavePackage: Moving '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Can_1_Coke1_BaseColorBD6C34C845342A67D18ACDAE23EDF142.tmp' to '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/Textures/Slurm_Can_1_DIRTIER/Can_1_Coke1_BaseColor.uasset'
+[2022.03.24-02.21.26:356][626]LogSavePackage: Moving '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Can_1_Coke1_NormalAA804CAE4439A536BF763998C2B0460B.tmp' to '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/Textures/Slurm_Can_1_DIRTIER/Can_1_Coke1_Normal.uasset'
+[2022.03.24-02.21.26:370][626]LogSavePackage: Moving '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Can_1_Coke1_OcclusionRoughnessMeA2EC387C49D9E1C46A15E687969C9269.tmp' to '../../../../../../Plug n Play/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/Textures/Slurm_Can_1_DIRTIER/Can_1_Coke1_OcclusionRoughnessMetallic.uasset'
+[2022.03.24-02.21.26:390][626]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.24-02.21.26:390][626]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Slurm_Can_1_DIRTIER/Can_1_Coke1_OcclusionRoughnessMetallic.Can_1_Coke1_OcclusionRoughnessMetallic
+[2022.03.24-02.21.26:390][626]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Slurm_Can_1_DIRTIER/Can_1_Coke1_Normal.Can_1_Coke1_Normal
+[2022.03.24-02.21.26:390][626]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Slurm_Can_1_DIRTIER/Can_1_Coke1_BaseColor.Can_1_Coke1_BaseColor
+[2022.03.24-02.21.26:390][626]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Slurm_Can_1/Can_1_Coke1_OcclusionRoughnessMetallic.Can_1_Coke1_OcclusionRoughnessMetallic
+[2022.03.24-02.21.26:390][626]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Slurm_Can_1/Can_1_Coke1_Normal.Can_1_Coke1_Normal
+[2022.03.24-02.21.26:390][626]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Slurm_Can_1/Can_1_Coke1_BaseColor.Can_1_Coke1_BaseColor
+[2022.03.24-02.21.26:390][626]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Rusted_Sawblade/Rusted_Sawblade_Sawblade_OcclusionRoughnessMetallic.Rusted_Sawblade_Sawblade_OcclusionRoughnessMetallic
+[2022.03.24-02.21.26:390][626]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Rusted_Sawblade/Rusted_Sawblade_Sawblade_Normal.Rusted_Sawblade_Sawblade_Normal
+[2022.03.24-02.21.26:390][626]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Rusted_Sawblade/Rusted_Sawblade_Sawblade_BaseColor.Rusted_Sawblade_Sawblade_BaseColor
