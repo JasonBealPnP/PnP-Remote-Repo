@@ -1323,3 +1323,871 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.03.27-20.12.12:080][974]LogEditorActor: Deleted Actor: StaticMeshActor
 [2022.03.27-20.12.12:324][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2022.03.27-20.12.12:326][974]LogEditorActor: Deleted 1 Actors (0.256 secs)
+[2022.03.27-20.15.21:822][ 97]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\Stairs\Jnix_Stairs_Textures/Stairs_Base.png)
+[2022.03.27-20.15.21:851][ 97]LogTexture: Display: Building textures: Stairs_Base (AutoDXT, 1024X1024)
+[2022.03.27-20.15.21:851][ 97]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\Stairs\Jnix_Stairs_Textures/Stairs_Base_Normal.png)
+[2022.03.27-20.15.21:889][ 97]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\Stairs\Jnix_Stairs_Textures/Stairs_Base_OcclusionRoughnessMetallic.png)
+[2022.03.27-20.15.21:929][ 97]LogTexture: Display: Building textures: Stairs_Base_Normal (BC5, 1024X1024)
+[2022.03.27-20.15.21:929][ 97]LogTexture: Display: Building textures: Stairs_Base_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.03.27-20.15.21:929][ 97]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\Stairs\Jnix_Stairs_Textures/Stairs_Rails_BaseColor.png)
+[2022.03.27-20.15.21:954][ 97]LogTexture: Display: Building textures: Stairs_Rails_BaseColor (AutoDXT, 1024X1024)
+[2022.03.27-20.15.21:954][ 97]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\Stairs\Jnix_Stairs_Textures/Stairs_Rails_Normal.png)
+[2022.03.27-20.15.21:988][ 97]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\Stairs\Jnix_Stairs_Textures/Stairs_Rails_OcclusionRoughnessMetallic.png)
+[2022.03.27-20.15.22:014][ 97]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\Stairs\Jnix_Stairs_Textures/Stairs_Stair_Foundation_BaseColor.png)
+[2022.03.27-20.15.22:036][ 97]LogTexture: Display: Building textures: Stairs_Rails_Normal (BC5, 1024X1024)
+[2022.03.27-20.15.22:036][ 97]LogTexture: Display: Building textures: Stairs_Rails_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.03.27-20.15.22:167][ 97]LogTexture: Display: Building textures: Stairs_Stair_Foundation_BaseColor (AutoDXT, 1024X1024)
+[2022.03.27-20.15.22:174][ 97]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\Stairs\Jnix_Stairs_Textures/Stairs_Stair_Foundation_Normal.png)
+[2022.03.27-20.15.22:202][ 97]LogTexture: Display: Building textures: Stairs_Stair_Foundation_Normal (BC5, 1024X1024)
+[2022.03.27-20.15.22:203][ 97]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\Stairs\Jnix_Stairs_Textures/Stairs_Stair_Foundation_OcclusionRoughnessMetallic.png)
+[2022.03.27-20.15.22:226][ 97]LogTexture: Display: Building textures: Stairs_Stair_Foundation_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.03.27-20.15.22:226][ 97]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.03.27-20.15.28:710][343]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.03.27-20.15.28:723][343]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.03.27-20.15.34:436][604]LogContentBrowser: Attempting asset rename: NewMaterial -> M_StairBase
+[2022.03.27-20.15.34:436][604]LogContentBrowser: End creating deferred item NewMaterial
+[2022.03.27-20.15.37:119][725]LogContentBrowser: Attempting asset rename: M_StairBase -> M_StairBase
+[2022.03.27-20.15.37:847][762]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/Jnix_Stairs_Textures/M_StairBase.M_StairBase
+[2022.03.27-20.15.37:849][762]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 3 classes and 0 folders.
+[2022.03.27-20.15.37:851][762]LogMaterial: Display: Missing cached shadermap for Preview:M_StairBase in PCD3D_SM5, Default, SM5 (DDC key hash: 1406789479EB4B25538850610EE327F6A306EADB), compiling. 
+[2022.03.27-20.15.37:894][762]LogTexture: Display: Waiting for textures to be ready 0/1 (EpicQuadPanorama_CC+EV1) ...
+[2022.03.27-20.15.38:056][762]LogMaterial: Display: Missing cached shadermap for Preview:M_StairBase in PCD3D_SM5, Default, SM5 (DDC key hash: 8F4A084DDCE27BE9AD82F3E4B9E2640FB5927DFC), compiling. 
+[2022.03.27-20.15.38:058][762]LogMaterial: Display: Missing cached shadermap for Preview:M_StairBase in PCD3D_SM5, Default, SM5 (DDC key hash: 821973C93C7F1A443CBEDF2E2EDE855706AA1EC6), compiling. 
+[2022.03.27-20.15.38:079][762]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.15.38:079][762]MaterialEditorStats: 
+[2022.03.27-20.15.38:079][762]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.15.38:087][762]LogSlate: Took 0.000534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.27-20.15.39:123][788]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.27-20.15.39:123][788]LogShaderCompilers: Display: Total job queries 564, among them cache hits 0 (0.00%)
+[2022.03.27-20.15.39:124][788]LogShaderCompilers: Display: Tracking 452 distinct input hashes that result in 90 distinct outputs (19.91%)
+[2022.03.27-20.15.39:124][788]LogShaderCompilers: Display: RAM used: 0.44 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2022.03.27-20.15.39:124][788]LogShaderCompilers: Display: ================================================
+[2022.03.27-20.15.40:006][802]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.15.40:006][802]MaterialEditorStats: 
+[2022.03.27-20.15.40:006][802]MaterialEditorStats: Shader Count: 7
+[2022.03.27-20.15.40:149][808]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.03.27-20.15.40:149][808]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.03.27-20.15.40:149][808]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.03.27-20.15.40:149][808]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.15.40:149][808]MaterialEditorStats: 
+[2022.03.27-20.15.40:149][808]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.15.41:407][878]LogMaterial: Display: Missing cached shadermap for Preview:M_StairBase in PCD3D_SM5, Default, SM5 (DDC key hash: 047445051CF54E79FF3395C72951C29C5F5BE914), compiling. 
+[2022.03.27-20.15.41:409][878]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 306275BC5C5C03827B06AE8D8636C0BA46FEEAFF), compiling. 
+[2022.03.27-20.15.41:410][878]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7294E28C800E2DF35476372FAEFCD742C0084D61), compiling. 
+[2022.03.27-20.15.41:417][878]LogMaterial: Display: Missing cached shadermap for Preview:M_StairBase in PCD3D_SM5, Default, SM5 (DDC key hash: 2F60BCB71E40B589AE51341AABB12764BFD547B0), compiling. 
+[2022.03.27-20.15.41:418][878]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D3BCEB216C9DD036212E673F78E2105B913A5E4B), compiling. 
+[2022.03.27-20.15.41:420][878]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B1DC73004B10E7111D6712F9C4F247D63ACEE50), compiling. 
+[2022.03.27-20.15.41:421][878]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E2ABEE52025F37FDDFA62C02A806CD1FE1A20CF7), compiling. 
+[2022.03.27-20.15.41:426][878]LogMaterial: Display: Missing cached shadermap for Preview:M_StairBase in PCD3D_SM5, Default, SM5 (DDC key hash: 8B0EADF64E66A222444E1BC1CDB65E34C66B415C), compiling. 
+[2022.03.27-20.15.41:428][878]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: BFBF3EF0320A959158BAD5B99F71472F73382235), compiling. 
+[2022.03.27-20.15.41:429][878]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 65085BA456EE92086D0676A63B655E855CC1E988), compiling. 
+[2022.03.27-20.15.41:430][878]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D7A3E8E932F6CED83536DFE007F0C5006164B360), compiling. 
+[2022.03.27-20.15.41:431][878]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D263B641EB03A5D6999AB2317C3E73D5FFBA00DD), compiling. 
+[2022.03.27-20.15.47:157][277]LogMaterial: Display: Missing cached shadermap for Preview:M_StairBase in PCD3D_SM5, Default, SM5 (DDC key hash: 3CF9878C782A79AA4088EAD2733CAC418D493DEA), compiling. 
+[2022.03.27-20.15.47:159][277]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DEA00A97270986D6FB932F36174F396111A26DBE), compiling. 
+[2022.03.27-20.15.47:163][277]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.15.47:163][277]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.15.47:163][277]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.47:163][277]MaterialEditorStats: 
+[2022.03.27-20.15.47:163][277]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.15.47:989][296]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.27-20.15.47:989][296]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.15.47:989][296]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.47:989][296]MaterialEditorStats: 
+[2022.03.27-20.15.47:989][296]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.15.48:641][314]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.15.48:641][314]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.15.48:641][314]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.48:641][314]MaterialEditorStats: 
+[2022.03.27-20.15.48:641][314]MaterialEditorStats: Shader Count: 7
+[2022.03.27-20.15.48:771][319]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.03.27-20.15.48:771][319]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.03.27-20.15.48:771][319]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.03.27-20.15.48:771][319]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.15.48:771][319]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.15.48:771][319]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.48:771][319]MaterialEditorStats: 
+[2022.03.27-20.15.48:771][319]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.15.49:725][399]LogMaterial: Display: Missing cached shadermap for Preview:M_StairBase in PCD3D_SM5, Default, SM5 (DDC key hash: 690B75604D249009B5E115BEB32B6CBF75BA0545), compiling. 
+[2022.03.27-20.15.49:727][399]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1568EC3B60A50AFF6580967881309C53BA42DD69), compiling. 
+[2022.03.27-20.15.49:731][399]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.15.49:731][399]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.03.27-20.15.49:731][399]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.49:731][399]MaterialEditorStats: 
+[2022.03.27-20.15.49:731][399]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.15.50:440][417]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.15.50:441][417]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.03.27-20.15.50:441][417]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.50:441][417]MaterialEditorStats: 
+[2022.03.27-20.15.50:441][417]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.15.51:150][427]LogMaterial: Display: Missing cached shadermap for Preview:M_StairBase in PCD3D_SM5, Default, SM5 (DDC key hash: EC21AAD0E14ED0C6DBE0D2465C4F1ECE747C69F8), compiling. 
+[2022.03.27-20.15.51:153][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B547053B67F37404264802E5BEF7E5F860517A18), compiling. 
+[2022.03.27-20.15.51:158][427]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.15.51:158][427]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.15.51:158][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.51:158][427]MaterialEditorStats: 
+[2022.03.27-20.15.51:158][427]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.15.53:692][546]MaterialEditorStats: Base pass shader: 154 instructions
+[2022.03.27-20.15.53:692][546]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 232 instructions
+[2022.03.27-20.15.53:692][546]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.03.27-20.15.53:692][546]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.15.53:692][546]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.15.53:692][546]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.53:692][546]MaterialEditorStats: 
+[2022.03.27-20.15.53:692][546]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.15.55:210][640]LogMaterial: Display: Missing cached shadermap for Preview:M_StairBase in PCD3D_SM5, Default, SM5 (DDC key hash: 5DA970DC832D34E93E806FFF3012162034477B09), compiling. 
+[2022.03.27-20.15.55:212][640]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: AFA19B6222FC165DDE9D94EA854C429E0A5D4648), compiling. 
+[2022.03.27-20.15.55:216][640]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.15.55:216][640]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.15.55:216][640]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.55:216][640]MaterialEditorStats: 
+[2022.03.27-20.15.55:216][640]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.15.55:973][657]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.15.55:973][657]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.15.55:973][657]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.55:973][657]MaterialEditorStats: 
+[2022.03.27-20.15.55:973][657]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.15.57:081][703]LogMaterial: Display: Missing cached shadermap for Preview:M_StairBase in PCD3D_SM5, Default, SM5 (DDC key hash: 4E5DBC192AF2D6CCC9EA3CD1E74DE3A18D7E918C), compiling. 
+[2022.03.27-20.15.57:083][703]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F7DFF14C822626F438BC97AF6B4C398F46CFB246), compiling. 
+[2022.03.27-20.15.57:087][703]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.15.57:087][703]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.15.57:087][703]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.57:087][703]MaterialEditorStats: 
+[2022.03.27-20.15.57:087][703]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.15.57:875][721]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.15.57:875][721]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.15.57:875][721]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.57:875][721]MaterialEditorStats: 
+[2022.03.27-20.15.57:875][721]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.15.58:590][741]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.15.58:590][741]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.15.58:590][741]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.58:590][741]MaterialEditorStats: 
+[2022.03.27-20.15.58:590][741]MaterialEditorStats: Shader Count: 7
+[2022.03.27-20.15.58:757][747]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.03.27-20.15.58:757][747]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.03.27-20.15.58:757][747]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.03.27-20.15.58:757][747]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.15.58:757][747]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.15.58:757][747]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.15.58:757][747]MaterialEditorStats: 
+[2022.03.27-20.15.58:757][747]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.16.00:123][801]LogMaterialEditor: Applying material M_StairBase
+[2022.03.27-20.16.00:468][801]LogMaterial: Display: Missing cached shadermap for Preview:M_StairBase in PCD3D_SM5, Default, SM5 (DDC key hash: 4C966B78A200C3859ECC705F4D77AD02763BBCB8), compiling. 
+[2022.03.27-20.16.00:534][801]LogMaterial: Display: Missing cached shadermap for M_StairBase in PCD3D_SM5, Default, SM5 (DDC key hash: 04B1F5F090AFF00919528B7A1AF9A5681CF2342B), compiling. 
+[2022.03.27-20.16.00:575][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.27-20.16.00:889][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.03.27-20.16.00:899][801]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.16.00:899][801]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.16.00:899][801]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.00:899][801]MaterialEditorStats: 
+[2022.03.27-20.16.00:899][801]MaterialEditorStats: Shader Count: 2
+[2022.03.27-20.16.00:959][803]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.16.00:959][803]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.16.00:959][803]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.00:959][803]MaterialEditorStats: 
+[2022.03.27-20.16.00:959][803]MaterialEditorStats: Shader Count: 4
+[2022.03.27-20.16.01:721][819]LogSlate: Window 'M_StairBase' being destroyed
+[2022.03.27-20.16.01:750][819]LogSlate: Window 'M_StairBase' being destroyed
+[2022.03.27-20.16.01:767][819]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.16.01:768][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.16.07:008][130]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.03.27-20.16.07:022][130]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.03.27-20.16.12:233][420]LogContentBrowser: Attempting asset rename: NewMaterial -> M_StairRails
+[2022.03.27-20.16.12:234][420]LogContentBrowser: End creating deferred item NewMaterial
+[2022.03.27-20.16.13:883][492]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/Jnix_Stairs_Textures/M_StairRails.M_StairRails
+[2022.03.27-20.16.13:884][492]LogMaterial: Display: Missing cached shadermap for Preview:M_StairRails in PCD3D_SM5, Default, SM5 (DDC key hash: 7875FF5148F4235F03AB8E6A238886932F2FAFD7), compiling. 
+[2022.03.27-20.16.14:006][492]LogMaterial: Display: Missing cached shadermap for Preview:M_StairRails in PCD3D_SM5, Default, SM5 (DDC key hash: 5C6DE06A40F11395CEEFDA3496EFBA2C19155E17), compiling. 
+[2022.03.27-20.16.14:008][492]LogMaterial: Display: Missing cached shadermap for Preview:M_StairRails in PCD3D_SM5, Default, SM5 (DDC key hash: BF2232207D78577220B76A9C259079E2545AA0CB), compiling. 
+[2022.03.27-20.16.14:029][492]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.16.14:029][492]MaterialEditorStats: 
+[2022.03.27-20.16.14:029][492]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.16.15:594][526]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.16.15:594][526]MaterialEditorStats: 
+[2022.03.27-20.16.15:595][526]MaterialEditorStats: Shader Count: 7
+[2022.03.27-20.16.15:702][530]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.03.27-20.16.15:702][530]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.03.27-20.16.15:702][530]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.03.27-20.16.15:702][530]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.16.15:702][530]MaterialEditorStats: 
+[2022.03.27-20.16.15:702][530]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.16.20:627][762]LogMaterial: Display: Missing cached shadermap for Preview:M_StairRails in PCD3D_SM5, Default, SM5 (DDC key hash: 135261549FAFB2104CE7B1573E2627EEA41EB858), compiling. 
+[2022.03.27-20.16.20:629][762]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D8CBA8ABE48B5AA0E0C1416A29C4D2924F381011), compiling. 
+[2022.03.27-20.16.20:630][762]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 00D2820A3D8BB0205A96A921A063E5CE7C3E3B39), compiling. 
+[2022.03.27-20.16.20:636][762]LogMaterial: Display: Missing cached shadermap for Preview:M_StairRails in PCD3D_SM5, Default, SM5 (DDC key hash: 49DCE117862388E6A715FF382A04CC976E1A2A55), compiling. 
+[2022.03.27-20.16.20:638][762]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 25C8E22E2E6FA80974B949E14EF6EF30068DC255), compiling. 
+[2022.03.27-20.16.20:639][762]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 955827A993A7629C4CAF770EF7C8E43C11C0BF36), compiling. 
+[2022.03.27-20.16.20:640][762]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8118BA7A98607AE19D1BE2A77CCD6B78CF8FF5D7), compiling. 
+[2022.03.27-20.16.20:645][762]LogMaterial: Display: Missing cached shadermap for Preview:M_StairRails in PCD3D_SM5, Default, SM5 (DDC key hash: 2656E960FB5171150B5A4FE1E7B1EF9F4791D7E2), compiling. 
+[2022.03.27-20.16.20:647][762]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9FDC1A3BCBA50981E5E8C90F7C592D3C296791A6), compiling. 
+[2022.03.27-20.16.20:648][762]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2045F09315FAE0194A90F8C480E55258ED8B3479), compiling. 
+[2022.03.27-20.16.20:649][762]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0239AE215D81E20FFE1016B466F38643DA527758), compiling. 
+[2022.03.27-20.16.20:650][762]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8304DCAA214DA71079B068D92E4582B9ED80E856), compiling. 
+[2022.03.27-20.16.26:402][218]LogMaterial: Display: Missing cached shadermap for Preview:M_StairRails in PCD3D_SM5, Default, SM5 (DDC key hash: 21262202492B3210806C277303E57AA16C9901FA), compiling. 
+[2022.03.27-20.16.26:404][218]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D9A83419FC0D670A2794593C82AFA021C19B4F69), compiling. 
+[2022.03.27-20.16.26:408][218]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.16.26:408][218]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.16.26:408][218]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.26:408][218]MaterialEditorStats: 
+[2022.03.27-20.16.26:408][218]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.16.27:271][236]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.27-20.16.27:271][236]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.16.27:271][236]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.27:271][236]MaterialEditorStats: 
+[2022.03.27-20.16.27:271][236]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.16.28:208][278]LogMaterial: Display: Missing cached shadermap for Preview:M_StairRails in PCD3D_SM5, Default, SM5 (DDC key hash: F2D051837F34374338408E9BD5E3B82CBDA068F7), compiling. 
+[2022.03.27-20.16.28:210][278]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C6F283EDAE3B4D3149625E4A24EB3BA6F0CB3032), compiling. 
+[2022.03.27-20.16.28:216][278]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.16.28:216][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.03.27-20.16.28:216][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.28:216][278]MaterialEditorStats: 
+[2022.03.27-20.16.28:216][278]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.16.28:887][295]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.16.28:887][295]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.03.27-20.16.28:887][295]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.28:887][295]MaterialEditorStats: 
+[2022.03.27-20.16.28:887][295]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.16.29:606][309]LogMaterial: Display: Missing cached shadermap for Preview:M_StairRails in PCD3D_SM5, Default, SM5 (DDC key hash: 95F3009659AE32F11D298CDF8B5A5BEACDEA626E), compiling. 
+[2022.03.27-20.16.29:610][309]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1D9BE6E004E661EAE8EB6F9A8DF23FA282421180), compiling. 
+[2022.03.27-20.16.29:619][309]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.16.29:620][309]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.16.29:620][309]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.29:620][309]MaterialEditorStats: 
+[2022.03.27-20.16.29:620][309]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.16.31:694][398]LogMaterial: Display: Missing cached shadermap for Preview:M_StairRails in PCD3D_SM5, Default, SM5 (DDC key hash: DE2C65D4C68FCA1E51F1530BC8F544D9D58BA44E), compiling. 
+[2022.03.27-20.16.31:695][398]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F7480C8948DA58DD522D792C7E76D9247F8F3C1), compiling. 
+[2022.03.27-20.16.32:412][413]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.16.32:412][413]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.16.32:412][413]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.32:412][413]MaterialEditorStats: 
+[2022.03.27-20.16.32:412][413]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.16.34:407][534]LogMaterial: Display: Missing cached shadermap for Preview:M_StairRails in PCD3D_SM5, Default, SM5 (DDC key hash: 8B00CF02CDA658EB9DE972926C70889ECABC3E46), compiling. 
+[2022.03.27-20.16.34:409][534]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2B225654C50E6977D2972A484E1157D407BD7CD1), compiling. 
+[2022.03.27-20.16.34:413][534]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.16.34:413][534]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.16.34:413][534]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.34:413][534]MaterialEditorStats: 
+[2022.03.27-20.16.34:413][534]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.16.35:203][550]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.16.35:203][550]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.16.35:203][550]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.35:203][550]MaterialEditorStats: 
+[2022.03.27-20.16.35:203][550]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.16.35:878][566]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.16.35:878][566]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.16.35:878][566]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.35:878][566]MaterialEditorStats: 
+[2022.03.27-20.16.35:878][566]MaterialEditorStats: Shader Count: 7
+[2022.03.27-20.16.35:991][570]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.03.27-20.16.35:991][570]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.03.27-20.16.35:991][570]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.03.27-20.16.35:991][570]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.16.35:991][570]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.16.35:991][570]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.35:991][570]MaterialEditorStats: 
+[2022.03.27-20.16.35:991][570]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.16.36:835][607]LogMaterialEditor: Applying material M_StairRails
+[2022.03.27-20.16.37:178][607]LogMaterial: Display: Missing cached shadermap for Preview:M_StairRails in PCD3D_SM5, Default, SM5 (DDC key hash: ACBE789629F8A43C94D59285647D93CE41A8F893), compiling. 
+[2022.03.27-20.16.37:237][607]LogMaterial: Display: Missing cached shadermap for M_StairRails in PCD3D_SM5, Default, SM5 (DDC key hash: 7150122C2899DE3A5EE15B96FF47C920EFC58BE4), compiling. 
+[2022.03.27-20.16.37:279][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.03.27-20.16.37:592][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.03.27-20.16.37:601][607]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.16.37:601][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.16.37:601][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.37:601][607]MaterialEditorStats: 
+[2022.03.27-20.16.37:601][607]MaterialEditorStats: Shader Count: 2
+[2022.03.27-20.16.37:763][609]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.16.37:763][609]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.16.37:763][609]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.37:763][609]MaterialEditorStats: 
+[2022.03.27-20.16.37:763][609]MaterialEditorStats: Shader Count: 13
+[2022.03.27-20.16.40:160][674]MaterialEditorStats: Texture samplers: 6/16
+[2022.03.27-20.16.40:160][674]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.16.40:160][674]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.40:160][674]MaterialEditorStats: 
+[2022.03.27-20.16.40:160][674]MaterialEditorStats: Shader Count: 18
+[2022.03.27-20.16.41:365][717]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.03.27-20.16.41:365][717]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.03.27-20.16.41:365][717]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.03.27-20.16.41:365][717]MaterialEditorStats: Texture samplers: 6/16
+[2022.03.27-20.16.41:365][717]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.16.41:365][717]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.16.41:365][717]MaterialEditorStats: 
+[2022.03.27-20.16.41:365][717]MaterialEditorStats: Shader Count: 30
+[2022.03.27-20.16.52:913][165]LogSlate: Window 'M_StairRails' being destroyed
+[2022.03.27-20.16.52:920][165]LogSlate: Window 'M_StairRails' being destroyed
+[2022.03.27-20.16.52:924][165]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.16.52:924][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.16.59:367][543]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.03.27-20.16.59:382][543]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.03.27-20.17.04:110][768]LogContentBrowser: Attempting asset rename: NewMaterial -> M_stairFoundation
+[2022.03.27-20.17.04:111][768]LogContentBrowser: End creating deferred item NewMaterial
+[2022.03.27-20.17.06:258][863]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/Jnix_Stairs_Textures/M_stairFoundation.M_stairFoundation
+[2022.03.27-20.17.06:259][863]LogMaterial: Display: Missing cached shadermap for Preview:M_stairFoundation in PCD3D_SM5, Default, SM5 (DDC key hash: ECACE4A4F97BEDE7CE9E3EB24997DD66F2A93B1D), compiling. 
+[2022.03.27-20.17.06:381][863]LogMaterial: Display: Missing cached shadermap for Preview:M_stairFoundation in PCD3D_SM5, Default, SM5 (DDC key hash: 3E69B616CE17C2577CC9C1E0E2A097AC228F17FA), compiling. 
+[2022.03.27-20.17.06:383][863]LogMaterial: Display: Missing cached shadermap for Preview:M_stairFoundation in PCD3D_SM5, Default, SM5 (DDC key hash: F02D483A455522AC685F0A1EB13B13226CA651CC), compiling. 
+[2022.03.27-20.17.06:403][863]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.17.06:403][863]MaterialEditorStats: 
+[2022.03.27-20.17.06:403][863]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.17.08:183][903]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.17.08:183][903]MaterialEditorStats: 
+[2022.03.27-20.17.08:183][903]MaterialEditorStats: Shader Count: 7
+[2022.03.27-20.17.08:349][910]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.03.27-20.17.08:349][910]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.03.27-20.17.08:349][910]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.03.27-20.17.08:349][910]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.17.08:349][910]MaterialEditorStats: 
+[2022.03.27-20.17.08:349][910]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.17.10:971][ 40]LogMaterial: Display: Missing cached shadermap for Preview:M_stairFoundation in PCD3D_SM5, Default, SM5 (DDC key hash: 4B50282AFE01A43BD1FFF95C4B7742C08A6A7B8F), compiling. 
+[2022.03.27-20.17.10:972][ 40]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BC41F44CDEC3562A710CC214F21606CA52127F2D), compiling. 
+[2022.03.27-20.17.10:974][ 40]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A848C3C4EFD44777E449DFB502AD6035DA85B3E), compiling. 
+[2022.03.27-20.17.10:979][ 40]LogMaterial: Display: Missing cached shadermap for Preview:M_stairFoundation in PCD3D_SM5, Default, SM5 (DDC key hash: FB1AAB9D94CBC835842A98633C5092FC2D07F28A), compiling. 
+[2022.03.27-20.17.10:981][ 40]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4AA6F1CED8198F9BFF35C2AA672F38EE7FA6E3FC), compiling. 
+[2022.03.27-20.17.10:982][ 40]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B190990A121F635D39EF17A816B748A07704636D), compiling. 
+[2022.03.27-20.17.10:983][ 40]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D9D7225579EB48F480C8465C298C0630DF59EF12), compiling. 
+[2022.03.27-20.17.10:989][ 40]LogMaterial: Display: Missing cached shadermap for Preview:M_stairFoundation in PCD3D_SM5, Default, SM5 (DDC key hash: BE22D69209185FA78AF85D96ADB823692D3B1AC5), compiling. 
+[2022.03.27-20.17.10:990][ 40]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D48FED707586062DCC62F85D891905912F94BB03), compiling. 
+[2022.03.27-20.17.10:992][ 40]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 850F95954BC0362B5790968F0EB61462F35AC655), compiling. 
+[2022.03.27-20.17.10:993][ 40]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 584D2533F49C8016386C2D467E4BDD44507C048E), compiling. 
+[2022.03.27-20.17.10:994][ 40]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 267F1F1DDF5675D62EBB9F8DE0A31DCBA7536E82), compiling. 
+[2022.03.27-20.17.16:504][494]LogMaterial: Display: Missing cached shadermap for Preview:M_stairFoundation in PCD3D_SM5, Default, SM5 (DDC key hash: 28BC532E30AC0AF5A7C488D198D2906C1DC16D36), compiling. 
+[2022.03.27-20.17.16:506][494]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8CA93EDC5ED970E91B5C794CFE36C44F4F2D6F63), compiling. 
+[2022.03.27-20.17.16:509][494]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.17.16:509][494]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.17.16:509][494]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.16:509][494]MaterialEditorStats: 
+[2022.03.27-20.17.16:509][494]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.17.17:286][513]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.27-20.17.17:286][513]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.17.17:286][513]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.17:286][513]MaterialEditorStats: 
+[2022.03.27-20.17.17:286][513]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.17.17:971][532]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.17.17:971][532]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.17.17:971][532]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.17:971][532]MaterialEditorStats: 
+[2022.03.27-20.17.17:971][532]MaterialEditorStats: Shader Count: 7
+[2022.03.27-20.17.18:120][537]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.03.27-20.17.18:120][537]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.03.27-20.17.18:120][537]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.03.27-20.17.18:120][537]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.17.18:120][537]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.17.18:120][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.18:120][537]MaterialEditorStats: 
+[2022.03.27-20.17.18:120][537]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.17.24:007][930]LogMaterial: Display: Missing cached shadermap for Preview:M_stairFoundation in PCD3D_SM5, Default, SM5 (DDC key hash: CCD7AC0D372B4ACE07BA8363111A6E4A7F9B9061), compiling. 
+[2022.03.27-20.17.24:009][930]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D03A004BA56BC5D7197F6AC00622F44A54EBE4C), compiling. 
+[2022.03.27-20.17.24:013][930]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.17.24:013][930]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.03.27-20.17.24:013][930]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.24:013][930]MaterialEditorStats: 
+[2022.03.27-20.17.24:013][930]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.17.24:710][947]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.17.24:710][947]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.03.27-20.17.24:710][947]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.24:710][947]MaterialEditorStats: 
+[2022.03.27-20.17.24:710][947]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.17.25:482][964]LogMaterial: Display: Missing cached shadermap for Preview:M_stairFoundation in PCD3D_SM5, Default, SM5 (DDC key hash: 2AC2737D21DB0868F0F1A77CC2F8480EF74CB06A), compiling. 
+[2022.03.27-20.17.25:484][964]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6F91F8CF96DA0954E007BFF3F9548F30146164D0), compiling. 
+[2022.03.27-20.17.25:489][964]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.17.25:489][964]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.17.25:489][964]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.25:489][964]MaterialEditorStats: 
+[2022.03.27-20.17.25:489][964]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.17.27:235][  5]LogMaterial: Display: Missing cached shadermap for Preview:M_stairFoundation in PCD3D_SM5, Default, SM5 (DDC key hash: 902E641D68C01F28A0E28EB5A346ACE6A51182DB), compiling. 
+[2022.03.27-20.17.27:236][  5]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D2499A061588794D1DC752076D1DB3750CB5D93D), compiling. 
+[2022.03.27-20.17.27:970][ 20]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.17.27:970][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.17.27:970][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.27:970][ 20]MaterialEditorStats: 
+[2022.03.27-20.17.27:970][ 20]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.17.29:214][ 69]LogMaterial: Display: Missing cached shadermap for Preview:M_stairFoundation in PCD3D_SM5, Default, SM5 (DDC key hash: 8F3184A168B721148B13347A9120E3655417E771), compiling. 
+[2022.03.27-20.17.29:216][ 69]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 83E1DA08DC0A4F828EBDAB07E3421F4D36863E2B), compiling. 
+[2022.03.27-20.17.29:220][ 69]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.17.29:220][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.17.29:220][ 69]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.29:220][ 69]MaterialEditorStats: 
+[2022.03.27-20.17.29:220][ 69]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.17.29:965][ 90]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.17.29:966][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.17.29:966][ 90]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.29:966][ 90]MaterialEditorStats: 
+[2022.03.27-20.17.29:966][ 90]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.17.30:725][111]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.17.30:725][111]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.17.30:725][111]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.30:725][111]MaterialEditorStats: 
+[2022.03.27-20.17.30:725][111]MaterialEditorStats: Shader Count: 7
+[2022.03.27-20.17.30:874][117]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.03.27-20.17.30:874][117]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.03.27-20.17.30:874][117]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.03.27-20.17.30:874][117]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.17.30:874][117]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.17.30:874][117]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.30:874][117]MaterialEditorStats: 
+[2022.03.27-20.17.30:874][117]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.17.31:621][149]LogMaterialEditor: Applying material M_stairFoundation
+[2022.03.27-20.17.31:972][149]LogMaterial: Display: Missing cached shadermap for Preview:M_stairFoundation in PCD3D_SM5, Default, SM5 (DDC key hash: 6B524688284A7D8D586E2A95284FE9640FB65B27), compiling. 
+[2022.03.27-20.17.32:030][149]LogMaterial: Display: Missing cached shadermap for M_stairFoundation in PCD3D_SM5, Default, SM5 (DDC key hash: 307B8D1EE39DE533B4019F605D4A069A908DFB80), compiling. 
+[2022.03.27-20.17.32:073][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.03.27-20.17.32:386][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.03.27-20.17.32:396][149]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.17.32:396][149]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.17.32:396][149]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.32:396][149]MaterialEditorStats: 
+[2022.03.27-20.17.32:396][149]MaterialEditorStats: Shader Count: 2
+[2022.03.27-20.17.32:442][151]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.17.32:443][151]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.17.32:443][151]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.17.32:443][151]MaterialEditorStats: 
+[2022.03.27-20.17.32:443][151]MaterialEditorStats: Shader Count: 4
+[2022.03.27-20.17.33:179][169]LogSlate: Window 'M_stairFoundation' being destroyed
+[2022.03.27-20.17.33:202][169]LogSlate: Window 'M_stairFoundation' being destroyed
+[2022.03.27-20.17.33:213][169]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.17.33:213][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.18.18:019][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.03.27-20.18.18:105][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/FirstPersonExampleMap_Auto1FE716FE347F42DF35B4C4B979A9CC630.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2022.03.27-20.18.18:106][745]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.092
+[2022.03.27-20.18.18:106][745]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.092
+[2022.03.27-20.18.18:107][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Crates/Jnix_Small_wooden_crate] ([1] browsable assets)...
+[2022.03.27-20.18.18:195][745]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Crates/Jnix_Small_wooden_crate.Jnix_Small_wooden_crate]
+[2022.03.27-20.18.18:195][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Crates/Jnix_Small_wooden_crate]
+[2022.03.27-20.18.18:203][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Jnix_Small_wooden_crate_Auto142BFB8C14D71E2D66A082C98184913AE.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Meshes/Crates/Jnix_Small_wooden_crate_Auto1.uasset'
+[2022.03.27-20.18.18:203][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Door/Jnix_LockedDoor] ([1] browsable assets)...
+[2022.03.27-20.18.18:242][745]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Door/Jnix_LockedDoor.Jnix_LockedDoor]
+[2022.03.27-20.18.18:242][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Door/Jnix_LockedDoor]
+[2022.03.27-20.18.18:250][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Jnix_LockedDoor_Auto1C6D566A74C8CDE20A81839B8CB415253.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Meshes/Door/Jnix_LockedDoor_Auto1.uasset'
+[2022.03.27-20.18.18:251][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Door/Jnix_LockedDoorWall] ([1] browsable assets)...
+[2022.03.27-20.18.18:302][745]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Door/Jnix_LockedDoorWall.Jnix_LockedDoorWall]
+[2022.03.27-20.18.18:302][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Door/Jnix_LockedDoorWall]
+[2022.03.27-20.18.18:328][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Jnix_LockedDoorWall_Auto1BD7EE68543A51908C450078FDAD2C54E.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Meshes/Door/Jnix_LockedDoorWall_Auto1.uasset'
+[2022.03.27-20.18.18:329][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Garage_Door/Jnix_GarageDoor_polySurface162] ([1] browsable assets)...
+[2022.03.27-20.18.18:359][745]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Garage_Door/Jnix_GarageDoor_polySurface162.Jnix_GarageDoor_polySurface162]
+[2022.03.27-20.18.18:359][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Garage_Door/Jnix_GarageDoor_polySurface162]
+[2022.03.27-20.18.18:369][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Jnix_GarageDoor_polySurface162_A73929DE440EC3D2B2683A1BED470A6AF.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Meshes/Garage_Door/Jnix_GarageDoor_polySurface162_Auto1.uasset'
+[2022.03.27-20.18.18:369][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Garage_Door/Jnix_GarageDoor_polySurface161] ([1] browsable assets)...
+[2022.03.27-20.18.18:403][745]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Garage_Door/Jnix_GarageDoor_polySurface161.Jnix_GarageDoor_polySurface161]
+[2022.03.27-20.18.18:403][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Garage_Door/Jnix_GarageDoor_polySurface161]
+[2022.03.27-20.18.18:412][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Jnix_GarageDoor_polySurface161_A8856818B4D52116EE261E683215D8E4A.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Meshes/Garage_Door/Jnix_GarageDoor_polySurface161_Auto1.uasset'
+[2022.03.27-20.18.18:413][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Jnix_SciFI_wall] ([1] browsable assets)...
+[2022.03.27-20.18.18:446][745]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Jnix_SciFI_wall.Jnix_SciFI_wall]
+[2022.03.27-20.18.18:446][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Jnix_SciFI_wall]
+[2022.03.27-20.18.18:456][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Jnix_SciFI_wall_Auto1473EA82C4595BE80228D82B3B04D3EB9.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Meshes/Jnix_SciFI_wall_Auto1.uasset'
+[2022.03.27-20.18.18:457][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Jnix_Stairs] ([1] browsable assets)...
+[2022.03.27-20.18.18:474][745]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Jnix_Stairs.Jnix_Stairs]
+[2022.03.27-20.18.18:474][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Jnix_Stairs]
+[2022.03.27-20.18.18:474][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Jnix_Stairs" FILE="../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Meshes/Jnix_Stairs_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.03.27-20.18.18:563][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Jnix_Stairs_Auto15DB7860A4545529E26C8289051ACA91F.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Meshes/Jnix_Stairs_Auto1.uasset'
+[2022.03.27-20.18.18:564][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Jnix_WoodenPlank] ([1] browsable assets)...
+[2022.03.27-20.18.18:580][745]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Jnix_WoodenPlank.Jnix_WoodenPlank]
+[2022.03.27-20.18.18:580][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Jnix_WoodenPlank]
+[2022.03.27-20.18.18:586][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Jnix_WoodenPlank_Auto100DD3594426DCC79D0D75997A6E45A70.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Meshes/Jnix_WoodenPlank_Auto1.uasset'
+[2022.03.27-20.18.18:592][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Jnix_WoodWall] ([1] browsable assets)...
+[2022.03.27-20.18.18:608][745]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Jnix_WoodWall.Jnix_WoodWall]
+[2022.03.27-20.18.18:608][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Jnix_WoodWall]
+[2022.03.27-20.18.18:608][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Jnix_WoodWall" FILE="../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Meshes/Jnix_WoodWall_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.03.27-20.18.18:617][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Jnix_WoodWall_Auto116ACD862463804C6629DE09FFF46B6FD.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Meshes/Jnix_WoodWall_Auto1.uasset'
+[2022.03.27-20.18.18:618][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Base] ([1] browsable assets)...
+[2022.03.27-20.18.18:620][745]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Base.Stairs_Base]
+[2022.03.27-20.18.18:620][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Base]
+[2022.03.27-20.18.18:625][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Stairs_Base_Auto16013E5DF42D16C5B3312FEA54A0838D1.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Base_Auto1.uasset'
+[2022.03.27-20.18.18:626][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Base_Normal] ([1] browsable assets)...
+[2022.03.27-20.18.18:627][745]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Base_Normal.Stairs_Base_Normal]
+[2022.03.27-20.18.18:627][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Base_Normal]
+[2022.03.27-20.18.18:632][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Stairs_Base_Normal_Auto114256BA642E3A118145969B1083EF617.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Base_Normal_Auto1.uasset'
+[2022.03.27-20.18.18:633][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Base_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.03.27-20.18.18:634][745]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Base_OcclusionRoughnessMetallic.Stairs_Base_OcclusionRoughnessMetallic]
+[2022.03.27-20.18.18:634][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Base_OcclusionRoughnessMetallic]
+[2022.03.27-20.18.18:640][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Stairs_Base_OcclusionRoughnessMe3F0CCD0D4AF544D4D46E67915C3E49C7.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Base_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.03.27-20.18.18:640][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Rails_BaseColor] ([1] browsable assets)...
+[2022.03.27-20.18.18:642][745]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Rails_BaseColor.Stairs_Rails_BaseColor]
+[2022.03.27-20.18.18:642][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Rails_BaseColor]
+[2022.03.27-20.18.18:647][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Stairs_Rails_BaseColor_Auto1CF30CAB5490D8CBA89C1B89A71DE33CA.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Rails_BaseColor_Auto1.uasset'
+[2022.03.27-20.18.18:648][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Rails_Normal] ([1] browsable assets)...
+[2022.03.27-20.18.18:648][745]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Rails_Normal.Stairs_Rails_Normal]
+[2022.03.27-20.18.18:648][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Rails_Normal]
+[2022.03.27-20.18.18:653][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Stairs_Rails_Normal_Auto11B33E5F448656CB47CB5578171572789.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Rails_Normal_Auto1.uasset'
+[2022.03.27-20.18.18:654][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Rails_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.03.27-20.18.18:655][745]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Rails_OcclusionRoughnessMetallic.Stairs_Rails_OcclusionRoughnessMetallic]
+[2022.03.27-20.18.18:655][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Rails_OcclusionRoughnessMetallic]
+[2022.03.27-20.18.18:660][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Stairs_Rails_OcclusionRoughnessMF98690B244923653008240AA44EB4526.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Rails_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.03.27-20.18.18:661][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Stair_Foundation_BaseColor] ([1] browsable assets)...
+[2022.03.27-20.18.18:662][745]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Stair_Foundation_BaseColor.Stairs_Stair_Foundation_BaseColor]
+[2022.03.27-20.18.18:662][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Stair_Foundation_BaseColor]
+[2022.03.27-20.18.18:667][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Stairs_Stair_Foundation_BaseColo6235A0AF46BFBEE7A6C0BEB6AAE30A19.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Stair_Foundation_BaseColor_Auto1.uasset'
+[2022.03.27-20.18.18:668][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Stair_Foundation_Normal] ([1] browsable assets)...
+[2022.03.27-20.18.18:669][745]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Stair_Foundation_Normal.Stairs_Stair_Foundation_Normal]
+[2022.03.27-20.18.18:669][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Stair_Foundation_Normal]
+[2022.03.27-20.18.18:674][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Stairs_Stair_Foundation_Normal_A9ADFC7EB4046D442D09448A834D6B4CB.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Stair_Foundation_Normal_Auto1.uasset'
+[2022.03.27-20.18.18:674][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Stair_Foundation_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.03.27-20.18.18:675][745]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Stair_Foundation_OcclusionRoughnessMetallic.Stairs_Stair_Foundation_OcclusionRoughnessMetallic]
+[2022.03.27-20.18.18:675][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Stair_Foundation_OcclusionRoughnessMetallic]
+[2022.03.27-20.18.18:681][745]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Stairs_Stair_Foundation_OcclusioDC99486D44A3C128C9CDF3B6D0C01AC6.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Autosaves/Game/Materials/Textures/Jnix_Stairs_Textures/Stairs_Stair_Foundation_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.03.27-20.18.18:681][745]LogFileHelpers: Auto-saving content packages took 0.575
+[2022.03.27-20.18.34:702][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\Walls\SciFI_Wall/ScifiWall1_BaseColor.png)
+[2022.03.27-20.18.34:732][853]LogTexture: Display: Building textures: ScifiWall1_BaseColor (AutoDXT, 1024X1024)
+[2022.03.27-20.18.34:732][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\Walls\SciFI_Wall/ScifiWall1_lambert1_Normal.png)
+[2022.03.27-20.18.34:784][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\Walls\SciFI_Wall/ScifiWall1_OcclusionRoughnessMetallic.png)
+[2022.03.27-20.18.34:820][853]LogTexture: Display: Building textures: ScifiWall1_lambert1_Normal (BC5, 1024X1024)
+[2022.03.27-20.18.34:820][853]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.03.27-20.18.34:839][853]LogTexture: Display: Building textures: ScifiWall1_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.03.27-20.19.30:612][983]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Jnix_SciFI_wall.Jnix_SciFI_wall
+[2022.03.27-20.19.34:432][ 62]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.27-20.19.51:567][311]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.03.27-20.19.51:585][311]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.03.27-20.19.58:159][633]LogContentBrowser: Attempting asset rename: NewMaterial -> M_ScifiWall1
+[2022.03.27-20.19.58:159][633]LogContentBrowser: End creating deferred item NewMaterial
+[2022.03.27-20.20.00:059][707]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/SciFI_Wall/M_ScifiWall1.M_ScifiWall1
+[2022.03.27-20.20.00:060][707]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: A600733E46E250815DF0243A8C6C2414B570C328), compiling. 
+[2022.03.27-20.20.00:135][707]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 93953282487571A2FFB25AEA41FA91145398514C), compiling. 
+[2022.03.27-20.20.00:138][707]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8F7579DF8B8D834103220B0F9DD4CAD2E70CCE12), compiling. 
+[2022.03.27-20.20.00:165][707]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.20.00:165][707]MaterialEditorStats: 
+[2022.03.27-20.20.00:165][707]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.20.01:330][734]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.27-20.20.01:330][734]LogShaderCompilers: Display: Total job queries 1096, among them cache hits 220 (20.07%)
+[2022.03.27-20.20.01:330][734]LogShaderCompilers: Display: Tracking 729 distinct input hashes that result in 126 distinct outputs (17.28%)
+[2022.03.27-20.20.01:330][734]LogShaderCompilers: Display: RAM used: 0.56 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2022.03.27-20.20.01:330][734]LogShaderCompilers: Display: ================================================
+[2022.03.27-20.20.01:597][739]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.20.01:597][739]MaterialEditorStats: 
+[2022.03.27-20.20.01:597][739]MaterialEditorStats: Shader Count: 6
+[2022.03.27-20.20.01:928][753]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.03.27-20.20.01:928][753]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.03.27-20.20.01:928][753]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.03.27-20.20.01:928][753]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.20.01:928][753]MaterialEditorStats: 
+[2022.03.27-20.20.01:928][753]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.20.04:941][886]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: C2ED4F493E1EF8EC6D943B188372A7FC19A2A751), compiling. 
+[2022.03.27-20.20.04:943][886]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 33E7966580E4A5D4CE677EF85F2D3EE325282091), compiling. 
+[2022.03.27-20.20.04:944][886]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A30F8A33D94E550289F072075E78B22BB21D6CD0), compiling. 
+[2022.03.27-20.20.04:950][886]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 40040C592835FCDEE0E986D53996CA5C8ED3D8FE), compiling. 
+[2022.03.27-20.20.04:951][886]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 060B942AD8330B73E4E4556A7952491F23CC2D4C), compiling. 
+[2022.03.27-20.20.04:952][886]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9317B2166F503A8CF0683069A4A1F9D2B4ABB413), compiling. 
+[2022.03.27-20.20.04:953][886]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 23F590C166B1304F43E845624A3C285413647874), compiling. 
+[2022.03.27-20.20.04:959][886]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: DE8932F3DE5AD5A36FD9A7E8988D2E6D1D29E0AB), compiling. 
+[2022.03.27-20.20.04:961][886]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 647D8BBA4EBEEBA7161704C07BF7D70AD9222D67), compiling. 
+[2022.03.27-20.20.04:962][886]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 325257EF6C87A268A5AC65ABE327BB5E5FC09245), compiling. 
+[2022.03.27-20.20.04:963][886]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 081614E85DAAC664ACAF07E859BE7F1D6318F756), compiling. 
+[2022.03.27-20.20.04:965][886]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B8118C3D2DF19F02766C3CA60F7B6926F3C0ED35), compiling. 
+[2022.03.27-20.20.11:956][391]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2FAF0841E76B35146B83AABBA4AC8D5D90CC9A50), compiling. 
+[2022.03.27-20.20.11:957][391]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 71413AA2FB3B89B433157C4828DC8D97A1698324), compiling. 
+[2022.03.27-20.20.11:961][391]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.20.11:961][391]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.20.11:961][391]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.20.11:962][391]MaterialEditorStats: 
+[2022.03.27-20.20.11:962][391]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.20.13:265][419]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: DC4E578EA117E3C0203B4010BCD71C3E1EED1368), compiling. 
+[2022.03.27-20.20.13:270][419]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 18003B6374D777AE797E602C0FCEF837C90ACD6F), compiling. 
+[2022.03.27-20.20.13:280][419]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.20.13:280][419]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.03.27-20.20.13:280][419]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.20.13:280][419]MaterialEditorStats: 
+[2022.03.27-20.20.13:280][419]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.20.15:026][458]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: C25AFDEC31A26AB28B65CD40C16F45AC86D4E77E), compiling. 
+[2022.03.27-20.20.15:028][458]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D160017C59906997E9F224218E69B5B6EBE90202), compiling. 
+[2022.03.27-20.20.15:034][458]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.20.15:034][458]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.20.15:034][458]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.20.15:034][458]MaterialEditorStats: 
+[2022.03.27-20.20.15:034][458]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.20.16:465][483]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8986A53890D293D529D29028946E3B44DC0579C6), compiling. 
+[2022.03.27-20.20.16:468][483]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F0510997268AC61E7156BAA86402ECA2961E1EC5), compiling. 
+[2022.03.27-20.20.17:350][504]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.20.17:350][504]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.20.17:350][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.20.17:350][504]MaterialEditorStats: 
+[2022.03.27-20.20.17:350][504]MaterialEditorStats: Shader Count: 2
+[2022.03.27-20.20.18:972][587]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: C943E6F40D9062F50C808E9FA0EBD784C9E345C2), compiling. 
+[2022.03.27-20.20.18:974][587]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 44486D4AC1E2C45CAAEB8EA1D3EA865738748307), compiling. 
+[2022.03.27-20.20.18:978][587]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.20.18:978][587]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.20.18:978][587]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.20.18:978][587]MaterialEditorStats: 
+[2022.03.27-20.20.18:978][587]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.20.19:864][604]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.20.19:864][604]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.20.19:864][604]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.20.19:864][604]MaterialEditorStats: 
+[2022.03.27-20.20.19:864][604]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.20.20:636][624]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.20.20:636][624]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.20.20:636][624]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.20.20:636][624]MaterialEditorStats: 
+[2022.03.27-20.20.20:636][624]MaterialEditorStats: Shader Count: 9
+[2022.03.27-20.20.20:740][628]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.03.27-20.20.20:740][628]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.03.27-20.20.20:740][628]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.03.27-20.20.20:740][628]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.20.20:740][628]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.20.20:740][628]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.20.20:740][628]MaterialEditorStats: 
+[2022.03.27-20.20.20:740][628]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.20.21:214][649]LogMaterialEditor: Applying material M_ScifiWall1
+[2022.03.27-20.20.21:579][649]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7CC241CC4744434E0299D68AEE5EDF74C6A2CC45), compiling. 
+[2022.03.27-20.20.21:647][649]LogMaterial: Display: Missing cached shadermap for M_ScifiWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: EE7FE0B12C916E4034524ECDD806E29721356A4B), compiling. 
+[2022.03.27-20.20.21:690][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.27-20.20.22:005][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.03.27-20.20.22:015][649]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.20.22:015][649]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.20.22:015][649]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.20.22:015][649]MaterialEditorStats: 
+[2022.03.27-20.20.22:015][649]MaterialEditorStats: Shader Count: 2
+[2022.03.27-20.20.22:082][651]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.20.22:082][651]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.20.22:082][651]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.20.22:082][651]MaterialEditorStats: 
+[2022.03.27-20.20.22:082][651]MaterialEditorStats: Shader Count: 4
+[2022.03.27-20.20.23:402][675]LogSlate: Window 'M_ScifiWall1' being destroyed
+[2022.03.27-20.20.23:412][675]LogSlate: Window 'M_ScifiWall1' being destroyed
+[2022.03.27-20.20.23:511][675]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.20.23:511][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.20.23:563][675]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.20.23:563][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.20.33:595][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_ScifiWall1" FILE="../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/M_ScifiWall1.uasset" SILENT=true
+[2022.03.27-20.20.33:600][365]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/M_ScifiWall1125C230942C480C3FDA31E995FF9C405.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/M_ScifiWall1.uasset'
+[2022.03.27-20.20.33:729][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.27-20.20.33:749][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.03.27-20.20.33:753][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.27-20.20.33:777][365]AssetCheck: New page: Asset Save: M_ScifiWall1
+[2022.03.27-20.20.33:777][365]LogContentValidation: Display: Validating Material /Game/Materials/M_ScifiWall1.M_ScifiWall1
+[2022.03.27-20.20.43:403][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_StairBase" FILE="../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/M_StairBase.uasset" SILENT=true
+[2022.03.27-20.20.43:408][972]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/M_StairBase961AFCD440925CE2AB9EB1BEACB98A63.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/M_StairBase.uasset'
+[2022.03.27-20.20.43:418][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_stairFoundation" FILE="../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/M_stairFoundation.uasset" SILENT=true
+[2022.03.27-20.20.43:423][972]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/M_stairFoundationBE96AB294FD5B73E093E1CAED5126E96.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/M_stairFoundation.uasset'
+[2022.03.27-20.20.43:433][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_StairRails" FILE="../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/M_StairRails.uasset" SILENT=true
+[2022.03.27-20.20.43:438][972]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/M_StairRails89086A074A9154AD3F8F8998F8292638.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/M_StairRails.uasset'
+[2022.03.27-20.20.43:567][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.03.27-20.20.43:580][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.03.27-20.20.43:584][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.03.27-20.20.43:598][972]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.27-20.20.43:599][972]LogContentValidation: Display: Validating Material /Game/Materials/M_StairRails.M_StairRails
+[2022.03.27-20.20.43:599][972]LogContentValidation: Display: Validating Material /Game/Materials/M_stairFoundation.M_stairFoundation
+[2022.03.27-20.20.43:599][972]LogContentValidation: Display: Validating Material /Game/Materials/M_StairBase.M_StairBase
+[2022.03.27-20.20.58:022][423]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Jnix_SciFI_wall.Jnix_SciFI_wall
+[2022.03.27-20.21.12:953][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Jnix_SciFI_wall" FILE="../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Meshes/Jnix_SciFI_wall.uasset" SILENT=true
+[2022.03.27-20.21.12:964][928]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Jnix_SciFI_wallB50494DA4CECA1D313101DA3102E9D6F.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Meshes/Jnix_SciFI_wall.uasset'
+[2022.03.27-20.21.12:976][928]AssetCheck: New page: Asset Save: Jnix_SciFI_wall
+[2022.03.27-20.21.12:977][928]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Jnix_SciFI_wall.Jnix_SciFI_wall
+[2022.03.27-20.21.14:516][980]LogSlate: Window 'Jnix_SciFI_wall' being destroyed
+[2022.03.27-20.21.14:523][980]LogSlate: Window 'Jnix_SciFI_wall' being destroyed
+[2022.03.27-20.21.14:543][980]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.21.14:544][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.21.25:739][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.03.27-20.21.27:081][481]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.27-20.21.27:094][481]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Meshes/lambert1.lambert1
+	Asset Name: /Game/Meshes/WoodenPLank2.WoodenPLank2
+	Asset Name: /Game/Meshes/WoodenWall1.WoodenWall1
+[2022.03.27-20.21.27:302][481]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Jnix_Stairs) ...
+[2022.03.27-20.21.27:435][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.03.27-20.21.31:588][642]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Jnix_Stairs.Jnix_Stairs
+[2022.03.27-20.21.39:106][272]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Jnix_Stairs) ...
+[2022.03.27-20.21.45:684][603]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Jnix_Stairs) ...
+[2022.03.27-20.21.48:549][728]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Jnix_Stairs) ...
+[2022.03.27-20.21.52:295][994]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Jnix_Stairs) ...
+[2022.03.27-20.21.58:496][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Jnix_Stairs" FILE="../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Meshes/Jnix_Stairs.uasset" SILENT=true
+[2022.03.27-20.21.58:587][169]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/Jnix_Stairs88A3EE0147F5EFB4676C2E98548E2216.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Meshes/Jnix_Stairs.uasset'
+[2022.03.27-20.21.58:600][169]AssetCheck: New page: Asset Save: Jnix_Stairs
+[2022.03.27-20.21.58:600][169]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Jnix_Stairs.Jnix_Stairs
+[2022.03.27-20.22.00:053][197]LogSlate: Window 'Jnix_Stairs' being destroyed
+[2022.03.27-20.22.00:060][197]LogSlate: Window 'Jnix_Stairs' being destroyed
+[2022.03.27-20.22.00:081][197]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.22.00:081][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.23.30:881][721]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\WoodWall\WoodWall_Textures1/WoodenWall1_BaseColor.png)
+[2022.03.27-20.23.30:919][721]LogTexture: Display: Building textures: WoodenWall1_BaseColor (AutoDXT, 1024X1024)
+[2022.03.27-20.23.30:919][721]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\WoodWall\WoodWall_Textures1/WoodenWall1_Normal.png)
+[2022.03.27-20.23.30:978][721]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\WoodWall\WoodWall_Textures1/WoodenWall1_OcclusionRoughnessMetallic.png)
+[2022.03.27-20.23.31:015][721]LogTexture: Display: Building textures: WoodenWall1_Normal (BC5, 1024X1024)
+[2022.03.27-20.23.31:015][721]LogTexture: Display: Building textures: WoodenWall1_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.03.27-20.23.31:015][721]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\WoodWall\WoodWall_Textures2/WoodenWall2_BaseColor.png)
+[2022.03.27-20.23.31:061][721]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\WoodWall\WoodWall_Textures2/WoodenWall2_Normal.png)
+[2022.03.27-20.23.31:123][721]LogTexture: Display: Building textures: WoodenWall2_BaseColor (AutoDXT, 1024X1024)
+[2022.03.27-20.23.31:256][721]LogTexture: Display: Building textures: WoodenWall2_Normal (BC5, 1024X1024)
+[2022.03.27-20.23.31:264][721]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\PlugNPlay_model_fixes\modelfixes2\WoodWall\WoodWall_Textures2/WoodenWall2_OcclusionRoughnessMetallic.png)
+[2022.03.27-20.23.31:289][721]LogTexture: Display: Building textures: WoodenWall2_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.03.27-20.23.31:289][721]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.03.27-20.23.47:093][414]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.03.27-20.23.47:182][414]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.03.27-20.23.49:204][511]LogContentBrowser: Attempting asset rename: NewMaterial -> WoodenWall1
+[2022.03.27-20.23.49:204][511]LogContentBrowser: End creating deferred item NewMaterial
+[2022.03.27-20.23.50:757][580]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/WoodWall_Textures1/WoodenWall1.WoodenWall1
+[2022.03.27-20.23.50:758][580]LogMaterial: Display: Missing cached shadermap for Preview:WoodenWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: E1ADE94B503B2B4837C9DF376AA6AAF8DE525C3C), compiling. 
+[2022.03.27-20.23.50:885][580]LogMaterial: Display: Missing cached shadermap for Preview:WoodenWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7A99B2A044076AFE9F81422D0921B4D8F80F7DA2), compiling. 
+[2022.03.27-20.23.50:887][580]LogMaterial: Display: Missing cached shadermap for Preview:WoodenWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: FF973160B0A9F2A8A465CFE120ED23C41C93193F), compiling. 
+[2022.03.27-20.23.50:907][580]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.23.50:907][580]MaterialEditorStats: 
+[2022.03.27-20.23.50:907][580]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.23.52:030][608]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.27-20.23.52:030][608]LogShaderCompilers: Display: Total job queries 1272, among them cache hits 294 (23.11%)
+[2022.03.27-20.23.52:030][608]LogShaderCompilers: Display: Tracking 818 distinct input hashes that result in 126 distinct outputs (15.40%)
+[2022.03.27-20.23.52:030][608]LogShaderCompilers: Display: RAM used: 0.58 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2022.03.27-20.23.52:030][608]LogShaderCompilers: Display: ================================================
+[2022.03.27-20.23.52:895][627]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.23.52:896][627]MaterialEditorStats: 
+[2022.03.27-20.23.52:896][627]MaterialEditorStats: Shader Count: 7
+[2022.03.27-20.23.53:072][632]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.03.27-20.23.53:072][632]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.03.27-20.23.53:072][632]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.03.27-20.23.53:072][632]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.23.53:072][632]MaterialEditorStats: 
+[2022.03.27-20.23.53:072][632]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.23.53:779][671]LogMaterial: Display: Missing cached shadermap for Preview:WoodenWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A7C042A092C0A8E3C97CFCBBDD84EE4BB663CCC), compiling. 
+[2022.03.27-20.23.53:781][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 184156DDC4457ED7A36C5C47A9D19E0C26BF20E4), compiling. 
+[2022.03.27-20.23.53:782][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B94346244CF8BE2DD770F603895216D2C0C7A033), compiling. 
+[2022.03.27-20.23.53:789][671]LogMaterial: Display: Missing cached shadermap for Preview:WoodenWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: A253636B8D0F5FD68D94FC724C45D1BD9A09A65C), compiling. 
+[2022.03.27-20.23.53:791][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0BDD6FDE859A373EF5F3C1F8B55901DED283653C), compiling. 
+[2022.03.27-20.23.53:793][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EE6EA078D3DD9091D5FA6C1EAFEB04E7DD9A432F), compiling. 
+[2022.03.27-20.23.53:794][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FBE91BCDA1DC99052F5A4F956C4716485FFDEA0D), compiling. 
+[2022.03.27-20.23.53:800][671]LogMaterial: Display: Missing cached shadermap for Preview:WoodenWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7A4FF40836AD0ACE035F29D18CF5F77B579B940E), compiling. 
+[2022.03.27-20.23.53:801][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: FC3AA93083A3F4ECF5576406A0D6AB25EB989ABC), compiling. 
+[2022.03.27-20.23.53:802][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 79E29B8792ADB95D4D813C5154C7C2FA52BB6CAA), compiling. 
+[2022.03.27-20.23.53:803][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 90B7D4B987D857457BF0A907713AA163B481C512), compiling. 
+[2022.03.27-20.23.53:805][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 243CF03DF76E1CA342DA1822D693E2015D0BBFF5), compiling. 
+[2022.03.27-20.23.57:715][955]LogMaterial: Display: Missing cached shadermap for Preview:WoodenWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 837EA16246AD74B53BB849144B568AC8E939BED8), compiling. 
+[2022.03.27-20.23.57:717][955]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CB388B50A190FED1BABB08FC44630BFCA357508F), compiling. 
+[2022.03.27-20.23.57:721][955]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.23.57:721][955]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.23.57:721][955]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.23.57:721][955]MaterialEditorStats: 
+[2022.03.27-20.23.57:721][955]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.23.59:104][986]LogMaterial: Display: Missing cached shadermap for Preview:WoodenWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: B564032DC4619102EF3E014C9BD7196094F5C2D3), compiling. 
+[2022.03.27-20.23.59:108][986]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 318E65D64181EA5A77C41C2E6890A3BFCC7F012D), compiling. 
+[2022.03.27-20.23.59:117][986]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.23.59:117][986]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.03.27-20.23.59:117][986]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.23.59:117][986]MaterialEditorStats: 
+[2022.03.27-20.23.59:117][986]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.24.01:260][ 56]MaterialEditorStats: Base pass shader: 154 instructions
+[2022.03.27-20.24.01:260][ 56]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 228 instructions
+[2022.03.27-20.24.01:260][ 56]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.03.27-20.24.01:260][ 56]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.27-20.24.01:260][ 56]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.03.27-20.24.01:260][ 56]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.24.01:260][ 56]MaterialEditorStats: 
+[2022.03.27-20.24.01:260][ 56]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.24.02:187][111]LogMaterial: Display: Missing cached shadermap for Preview:WoodenWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 38F814B5670AACC0E16EEF9848ABC43D45920F96), compiling. 
+[2022.03.27-20.24.02:189][111]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F8AD3A8CDD8FF8E12AB23E986C8B53F6E71E7270), compiling. 
+[2022.03.27-20.24.02:195][111]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.24.02:195][111]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.24.02:195][111]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.24.02:195][111]MaterialEditorStats: 
+[2022.03.27-20.24.02:195][111]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.24.03:517][139]LogMaterial: Display: Missing cached shadermap for Preview:WoodenWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: C0FF6B7FE961A36352E7275A6D3C54F1F9D17235), compiling. 
+[2022.03.27-20.24.03:521][139]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1295D84D156EBC6288459739B3CFF707DABF9838), compiling. 
+[2022.03.27-20.24.05:562][200]LogMaterial: Display: Missing cached shadermap for Preview:WoodenWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2EA0D8C192B14A9BE6F292BCA13E398361D65AEC), compiling. 
+[2022.03.27-20.24.05:564][200]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F43DFDC1F7CF3CDE6BAB62C45C9557BB39BF51FC), compiling. 
+[2022.03.27-20.24.06:266][218]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.24.06:266][218]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.24.06:266][218]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.24.06:266][218]MaterialEditorStats: 
+[2022.03.27-20.24.06:266][218]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.24.07:265][246]LogMaterialEditor: Applying material WoodenWall1
+[2022.03.27-20.24.07:636][246]LogMaterial: Display: Missing cached shadermap for Preview:WoodenWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9243E134B6BBEF0F4CA1F9BB23F554B67F1270DB), compiling. 
+[2022.03.27-20.24.07:709][246]LogMaterial: Display: Missing cached shadermap for WoodenWall1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2768450F6B74B09276137B819DE949E22907CFE1), compiling. 
+[2022.03.27-20.24.07:754][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.03.27-20.24.08:072][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.03.27-20.24.08:141][248]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.24.08:142][248]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.24.08:142][248]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.24.08:142][248]MaterialEditorStats: 
+[2022.03.27-20.24.08:142][248]MaterialEditorStats: Shader Count: 4
+[2022.03.27-20.24.08:998][268]LogSlate: Window 'WoodenWall1' being destroyed
+[2022.03.27-20.24.09:027][268]LogSlate: Window 'WoodenWall1' being destroyed
+[2022.03.27-20.24.09:038][268]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.24.09:038][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.24.14:799][597]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.03.27-20.24.14:888][597]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.03.27-20.24.21:729][918]LogContentBrowser: Attempting asset rename: NewMaterial -> M_WoodenWall2
+[2022.03.27-20.24.21:730][918]LogContentBrowser: End creating deferred item NewMaterial
+[2022.03.27-20.24.24:190][ 24]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/WoodWall_Textures2/M_WoodenWall2.M_WoodenWall2
+[2022.03.27-20.24.24:192][ 24]LogMaterial: Display: Missing cached shadermap for Preview:M_WoodenWall2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D92D121BFD45C0FEEEFD7743D492DD441B42F91), compiling. 
+[2022.03.27-20.24.24:316][ 24]LogMaterial: Display: Missing cached shadermap for Preview:M_WoodenWall2 in PCD3D_SM5, Default, SM5 (DDC key hash: DAA1A3805FD1BF5BE7553E8FBB3135E0CB71B411), compiling. 
+[2022.03.27-20.24.24:318][ 24]LogMaterial: Display: Missing cached shadermap for Preview:M_WoodenWall2 in PCD3D_SM5, Default, SM5 (DDC key hash: DC24026DBAC2DFF9D604C18C4E6BB8E66BE0F159), compiling. 
+[2022.03.27-20.24.24:338][ 24]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.24.24:338][ 24]MaterialEditorStats: 
+[2022.03.27-20.24.24:338][ 24]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.24.26:067][ 57]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.24.26:067][ 57]MaterialEditorStats: 
+[2022.03.27-20.24.26:067][ 57]MaterialEditorStats: Shader Count: 9
+[2022.03.27-20.24.26:126][ 59]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.03.27-20.24.26:126][ 59]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.03.27-20.24.26:126][ 59]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.03.27-20.24.26:126][ 59]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.27-20.24.26:126][ 59]MaterialEditorStats: 
+[2022.03.27-20.24.26:126][ 59]MaterialEditorStats: Shader Count: 12
+[2022.03.27-20.24.27:476][125]LogMaterial: Display: Missing cached shadermap for Preview:M_WoodenWall2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C98C336EE4C9AD4D1DF34813DE09A0DC8E6E317), compiling. 
+[2022.03.27-20.24.27:478][125]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CF1236A1F899F1B0C97ECF3067349BABBF551C8D), compiling. 
+[2022.03.27-20.24.27:479][125]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 861E7C603E3AAF96EAAABDC71D19DFA050AAAA57), compiling. 
+[2022.03.27-20.24.27:486][125]LogMaterial: Display: Missing cached shadermap for Preview:M_WoodenWall2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9259A32B3194C5D7B47015B6E95A1E3F50F34641), compiling. 
+[2022.03.27-20.24.27:487][125]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 61DB2A591CB418C81690A902E60FFC7694CA53BD), compiling. 
+[2022.03.27-20.24.27:489][125]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 31E00CF84CEE81D76E86EF26877643BD1CD666FB), compiling. 
+[2022.03.27-20.24.27:490][125]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E3784C4989C98A4C4992E2C893F7B18E6F042183), compiling. 
+[2022.03.27-20.24.27:496][125]LogMaterial: Display: Missing cached shadermap for Preview:M_WoodenWall2 in PCD3D_SM5, Default, SM5 (DDC key hash: 422FB3E6C0F0A37BE7633C62F2C6CF337CC231BD), compiling. 
+[2022.03.27-20.24.27:497][125]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E1257E61917F55796A25DF767D63F92B0FABF926), compiling. 
+[2022.03.27-20.24.27:499][125]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 187EEF9B6230977CAD5053464AA5557324B12BF4), compiling. 
+[2022.03.27-20.24.27:500][125]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 29F992F4F5E7110A3A62F808A388515CE8E5FE76), compiling. 
+[2022.03.27-20.24.27:501][125]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 270C3838412ACCD9262D3CDC2E8CAAA2D8A9124C), compiling. 
+[2022.03.27-20.24.32:091][473]LogMaterial: Display: Missing cached shadermap for Preview:M_WoodenWall2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2778FB01AFB89FA7D854B816EB35F0428ADA21CE), compiling. 
+[2022.03.27-20.24.32:093][473]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3EC479066BAE2B78A6F7D26995970C1D1BC9C5B0), compiling. 
+[2022.03.27-20.24.32:099][473]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.24.32:099][473]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.24.32:099][473]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.24.32:099][473]MaterialEditorStats: 
+[2022.03.27-20.24.32:099][473]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.24.32:901][495]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.27-20.24.32:901][495]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.27-20.24.32:901][495]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.24.32:902][495]MaterialEditorStats: 
+[2022.03.27-20.24.32:902][495]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.24.33:808][519]LogMaterial: Display: Missing cached shadermap for Preview:M_WoodenWall2 in PCD3D_SM5, Default, SM5 (DDC key hash: A00EED522DB14C705551B38CD1CC91A880FF8324), compiling. 
+[2022.03.27-20.24.33:810][519]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7EE8744F7F8E058FACAAA0B4F07DCF4C6054C41B), compiling. 
+[2022.03.27-20.24.33:816][519]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.24.33:816][519]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.03.27-20.24.33:816][519]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.24.33:816][519]MaterialEditorStats: 
+[2022.03.27-20.24.33:816][519]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.24.35:181][549]LogMaterial: Display: Missing cached shadermap for Preview:M_WoodenWall2 in PCD3D_SM5, Default, SM5 (DDC key hash: 94382DC436171478C75B0C9DC7D66FEEB374D239), compiling. 
+[2022.03.27-20.24.35:184][549]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: C9F579E8D6A8787FA7D78FCA3500C5EE902F99F6), compiling. 
+[2022.03.27-20.24.35:192][549]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.27-20.24.35:193][549]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.24.35:193][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.24.35:193][549]MaterialEditorStats: 
+[2022.03.27-20.24.35:193][549]MaterialEditorStats: Shader Count: 0
+[2022.03.27-20.24.36:593][579]LogMaterial: Display: Missing cached shadermap for Preview:M_WoodenWall2 in PCD3D_SM5, Default, SM5 (DDC key hash: 27E5E12262951FC9D0A77CB22485BABAD0AA5A0D), compiling. 
+[2022.03.27-20.24.36:598][579]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A40ABA38425192430E6C2ECD83A0EF691AFB4DA), compiling. 
+[2022.03.27-20.24.38:576][633]LogMaterial: Display: Missing cached shadermap for Preview:M_WoodenWall2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0F02692B717500FF391F69531929D50A9384F4DB), compiling. 
+[2022.03.27-20.24.38:583][633]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F73165BA967374BCF7E17B300CAF36879E185518), compiling. 
+[2022.03.27-20.24.39:259][651]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.27-20.24.39:260][651]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.24.39:260][651]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.24.39:260][651]MaterialEditorStats: 
+[2022.03.27-20.24.39:260][651]MaterialEditorStats: Shader Count: 1
+[2022.03.27-20.24.39:972][665]LogMaterialEditor: Applying material M_WoodenWall2
+[2022.03.27-20.24.40:372][665]LogMaterial: Display: Missing cached shadermap for Preview:M_WoodenWall2 in PCD3D_SM5, Default, SM5 (DDC key hash: A527A0D8ADBAEFF42FBAA20D429D7611D57FE064), compiling. 
+[2022.03.27-20.24.40:442][665]LogMaterial: Display: Missing cached shadermap for M_WoodenWall2 in PCD3D_SM5, Default, SM5 (DDC key hash: 807B7B2A696454FFDFCB09F4AA3DB8361D5CA128), compiling. 
+[2022.03.27-20.24.40:487][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.03.27-20.24.40:805][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.03.27-20.24.40:863][667]MaterialEditorStats: Texture samplers: 5/16
+[2022.03.27-20.24.40:863][667]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.27-20.24.40:863][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.27-20.24.40:863][667]MaterialEditorStats: 
+[2022.03.27-20.24.40:863][667]MaterialEditorStats: Shader Count: 4
+[2022.03.27-20.24.41:698][685]LogSlate: Window 'M_WoodenWall2' being destroyed
+[2022.03.27-20.24.41:738][685]LogSlate: Window 'M_WoodenWall2' being destroyed
+[2022.03.27-20.24.41:748][685]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.24.41:748][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.24.48:663][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_WoodenWall2" FILE="../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/M_WoodenWall2.uasset" SILENT=true
+[2022.03.27-20.24.48:668][ 73]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/M_WoodenWall2CBF0B8D5432218301EC9C693A7CB921E.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/M_WoodenWall2.uasset'
+[2022.03.27-20.24.48:807][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.27-20.24.48:823][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.03.27-20.24.48:826][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.03.27-20.24.48:854][ 73]AssetCheck: New page: Asset Save: M_WoodenWall2
+[2022.03.27-20.24.48:854][ 73]LogContentValidation: Display: Validating Material /Game/Materials/M_WoodenWall2.M_WoodenWall2
+[2022.03.27-20.24.56:726][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/WoodenWall1" FILE="../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/WoodenWall1.uasset" SILENT=true
+[2022.03.27-20.24.56:731][578]LogSavePackage: Moving '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Saved/WoodenWall11F2E2987444F2B459B820EA4A2181DC8.tmp' to '../../../../GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0/Content/Materials/WoodenWall1.uasset'
+[2022.03.27-20.24.56:860][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.03.27-20.24.56:875][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.27-20.24.56:878][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.03.27-20.24.56:908][578]AssetCheck: New page: Asset Save: WoodenWall1
+[2022.03.27-20.24.56:908][578]LogContentValidation: Display: Validating Material /Game/Materials/WoodenWall1.WoodenWall1
