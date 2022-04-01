@@ -1613,3 +1613,902 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.04.01-18.32.55:970][978]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/M_AutoLandscape_InstF0D5BE254E856A7F94C03FBFCAFF2500.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/LanscapeMats/AutoLandscape/Materials/M_AutoLandscape_Inst.uasset'
 [2022.04.01-18.32.55:987][978]AssetCheck: New page: Asset Save: M_AutoLandscape_Inst
 [2022.04.01-18.32.55:987][978]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/LanscapeMats/AutoLandscape/Materials/M_AutoLandscape_Inst.M_AutoLandscape_Inst
+[2022.04.01-18.33.59:100][310]LogSlate: Window 'M_AutoLandscape_Inst' being destroyed
+[2022.04.01-18.33.59:102][310]LogSlate: Window 'M_AutoLandscape_Inst' being destroyed
+[2022.04.01-18.33.59:112][310]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-18.33.59:112][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-18.35.57:331][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.04.01-18.37.49:205][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4FF196ABFFFCEBB8D8AE395916D138C1ADBCE313), compiling. 
+[2022.04.01-18.37.49:255][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3BD53B739B8AD2846D1A3E2DE1243379F31F287A), compiling. 
+[2022.04.01-18.37.50:079][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B78BF8A0410665A86021C2872103AA8F5B9EFA87), compiling. 
+[2022.04.01-18.37.50:225][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 3573F1572E6F7FA3425AC7CDB9C4C1324AA7C973), compiling. 
+[2022.04.01-18.37.50:331][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_4 in PCD3D_SM5, Default, SM5 (DDC key hash: CF1B6236279F206B6AA05C9DC4F4546F74DE6080), compiling. 
+[2022.04.01-18.37.50:397][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 76B3A027E5E758B7DC842EE1C28B3E889E5F4DC9), compiling. 
+[2022.04.01-18.37.50:483][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 28BD48C67D3DADC48326C01CD6CAC81167D7E17B), compiling. 
+[2022.04.01-18.37.50:607][909]LogStaticMesh: StaticMesh /Engine/EditorLandscapeResources/FlattenPlaneMesh.FlattenPlaneMesh should be resaved to improve async compilation performance.
+[2022.04.01-18.37.50:670][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 3CA12D23D1389512BA06E2BA783D5328A65E8556), compiling. 
+[2022.04.01-18.37.50:716][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_8 in PCD3D_SM5, Default, SM5 (DDC key hash: DC28C7EF54EA9C3AC148CF941245497F97213CE6), compiling. 
+[2022.04.01-18.37.50:809][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_9 in PCD3D_SM5, Default, SM5 (DDC key hash: 08B7327CF3E97979C3C876E869AFA38E0E532BF0), compiling. 
+[2022.04.01-18.37.50:894][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_10 in PCD3D_SM5, Default, SM5 (DDC key hash: 3931E6DC7DC0367BF75D00B0BF8DC528C2B2BEF9), compiling. 
+[2022.04.01-18.37.51:037][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_11 in PCD3D_SM5, Default, SM5 (DDC key hash: 27BFAC08A27E6091FE2CECA013213FFA8A7D0FC1), compiling. 
+[2022.04.01-18.37.51:110][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_12 in PCD3D_SM5, Default, SM5 (DDC key hash: 5F9E4F8E1C593364F158EF177CE6AC9412CA3240), compiling. 
+[2022.04.01-18.37.51:188][909]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_14 in PCD3D_SM5, Default, SM5 (DDC key hash: ECADB7FAAC0C9F951C053E70F1E233E366C37D23), compiling. 
+[2022.04.01-18.37.51:500][909]LogTexture: Display: Building textures: Texture2D_14 (G8, 128X128)
+[2022.04.01-18.37.52:604][925]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.01-18.37.52:604][925]LogShaderCompilers: Display: Total job queries 499, among them cache hits 2 (0.40%)
+[2022.04.01-18.37.52:604][925]LogShaderCompilers: Display: Tracking 75 distinct input hashes that result in 56 distinct outputs (74.67%)
+[2022.04.01-18.37.52:604][925]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.02%
+[2022.04.01-18.37.52:604][925]LogShaderCompilers: Display: ================================================
+[2022.04.01-18.40.13:078][303]Cmd: ACTOR SELECT ALL
+[2022.04.01-18.40.26:650][996]Cmd: TRANSACTION UNDO
+[2022.04.01-18.40.26:650][996]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-18.40.26:870][996]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.40.27:691][ 20]Cmd: TRANSACTION UNDO
+[2022.04.01-18.40.27:691][ 20]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-18.40.27:797][ 21]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.40.28:376][ 42]Cmd: TRANSACTION UNDO
+[2022.04.01-18.40.28:376][ 42]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-18.40.28:482][ 43]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.40.28:943][ 60]Cmd: TRANSACTION UNDO
+[2022.04.01-18.40.28:943][ 60]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-18.40.29:044][ 60]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.40.29:428][ 73]Cmd: TRANSACTION UNDO
+[2022.04.01-18.40.29:428][ 73]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-18.40.29:500][ 73]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.40.29:904][ 87]Cmd: TRANSACTION UNDO
+[2022.04.01-18.40.29:904][ 87]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-18.40.29:987][ 87]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.40.30:353][100]Cmd: TRANSACTION UNDO
+[2022.04.01-18.40.30:353][100]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-18.40.30:459][101]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.40.30:765][111]Cmd: TRANSACTION UNDO
+[2022.04.01-18.40.30:765][111]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-18.40.30:863][112]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.40.45:919][906]Cmd: TRANSACTION UNDO
+[2022.04.01-18.40.45:919][906]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-18.40.45:990][906]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.41.05:674][857]LogEditorViewport: Clicking Background
+[2022.04.01-18.42.10:826][217]Cmd: TRANSACTION UNDO
+[2022.04.01-18.42.10:826][217]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.42.10:879][217]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.42.14:839][395]Cmd: TRANSACTION UNDO
+[2022.04.01-18.42.14:839][395]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.42.22:144][767]Cmd: TRANSACTION UNDO
+[2022.04.01-18.42.22:144][767]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.42.28:232][ 89]Cmd: TRANSACTION UNDO
+[2022.04.01-18.42.28:232][ 89]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.42.47:011][  2]Cmd: TRANSACTION UNDO
+[2022.04.01-18.42.47:011][  2]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.42.47:056][  2]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.42.47:947][ 25]Cmd: TRANSACTION UNDO
+[2022.04.01-18.42.47:948][ 25]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.42.48:019][ 25]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.43.27:111][ 94]Cmd: TRANSACTION UNDO
+[2022.04.01-18.43.27:111][ 94]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.43.27:167][ 94]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.43.27:691][105]Cmd: TRANSACTION UNDO
+[2022.04.01-18.43.27:692][105]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.43.27:767][106]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.43.28:242][122]Cmd: TRANSACTION UNDO
+[2022.04.01-18.43.28:242][122]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.43.31:210][243]Cmd: TRANSACTION UNDO
+[2022.04.01-18.43.31:210][243]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.43.31:319][244]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.43.31:690][265]Cmd: TRANSACTION UNDO
+[2022.04.01-18.43.31:691][265]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.43.31:779][266]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.09:379][216]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.09:379][216]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.09:427][216]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.12:724][320]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.12:724][320]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.27:861][119]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.27:861][119]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.27:916][119]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.28:377][127]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.28:377][127]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.28:399][127]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.28:786][138]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.28:786][138]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.29:298][154]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.29:298][154]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-18.44.29:408][155]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.30:107][182]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.30:107][182]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.30:205][183]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.30:651][205]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.30:651][205]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.30:737][206]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.31:170][232]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.31:170][232]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.31:250][233]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.31:610][254]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.31:610][254]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.31:692][255]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.32:064][277]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.32:064][277]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.32:135][278]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.32:449][296]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.32:449][296]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.32:538][297]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.32:897][317]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.32:897][317]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.32:970][318]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.33:426][343]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.33:426][343]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.33:462][343]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.33:830][363]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.33:830][363]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.33:908][363]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.34:297][385]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.34:297][385]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.44.34:390][386]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.44.34:833][412]Cmd: TRANSACTION UNDO
+[2022.04.01-18.44.34:833][412]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.45.05:448][955]Cmd: TRANSACTION UNDO
+[2022.04.01-18.45.05:448][955]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.45.05:510][955]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.45.06:517][983]Cmd: TRANSACTION UNDO
+[2022.04.01-18.45.06:517][983]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.45.08:625][ 51]Cmd: TRANSACTION UNDO
+[2022.04.01-18.45.08:625][ 51]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.45.09:357][ 69]Cmd: TRANSACTION UNDO
+[2022.04.01-18.45.09:357][ 69]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.45.09:480][ 70]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.45.15:592][372]Cmd: TRANSACTION UNDO
+[2022.04.01-18.45.15:592][372]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.45.16:623][410]Cmd: TRANSACTION UNDO
+[2022.04.01-18.45.16:623][410]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.45.16:719][411]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.45.23:720][752]Cmd: TRANSACTION UNDO
+[2022.04.01-18.45.23:720][752]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.47.09:353][679]Cmd: TRANSACTION UNDO
+[2022.04.01-18.47.09:353][679]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.47.09:408][679]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.47.09:869][687]Cmd: TRANSACTION UNDO
+[2022.04.01-18.47.09:869][687]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.47.09:899][687]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.47.48:057][583]Cmd: TRANSACTION UNDO
+[2022.04.01-18.47.48:057][583]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.47.48:118][583]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.49.24:508][334]Cmd: TRANSACTION UNDO
+[2022.04.01-18.49.24:508][334]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.49.24:561][334]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.50.45:236][343]Cmd: TRANSACTION UNDO
+[2022.04.01-18.50.45:236][343]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-18.50.45:282][343]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.53.03:179][140]Cmd: TRANSACTION UNDO
+[2022.04.01-18.53.03:179][140]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.53.03:235][140]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-18.53.05:578][220]Cmd: TRANSACTION UNDO
+[2022.04.01-18.53.05:578][220]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.53.45:223][229]LogEditorViewport: Clicking Background
+[2022.04.01-18.53.45:572][248]LogEditorViewport: Clicking Background
+[2022.04.01-18.53.46:040][274]LogEditorViewport: Clicking Background
+[2022.04.01-18.53.53:558][642]LogEditorViewport: Clicking Background
+[2022.04.01-18.53.53:892][661]LogEditorViewport: Clicking Background
+[2022.04.01-18.54.20:342][  3]Cmd: TRANSACTION UNDO
+[2022.04.01-18.54.20:342][  3]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-18.54.20:389][  3]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.01.29:194][890]Cmd: TRANSACTION UNDO
+[2022.04.01-19.01.29:194][890]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.01.29:235][890]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.01.29:788][902]Cmd: TRANSACTION UNDO
+[2022.04.01-19.01.29:788][902]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.01.29:852][902]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.01.30:485][922]Cmd: TRANSACTION UNDO
+[2022.04.01-19.01.30:485][922]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.01.30:579][923]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.01.31:101][938]Cmd: TRANSACTION UNDO
+[2022.04.01-19.01.31:101][938]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.01.31:130][938]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.01.31:767][956]Cmd: TRANSACTION UNDO
+[2022.04.01-19.01.31:767][956]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.01.31:865][957]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.01.32:424][975]Cmd: TRANSACTION UNDO
+[2022.04.01-19.01.32:424][975]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.01-19.02.08:386][792]LogEditorViewport: Clicking Background
+[2022.04.01-19.02.15:824][209]LogEditorViewport: Clicking Background
+[2022.04.01-19.05.52:966][321]Cmd: TRANSACTION UNDO
+[2022.04.01-19.05.52:966][321]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.05.52:988][321]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.08.26:455][343]Cmd: TRANSACTION UNDO
+[2022.04.01-19.08.26:455][343]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.08.26:530][343]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.08.27:111][356]Cmd: TRANSACTION UNDO
+[2022.04.01-19.08.27:112][356]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.08.27:211][357]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.08.28:075][386]Cmd: TRANSACTION UNDO
+[2022.04.01-19.08.28:075][386]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.08.28:193][387]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.09.31:346][394]Cmd: TRANSACTION UNDO
+[2022.04.01-19.09.31:346][394]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.09.31:414][394]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.09.31:889][403]Cmd: TRANSACTION UNDO
+[2022.04.01-19.09.31:889][403]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.09.31:923][403]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.09.32:390][417]Cmd: TRANSACTION UNDO
+[2022.04.01-19.09.32:390][417]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.09.32:483][418]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.09.50:741][318]Cmd: TRANSACTION UNDO
+[2022.04.01-19.09.50:741][318]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.09.50:803][318]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.17:958][399]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.17:958][399]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-19.12.18:007][399]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.18:498][407]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.18:498][407]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-19.12.18:534][407]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.18:937][420]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.18:937][420]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.12.19:039][421]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.19:387][433]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.19:387][433]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.12.19:521][434]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.19:966][449]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.19:967][449]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.12.20:050][449]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.20:508][466]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.20:508][466]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.12.20:612][467]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.21:068][484]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.21:068][484]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.12.21:179][485]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.21:547][498]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.21:547][498]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.12.21:656][499]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.23:554][565]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.23:554][565]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.12.23:603][565]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.24:100][592]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.24:101][592]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-19.12.24:167][592]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.24:623][616]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.24:623][616]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-19.12.24:714][617]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.25:145][640]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.25:145][640]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-19.12.25:175][640]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.25:575][663]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.25:575][663]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-19.12.25:668][664]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.12.26:071][687]Cmd: TRANSACTION UNDO
+[2022.04.01-19.12.26:072][687]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-19.12.26:167][688]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.13.01:265][419]LogEditorViewport: Clicking Background
+[2022.04.01-19.13.15:533][136]LogEditorViewport: Clicking Background
+[2022.04.01-19.16.17:571][386]Cmd: TRANSACTION UNDO
+[2022.04.01-19.16.17:571][386]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.16.17:605][386]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.16.56:112][352]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.01-19.16.56:179][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.01-19.16.56:194][352]PIE: New page: PIE session: FirstPersonExampleMap (Apr 1, 2022, 11:16:56 AM)
+[2022.04.01-19.16.56:236][352]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.01-19.16.56:254][352]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.01-19.16.56:270][352]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.01-19.16.56:519][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.249217s)
+[2022.04.01-19.16.56:521][352]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.01-19.16.56:531][352]LogPlayLevel: PIE: World Init took: (0.011140s)
+[2022.04.01-19.16.56:531][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.261649s)
+[2022.04.01-19.16.56:572][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.04.01-19.16.56:576][352]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.01-19.16.56:576][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.01-19.16.56:576][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.01-19.16.56:576][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.01-19.16.56:576][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.01-19.16.56:576][352]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.01-19.16.56:576][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.01-19.16.56:576][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.01-19.16.56:576][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.01-19.16.56:577][352]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.01-19.16.56:577][352]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.01-19.16.56:602][352]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.01-19.16.56:602][352]LogAudioMixer: Display: 1: FrontRight
+[2022.04.01-19.16.56:638][352]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2022.04.01-19.16.56:639][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.01-19.16.56:639][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.01-19.16.56:639][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.01-19.16.56:640][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.01-19.16.56:640][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.01-19.16.56:642][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.01-19.16.56:642][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.01-19.16.56:642][352]LogInit: FAudioDevice initialized.
+[2022.04.01-19.16.56:642][352]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.04.01-19.16.56:696][352]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.01-19.16.56:737][352]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.04.01-15.16.56
+[2022.04.01-19.16.56:759][352]LogWorld: Bringing up level for play took: 0.063283
+[2022.04.01-19.16.56:761][352]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.04.01-19.16.57:033][352]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2022.04.01-19.16.57:069][352]PIE: Server logged in
+[2022.04.01-19.16.57:070][352]PIE: Play in editor total start time 0.95 seconds.
+[2022.04.01-19.17.14:125][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.01-19.17.14:125][142]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.01-19.17.14:125][142]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-19.17.14:126][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-19.17.14:139][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.01-19.17.14:157][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-19.17.14:165][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-19.17.14:165][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.01-19.17.14:167][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.01-19.17.14:171][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.01-19.17.14:176][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.01-19.17.14:184][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.01-19.17.14:209][143]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.04.01-19.17.31:023][968]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.01-19.17.31:036][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.01-19.17.31:036][968]PIE: New page: PIE session: FirstPersonExampleMap (Apr 1, 2022, 11:17:31 AM)
+[2022.04.01-19.17.31:036][968]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.01-19.17.31:069][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033178s)
+[2022.04.01-19.17.31:072][968]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.01-19.17.31:151][968]LogPlayLevel: PIE: World Init took: (0.081386s)
+[2022.04.01-19.17.31:151][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.114803s)
+[2022.04.01-19.17.31:159][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.04.01-19.17.31:160][968]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.01-19.17.31:160][968]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.01-19.17.31:160][968]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.01-19.17.31:160][968]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.01-19.17.31:160][968]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.01-19.17.31:160][968]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.01-19.17.31:160][968]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.01-19.17.31:160][968]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.01-19.17.31:160][968]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.01-19.17.31:161][968]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.01-19.17.31:161][968]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.01-19.17.31:164][968]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.01-19.17.31:164][968]LogAudioMixer: Display: 1: FrontRight
+[2022.04.01-19.17.31:199][968]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2022.04.01-19.17.31:199][968]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.01-19.17.31:199][968]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.01-19.17.31:200][968]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.01-19.17.31:200][968]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.01-19.17.31:200][968]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.01-19.17.31:202][968]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.01-19.17.31:202][968]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.01-19.17.31:202][968]LogInit: FAudioDevice initialized.
+[2022.04.01-19.17.31:202][968]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.04.01-19.17.31:228][968]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.01-19.17.31:233][968]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.04.01-15.17.31
+[2022.04.01-19.17.31:233][968]LogWorld: Bringing up level for play took: 0.005384
+[2022.04.01-19.17.31:233][968]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.04.01-19.17.31:236][968]PIE: Server logged in
+[2022.04.01-19.17.31:237][968]PIE: Play in editor total start time 0.207 seconds.
+[2022.04.01-19.17.48:486][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.01-19.17.48:486][833]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.01-19.17.48:486][833]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-19.17.48:487][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-19.17.48:498][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.01-19.17.48:500][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-19.17.48:506][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.01-19.17.48:507][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.01-19.17.48:509][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.01-19.17.48:516][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.01-19.17.48:525][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.04.01-19.17.48:543][834]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.04.01-19.17.52:368][ 47]LogEditorViewport: Clicking Background
+[2022.04.01-19.18.00:035][454]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.00:035][454]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-19.18.00:098][454]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.01:549][520]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.01:549][520]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2022.04.01-19.18.01:617][520]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.08:275][883]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.08:276][883]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.18.08:766][891]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.08:766][891]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.18.08:789][891]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.53:655][197]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.53:655][197]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.18.53:712][197]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.54:039][203]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.54:039][203]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.18.54:056][203]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.54:333][210]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.54:333][210]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.18.54:417][211]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.54:854][227]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.54:854][227]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.18.54:961][228]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.55:116][234]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.55:116][234]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.18.55:223][235]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.55:354][240]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.55:354][240]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.18.55:457][241]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.55:640][250]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.55:640][250]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.18.55:730][251]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.56:089][264]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.56:089][264]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.18.56:212][265]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.56:748][285]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.56:748][285]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.18.57:163][299]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.57:163][299]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.18.57:272][300]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.57:446][307]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.57:446][307]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.18.57:537][308]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.57:865][320]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.57:865][320]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.18.57:966][321]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.58:400][338]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.58:400][338]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.18.58:495][339]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.58:838][352]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.58:838][352]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.18.58:942][353]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.59:244][364]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.59:244][364]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.18.59:344][365]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.59:663][377]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.59:663][377]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.18.59:752][378]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.18.59:937][386]Cmd: TRANSACTION UNDO
+[2022.04.01-19.18.59:937][386]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.19.00:052][387]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.19.00:296][396]Cmd: TRANSACTION UNDO
+[2022.04.01-19.19.00:296][396]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.19.00:398][397]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.19.00:668][407]Cmd: TRANSACTION UNDO
+[2022.04.01-19.19.00:668][407]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.19.00:791][408]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.19.01:102][421]Cmd: TRANSACTION UNDO
+[2022.04.01-19.19.01:102][421]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.19.01:210][422]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.19.01:433][430]Cmd: TRANSACTION UNDO
+[2022.04.01-19.19.01:433][430]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.19.01:521][431]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.19.04:701][593]Cmd: TRANSACTION UNDO
+[2022.04.01-19.19.04:701][593]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.04.01-19.19.04:732][593]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.19.21:578][379]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.01-19.19.21:594][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.01-19.19.21:594][379]PIE: New page: PIE session: FirstPersonExampleMap (Apr 1, 2022, 11:19:21 AM)
+[2022.04.01-19.19.21:595][379]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.01-19.19.21:633][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037555s)
+[2022.04.01-19.19.21:635][379]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.01-19.19.21:636][379]LogPlayLevel: PIE: World Init took: (0.002810s)
+[2022.04.01-19.19.21:636][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.040734s)
+[2022.04.01-19.19.21:671][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.04.01-19.19.21:675][379]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.01-19.19.21:675][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.01-19.19.21:675][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.01-19.19.21:675][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.01-19.19.21:675][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.01-19.19.21:675][379]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.01-19.19.21:675][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.01-19.19.21:675][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.01-19.19.21:675][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.01-19.19.21:676][379]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.01-19.19.21:676][379]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.01-19.19.21:680][379]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.01-19.19.21:680][379]LogAudioMixer: Display: 1: FrontRight
+[2022.04.01-19.19.21:726][379]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2022.04.01-19.19.21:727][379]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.01-19.19.21:727][379]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.01-19.19.21:728][379]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.01-19.19.21:728][379]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.01-19.19.21:728][379]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.01-19.19.21:731][379]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.01-19.19.21:731][379]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.01-19.19.21:731][379]LogInit: FAudioDevice initialized.
+[2022.04.01-19.19.21:731][379]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2022.04.01-19.19.21:747][379]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.01-19.19.21:756][379]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.04.01-15.19.21
+[2022.04.01-19.19.21:756][379]LogWorld: Bringing up level for play took: 0.009973
+[2022.04.01-19.19.21:756][379]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.04.01-19.19.21:759][379]PIE: Server logged in
+[2022.04.01-19.19.21:760][379]PIE: Play in editor total start time 0.175 seconds.
+[2022.04.01-19.19.37:465][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.01-19.19.37:465][115]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.01-19.19.37:465][115]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-19.19.37:466][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-19.19.37:473][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.01-19.19.37:476][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-19.19.37:483][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-19.19.37:483][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.01-19.19.37:485][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.01-19.19.37:489][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.01-19.19.37:493][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.04.01-19.19.37:502][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.04.01-19.19.37:519][116]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.04.01-19.19.48:064][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.04.01-19.19.48:202][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.01-19.19.48:337][627]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.19.48:450][627]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap29B0B48142260F3892909DB69195A1B4.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.01-19.19.48:477][627]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.01-19.19.49:950][627]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap_BuiltData31F26A4D45978CB3CD11388360986314.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.01-19.19.49:952][627]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.01-19.19.50:056][627]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 1.768
+[2022.04.01-19.19.50:067][627]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.01-19.19.50:067][627]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.01-19.19.50:067][627]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.01-19.21.01:157][670]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Particles/Misc/MiscSystems/MuzzleFlash_System.MuzzleFlash_System
+[2022.04.01-19.21.03:093][678]36183_MuzzleFlash_System_MessageLog: System successfully compiled.
+[2022.04.01-19.21.12:500][ 17]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorWidgetsStyle' Style: 'Unable to find Brush 'None'.'
+[2022.04.01-19.21.35:863][872]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/MuzzleFlash_SystemEA96405D4F2DFE077C04BC823E5254D4.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Particles/Misc/MiscSystems/MuzzleFlash_System.uasset'
+[2022.04.01-19.21.35:878][872]AssetCheck: New page: Asset Save: MuzzleFlash_System
+[2022.04.01-19.21.35:879][872]LogContentValidation: Display: Validating NiagaraSystem /Game/Particles/Misc/MiscSystems/MuzzleFlash_System.MuzzleFlash_System
+[2022.04.01-19.22.12:610][234]36183_MuzzleFlash_System_MessageLog: System successfully compiled.
+[2022.04.01-19.22.14:934][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.04.01-19.22.15:242][297]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/MuzzleFlash_System65D76F64413DD948037EF68A9997F229.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Particles/Misc/MiscSystems/MuzzleFlash_System.uasset'
+[2022.04.01-19.22.15:260][297]AssetCheck: New page: Asset Save: MuzzleFlash_System
+[2022.04.01-19.22.15:260][297]LogContentValidation: Display: Validating NiagaraSystem /Game/Particles/Misc/MiscSystems/MuzzleFlash_System.MuzzleFlash_System
+[2022.04.01-19.34.11:896][878]Cmd: TRANSACTION UNDO
+[2022.04.01-19.34.11:896][878]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.34.12:305][878]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.34.12:870][884]36183_MuzzleFlash_System_MessageLog: System successfully compiled.
+[2022.04.01-19.34.13:241][895]Cmd: TRANSACTION UNDO
+[2022.04.01-19.34.13:241][895]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.34.13:682][896]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.34.14:423][922]Cmd: TRANSACTION UNDO
+[2022.04.01-19.34.14:423][922]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.34.14:907][923]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.34.15:067][923]36183_MuzzleFlash_System_MessageLog: System successfully compiled.
+[2022.04.01-19.34.17:094][982]36183_MuzzleFlash_System_MessageLog: System successfully compiled.
+[2022.04.01-19.34.18:898][ 56]Cmd: TRANSACTION UNDO
+[2022.04.01-19.34.18:898][ 56]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.34.19:224][ 56]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.34.19:788][ 62]36183_MuzzleFlash_System_MessageLog: System successfully compiled.
+[2022.04.01-19.35.03:946][789]Cmd: TRANSACTION UNDO
+[2022.04.01-19.35.03:946][789]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.04.01-19.35.04:252][789]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.35.04:767][795]36183_MuzzleFlash_System_MessageLog: System successfully compiled.
+[2022.04.01-19.35.54:567][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.04.01-19.35.54:632][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.01-19.35.55:048][762]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.35.55:060][762]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap0EFDF85B4097330CFDF006A3D62747DE.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.01-19.35.55:074][762]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.01-19.35.55:800][762]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap_BuiltData5DFECB66465E70D3E3A7FAA99033C30A.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.01-19.35.55:803][762]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.01-19.35.55:803][762]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 1.179
+[2022.04.01-19.35.55:814][762]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.01-19.35.55:814][762]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.01-19.35.55:814][762]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.01-19.36.11:392][365]Cmd: TRANSACTION UNDO
+[2022.04.01-19.36.11:393][365]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.36.11:686][365]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.36.12:230][371]36183_MuzzleFlash_System_MessageLog: System successfully compiled.
+[2022.04.01-19.36.12:381][378]Cmd: TRANSACTION UNDO
+[2022.04.01-19.36.12:382][378]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.36.12:882][379]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.36.13:349][394]Cmd: TRANSACTION UNDO
+[2022.04.01-19.36.13:349][394]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.36.13:911][395]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.36.14:256][402]36183_MuzzleFlash_System_MessageLog: System successfully compiled.
+[2022.04.01-19.36.14:330][404]Cmd: TRANSACTION UNDO
+[2022.04.01-19.36.14:330][404]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.36.14:745][404]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.36.15:135][419]Cmd: TRANSACTION UNDO
+[2022.04.01-19.36.15:135][419]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.36.15:632][420]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.36.15:953][430]Cmd: TRANSACTION UNDO
+[2022.04.01-19.36.15:953][430]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2022.04.01-19.36.16:449][431]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.36.16:592][431]36183_MuzzleFlash_System_MessageLog: System successfully compiled.
+[2022.04.01-19.36.18:636][485]36183_MuzzleFlash_System_MessageLog: System successfully compiled.
+[2022.04.01-19.37.06:688][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.04.01-19.37.06:751][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.04.01-19.37.06:872][572]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-19.37.06:872][572]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap59903A2440C56903C1FD50992F4CB703.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.01-19.37.06:892][572]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.01-19.37.07:651][572]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap_BuiltData4994592F409336CB49866CB5F601CDA4.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.01-19.37.07:653][572]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.01-19.37.07:653][572]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.911
+[2022.04.01-19.37.07:663][572]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.01-19.37.07:663][572]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.01-19.37.07:663][572]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.01-20.32.10:888][404]LogSlate: Window 'MuzzleFlash_System' being destroyed
+[2022.04.01-20.32.11:028][404]LogNiagaraEditor: Warning: Cleanup System view model 000009B3B81B1410
+[2022.04.01-20.32.11:374][404]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-20.32.11:374][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-20.32.11:409][404]LogNiagaraEditor: Warning: Cleanup System view model 000009B3B81B1410
+[2022.04.01-20.32.11:409][404]LogNiagaraEditor: Warning: Deleting System view model 000009B3B81B1410
+[2022.04.01-20.32.11:502][404]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2022.04.01-20.35.00:330][964]LogEditorViewport: Clicking Background
+[2022.04.01-20.35.02:320][ 70]LogEditorViewport: Clicking Background
+[2022.04.01-20.38.10:413][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.04.01-20.38.10:503][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.01-20.38.10:629][665]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-20.38.10:629][665]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMapCDE1EABE4CE6049693EFE2A8944F4925.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.01-20.38.10:644][665]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.01-20.38.11:450][665]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap_BuiltData24942B1A44AC68FC3C170AAC9440094B.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.01-20.38.11:453][665]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.01-20.38.11:453][665]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.973
+[2022.04.01-20.38.11:490][665]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.01-20.38.11:491][665]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.01-20.38.11:491][665]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.01-20.46.56:302][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.04.01-20.46.56:343][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.04.01-20.46.56:484][949]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.04.01-20.46.56:484][949]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMapE3F6E434446A4CD8BCEC1A9EEC44688C.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.01-20.46.56:498][949]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.01-20.46.57:246][949]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap_BuiltData6C8EC30D44285FB2AD75A9B53573F89F.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.01-20.46.57:248][949]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.01-20.46.57:248][949]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.914
+[2022.04.01-20.46.57:259][949]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.01-20.46.57:259][949]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.01-20.46.57:259][949]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.01-20.46.59:089][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.04.01-20.46.59:093][ 54]LogStall: Shutdown...
+[2022.04.01-20.46.59:099][ 54]LogStall: Shutdown complete.
+[2022.04.01-20.47.00:057][ 54]LogSlate: Window 'Plug_N_Play - Unreal Editor' being destroyed
+[2022.04.01-20.47.00:919][ 55]Cmd: QUIT_EDITOR
+[2022.04.01-20.47.00:919][ 55]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.01-20.47.00:971][ 55]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.01-20.47.00:980][ 55]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.04.01-20.47.00:995][ 55]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.04.01-20.47.01:399][ 55]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.01-20.47.01:399][ 55]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.01-20.47.01:399][ 55]LogAudio: Display: Audio Device unregistered from world 'FirstPersonExampleMap'.
+[2022.04.01-20.47.01:399][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.01-20.47.01:403][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.01-20.47.01:422][ 55]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.01-20.47.01:438][ 55]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.01-20.47.01:466][ 55]LogExit: Preparing to exit.
+[2022.04.01-20.47.03:019][ 55]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-20.47.03:019][ 55]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-20.47.03:019][ 55]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-20.47.03:728][ 55]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-20.47.03:752][ 55]LogExit: Editor shut down
+[2022.04.01-20.47.03:757][ 55]LogExit: Transaction tracking system shut down
+[2022.04.01-20.47.03:835][ 55]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.01-20.47.07:552][ 55]LogExit: Object subsystem successfully closed.
+[2022.04.01-20.47.07:561][ 55]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.01-20.47.07:561][ 55]LogShaderCompilers: Display: Total job queries 501, among them cache hits 4 (0.80%)
+[2022.04.01-20.47.07:561][ 55]LogShaderCompilers: Display: Tracking 497 distinct input hashes that result in 236 distinct outputs (47.48%)
+[2022.04.01-20.47.07:562][ 55]LogShaderCompilers: Display: RAM used: 0.60 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.10%
+[2022.04.01-20.47.07:562][ 55]LogShaderCompilers: Display: ================================================
+[2022.04.01-20.47.07:588][ 55]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.01-20.47.09:488][ 55]LogModuleManager: Shutting down and abandoning module SequencerWidgets (849)
+[2022.04.01-20.47.09:488][ 55]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (847)
+[2022.04.01-20.47.09:488][ 55]LogModuleManager: Shutting down and abandoning module Voice (845)
+[2022.04.01-20.47.09:494][ 55]LogModuleManager: Shutting down and abandoning module TextureEditor (843)
+[2022.04.01-20.47.09:503][ 55]LogModuleManager: Shutting down and abandoning module MaterialEditor (841)
+[2022.04.01-20.47.09:503][ 55]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (839)
+[2022.04.01-20.47.09:503][ 55]LogModuleManager: Shutting down and abandoning module AddContentDialog (837)
+[2022.04.01-20.47.09:512][ 55]LogModuleManager: Shutting down and abandoning module WidgetCarousel (836)
+[2022.04.01-20.47.09:512][ 55]LogModuleManager: Shutting down and abandoning module EditorWidgets (833)
+[2022.04.01-20.47.09:512][ 55]LogModuleManager: Shutting down and abandoning module SceneOutliner (831)
+[2022.04.01-20.47.09:512][ 55]LogModuleManager: Shutting down and abandoning module StatusBar (829)
+[2022.04.01-20.47.09:512][ 55]LogModuleManager: Shutting down and abandoning module TimeManagement (827)
+[2022.04.01-20.47.09:512][ 55]LogModuleManager: Shutting down and abandoning module StatsViewer (825)
+[2022.04.01-20.47.09:532][ 55]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (823)
+[2022.04.01-20.47.09:533][ 55]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (821)
+[2022.04.01-20.47.09:542][ 55]LogModuleManager: Shutting down and abandoning module AutomationWorker (819)
+[2022.04.01-20.47.09:542][ 55]LogModuleManager: Shutting down and abandoning module SteamVREditor (817)
+[2022.04.01-20.47.09:542][ 55]LogModuleManager: Shutting down and abandoning module OculusMR (815)
+[2022.04.01-20.47.09:556][ 55]LogModuleManager: Shutting down and abandoning module GooglePADEditor (813)
+[2022.04.01-20.47.09:556][ 55]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (811)
+[2022.04.01-20.47.09:556][ 55]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (809)
+[2022.04.01-20.47.09:556][ 55]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (807)
+[2022.04.01-20.47.09:572][ 55]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (805)
+[2022.04.01-20.47.09:599][ 55]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (803)
+[2022.04.01-20.47.09:611][ 55]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (801)
+[2022.04.01-20.47.09:611][ 55]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (799)
+[2022.04.01-20.47.09:611][ 55]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (797)
+[2022.04.01-20.47.09:611][ 55]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (795)
+[2022.04.01-20.47.09:611][ 55]LogModuleManager: Shutting down and abandoning module WebMMedia (793)
+[2022.04.01-20.47.09:621][ 55]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (791)
+[2022.04.01-20.47.09:699][ 55]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (789)
+[2022.04.01-20.47.09:746][ 55]LogModuleManager: Shutting down and abandoning module SequenceRecorder (788)
+[2022.04.01-20.47.09:749][ 55]LogModuleManager: Shutting down and abandoning module PlanarCut (785)
+[2022.04.01-20.47.09:762][ 55]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (783)
+[2022.04.01-20.47.09:762][ 55]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (781)
+[2022.04.01-20.47.09:763][ 55]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (779)
+[2022.04.01-20.47.09:763][ 55]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (777)
+[2022.04.01-20.47.09:763][ 55]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (775)
+[2022.04.01-20.47.09:763][ 55]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (773)
+[2022.04.01-20.47.09:764][ 55]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (771)
+[2022.04.01-20.47.09:764][ 55]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (769)
+[2022.04.01-20.47.09:764][ 55]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (767)
+[2022.04.01-20.47.09:764][ 55]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (765)
+[2022.04.01-20.47.09:764][ 55]LogModuleManager: Shutting down and abandoning module CharacterAI (763)
+[2022.04.01-20.47.09:764][ 55]LogModuleManager: Shutting down and abandoning module TextureAlignMode (761)
+[2022.04.01-20.47.09:764][ 55]LogModuleManager: Shutting down and abandoning module BspMode (759)
+[2022.04.01-20.47.09:775][ 55]LogModuleManager: Shutting down and abandoning module GeometryMode (757)
+[2022.04.01-20.47.09:775][ 55]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (755)
+[2022.04.01-20.47.09:787][ 55]LogModuleManager: Shutting down and abandoning module SmartSnapping (753)
+[2022.04.01-20.47.09:787][ 55]LogModuleManager: Shutting down and abandoning module SessionServices (751)
+[2022.04.01-20.47.09:787][ 55]LogModuleManager: Shutting down and abandoning module MeshPaint (749)
+[2022.04.01-20.47.09:805][ 55]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (747)
+[2022.04.01-20.47.09:805][ 55]LogModuleManager: Shutting down and abandoning module PlacementMode (746)
+[2022.04.01-20.47.09:806][ 55]LogModuleManager: Shutting down and abandoning module FoliageEdit (743)
+[2022.04.01-20.47.09:816][ 55]LogModuleManager: Shutting down and abandoning module LandscapeEditor (741)
+[2022.04.01-20.47.09:821][ 55]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (739)
+[2022.04.01-20.47.09:821][ 55]LogModuleManager: Shutting down and abandoning module ActorPickerMode (737)
+[2022.04.01-20.47.09:822][ 55]LogModuleManager: Shutting down and abandoning module ViewportSnapping (735)
+[2022.04.01-20.47.09:822][ 55]LogModuleManager: Shutting down and abandoning module ViewportInteraction (733)
+[2022.04.01-20.47.09:822][ 55]LogModuleManager: Shutting down and abandoning module ClothPainter (731)
+[2022.04.01-20.47.09:847][ 55]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (730)
+[2022.04.01-20.47.09:862][ 55]LogModuleManager: Shutting down and abandoning module LogVisualizer (727)
+[2022.04.01-20.47.09:933][ 55]LogModuleManager: Shutting down and abandoning module IntroTutorials (725)
+[2022.04.01-20.47.09:938][ 55]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (724)
+[2022.04.01-20.47.09:953][ 55]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (721)
+[2022.04.01-20.47.09:953][ 55]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (719)
+[2022.04.01-20.47.09:960][ 55]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (717)
+[2022.04.01-20.47.09:960][ 55]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (716)
+[2022.04.01-20.47.11:019][ 55]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (713)
+[2022.04.01-20.47.11:019][ 55]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (711)
+[2022.04.01-20.47.11:019][ 55]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (709)
+[2022.04.01-20.47.11:019][ 55]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (707)
+[2022.04.01-20.47.11:019][ 55]LogModuleManager: Shutting down and abandoning module EditorConfig (705)
+[2022.04.01-20.47.11:019][ 55]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (703)
+[2022.04.01-20.47.11:034][ 55]LogModuleManager: Shutting down and abandoning module EditorFramework (701)
+[2022.04.01-20.47.11:034][ 55]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (699)
+[2022.04.01-20.47.11:052][ 55]LogModuleManager: Shutting down and abandoning module TraceInsights (697)
+[2022.04.01-20.47.11:100][ 55]MemoryProfiler: Shutdown
+[2022.04.01-20.47.11:114][ 55]NetworkingProfiler: Shutdown
+[2022.04.01-20.47.11:123][ 55]LoadingProfiler: Shutdown
+[2022.04.01-20.47.11:124][ 55]TimingProfiler: Shutdown
+[2022.04.01-20.47.11:141][ 55]LogModuleManager: Shutting down and abandoning module TraceServices (696)
+[2022.04.01-20.47.11:155][ 55]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (693)
+[2022.04.01-20.47.11:155][ 55]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (692)
+[2022.04.01-20.47.11:169][ 55]LogModuleManager: Shutting down and abandoning module InputBindingEditor (688)
+[2022.04.01-20.47.11:179][ 55]LogModuleManager: Shutting down and abandoning module MergeActors (686)
+[2022.04.01-20.47.11:276][ 55]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (684)
+[2022.04.01-20.47.11:592][ 55]LogModuleManager: Shutting down and abandoning module LocalizationService (683)
+[2022.04.01-20.47.11:597][ 55]LogModuleManager: Shutting down and abandoning module HardwareTargeting (680)
+[2022.04.01-20.47.11:597][ 55]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (678)
+[2022.04.01-20.47.11:606][ 55]LogModuleManager: Shutting down and abandoning module UndoHistory (676)
+[2022.04.01-20.47.11:615][ 55]LogModuleManager: Shutting down and abandoning module XmlParser (674)
+[2022.04.01-20.47.11:619][ 55]LogModuleManager: Shutting down and abandoning module Blutility (672)
+[2022.04.01-20.47.11:619][ 55]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (670)
+[2022.04.01-20.47.11:620][ 55]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (669)
+[2022.04.01-20.47.11:620][ 55]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (666)
+[2022.04.01-20.47.11:620][ 55]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (665)
+[2022.04.01-20.47.11:620][ 55]LogModuleManager: Shutting down and abandoning module SettingsEditor (662)
+[2022.04.01-20.47.11:640][ 55]LogModuleManager: Shutting down and abandoning module ProjectLauncher (660)
+[2022.04.01-20.47.11:649][ 55]LogModuleManager: Shutting down and abandoning module SessionFrontend (658)
+[2022.04.01-20.47.11:657][ 55]LogModuleManager: Shutting down and abandoning module ProfilerClient (656)
+[2022.04.01-20.47.11:669][ 55]LogModuleManager: Shutting down and abandoning module DeviceManager (654)
+[2022.04.01-20.47.11:679][ 55]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (653)
+[2022.04.01-20.47.11:690][ 55]LogModuleManager: Shutting down and abandoning module AutomationController (650)
+[2022.04.01-20.47.11:703][ 55]LogModuleManager: Shutting down and abandoning module AutomationWindow (648)
+[2022.04.01-20.47.11:713][ 55]LogModuleManager: Shutting down and abandoning module Layers (646)
+[2022.04.01-20.47.11:726][ 55]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (644)
+[2022.04.01-20.47.11:726][ 55]LogModuleManager: Shutting down and abandoning module DetailCustomizations (642)
+[2022.04.01-20.47.11:739][ 55]LogModuleManager: Shutting down and abandoning module PackagesDialog (640)
+[2022.04.01-20.47.11:749][ 55]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (638)
+[2022.04.01-20.47.11:825][ 55]LogModuleManager: Shutting down and abandoning module Persona (636)
+[2022.04.01-20.47.11:846][ 55]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (635)
+[2022.04.01-20.47.11:846][ 55]LogModuleManager: Shutting down and abandoning module AnimGraph (633)
+[2022.04.01-20.47.11:854][ 55]LogModuleManager: Shutting down and abandoning module Kismet (630)
+[2022.04.01-20.47.11:876][ 55]LogModuleManager: Shutting down and abandoning module KismetWidgets (629)
+[2022.04.01-20.47.11:876][ 55]LogModuleManager: Shutting down and abandoning module GraphEditor (626)
+[2022.04.01-20.47.11:876][ 55]LogModuleManager: Shutting down and abandoning module StructViewer (624)
+[2022.04.01-20.47.11:876][ 55]LogModuleManager: Shutting down and abandoning module ClassViewer (622)
+[2022.04.01-20.47.11:876][ 55]LogModuleManager: Shutting down and abandoning module SourceControlWindows (620)
+[2022.04.01-20.47.11:888][ 55]LogModuleManager: Shutting down and abandoning module OutputLog (618)
+[2022.04.01-20.47.11:888][ 55]LogModuleManager: Shutting down and abandoning module Documentation (616)
+[2022.04.01-20.47.11:889][ 55]LogModuleManager: Shutting down and abandoning module LiveCoding (614)
+[2022.04.01-20.47.11:910][ 55]LogModuleManager: Shutting down and abandoning module LevelSequence (612)
+[2022.04.01-20.47.11:910][ 55]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (610)
+[2022.04.01-20.47.11:910][ 55]LogModuleManager: Shutting down and abandoning module MovieScene (608)
+[2022.04.01-20.47.11:910][ 55]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (606)
+[2022.04.01-20.47.11:921][ 55]LogModuleManager: Shutting down and abandoning module LauncherPlatform (604)
+[2022.04.01-20.47.11:921][ 55]LogModuleManager: Shutting down and abandoning module AnalyticsET (602)
+[2022.04.01-20.47.11:926][ 55]LogModuleManager: Shutting down and abandoning module PortalServices (600)
+[2022.04.01-20.47.11:926][ 55]LogModuleManager: Shutting down and abandoning module PortalRpc (598)
+[2022.04.01-20.47.11:926][ 55]LogModuleManager: Shutting down and abandoning module MessagingRpc (596)
+[2022.04.01-20.47.11:926][ 55]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (594)
+[2022.04.01-20.47.11:926][ 55]LogModuleManager: Shutting down and abandoning module AudioMixerCore (593)
+[2022.04.01-20.47.11:926][ 55]LogModuleManager: Shutting down and abandoning module AIModule (590)
+[2022.04.01-20.47.11:926][ 55]LogModuleManager: Shutting down and abandoning module GameplayDebugger (589)
+[2022.04.01-20.47.11:926][ 55]LogModuleManager: Shutting down and abandoning module AITestSuite (587)
+[2022.04.01-20.47.11:930][ 55]LogModuleManager: Shutting down and abandoning module NavigationSystem (585)
+[2022.04.01-20.47.11:930][ 55]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (582)
+[2022.04.01-20.47.11:941][ 55]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (580)
+[2022.04.01-20.47.11:941][ 55]LogModuleManager: Shutting down and abandoning module TypedElementFramework (578)
+[2022.04.01-20.47.11:941][ 55]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (576)
+[2022.04.01-20.47.11:946][ 55]LogModuleManager: Shutting down and abandoning module ProfilerService (574)
+[2022.04.01-20.47.12:007][ 55]LogModuleManager: Shutting down and abandoning module TaskGraph (572)
+[2022.04.01-20.47.12:055][ 55]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (570)
+[2022.04.01-20.47.12:055][ 55]LogModuleManager: Shutting down and abandoning module MegascansPlugin (568)
+[2022.04.01-20.47.12:335][ 55]LogModuleManager: Shutting down and abandoning module Bridge (566)
+[2022.04.01-20.47.12:335][ 55]LogModuleManager: Shutting down and abandoning module OculusEditor (564)
+[2022.04.01-20.47.12:343][ 55]LogModuleManager: Shutting down and abandoning module OculusInput (562)
+[2022.04.01-20.47.12:343][ 55]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (560)
+[2022.04.01-20.47.12:343][ 55]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (558)
+[2022.04.01-20.47.12:343][ 55]LogModuleManager: Shutting down and abandoning module CollectionManager (557)
+[2022.04.01-20.47.12:354][ 55]LogModuleManager: Shutting down and abandoning module SynthesisEditor (554)
+[2022.04.01-20.47.12:354][ 55]LogModuleManager: Shutting down and abandoning module Synthesis (552)
+[2022.04.01-20.47.12:371][ 55]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (550)
+[2022.04.01-20.47.12:393][ 55]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (548)
+[2022.04.01-20.47.12:393][ 55]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (546)
+[2022.04.01-20.47.12:393][ 55]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (544)
+[2022.04.01-20.47.12:407][ 55]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (542)
+[2022.04.01-20.47.12:414][ 55]LogModuleManager: Shutting down and abandoning module InterchangePipelines (540)
+[2022.04.01-20.47.12:414][ 55]LogModuleManager: Shutting down and abandoning module InterchangeExport (538)
+[2022.04.01-20.47.12:414][ 55]LogModuleManager: Shutting down and abandoning module InterchangeImport (536)
+[2022.04.01-20.47.12:419][ 55]LogModuleManager: Shutting down and abandoning module InterchangeNodes (534)
+[2022.04.01-20.47.12:419][ 55]LogModuleManager: Shutting down and abandoning module ScreenshotTools (532)
+[2022.04.01-20.47.12:419][ 55]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (530)
+[2022.04.01-20.47.12:423][ 55]LogModuleManager: Shutting down and abandoning module GooglePAD (528)
+[2022.04.01-20.47.12:423][ 55]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (526)
+[2022.04.01-20.47.12:423][ 55]LogModuleManager: Shutting down and abandoning module CableComponent (524)
+[2022.04.01-20.47.12:423][ 55]LogModuleManager: Shutting down and abandoning module AudioCapture (522)
+[2022.04.01-20.47.12:423][ 55]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (521)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module AssetTags (518)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (516)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (514)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module AppleImageUtils (512)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module AndroidPermission (510)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (508)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (506)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module TemplateSequence (504)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module MediaCompositing (502)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (500)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module MotoSynth (498)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (496)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module ImgMedia (494)
+[2022.04.01-20.47.12:428][ 55]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (492)
+[2022.04.01-20.47.12:444][ 55]LogModuleManager: Shutting down and abandoning module MeshModelingTools (490)
+[2022.04.01-20.47.12:457][ 55]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (488)
+[2022.04.01-20.47.12:464][ 55]LogModuleManager: Shutting down and abandoning module ModelingOperators (486)
+[2022.04.01-20.47.12:475][ 55]LogModuleManager: Shutting down and abandoning module ModelingComponents (484)
+[2022.04.01-20.47.12:479][ 55]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (482)
+[2022.04.01-20.47.12:480][ 55]LogModuleManager: Shutting down and abandoning module MeshConversion (480)
+[2022.04.01-20.47.12:487][ 55]LogModuleManager: Shutting down and abandoning module DynamicMesh (478)
+[2022.04.01-20.47.12:497][ 55]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (476)
+[2022.04.01-20.47.12:554][ 55]LogModuleManager: Shutting down and abandoning module GeometricObjects (474)
+[2022.04.01-20.47.12:566][ 55]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (472)
+[2022.04.01-20.47.12:566][ 55]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (470)
+[2022.04.01-20.47.12:566][ 55]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (468)
+[2022.04.01-20.47.12:576][ 55]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (466)
+[2022.04.01-20.47.12:576][ 55]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (465)
+[2022.04.01-20.47.12:576][ 55]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (462)
+[2022.04.01-20.47.12:584][ 55]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (460)
+[2022.04.01-20.47.12:595][ 55]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (458)
+[2022.04.01-20.47.12:595][ 55]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (456)
+[2022.04.01-20.47.12:699][ 55]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (454)
+[2022.04.01-20.47.12:700][ 55]LogModuleManager: Shutting down and abandoning module PluginBrowser (452)
+[2022.04.01-20.47.12:719][ 55]LogModuleManager: Shutting down and abandoning module UObjectPlugin (450)
+[2022.04.01-20.47.12:719][ 55]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (448)
+[2022.04.01-20.47.12:719][ 55]LogModuleManager: Shutting down and abandoning module ChaosNiagara (446)
+[2022.04.01-20.47.12:724][ 55]LogModuleManager: Shutting down and abandoning module FractureEditor (444)
+[2022.04.01-20.47.12:742][ 55]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (442)
+[2022.04.01-20.47.12:742][ 55]LogModuleManager: Shutting down and abandoning module BackChannel (440)
+[2022.04.01-20.47.12:823][ 55]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (438)
+[2022.04.01-20.47.12:824][ 55]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (436)
+[2022.04.01-20.47.12:824][ 55]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (434)
+[2022.04.01-20.47.12:824][ 55]LogModuleManager: Shutting down and abandoning module AutomationUtils (432)
+[2022.04.01-20.47.12:824][ 55]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (430)
+[2022.04.01-20.47.12:836][ 55]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (428)
+[2022.04.01-20.47.12:850][ 55]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2022.04.01-20.47.12:861][ 55]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2022.04.01-20.47.12:875][ 55]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2022.04.01-20.47.12:875][ 55]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2022.04.01-20.47.12:875][ 55]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (418)
+[2022.04.01-20.47.12:875][ 55]LogModuleManager: Shutting down and abandoning module PluginUtils (416)
+[2022.04.01-20.47.12:882][ 55]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (414)
+[2022.04.01-20.47.12:898][ 55]LogModuleManager: Shutting down and abandoning module GitSourceControl (412)
+[2022.04.01-20.47.12:924][ 55]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (410)
+[2022.04.01-20.47.12:924][ 55]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (408)
+[2022.04.01-20.47.12:934][ 55]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (406)
+[2022.04.01-20.47.12:934][ 55]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (404)
+[2022.04.01-20.47.12:942][ 55]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (402)
+[2022.04.01-20.47.12:942][ 55]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (400)
+[2022.04.01-20.47.12:959][ 55]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (398)
+[2022.04.01-20.47.12:968][ 55]LogModuleManager: Shutting down and abandoning module InterchangeEditor (396)
+[2022.04.01-20.47.12:968][ 55]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (394)
+[2022.04.01-20.47.12:968][ 55]LogModuleManager: Shutting down and abandoning module EditorDebugTools (392)
+[2022.04.01-20.47.12:977][ 55]LogModuleManager: Shutting down and abandoning module CurveEditorTools (390)
+[2022.04.01-20.47.12:988][ 55]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (388)
+[2022.04.01-20.47.12:988][ 55]LogModuleManager: Shutting down and abandoning module CryptoKeys (386)
+[2022.04.01-20.47.12:988][ 55]LogModuleManager: Shutting down and abandoning module GameplayCameras (384)
+[2022.04.01-20.47.12:988][ 55]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (382)
+[2022.04.01-20.47.12:988][ 55]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (380)
+[2022.04.01-20.47.12:988][ 55]LogModuleManager: Shutting down and abandoning module Paper2DEditor (378)
+[2022.04.01-20.47.13:007][ 55]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (376)
+[2022.04.01-20.47.13:014][ 55]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (374)
