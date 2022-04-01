@@ -1266,3 +1266,210 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.04.01-22.47.15:159][141]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Jnix_SciFi_Wall2.Jnix_SciFi_Wall2
 [2022.04.01-22.47.15:159][141]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Jnix_Boiler.Jnix_Boiler
 [2022.04.01-22.47.15:159][141]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Jnix_WaterHeater.Jnix_WaterHeater
+[2022.04.01-22.48.46:315][966]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Boiler\Boiler_Textures/Boiler_BaseColor.png)
+[2022.04.01-22.48.46:368][966]LogTexture: Display: Building textures: Boiler_BaseColor (AutoDXT, 1024X1024)
+[2022.04.01-22.48.46:368][966]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Boiler\Boiler_Textures/Boiler_Normal.png)
+[2022.04.01-22.48.46:429][966]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Boiler\Boiler_Textures/Boiler_OcclusionRoughnessMetallic.png)
+[2022.04.01-22.48.46:475][966]LogTexture: Display: Building textures: Boiler_Normal (BC5, 1024X1024)
+[2022.04.01-22.48.46:504][966]LogTexture: Display: Building textures: Boiler_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.01-22.49.22:664][510]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet1_textures\Cor_Sheet1_Tex/Corrugated_Sheet1_BaseColor.png)
+[2022.04.01-22.49.22:700][510]LogTexture: Display: Building textures: Corrugated_Sheet1_BaseColor (AutoDXT, 1024X1024)
+[2022.04.01-22.49.22:700][510]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet1_textures\Cor_Sheet1_Tex/Corrugated_Sheet1_Normal.png)
+[2022.04.01-22.49.22:747][510]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet1_textures\Cor_Sheet1_Tex/Corrugated_Sheet1_OcclusionRoughnessMetallic.png)
+[2022.04.01-22.49.22:793][510]LogTexture: Display: Building textures: Corrugated_Sheet1_Normal (BC5, 1024X1024)
+[2022.04.01-22.49.22:793][510]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.04.01-22.49.22:810][510]LogTexture: Display: Building textures: Corrugated_Sheet1_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.01-22.49.36:191][666]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet2_textures\Cor_Sheet2_tex/Corrugated_Sheet2_BaseColor.png)
+[2022.04.01-22.49.36:242][666]LogTexture: Display: Building textures: Corrugated_Sheet2_BaseColor (AutoDXT, 1024X1024)
+[2022.04.01-22.49.36:242][666]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet2_textures\Cor_Sheet2_tex/Corrugated_Sheet2_Normal.png)
+[2022.04.01-22.49.36:305][666]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet2_textures\Cor_Sheet2_tex/Corrugated_Sheet2_OcclusionRoughnessMetallic.png)
+[2022.04.01-22.49.36:350][666]LogTexture: Display: Building textures: Corrugated_Sheet2_Normal (BC5, 1024X1024)
+[2022.04.01-22.49.36:350][666]LogTexture: Display: Building textures: Corrugated_Sheet2_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.01-22.49.36:351][666]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.04.01-22.49.54:715][230]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet3_textures\Cor_Sheet3_tex/Corrugated_Sheet3_BaseColor.png)
+[2022.04.01-22.49.54:767][230]LogTexture: Display: Building textures: Corrugated_Sheet3_BaseColor (AutoDXT, 1024X1024)
+[2022.04.01-22.49.54:767][230]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet3_textures\Cor_Sheet3_tex/Corrugated_Sheet3_Normal.png)
+[2022.04.01-22.49.54:829][230]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet3_textures\Cor_Sheet3_tex/Corrugated_Sheet3_OcclusionRoughnessMetallic.png)
+[2022.04.01-22.49.54:877][230]LogTexture: Display: Building textures: Corrugated_Sheet3_Normal (BC5, 1024X1024)
+[2022.04.01-22.49.54:877][230]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.04.01-22.49.54:918][230]LogTexture: Display: Building textures: Corrugated_Sheet3_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.01-22.50.04:902][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet4_textures\Cor_Sheet4_Textures/Corrugated_Sheet4_BaseColor.png)
+[2022.04.01-22.50.04:943][335]LogTexture: Display: Building textures: Corrugated_Sheet4_BaseColor (AutoDXT, 1024X1024)
+[2022.04.01-22.50.04:943][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet4_textures\Cor_Sheet4_Textures/Corrugated_Sheet4_Normal.png)
+[2022.04.01-22.50.05:001][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet4_textures\Cor_Sheet4_Textures/Corrugated_Sheet4_OcclusionRoughnessMetallic.png)
+[2022.04.01-22.50.05:037][335]LogTexture: Display: Building textures: Corrugated_Sheet4_Normal (BC5, 1024X1024)
+[2022.04.01-22.50.05:037][335]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.04.01-22.50.05:073][335]LogTexture: Display: Building textures: Corrugated_Sheet4_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.01-22.50.15:368][527]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet5_textures\Cor_Sheet5_tex/Corrugated_Sheet5_BaseColor.png)
+[2022.04.01-22.50.15:409][527]LogTexture: Display: Building textures: Corrugated_Sheet5_BaseColor (AutoDXT, 1024X1024)
+[2022.04.01-22.50.15:409][527]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet5_textures\Cor_Sheet5_tex/Corrugated_Sheet5_Normal.png)
+[2022.04.01-22.50.15:471][527]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet5_textures\Cor_Sheet5_tex/Corrugated_Sheet5_OcclusionRoughnessMetallic.png)
+[2022.04.01-22.50.15:506][527]LogTexture: Display: Building textures: Corrugated_Sheet5_Normal (BC5, 1024X1024)
+[2022.04.01-22.50.15:507][527]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.04.01-22.50.15:522][527]LogTexture: Display: Building textures: Corrugated_Sheet5_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.01-22.50.43:112][831]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet6_textures/Corrugated_Sheet6.fbx)
+[2022.04.01-22.50.43:119][831]LogFbx: Loading FBX Scene from F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet6_textures/Corrugated_Sheet6.fbx
+[2022.04.01-22.50.43:124][831]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.01-22.50.44:510][831]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.01-22.50.44:863][831]LogFbx: Display: Triangulating static mesh Corrugated_Sheet6
+[2022.04.01-22.50.44:871][831]LogStaticMesh: Display: Building static mesh Corrugated_Sheet6...
+[2022.04.01-22.50.44:878][831]LogStaticMesh: Built static mesh [0.01s] /Game/Materials/Textures/Sheet6_textures/Corrugated_Sheet6.Corrugated_Sheet6
+[2022.04.01-22.50.44:883][831]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.01-22.50.44:942][831]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet6_textures/Cor_sheet6_tex/Corrugated_Sheet6_BaseColor.png)
+[2022.04.01-22.50.44:982][831]LogTexture: Display: Building textures: Corrugated_Sheet6_BaseColor (AutoDXT, 1024X1024)
+[2022.04.01-22.50.44:982][831]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet6_textures/Cor_sheet6_tex/Corrugated_Sheet6_Normal.png)
+[2022.04.01-22.50.45:051][831]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet6_textures/Cor_sheet6_tex/Corrugated_Sheet6_OcclusionRoughnessMetallic.png)
+[2022.04.01-22.50.45:098][831]LogTexture: Display: Building textures: Corrugated_Sheet6_Normal (BC5, 1024X1024)
+[2022.04.01-22.50.45:098][831]LogTexture: Display: Building textures: Corrugated_Sheet6_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.01-22.50.52:829][264]Cmd: TRANSACTION UNDO
+[2022.04.01-22.50.52:829][264]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.01-22.50.59:660][649]LogSlate: Window 'Message Log' being destroyed
+[2022.04.01-22.50.59:665][649]LogSlate: Window 'Message Log' being destroyed
+[2022.04.01-22.51.27:999][312]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet6_textures\Corrugated_Sheet6.fbx)
+[2022.04.01-22.51.28:005][312]LogFbx: Loading FBX Scene from F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet6_textures\Corrugated_Sheet6.fbx
+[2022.04.01-22.51.28:010][312]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.01-22.51.29:038][312]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.01-22.51.29:203][312]LogFbx: Display: Triangulating static mesh Corrugated_Sheet6
+[2022.04.01-22.51.29:210][312]LogStaticMesh: Display: Building static mesh Corrugated_Sheet6...
+[2022.04.01-22.51.29:217][312]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Corrugated_Sheet6.Corrugated_Sheet6
+[2022.04.01-22.51.29:223][312]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.01-22.51.31:548][442]LogSlate: Window 'Message Log' being destroyed
+[2022.04.01-22.51.31:553][442]LogSlate: Window 'Message Log' being destroyed
+[2022.04.01-22.51.46:675][635]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet5_textures\Jnix_Corrugated_Sheet5.fbx)
+[2022.04.01-22.51.46:681][635]LogFbx: Loading FBX Scene from F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet5_textures\Jnix_Corrugated_Sheet5.fbx
+[2022.04.01-22.51.46:687][635]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.01-22.51.47:737][635]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.01-22.51.47:906][635]LogFbx: Display: Triangulating static mesh Corrugated_Sheet5
+[2022.04.01-22.51.47:914][635]LogStaticMesh: Display: Building static mesh Jnix_Corrugated_Sheet5...
+[2022.04.01-22.51.47:919][635]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Jnix_Corrugated_Sheet5.Jnix_Corrugated_Sheet5
+[2022.04.01-22.51.47:931][635]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.01-22.51.57:863][679]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet4_textures\Jnix_Corrugated_Sheet4.fbx)
+[2022.04.01-22.51.57:869][679]LogFbx: Loading FBX Scene from F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet4_textures\Jnix_Corrugated_Sheet4.fbx
+[2022.04.01-22.51.57:874][679]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.01-22.51.59:014][679]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.01-22.51.59:120][679]LogFbx: Display: Triangulating static mesh Corrugated_Sheet4
+[2022.04.01-22.51.59:131][679]LogStaticMesh: Display: Building static mesh Jnix_Corrugated_Sheet4...
+[2022.04.01-22.51.59:139][679]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Jnix_Corrugated_Sheet4.Jnix_Corrugated_Sheet4
+[2022.04.01-22.51.59:145][679]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.01-22.52.11:252][759]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet3_textures\Jnix_Corrugated_Sheet3.fbx)
+[2022.04.01-22.52.11:259][759]LogFbx: Loading FBX Scene from F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet3_textures\Jnix_Corrugated_Sheet3.fbx
+[2022.04.01-22.52.11:264][759]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.01-22.52.12:184][759]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.01-22.52.12:249][759]LogFbx: Display: Triangulating static mesh Corrugated_Sheet3
+[2022.04.01-22.52.12:255][759]LogStaticMesh: Display: Building static mesh Jnix_Corrugated_Sheet3...
+[2022.04.01-22.52.12:259][759]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Jnix_Corrugated_Sheet3.Jnix_Corrugated_Sheet3
+[2022.04.01-22.52.12:264][759]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.01-22.52.12:276][759]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.04.01-22.52.23:793][843]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet2_textures\Jnix_Corrugated_Sheet2.fbx)
+[2022.04.01-22.52.23:799][843]LogFbx: Loading FBX Scene from F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet2_textures\Jnix_Corrugated_Sheet2.fbx
+[2022.04.01-22.52.23:804][843]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.01-22.52.24:950][843]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.01-22.52.25:046][843]LogFbx: Display: Triangulating static mesh Corrugated_Sheet2
+[2022.04.01-22.52.25:052][843]LogStaticMesh: Display: Building static mesh Jnix_Corrugated_Sheet2...
+[2022.04.01-22.52.25:058][843]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Jnix_Corrugated_Sheet2.Jnix_Corrugated_Sheet2
+[2022.04.01-22.52.25:064][843]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.01-22.52.25:081][843]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.04.01-22.52.38:483][954]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet1_textures\Jnix_Corrugated_Sheet1.fbx)
+[2022.04.01-22.52.38:489][954]LogFbx: Loading FBX Scene from F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet1_textures\Jnix_Corrugated_Sheet1.fbx
+[2022.04.01-22.52.38:494][954]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.01-22.52.39:632][954]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.01-22.52.39:700][954]LogFbx: Display: Triangulating static mesh Corrugated_Sheet1
+[2022.04.01-22.52.39:712][954]LogStaticMesh: Display: Building static mesh Jnix_Corrugated_Sheet1...
+[2022.04.01-22.52.39:718][954]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Jnix_Corrugated_Sheet1.Jnix_Corrugated_Sheet1
+[2022.04.01-22.52.39:725][954]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.01-22.52.39:749][954]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1590)].
+[2022.04.01-22.52.40:926][ 12]LogSlate: Window 'Message Log' being destroyed
+[2022.04.01-22.52.40:932][ 12]LogSlate: Window 'Message Log' being destroyed
+[2022.04.01-22.52.46:203][395]LogContentBrowser: Attempting asset rename: Corrugated_Sheet6 -> Corrugated_Sheet6
+[2022.04.01-22.52.54:208][874]LogContentBrowser: Attempting asset rename: Corrugated_Sheet6 -> Jnix_Corrugated_Sheet6
+[2022.04.01-22.52.54:258][874]LogMetaData: Removing '/Game/Meshes/Jnix_Corrugated_Sheet6.Jnix_Corrugated_Sheet6' ref from Metadata '/Game/Meshes/Corrugated_Sheet6.PackageMetaData'
+[2022.04.01-22.52.54:330][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Jnix_Corrugated_Sheet6" FILE="F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Jnix_Corrugated_Sheet6.uasset" SILENT=true
+[2022.04.01-22.52.54:485][874]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Jnix_Corrugated_Sheet6AAB42B184EE715E27992F1A98AA9A5F1.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Jnix_Corrugated_Sheet6.uasset'
+[2022.04.01-22.52.54:613][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.04.01-22.52.54:627][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.01-22.52.54:632][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.04.01-22.52.54:634][874]AssetCheck: New page: Asset Save: Jnix_Corrugated_Sheet6
+[2022.04.01-22.52.54:634][874]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Jnix_Corrugated_Sheet6.Jnix_Corrugated_Sheet6
+[2022.04.01-22.53.13:453][733]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet6_textures\Cor_sheet6_tex/Corrugated_Sheet6_BaseColor.png)
+[2022.04.01-22.53.13:489][733]LogTexture: Display: Building textures: Corrugated_Sheet6_BaseColor (AutoDXT, 1024X1024)
+[2022.04.01-22.53.13:489][733]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet6_textures\Cor_sheet6_tex/Corrugated_Sheet6_Normal.png)
+[2022.04.01-22.53.13:550][733]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PlugN_Play\Models3.0\Upload_Folder\Corrugated_Sheets\Sheet6_textures\Cor_sheet6_tex/Corrugated_Sheet6_OcclusionRoughnessMetallic.png)
+[2022.04.01-22.53.13:596][733]LogTexture: Display: Building textures: Corrugated_Sheet6_Normal (BC5, 1024X1024)
+[2022.04.01-22.53.13:596][733]LogTexture: Display: Building textures: Corrugated_Sheet6_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.01-22.53.19:794][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.04.01-22.53.20:267][992]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMapB0C7011143A4F370B398DE8B63A7AA20.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.01-22.53.20:905][992]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.01-22.53.22:259][992]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap_BuiltDataAF4DCABD49E3157E71D37CBBE5FDC0CC.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.01-22.53.22:323][992]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.01-22.53.22:333][992]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.01-22.53.22:333][992]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.01-22.53.22:333][992]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.01-22.53.42:485][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.01-22.53.42:918][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Boiler_BaseColor94F881A24BE8163E6E79E3B8AD65B690.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Boiler_Textures/Boiler_BaseColor.uasset'
+[2022.04.01-22.53.43:227][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Boiler_NormalE6BA690A4C431D89622163AAEC144C3C.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Boiler_Textures/Boiler_Normal.uasset'
+[2022.04.01-22.53.43:460][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Boiler_OcclusionRoughnessMetalliFDA7D7404C909872180929911573AA5C.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Boiler_Textures/Boiler_OcclusionRoughnessMetallic.uasset'
+[2022.04.01-22.53.43:770][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet1_BaseColorD210FECA444D15E7311F72AF3215C10B.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet1_Tex/Corrugated_Sheet1_BaseColor.uasset'
+[2022.04.01-22.53.44:058][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet1_Normal514D20934345C05B2F031E99A4477BBF.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet1_Tex/Corrugated_Sheet1_Normal.uasset'
+[2022.04.01-22.53.44:367][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet1_OcclusionRough9D11B032491A141434F2078CB579030D.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet1_Tex/Corrugated_Sheet1_OcclusionRoughnessMetallic.uasset'
+[2022.04.01-22.53.44:754][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet2_BaseColor646C613241FBD43C6FC2BB97CC2F410F.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet2_tex/Corrugated_Sheet2_BaseColor.uasset'
+[2022.04.01-22.53.45:086][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet2_Normal165DE6A6456C1D4636CA5D82F1903011.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet2_tex/Corrugated_Sheet2_Normal.uasset'
+[2022.04.01-22.53.45:396][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet2_OcclusionRough279986C3469A2227C704D5A21A02D111.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet2_tex/Corrugated_Sheet2_OcclusionRoughnessMetallic.uasset'
+[2022.04.01-22.53.45:772][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet3_BaseColorA0EA389042024C04D996FA899364E11E.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet3_tex/Corrugated_Sheet3_BaseColor.uasset'
+[2022.04.01-22.53.46:104][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet3_NormalC5C869004444E3D9A21695ABAF3E3875.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet3_tex/Corrugated_Sheet3_Normal.uasset'
+[2022.04.01-22.53.46:413][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet3_OcclusionRough557A271845A5DCB33500F6BC7CC9C3BC.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet3_tex/Corrugated_Sheet3_OcclusionRoughnessMetallic.uasset'
+[2022.04.01-22.53.46:757][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet4_BaseColorC14D24294FA3F126C9D9E9994D039A5D.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet4_Textures/Corrugated_Sheet4_BaseColor.uasset'
+[2022.04.01-22.53.47:055][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet4_Normal7C3FBEA4465373C11D0CC8A7C1FA1926.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet4_Textures/Corrugated_Sheet4_Normal.uasset'
+[2022.04.01-22.53.47:376][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet4_OcclusionRough86F122EA4EB02E5AAA1E028FFF9EC0C0.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet4_Textures/Corrugated_Sheet4_OcclusionRoughnessMetallic.uasset'
+[2022.04.01-22.53.47:719][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet5_BaseColorB344DFC347AEE192623F23AC8C7735EC.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet5_tex/Corrugated_Sheet5_BaseColor.uasset'
+[2022.04.01-22.53.48:139][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet5_NormalB32C9AE543C3A4B9922AC2A27A599EDA.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet5_tex/Corrugated_Sheet5_Normal.uasset'
+[2022.04.01-22.53.48:449][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet5_OcclusionRough9E88AD704972C9E4852306B7FD020723.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_Sheet5_tex/Corrugated_Sheet5_OcclusionRoughnessMetallic.uasset'
+[2022.04.01-22.53.48:625][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet6FB16ADD4467323978AB448A65E2B363F.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Sheet6_textures/Corrugated_Sheet6.uasset'
+[2022.04.01-22.53.49:002][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet6_BaseColorBF69C8504CFD5CD7A4918F80F1896AD9.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Sheet6_textures/Cor_sheet6_tex/Corrugated_Sheet6_BaseColor.uasset'
+[2022.04.01-22.53.49:345][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet6_NormalE65787644978330450693B86187496D7.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Sheet6_textures/Cor_sheet6_tex/Corrugated_Sheet6_Normal.uasset'
+[2022.04.01-22.53.49:676][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet6_OcclusionRoughFD1FC00945DD9946AF23CD8FB7BF8C32.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Sheet6_textures/Cor_sheet6_tex/Corrugated_Sheet6_OcclusionRoughnessMetallic.uasset'
+[2022.04.01-22.53.49:751][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Jnix_Corrugated_Sheet5" FILE="F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Jnix_Corrugated_Sheet5.uasset" SILENT=true
+[2022.04.01-22.53.49:842][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Jnix_Corrugated_Sheet5D20C3E114E0B4BABAE07EA8D2305C6F5.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Jnix_Corrugated_Sheet5.uasset'
+[2022.04.01-22.53.49:873][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Jnix_Corrugated_Sheet4" FILE="F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Jnix_Corrugated_Sheet4.uasset" SILENT=true
+[2022.04.01-22.53.49:941][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Jnix_Corrugated_Sheet4A1D66C28409EF2913BFF1C837983AB70.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Jnix_Corrugated_Sheet4.uasset'
+[2022.04.01-22.53.50:006][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Jnix_Corrugated_Sheet3" FILE="F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Jnix_Corrugated_Sheet3.uasset" SILENT=true
+[2022.04.01-22.53.50:108][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Jnix_Corrugated_Sheet39A0D8EBA4BFE29948A34159E94993D6C.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Jnix_Corrugated_Sheet3.uasset'
+[2022.04.01-22.53.50:193][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Jnix_Corrugated_Sheet2" FILE="F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Jnix_Corrugated_Sheet2.uasset" SILENT=true
+[2022.04.01-22.53.50:262][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Jnix_Corrugated_Sheet2B576DE594EF52808187D839266F803E1.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Jnix_Corrugated_Sheet2.uasset'
+[2022.04.01-22.53.50:359][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Jnix_Corrugated_Sheet1" FILE="F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Jnix_Corrugated_Sheet1.uasset" SILENT=true
+[2022.04.01-22.53.50:439][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Jnix_Corrugated_Sheet147253A7F4B56F648800229804FF5CF6C.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Jnix_Corrugated_Sheet1.uasset'
+[2022.04.01-22.53.50:761][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet6_BaseColor544D50BA403B7F93932EA8A4F767BB3D.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_sheet6_tex/Corrugated_Sheet6_BaseColor.uasset'
+[2022.04.01-22.53.51:103][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet6_NormalEA14FBC147C1FBBCFB0DA98096F973E3.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_sheet6_tex/Corrugated_Sheet6_Normal.uasset'
+[2022.04.01-22.53.51:435][575]LogSavePackage: Moving 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Corrugated_Sheet6_OcclusionRough235EEEF34AF1A005CE0DA6A44FAC5032.tmp' to 'F:/GitKraken_/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Cor_sheet6_tex/Corrugated_Sheet6_OcclusionRoughnessMetallic.uasset'
+[2022.04.01-22.53.51:499][575]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.01-22.53.51:499][575]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Jnix_Corrugated_Sheet1.Jnix_Corrugated_Sheet1
+[2022.04.01-22.53.51:499][575]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Jnix_Corrugated_Sheet2.Jnix_Corrugated_Sheet2
+[2022.04.01-22.53.51:499][575]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Jnix_Corrugated_Sheet3.Jnix_Corrugated_Sheet3
+[2022.04.01-22.53.51:499][575]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Jnix_Corrugated_Sheet4.Jnix_Corrugated_Sheet4
+[2022.04.01-22.53.51:499][575]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Jnix_Corrugated_Sheet5.Jnix_Corrugated_Sheet5
+[2022.04.01-22.53.51:499][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet5_tex/Corrugated_Sheet5_OcclusionRoughnessMetallic.Corrugated_Sheet5_OcclusionRoughnessMetallic
+[2022.04.01-22.53.51:499][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet5_tex/Corrugated_Sheet5_Normal.Corrugated_Sheet5_Normal
+[2022.04.01-22.53.51:499][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet5_tex/Corrugated_Sheet5_BaseColor.Corrugated_Sheet5_BaseColor
+[2022.04.01-22.53.51:499][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet4_Textures/Corrugated_Sheet4_OcclusionRoughnessMetallic.Corrugated_Sheet4_OcclusionRoughnessMetallic
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet4_Textures/Corrugated_Sheet4_Normal.Corrugated_Sheet4_Normal
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet4_Textures/Corrugated_Sheet4_BaseColor.Corrugated_Sheet4_BaseColor
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet3_tex/Corrugated_Sheet3_OcclusionRoughnessMetallic.Corrugated_Sheet3_OcclusionRoughnessMetallic
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet3_tex/Corrugated_Sheet3_Normal.Corrugated_Sheet3_Normal
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet3_tex/Corrugated_Sheet3_BaseColor.Corrugated_Sheet3_BaseColor
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet2_tex/Corrugated_Sheet2_OcclusionRoughnessMetallic.Corrugated_Sheet2_OcclusionRoughnessMetallic
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet2_tex/Corrugated_Sheet2_Normal.Corrugated_Sheet2_Normal
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet2_tex/Corrugated_Sheet2_BaseColor.Corrugated_Sheet2_BaseColor
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_sheet6_tex/Corrugated_Sheet6_OcclusionRoughnessMetallic.Corrugated_Sheet6_OcclusionRoughnessMetallic
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet1_Tex/Corrugated_Sheet1_OcclusionRoughnessMetallic.Corrugated_Sheet1_OcclusionRoughnessMetallic
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet1_Tex/Corrugated_Sheet1_Normal.Corrugated_Sheet1_Normal
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_Sheet1_Tex/Corrugated_Sheet1_BaseColor.Corrugated_Sheet1_BaseColor
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_sheet6_tex/Corrugated_Sheet6_Normal.Corrugated_Sheet6_Normal
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Boiler_Textures/Boiler_OcclusionRoughnessMetallic.Boiler_OcclusionRoughnessMetallic
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Boiler_Textures/Boiler_Normal.Boiler_Normal
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Boiler_Textures/Boiler_BaseColor.Boiler_BaseColor
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Cor_sheet6_tex/Corrugated_Sheet6_BaseColor.Corrugated_Sheet6_BaseColor
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Sheet6_textures/Cor_sheet6_tex/Corrugated_Sheet6_OcclusionRoughnessMetallic.Corrugated_Sheet6_OcclusionRoughnessMetallic
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Sheet6_textures/Cor_sheet6_tex/Corrugated_Sheet6_Normal.Corrugated_Sheet6_Normal
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Sheet6_textures/Cor_sheet6_tex/Corrugated_Sheet6_BaseColor.Corrugated_Sheet6_BaseColor
+[2022.04.01-22.53.51:500][575]LogContentValidation: Display: Validating StaticMesh /Game/Materials/Textures/Sheet6_textures/Corrugated_Sheet6.Corrugated_Sheet6
