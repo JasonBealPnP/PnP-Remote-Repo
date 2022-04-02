@@ -5026,3 +5026,503 @@ Jnix_SciFI_wall8
 [2022.04.02-21.46.10:327][617]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_vkzicjwl_2K_atlas_ms/vkzicjwl_2K_Albedo.vkzicjwl_2K_Albedo
 [2022.04.02-21.46.10:327][617]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_vkzibejl_2K_atlas_ms/vkzibejl_2K_Opacity.vkzibejl_2K_Opacity
 [2022.04.02-21.46.10:327][617]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_vkzibejl_2K_atlas_ms/vkzibejl_2K_Albedo.vkzibejl_2K_Albedo
+[2022.04.02-21.46.52:049][169]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Decals_wdcpdgmv_2K_atlas_ms/wdcpdgmv_2K_Albedo.jpg)
+[2022.04.02-21.46.52:074][169]LogTexture: Display: Building textures: wdcpdgmv_2K_Albedo (AutoDXT, 2048X1024)
+[2022.04.02-21.46.52:074][169]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Decals_wdcpdgmv_2K_atlas_ms/wdcpdgmv_2K_Opacity.jpg)
+[2022.04.02-21.46.52:103][169]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 F:\Plug n Play\Decals\Decals_wdcpdgmv_2K_atlas_ms/wdcpdgmv.json)
+[2022.04.02-21.46.52:139][169]LogTexture: Display: Building textures: wdcpdgmv_2K_Opacity (AutoDXT, 2048X1024)
+[2022.04.02-21.46.54:610][169]LogSlate: Window 'DataTable Options' being destroyed
+[2022.04.02-21.46.54:618][169]LogCSVImportFactory: Imported DataTable 'wdcpdgmv' - 1 Problems
+[2022.04.02-21.46.54:619][169]LogCSVImportFactory: 0:Failed to parse the JSON data. Error: 
+[2022.04.02-21.46.55:663][169]LogSlate: Window 'Message' being destroyed
+[2022.04.02-21.46.55:670][169]Message dialog closed, result: Ok, title: Message, text: Failed to parse the JSON data. Error: 
+
+[2022.04.02-21.46.55:685][169]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Decals_wdcpdgmv_2K_atlas_ms/Decals_wdcpdgmv_atlas_Preview.png)
+[2022.04.02-21.46.55:703][169]LogTexture: Display: Building textures: Decals_wdcpdgmv_atlas_Preview (AutoDXT, 720X720)
+[2022.04.02-21.46.55:703][169]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Decals_wdcpdgzv_2K_atlas_ms/wdcpdgzv_2K_Albedo.jpg)
+[2022.04.02-21.46.55:725][169]LogTexture: Display: Building textures: wdcpdgzv_2K_Albedo (AutoDXT, 2048X1024)
+[2022.04.02-21.46.55:725][169]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Decals_wdcpdgzv_2K_atlas_ms/wdcpdgzv_2K_Opacity.jpg)
+[2022.04.02-21.46.55:754][169]LogTexture: Display: Building textures: wdcpdgzv_2K_Opacity (AutoDXT, 2048X1024)
+[2022.04.02-21.46.55:754][169]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 F:\Plug n Play\Decals\Decals_wdcpdgzv_2K_atlas_ms/wdcpdgzv.json)
+[2022.04.02-21.46.55:756][169]LogCSVImportFactory: Imported DataTable 'wdcpdgzv' - 1 Problems
+[2022.04.02-21.46.55:756][169]LogCSVImportFactory: 0:Failed to parse the JSON data. Error: 
+[2022.04.02-21.46.56:234][169]LogSlate: Window 'Message' being destroyed
+[2022.04.02-21.46.56:240][169]Message dialog closed, result: Ok, title: Message, text: Failed to parse the JSON data. Error: 
+
+[2022.04.02-21.46.56:255][169]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Decals_wdcpdgzv_2K_atlas_ms/Decals_wdcpdgzv_atlas_Preview.png)
+[2022.04.02-21.46.56:285][169]LogTexture: Display: Building textures: Decals_wdcpdgzv_atlas_Preview (AutoDXT, 720X720)
+[2022.04.02-21.47.00:263][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.04.02-21.47.02:074][375]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.02-21.47.02:190][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.04.02-21.47.08:021][675]LogContentBrowser: Deferred new asset file creation: wdcpdgmv_2K_Albedo_Mat
+[2022.04.02-21.47.08:046][675]LogContentBrowser: Creating deferred item: wdcpdgmv_2K_Albedo_Mat
+[2022.04.02-21.47.15:406][ 79]LogContentBrowser: Attempting asset rename: wdcpdgmv_2K_Albedo_Mat -> GraffitiDirt
+[2022.04.02-21.47.15:418][ 79]LogMaterial: Display: Missing cached shadermap for GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 9C2E282BF45DC8896CAD7C225B517A4DBD050EC8), compiling. 
+[2022.04.02-21.47.15:424][ 79]LogContentBrowser: End creating deferred item wdcpdgmv_2K_Albedo_Mat
+[2022.04.02-21.47.16:626][116]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-21.47.16:626][116]LogShaderCompilers: Display: Total job queries 6388, among them cache hits 2741 (42.91%)
+[2022.04.02-21.47.16:626][116]LogShaderCompilers: Display: Tracking 3175 distinct input hashes that result in 505 distinct outputs (15.91%)
+[2022.04.02-21.47.16:626][116]LogShaderCompilers: Display: RAM used: 2.18 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.13%
+[2022.04.02-21.47.16:626][116]LogShaderCompilers: Display: ================================================
+[2022.04.02-21.47.16:969][124]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Decals/Decal_Textures/Decals_wdcpdgmv_2K_atlas_ms/GraffitiDirt.GraffitiDirt
+[2022.04.02-21.47.16:971][124]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 20D72AD90CB065BDA0D7B34743ED33360DD5B967), compiling. 
+[2022.04.02-21.47.17:112][124]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 8AB0F188FC94523BBF3D1285948F8DED7983AD29), compiling. 
+[2022.04.02-21.47.17:117][124]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: AC6797EA4A9A02589C54A98F34A43B7397D8B2F4), compiling. 
+[2022.04.02-21.47.17:122][124]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ED6780D144A2F9E4BE273FBB940B1FC318FBA129), compiling. 
+[2022.04.02-21.47.17:177][124]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.47.17:177][124]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.47.17:177][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.17:177][124]MaterialEditorStats: 
+[2022.04.02-21.47.17:177][124]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.47.17:370][126]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.47.17:370][126]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.47.17:370][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.17:370][126]MaterialEditorStats: 
+[2022.04.02-21.47.17:370][126]MaterialEditorStats: Shader Count: 2
+[2022.04.02-21.47.19:354][209]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-21.47.19:354][209]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-21.47.19:354][209]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-21.47.19:355][209]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.47.19:355][209]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.47.19:355][209]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.19:355][209]MaterialEditorStats: 
+[2022.04.02-21.47.19:355][209]MaterialEditorStats: Shader Count: 12
+[2022.04.02-21.47.19:932][239]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 71A786081A6AC5888BD4C0B73DD0618792FB8F0F), compiling. 
+[2022.04.02-21.47.19:944][239]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.47.19:944][239]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.47.19:944][239]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.19:944][239]MaterialEditorStats: 
+[2022.04.02-21.47.19:944][239]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.47.19:998][241]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-21.47.19:999][241]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-21.47.19:999][241]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-21.47.19:999][241]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.47.19:999][241]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.47.19:999][241]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.19:999][241]MaterialEditorStats: 
+[2022.04.02-21.47.19:999][241]MaterialEditorStats: Shader Count: 12
+[2022.04.02-21.47.20:918][287]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 1AE36A08D6B71EB99D8CC7D5E5485ACC3063EF0B), compiling. 
+[2022.04.02-21.47.20:919][287]LogMaterial: Warning: [AssetLog] /Engine/Transient.GraffitiDirt (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.47.20:919][287]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.47.20:925][287]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 3E25E7E891AAE8C8326239BF6AE55B6E4AFCEAB1), compiling. 
+[2022.04.02-21.47.20:926][287]LogMaterial: Warning: [AssetLog] /Engine/Transient.GraffitiDirt (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.47.20:926][287]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.47.20:927][287]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 2EFCC234377EA7A0E22D415C9677D6F7C6E98FFB), compiling. 
+[2022.04.02-21.47.20:928][287]LogMaterial: Warning: [AssetLog] /Engine/Transient.GraffitiDirt (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.47.20:928][287]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.47.20:933][287]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.47.21:629][324]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 1EEC9077D96B12DE2049F3BEAAF742BAF262C6C0), compiling. 
+[2022.04.02-21.47.21:629][324]LogMaterial: Warning: [AssetLog] /Engine/Transient.GraffitiDirt (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.47.21:630][324]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.47.22:371][361]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: FF82546BA49BB79427F20DBDF1AE95746EAD76E9), compiling. 
+[2022.04.02-21.47.22:374][361]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 515E69E3CA4D4465D1CBC4DBFFDA6B07114E87E5), compiling. 
+[2022.04.02-21.47.22:377][361]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 68E3C3A9A78D216E2835D56FB8C7407098C9FCDE), compiling. 
+[2022.04.02-21.47.22:383][361]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.47.22:383][361]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.47.22:383][361]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.22:383][361]MaterialEditorStats: 
+[2022.04.02-21.47.22:383][361]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.47.22:998][384]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.02-21.47.22:998][384]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.47.22:998][384]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.22:998][384]MaterialEditorStats: 
+[2022.04.02-21.47.22:998][384]MaterialEditorStats: Shader Count: 1
+[2022.04.02-21.47.23:622][407]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.47.23:622][407]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.47.23:623][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.23:623][407]MaterialEditorStats: 
+[2022.04.02-21.47.23:623][407]MaterialEditorStats: Shader Count: 3
+[2022.04.02-21.47.24:830][460]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.47.24:830][460]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.47.24:830][460]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.24:830][460]MaterialEditorStats: 
+[2022.04.02-21.47.24:830][460]MaterialEditorStats: Shader Count: 9
+[2022.04.02-21.47.25:343][485]MaterialEditorStats: Base pass shader: 103 instructions
+[2022.04.02-21.47.25:343][485]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2022.04.02-21.47.25:343][485]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.47.25:343][485]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.47.25:343][485]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.47.25:343][485]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.25:343][485]MaterialEditorStats: 
+[2022.04.02-21.47.25:343][485]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.47.25:400][486]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: B6E6E1A9D333C345B96D2BC7BD349C7465AC8FE4), compiling. 
+[2022.04.02-21.47.25:402][486]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 08BCA0AABC0054818E555BB2467E00FE481DC98C), compiling. 
+[2022.04.02-21.47.25:403][486]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E0999B68369C041C9C80B0BF6AF10FC399593ADB), compiling. 
+[2022.04.02-21.47.25:405][486]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6EA74EE2874B250AEB63E97753F5E0F82ABE0A9F), compiling. 
+[2022.04.02-21.47.25:408][486]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.47.25:408][486]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.47.25:408][486]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.25:408][486]MaterialEditorStats: 
+[2022.04.02-21.47.25:408][486]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.47.25:456][489]MaterialEditorStats: Base pass shader: 103 instructions
+[2022.04.02-21.47.25:456][489]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2022.04.02-21.47.25:456][489]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.47.25:456][489]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.47.25:456][489]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.47.25:456][489]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.25:457][489]MaterialEditorStats: 
+[2022.04.02-21.47.25:457][489]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.47.28:269][634]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: C3ACDFBF47C0A74B02C44CB4C87DAD96CD561DAE), compiling. 
+[2022.04.02-21.47.28:271][634]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 10D6154D87B8A79AD1124F71A562C2930BA0F354), compiling. 
+[2022.04.02-21.47.28:274][634]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.47.28:274][634]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.47.28:274][634]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.28:274][634]MaterialEditorStats: 
+[2022.04.02-21.47.28:274][634]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.47.28:901][658]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.02-21.47.28:901][658]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.47.28:901][658]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.28:901][658]MaterialEditorStats: 
+[2022.04.02-21.47.28:901][658]MaterialEditorStats: Shader Count: 1
+[2022.04.02-21.47.29:495][684]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.47.29:495][684]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.47.29:495][684]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.29:495][684]MaterialEditorStats: 
+[2022.04.02-21.47.29:495][684]MaterialEditorStats: Shader Count: 3
+[2022.04.02-21.47.29:603][690]LogMaterialEditor: Saving and Compiling material GraffitiDirt
+[2022.04.02-21.47.30:227][690]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: F7C7CB269F9348F2B6DFF5983592094FCBD50747), compiling. 
+[2022.04.02-21.47.30:304][690]LogMaterial: Display: Missing cached shadermap for GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 26BC5E385316DCEFD22D5D4D473B991A11E3BAA3), compiling. 
+[2022.04.02-21.47.30:406][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.04.02-21.47.30:415][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.04.02-21.47.30:578][690]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiDirt6E4AF3B14E6263DA690245853BD2A591.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Decals_wdcpdgmv_2K_atlas_ms/GraffitiDirt.uasset'
+[2022.04.02-21.47.30:594][690]AssetCheck: New page: Asset Save: GraffitiDirt
+[2022.04.02-21.47.30:594][690]LogContentValidation: Display: Validating Material /Game/Decals/Decal_Textures/Decals_wdcpdgmv_2K_atlas_ms/GraffitiDirt.GraffitiDirt
+[2022.04.02-21.47.30:595][690]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.47.30:595][690]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.47.30:595][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.30:596][690]MaterialEditorStats: 
+[2022.04.02-21.47.30:596][690]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.47.30:611][691]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.47.30:611][691]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.47.30:611][691]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.30:611][691]MaterialEditorStats: 
+[2022.04.02-21.47.30:611][691]MaterialEditorStats: Shader Count: 15
+[2022.04.02-21.47.31:907][744]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.47.31:907][744]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.47.31:907][744]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.47.31:907][744]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.47.31:907][744]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.47.31:907][744]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.47.31:908][744]MaterialEditorStats: 
+[2022.04.02-21.47.31:908][744]MaterialEditorStats: Shader Count: 37
+[2022.04.02-21.47.40:782][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Decals/GraffitiDirt" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiDirt.uasset" SILENT=true
+[2022.04.02-21.47.40:784][183]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiDirt78790FC143C9DA3C4AC2B886CE4C70F4.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiDirt.uasset'
+[2022.04.02-21.47.40:937][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.04.02-21.47.40:950][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.04.02-21.47.40:956][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.04.02-21.47.40:982][183]AssetCheck: New page: Asset Save: GraffitiDirt
+[2022.04.02-21.47.40:983][183]LogContentValidation: Display: Validating Material /Game/Decals/GraffitiDirt.GraffitiDirt
+[2022.04.02-21.48.05:658][431]Cmd: DELETE
+[2022.04.02-21.48.05:658][431]Cmd: ACTOR DELETE
+[2022.04.02-21.48.05:662][431]LogEditorActor: Deleted Actor: DecalActor
+[2022.04.02-21.48.05:675][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.04.02-21.48.05:677][431]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.04.02-21.48.16:132][942]Cmd: DELETE
+[2022.04.02-21.48.16:132][942]Cmd: ACTOR DELETE
+[2022.04.02-21.48.16:137][942]LogEditorActor: Deleted Actor: DecalActor
+[2022.04.02-21.48.16:148][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.04.02-21.48.16:149][942]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2022.04.02-21.48.21:917][238]LogMaterialEditor: Saving and Compiling material GraffitiDirt
+[2022.04.02-21.48.21:968][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Decals/GraffitiDirt" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiDirt.uasset" SILENT=true
+[2022.04.02-21.48.21:969][238]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiDirtC2116C6D4E166862B774C5BCC6AF20EF.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiDirt.uasset'
+[2022.04.02-21.48.21:976][238]AssetCheck: New page: Asset Save: GraffitiDirt
+[2022.04.02-21.48.21:976][238]LogContentValidation: Display: Validating Material /Game/Decals/GraffitiDirt.GraffitiDirt
+[2022.04.02-21.48.31:556][721]LogContentBrowser: Deferred new asset file creation: wdcpdgzv_2K_Albedo_Mat
+[2022.04.02-21.48.31:584][721]LogContentBrowser: Creating deferred item: wdcpdgzv_2K_Albedo_Mat
+[2022.04.02-21.48.36:171][961]LogContentBrowser: Attempting asset rename: wdcpdgzv_2K_Albedo_Mat -> GraffitiClean
+[2022.04.02-21.48.36:183][961]LogMaterial: Display: Missing cached shadermap for GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 1D6F3F81CF9AFCC28B8382EC94373ED687EE61BD), compiling. 
+[2022.04.02-21.48.36:190][961]LogContentBrowser: End creating deferred item wdcpdgzv_2K_Albedo_Mat
+[2022.04.02-21.48.37:380][994]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Decals/Decal_Textures/Decals_wdcpdgzv_2K_atlas_ms/GraffitiClean.GraffitiClean
+[2022.04.02-21.48.37:382][994]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: FCA8706256D020BA4CFD2D02354F09290F045BD3), compiling. 
+[2022.04.02-21.48.37:547][994]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 4E0CEE1E22803877AD70C8BB9EF7D7A7C5001A4E), compiling. 
+[2022.04.02-21.48.37:552][994]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 39FA4AEC57D61FD4E2D88C601CD73BED80FADDD5), compiling. 
+[2022.04.02-21.48.37:556][994]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 906C4EB78EB63B73929A0B31D4F3FBB2AC44BD5B), compiling. 
+[2022.04.02-21.48.37:630][994]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.48.37:630][994]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.48.37:630][994]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.37:630][994]MaterialEditorStats: 
+[2022.04.02-21.48.37:630][994]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.48.37:878][996]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.48.37:878][996]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.48.37:878][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.37:878][996]MaterialEditorStats: 
+[2022.04.02-21.48.37:878][996]MaterialEditorStats: Shader Count: 2
+[2022.04.02-21.48.39:283][ 54]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 8D425E06B086F3BDA2E3AB7A78ED7D3726C3F542), compiling. 
+[2022.04.02-21.48.39:298][ 54]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.48.39:298][ 54]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.48.39:298][ 54]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.39:298][ 54]MaterialEditorStats: 
+[2022.04.02-21.48.39:298][ 54]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.48.39:355][ 56]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.48.39:355][ 56]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.48.39:355][ 56]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.39:355][ 56]MaterialEditorStats: 
+[2022.04.02-21.48.39:355][ 56]MaterialEditorStats: Shader Count: 2
+[2022.04.02-21.48.40:391][103]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 2263327399AD6BFB4FD6404F39395AB958140A81), compiling. 
+[2022.04.02-21.48.40:392][103]LogMaterial: Warning: [AssetLog] /Engine/Transient.GraffitiClean (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.48.40:392][103]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.48.40:402][103]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: E7947A199AEC5FBE23D854AC9CA1417E660F8BAA), compiling. 
+[2022.04.02-21.48.40:403][103]LogMaterial: Warning: [AssetLog] /Engine/Transient.GraffitiClean (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.48.40:403][103]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.48.40:405][103]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 9D983B5D42245EDD7F278F1B09E751DADD7B86C5), compiling. 
+[2022.04.02-21.48.40:405][103]LogMaterial: Warning: [AssetLog] /Engine/Transient.GraffitiClean (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.48.40:405][103]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.48.40:411][103]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.48.40:827][124]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 19D9D83EF7B903B1113224FF2CBF959E68407C1A), compiling. 
+[2022.04.02-21.48.40:827][124]LogMaterial: Warning: [AssetLog] /Engine/Transient.GraffitiClean (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.48.40:827][124]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.48.41:592][161]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: F0834BF3436AA7B4A3ABF08E9BCA2A91494409A8), compiling. 
+[2022.04.02-21.48.41:595][161]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: F0AFB6AB2AA03AA7868C1966E09359B65CB22E6E), compiling. 
+[2022.04.02-21.48.41:598][161]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 6C8AF2314145FB8C4F6AEC53AAFAA392E243B224), compiling. 
+[2022.04.02-21.48.41:605][161]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.48.41:605][161]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.48.41:605][161]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.41:605][161]MaterialEditorStats: 
+[2022.04.02-21.48.41:605][161]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.48.43:457][225]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.48.43:457][225]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.48.43:457][225]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.43:457][225]MaterialEditorStats: 
+[2022.04.02-21.48.43:457][225]MaterialEditorStats: Shader Count: 3
+[2022.04.02-21.48.43:913][242]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.48.43:913][242]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.48.43:913][242]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.43:913][242]MaterialEditorStats: 
+[2022.04.02-21.48.43:913][242]MaterialEditorStats: Shader Count: 15
+[2022.04.02-21.48.44:519][273]MaterialEditorStats: Base pass shader: 103 instructions
+[2022.04.02-21.48.44:519][273]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2022.04.02-21.48.44:519][273]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.48.44:519][273]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.48.44:519][273]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.48.44:519][273]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.44:519][273]MaterialEditorStats: 
+[2022.04.02-21.48.44:519][273]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.48.45:293][306]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 39542A82997B3036A17B532D454A6BBC69980320), compiling. 
+[2022.04.02-21.48.45:295][306]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F39884B1E3A679EAAB43AF820D2D4E77D4EBFD31), compiling. 
+[2022.04.02-21.48.45:297][306]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FCC3291F854218D8F37C2A87F269127F364BA4FB), compiling. 
+[2022.04.02-21.48.45:298][306]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: EA7683E89F861BB82E4331CF70E2A1854D5E10EA), compiling. 
+[2022.04.02-21.48.45:301][306]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.48.45:301][306]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.48.45:301][306]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.45:301][306]MaterialEditorStats: 
+[2022.04.02-21.48.45:301][306]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.48.45:364][309]MaterialEditorStats: Base pass shader: 103 instructions
+[2022.04.02-21.48.45:364][309]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2022.04.02-21.48.45:364][309]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.48.45:364][309]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.48.45:364][309]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.48.45:364][309]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.45:364][309]MaterialEditorStats: 
+[2022.04.02-21.48.45:364][309]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.48.49:778][538]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: CE7EAF7669C5262394592E0DAEB84B61B7A186C2), compiling. 
+[2022.04.02-21.48.49:780][538]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5749D4D22ECC03B7B1B0B6406A62AA6AF477C1AC), compiling. 
+[2022.04.02-21.48.49:783][538]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.48.49:783][538]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.48.49:783][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.49:783][538]MaterialEditorStats: 
+[2022.04.02-21.48.49:783][538]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.48.50:398][563]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.02-21.48.50:399][563]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.48.50:399][563]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.50:399][563]MaterialEditorStats: 
+[2022.04.02-21.48.50:399][563]MaterialEditorStats: Shader Count: 1
+[2022.04.02-21.48.51:042][590]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.48.51:042][590]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.48.51:042][590]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.51:042][590]MaterialEditorStats: 
+[2022.04.02-21.48.51:042][590]MaterialEditorStats: Shader Count: 3
+[2022.04.02-21.48.51:580][618]LogMaterialEditor: Saving and Compiling material GraffitiClean
+[2022.04.02-21.48.52:167][618]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: BAAF6DB3CB80C8DFB5C2C912F0AD909058910D0D), compiling. 
+[2022.04.02-21.48.52:232][618]LogMaterial: Display: Missing cached shadermap for GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 6CB36987CDB44C694DB0D89411D497FDB69C8967), compiling. 
+[2022.04.02-21.48.52:320][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.02-21.48.52:327][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.02-21.48.52:461][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiClean3357F0D94F7BF5499FB2759F552FCC2C.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Decals_wdcpdgzv_2K_atlas_ms/GraffitiClean.uasset'
+[2022.04.02-21.48.52:573][618]AssetCheck: New page: Asset Save: GraffitiClean
+[2022.04.02-21.48.52:573][618]LogContentValidation: Display: Validating Material /Game/Decals/Decal_Textures/Decals_wdcpdgzv_2K_atlas_ms/GraffitiClean.GraffitiClean
+[2022.04.02-21.48.52:574][618]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.48.52:574][618]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.48.52:574][618]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.52:574][618]MaterialEditorStats: 
+[2022.04.02-21.48.52:574][618]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.48.52:593][619]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.48.52:593][619]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.48.52:593][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.52:593][619]MaterialEditorStats: 
+[2022.04.02-21.48.52:593][619]MaterialEditorStats: Shader Count: 21
+[2022.04.02-21.48.53:616][655]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.48.53:616][655]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.48.53:616][655]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.48.53:616][655]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.48.53:616][655]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.48.53:616][655]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.48.53:616][655]MaterialEditorStats: 
+[2022.04.02-21.48.53:616][655]MaterialEditorStats: Shader Count: 37
+[2022.04.02-21.49.10:465][545]LogMaterialEditor: Saving and Compiling material GraffitiClean
+[2022.04.02-21.49.10:914][545]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: F47B05E9273C839C2F4ACB258A49C23A459F2620), compiling. 
+[2022.04.02-21.49.10:983][545]LogMaterial: Display: Missing cached shadermap for GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 75C915B741F3D3505E80C021FF64B99FE287BE9F), compiling. 
+[2022.04.02-21.49.10:992][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.02-21.49.10:998][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.02-21.49.11:172][545]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiClean389CE7C146AC47A552106B90BA53E37B.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Decals_wdcpdgzv_2K_atlas_ms/GraffitiClean.uasset'
+[2022.04.02-21.49.11:182][545]AssetCheck: New page: Asset Save: GraffitiClean
+[2022.04.02-21.49.11:182][545]LogContentValidation: Display: Validating Material /Game/Decals/Decal_Textures/Decals_wdcpdgzv_2K_atlas_ms/GraffitiClean.GraffitiClean
+[2022.04.02-21.49.11:182][545]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.49.11:183][545]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.11:183][545]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.11:183][545]MaterialEditorStats: 
+[2022.04.02-21.49.11:183][545]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.49.11:200][546]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.49.11:200][546]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.49.11:200][546]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.49.11:200][546]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.49.11:200][546]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.11:200][546]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.11:200][546]MaterialEditorStats: 
+[2022.04.02-21.49.11:200][546]MaterialEditorStats: Shader Count: 37
+[2022.04.02-21.49.23:964][ 89]LogMaterialEditor: Saving and Compiling material GraffitiClean
+[2022.04.02-21.49.24:421][ 89]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 234EB4CE383785DB2C64A8B3150BE162716A80FD), compiling. 
+[2022.04.02-21.49.24:483][ 89]LogMaterial: Display: Missing cached shadermap for GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 9642299D588570DC3A894E74BECC5096EFC6846F), compiling. 
+[2022.04.02-21.49.24:492][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.02-21.49.24:499][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.02-21.49.24:691][ 89]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiClean5F88B38547F6321C6E7F5E81A5258C7E.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Decals_wdcpdgzv_2K_atlas_ms/GraffitiClean.uasset'
+[2022.04.02-21.49.24:700][ 89]AssetCheck: New page: Asset Save: GraffitiClean
+[2022.04.02-21.49.24:700][ 89]LogContentValidation: Display: Validating Material /Game/Decals/Decal_Textures/Decals_wdcpdgzv_2K_atlas_ms/GraffitiClean.GraffitiClean
+[2022.04.02-21.49.24:701][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.49.24:701][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.24:701][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.24:701][ 89]MaterialEditorStats: 
+[2022.04.02-21.49.24:701][ 89]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.49.24:746][ 90]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.49.24:746][ 90]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.49.24:746][ 90]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.49.24:746][ 90]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.49.24:746][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.24:746][ 90]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.24:746][ 90]MaterialEditorStats: 
+[2022.04.02-21.49.24:746][ 90]MaterialEditorStats: Shader Count: 37
+[2022.04.02-21.49.29:639][320]Cmd: TRANSACTION UNDO
+[2022.04.02-21.49.29:639][320]LogEditorTransaction: Undo Create Actors
+[2022.04.02-21.49.29:669][320]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiLightning in PCD3D_SM5, Default, SM5 (DDC key hash: 96F41A2F5928BD384F4FAD34AD0ED40ED12C2AF0), compiling. 
+[2022.04.02-21.49.29:672][320]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiTechno in PCD3D_SM5, Default, SM5 (DDC key hash: 12A326CC7A7370CA3DE9CD7E85EF44B3B2E420CE), compiling. 
+[2022.04.02-21.49.29:674][320]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiThisWay in PCD3D_SM5, Default, SM5 (DDC key hash: 72FA61E4DADE4ADC4DF393D2A71B41BD7F993B48), compiling. 
+[2022.04.02-21.49.29:677][320]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiCrime in PCD3D_SM5, Default, SM5 (DDC key hash: C4C63E5C82FDD2E357DAAD00F3A50CA3439B6A57), compiling. 
+[2022.04.02-21.49.29:685][320]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiWords in PCD3D_SM5, Default, SM5 (DDC key hash: 000F745488474E1F530C8558A44F5F955741882F), compiling. 
+[2022.04.02-21.49.29:689][320]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: DBEB8FB336FFE557D5C003994FB5607583BD58DE), compiling. 
+[2022.04.02-21.49.29:696][320]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 82C07813E8CCE4A11C2DAED01E7AF70AEA9A90FB), compiling. 
+[2022.04.02-21.49.29:717][320]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.49.29:717][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.29:717][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.29:717][320]MaterialEditorStats: 
+[2022.04.02-21.49.29:717][320]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.49.29:717][320]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: 
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: 
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: 
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: 
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: 
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: 
+[2022.04.02-21.49.29:718][320]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: 
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.30:139][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: 
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: 
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: 
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: 
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: 
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.49.30:140][322]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.49.30:141][322]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.49.30:141][322]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.49.30:141][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.49.30:141][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.49.30:141][322]MaterialEditorStats: 
+[2022.04.02-21.49.30:141][322]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.49.34:853][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Decals/GraffitiClean" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiClean.uasset" SILENT=true
+[2022.04.02-21.49.34:855][539]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiClean015DBB0B4B0E8F77F3285F9527419BE3.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiClean.uasset'
+[2022.04.02-21.49.35:009][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.04.02-21.49.35:023][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.04.02-21.49.35:029][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.04.02-21.49.35:055][539]AssetCheck: New page: Asset Save: GraffitiClean
+[2022.04.02-21.49.35:055][539]LogContentValidation: Display: Validating Material /Game/Decals/GraffitiClean.GraffitiClean
+[2022.04.02-21.50.09:294][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.02-21.50.09:363][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.02-21.50.09:495][191]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMapC216BE4E44B0D39DCD51D08225A50D43.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.02-21.50.09:512][191]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.02-21.50.09:847][191]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap_BuiltData53209FDC4D66B4A4D7CE878BB6DECAF4.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.02-21.50.09:855][191]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.02-21.50.09:855][191]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.499
+[2022.04.02-21.50.09:940][191]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/wdcpdgmv_2K_Albedo2A1E5EAE429288E0AEB9FBB1FB64E912.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Decals_wdcpdgmv_2K_atlas_ms/wdcpdgmv_2K_Albedo.uasset'
+[2022.04.02-21.50.10:001][191]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/wdcpdgmv_2K_Opacity388BE3A940976ABF7D0F679A020C01E9.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Decals_wdcpdgmv_2K_atlas_ms/wdcpdgmv_2K_Opacity.uasset'
+[2022.04.02-21.50.10:038][191]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/wdcpdgzv_2K_Opacity8A2D05D34A96054BF77375AB4D1F98D2.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Decals_wdcpdgzv_2K_atlas_ms/wdcpdgzv_2K_Opacity.uasset'
+[2022.04.02-21.50.10:120][191]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/wdcpdgzv_2K_AlbedoC4BD4B9641BFF2E490BE6DAC93E082B3.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Decals_wdcpdgzv_2K_atlas_ms/wdcpdgzv_2K_Albedo.uasset'
+[2022.04.02-21.50.10:151][191]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.02-21.50.10:151][191]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.02-21.50.10:151][191]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.02-21.50.10:151][191]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_wdcpdgzv_2K_atlas_ms/wdcpdgzv_2K_Opacity.wdcpdgzv_2K_Opacity
+[2022.04.02-21.50.10:151][191]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_wdcpdgzv_2K_atlas_ms/wdcpdgzv_2K_Albedo.wdcpdgzv_2K_Albedo
+[2022.04.02-21.50.10:151][191]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_wdcpdgmv_2K_atlas_ms/wdcpdgmv_2K_Opacity.wdcpdgmv_2K_Opacity
+[2022.04.02-21.50.10:151][191]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_wdcpdgmv_2K_atlas_ms/wdcpdgmv_2K_Albedo.wdcpdgmv_2K_Albedo
