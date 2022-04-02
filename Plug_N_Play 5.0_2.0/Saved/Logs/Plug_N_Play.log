@@ -1541,3 +1541,170 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.04.02-17.44.04:719][105]LogShaderCompilers: Display: Tracking 789 distinct input hashes that result in 283 distinct outputs (35.87%)
 [2022.04.02-17.44.04:719][105]LogShaderCompilers: Display: RAM used: 1.10 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.18%
 [2022.04.02-17.44.04:719][105]LogShaderCompilers: Display: ================================================
+[2022.04.02-17.47.39:830][663]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/LanscapeMats/Rubble_Floor_ufmhbeclw/T_Rubble_Floor_ufmhbeclw_2K_D.T_Rubble_Floor_ufmhbeclw_2K_D
+[2022.04.02-17.47.39:990][663]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.04.02-17.47.44:649][860]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/LanscapeMats/Ground_Rubble_tdemebmg/T_Ground_Rubble_tdemebmg_2K_D.T_Ground_Rubble_tdemebmg_2K_D
+[2022.04.02-17.48.08:650][960]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-17.48.08:650][960]LogShaderCompilers: Display: Total job queries 2019, among them cache hits 565 (27.98%)
+[2022.04.02-17.48.08:650][960]LogShaderCompilers: Display: Tracking 804 distinct input hashes that result in 293 distinct outputs (36.44%)
+[2022.04.02-17.48.08:650][960]LogShaderCompilers: Display: RAM used: 1.15 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.19%
+[2022.04.02-17.48.08:650][960]LogShaderCompilers: Display: ================================================
+[2022.04.02-17.48.42:278][234]LogMaterial: Display: Missing cached shadermap for M_AutoLandscape_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 222E55EF82E19BCD95DC01C930FA29113F6C4342), compiling. 
+[2022.04.02-17.48.42:286][234]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_128 in PCD3D_SM5, Default, SM5 (DDC key hash: 858FCB70F695616DA5FA4984CCCBA5D0F6BBF74F), compiling. 
+[2022.04.02-17.48.42:305][234]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_127 in PCD3D_SM5, Default, SM5 (DDC key hash: EBCD66C92C53323B97D233A4C9A45B5B87AAA883), compiling. 
+[2022.04.02-17.48.42:454][234]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_126 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A6F481ED58CD4A2148F8D79FA5D8FA70BF944BA), compiling. 
+[2022.04.02-17.48.42:479][234]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_125 in PCD3D_SM5, Default, SM5 (DDC key hash: AE2B992DBCAD3158BEB6C9B666FD01E3B799043C), compiling. 
+[2022.04.02-17.48.42:501][234]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_37 in PCD3D_SM5, Default, SM5 (DDC key hash: F091AD5227928FDFCA4B13A33F3F551AECE5D526), compiling. 
+[2022.04.02-17.48.42:510][234]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_217 in PCD3D_SM5, Default, SM5 (DDC key hash: 01FE893FB8A8FF683ED57CA32070C0E716AD006E), compiling. 
+[2022.04.02-17.48.42:517][234]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_216 in PCD3D_SM5, Default, SM5 (DDC key hash: A64EAE034874155DA60A6615F24304AE704A5E0F), compiling. 
+[2022.04.02-17.48.42:526][234]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_215 in PCD3D_SM5, Default, SM5 (DDC key hash: B7C13BBACD378F41D131F5E20859CB8763D1A0DA), compiling. 
+[2022.04.02-17.48.42:535][234]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_214 in PCD3D_SM5, Default, SM5 (DDC key hash: 9B40AF2B9A20242F2481ACBBE18835DA6A3D27C8), compiling. 
+[2022.04.02-17.48.42:546][234]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_213 in PCD3D_SM5, Default, SM5 (DDC key hash: B27A57A2509F3FF8FF22F4AE6AAA98592AFDDB66), compiling. 
+[2022.04.02-17.48.42:556][234]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_212 in PCD3D_SM5, Default, SM5 (DDC key hash: 63313691841CC808B4769951DE09A8DF94904DAD), compiling. 
+[2022.04.02-17.48.42:571][234]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_211 in PCD3D_SM5, Default, SM5 (DDC key hash: EFCE35041CFE6E9BAA73716294513F649D011F5A), compiling. 
+[2022.04.02-17.48.56:280][494]LogMaterial: Display: Missing cached shadermap for M_AutoLandscape_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: AC87ABEE72E9B8F67F88885F61E16652E91C24D2), compiling. 
+[2022.04.02-17.48.56:308][494]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_224 in PCD3D_SM5, Default, SM5 (DDC key hash: 359DAC543B7AC14EBE8FF66ECD5E8BB9D407C0FF), compiling. 
+[2022.04.02-17.48.56:330][494]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_223 in PCD3D_SM5, Default, SM5 (DDC key hash: D8B6300D6611690FD73C22D3FE069AF63A218662), compiling. 
+[2022.04.02-17.48.56:361][494]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_222 in PCD3D_SM5, Default, SM5 (DDC key hash: 51AE2662DBCD0AE80660C4093BA160A8D3BA020A), compiling. 
+[2022.04.02-17.48.56:408][494]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_221 in PCD3D_SM5, Default, SM5 (DDC key hash: BFC977491263F282A55B3692367A9CC0E6837050), compiling. 
+[2022.04.02-17.48.56:452][494]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_220 in PCD3D_SM5, Default, SM5 (DDC key hash: 80CD4FE87F3CF678BD1296710BF2B30C13733D8A), compiling. 
+[2022.04.02-17.48.56:490][494]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_219 in PCD3D_SM5, Default, SM5 (DDC key hash: 9480124B358831225EA570198D353DA6D7F5D7B0), compiling. 
+[2022.04.02-17.48.56:552][494]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_218 in PCD3D_SM5, Default, SM5 (DDC key hash: 76A8EA05ED3EF80A1F71C5CB7750D34F37193037), compiling. 
+[2022.04.02-17.48.56:616][494]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_128 in PCD3D_SM5, Default, SM5 (DDC key hash: 3DEF77453C938547D83553EB9FA8A82E3D18DE59), compiling. 
+[2022.04.02-17.48.56:684][494]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_127 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E1A52AB008C40AFB5A77558F891E1BF20318C27), compiling. 
+[2022.04.02-17.48.56:763][494]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_126 in PCD3D_SM5, Default, SM5 (DDC key hash: BA7BEDD215ADD98616C4893781F0DE792921CCB2), compiling. 
+[2022.04.02-17.48.56:848][494]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_125 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D9F43578B05441F25C1774AD7273DEEFF948A29), compiling. 
+[2022.04.02-17.48.56:917][494]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_37 in PCD3D_SM5, Default, SM5 (DDC key hash: BB177C2B3B17D4DC6DF58A9C82FBB0768214098B), compiling. 
+[2022.04.02-17.49.28:969][440]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2022.04.02-17.49.28:969][440]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2022.04.02-17.49.28:969][440]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2022.04.02-17.49.28:969][440]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2022.04.02-17.49.28:978][440]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_129 in PCD3D_SM5, Default, SM5 (DDC key hash: 73ECA0D9B06AB827623D684BD09C1FFEB25710D1), compiling. 
+[2022.04.02-17.50.10:572][ 32]Cmd: TRANSACTION UNDO
+[2022.04.02-17.50.10:901][ 32]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.04.02-17.50.11:247][ 32]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2022.04.02-17.51.17:413][279]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_130 in PCD3D_SM5, Default, SM5 (DDC key hash: 1C6DB957674174A3A2E3F32F9EF93E4C027BA527), compiling. 
+[2022.04.02-17.51.20:407][370]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-17.51.20:407][370]LogShaderCompilers: Display: Total job queries 2493, among them cache hits 792 (31.77%)
+[2022.04.02-17.51.20:407][370]LogShaderCompilers: Display: Tracking 972 distinct input hashes that result in 346 distinct outputs (35.60%)
+[2022.04.02-17.51.20:407][370]LogShaderCompilers: Display: RAM used: 1.44 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.23%
+[2022.04.02-17.51.20:407][370]LogShaderCompilers: Display: ================================================
+[2022.04.02-17.51.56:003][737]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_131 in PCD3D_SM5, Default, SM5 (DDC key hash: B1CAEA5CCD3BD4DCD30ECF1F7C5BF767AD25FD54), compiling. 
+[2022.04.02-17.52.25:524][825]Cmd: TRANSACTION UNDO
+[2022.04.02-17.52.25:524][825]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.04.02-17.52.25:833][825]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2022.04.02-17.52.25:833][825]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2022.04.02-17.52.26:723][853]Cmd: TRANSACTION UNDO
+[2022.04.02-17.52.26:723][853]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.04.02-17.52.26:810][853]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2022.04.02-17.52.27:963][853]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2022.04.02-17.52.28:213][853]Cmd: TRANSACTION UNDO
+[2022.04.02-17.52.28:213][853]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.04.02-17.52.28:499][853]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2022.04.02-17.54.13:243][820]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2022.04.02-17.54.13:288][821]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2022.04.02-17.54.33:227][865]Cmd: TRANSACTION UNDO
+[2022.04.02-17.54.33:227][865]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.04.02-17.54.33:259][865]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2022.04.02-17.54.33:501][865]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2022.04.02-17.54.33:501][865]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2022.04.02-17.54.33:501][865]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2022.04.02-17.55.19:325][228]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2022.04.02-17.55.19:369][229]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2022.04.02-17.55.54:430][972]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2022.04.02-17.55.54:430][972]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2022.04.02-17.55.54:444][972]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_132 in PCD3D_SM5, Default, SM5 (DDC key hash: BCFDF4FC71FF78413A8252015827C7C8326D3FC7), compiling. 
+[2022.04.02-17.55.57:665][ 70]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-17.55.57:665][ 70]LogShaderCompilers: Display: Total job queries 2573, among them cache hits 792 (30.78%)
+[2022.04.02-17.55.57:665][ 70]LogShaderCompilers: Display: Tracking 1052 distinct input hashes that result in 370 distinct outputs (35.17%)
+[2022.04.02-17.55.57:665][ 70]LogShaderCompilers: Display: RAM used: 1.58 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.26%
+[2022.04.02-17.55.57:665][ 70]LogShaderCompilers: Display: ================================================
+[2022.04.02-17.57.55:875][781]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2022.04.02-17.59.20:598][358]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2022.04.02-17.59.20:598][358]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2022.04.02-17.59.20:598][358]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2022.04.02-17.59.20:598][358]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2022.04.02-18.01.20:003][ 14]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2022.04.02-18.01.20:003][ 14]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2022.04.02-18.01.56:669][ 55]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2022.04.02-18.01.56:704][ 56]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2022.04.02-18.01.56:704][ 56]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2022.04.02-18.01.56:720][ 57]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-18.01.56:720][ 57]LogShaderCompilers: Display: Total job queries 2575, among them cache hits 794 (30.83%)
+[2022.04.02-18.01.56:720][ 57]LogShaderCompilers: Display: Tracking 1091 distinct input hashes that result in 382 distinct outputs (35.01%)
+[2022.04.02-18.01.56:720][ 57]LogShaderCompilers: Display: RAM used: 1.65 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.27%
+[2022.04.02-18.01.56:720][ 57]LogShaderCompilers: Display: ================================================
+[2022.04.02-18.02.00:402][240]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2022.04.02-18.02.00:402][240]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2022.04.02-18.02.00:402][240]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2022.04.02-18.02.00:402][240]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2022.04.02-18.02.00:414][240]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_133 in PCD3D_SM5, Default, SM5 (DDC key hash: C6A51B2A7E3B165FCBD1745CBD0E03B7FA9A3CE0), compiling. 
+[2022.04.02-18.02.09:913][500]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2022.04.02-18.02.09:993][501]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2022.04.02-18.09.43:837][349]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2022.04.02-18.09.43:837][349]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2022.04.02-18.12.41:904][733]LogMaterial: Display: Missing cached shadermap for M_AutoLandscape_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 9ABF2788D630FD8915D1F42E44489CB01B0955DB), compiling. 
+[2022.04.02-18.12.41:912][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_133 in PCD3D_SM5, Default, SM5 (DDC key hash: 2A47D3603CA83D85048A434D021B6370FB860F48), compiling. 
+[2022.04.02-18.12.41:943][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_132 in PCD3D_SM5, Default, SM5 (DDC key hash: 7022DFE4A890C12138F9CB57340E0C81357B7C32), compiling. 
+[2022.04.02-18.12.41:976][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_238 in PCD3D_SM5, Default, SM5 (DDC key hash: 43E577B2CE5F92B8FFC7AE2DF30B06CA9BDE894C), compiling. 
+[2022.04.02-18.12.41:984][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_237 in PCD3D_SM5, Default, SM5 (DDC key hash: 22770DFEC1470068DFAF50B77143FCEC933BCC48), compiling. 
+[2022.04.02-18.12.41:993][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_236 in PCD3D_SM5, Default, SM5 (DDC key hash: 900AFCE93591279C041E013B99D508CBD423777A), compiling. 
+[2022.04.02-18.12.42:006][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_235 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F4D90C0B8C026698E3D465844EEED69F47F8BCC), compiling. 
+[2022.04.02-18.12.42:017][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_234 in PCD3D_SM5, Default, SM5 (DDC key hash: 7EB3F23DE444A995E9E3AD4DA90BD8C8A98E04D9), compiling. 
+[2022.04.02-18.12.42:028][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_233 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F9AB004EACA99E9180DEC663CFA8C6BA062D6D0), compiling. 
+[2022.04.02-18.12.42:043][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_232 in PCD3D_SM5, Default, SM5 (DDC key hash: 1BC4ECDD259F272D84B657AEDA95642638EF3CFD), compiling. 
+[2022.04.02-18.12.42:065][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_131 in PCD3D_SM5, Default, SM5 (DDC key hash: CD4A5C91BF9F17ADF70219BFE65B3321C2D0BB0F), compiling. 
+[2022.04.02-18.12.42:100][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_130 in PCD3D_SM5, Default, SM5 (DDC key hash: 56071A0E2DD0711DC8120301555F7E8903E4CE4E), compiling. 
+[2022.04.02-18.12.42:136][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_129 in PCD3D_SM5, Default, SM5 (DDC key hash: 2DF5DBD4E40FB158760CB9779A9431EC29A8C1E4), compiling. 
+[2022.04.02-18.12.42:191][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_128 in PCD3D_SM5, Default, SM5 (DDC key hash: FBEA25C5EF6E027832B0E12E6984C8CB02DD5330), compiling. 
+[2022.04.02-18.12.42:215][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_127 in PCD3D_SM5, Default, SM5 (DDC key hash: 8BD58280C86B05E2D4DEA349166A25A3BA0BA451), compiling. 
+[2022.04.02-18.12.42:245][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_126 in PCD3D_SM5, Default, SM5 (DDC key hash: F7ED6E8D7079D7A54F9567288929E9B5926A7A85), compiling. 
+[2022.04.02-18.12.42:275][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_125 in PCD3D_SM5, Default, SM5 (DDC key hash: E7F4600A06AFB78C70EF9218B5F2F7D991AA6BAB), compiling. 
+[2022.04.02-18.12.42:296][733]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_37 in PCD3D_SM5, Default, SM5 (DDC key hash: 01DAA0154D43E2AF6FAA3A828EAC70C66398AFBF), compiling. 
+[2022.04.02-18.12.43:091][733]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-18.12.43:091][733]LogShaderCompilers: Display: Total job queries 2983, among them cache hits 882 (29.57%)
+[2022.04.02-18.12.43:091][733]LogShaderCompilers: Display: Tracking 1131 distinct input hashes that result in 394 distinct outputs (34.84%)
+[2022.04.02-18.12.43:091][733]LogShaderCompilers: Display: RAM used: 1.72 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.28%
+[2022.04.02-18.12.43:091][733]LogShaderCompilers: Display: ================================================
+[2022.04.02-18.13.29:313][637]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_37 in PCD3D_SM5, Default, SM5 (DDC key hash: BB177C2B3B17D4DC6DF58A9C82FBB0768214098B), compiling. 
+[2022.04.02-18.13.58:621][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.04.02-18.13.58:708][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.02-18.13.58:752][190]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2022.04.02-18.13.58:756][190]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2022.04.02-18.13.58:758][190]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2022.04.02-18.13.58:760][190]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2022.04.02-18.13.58:761][190]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2022.04.02-18.13.58:770][190]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2022.04.02-18.13.58:771][190]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2022.04.02-18.13.58:772][190]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2022.04.02-18.13.58:773][190]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2022.04.02-18.13.58:776][190]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2022.04.02-18.13.58:777][190]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2022.04.02-18.13.58:778][190]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2022.04.02-18.13.58:781][190]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2022.04.02-18.13.58:782][190]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2022.04.02-18.13.58:784][190]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2022.04.02-18.13.58:786][190]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2022.04.02-18.13.58:787][190]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2022.04.02-18.13.58:789][190]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2022.04.02-18.13.58:791][190]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2022.04.02-18.13.58:793][190]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2022.04.02-18.13.58:889][190]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2022.04.02-18.13.59:164][190]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap152744DD485DC09521A88BA6317DDB0B.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.02-18.13.59:214][190]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.02-18.14.00:162][190]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap_BuiltData1A1500AF42770FF5D029FF8C9F120232.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.02-18.14.00:167][190]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.02-18.14.00:167][190]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 1.476
+[2022.04.02-18.14.00:225][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.04.02-18.14.00:243][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.04.02-18.14.00:736][190]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/M_AutoLandscape_InstFEDAE44641F860206AF4F4B1BBB4365A.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/LanscapeMats/AutoLandscape/Materials/M_AutoLandscape_Inst.uasset'
+[2022.04.02-18.14.00:785][190]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.02-18.14.00:786][190]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.02-18.14.00:786][190]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.02-18.14.00:786][190]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/LanscapeMats/AutoLandscape/Materials/M_AutoLandscape_Inst.M_AutoLandscape_Inst
+[2022.04.02-18.14.03:766][259]LogSlate: Window 'T_Ground_Rubble_tdemebmg_2K_D' being destroyed
+[2022.04.02-18.14.03:776][259]LogSlate: Window 'T_Ground_Rubble_tdemebmg_2K_D' being destroyed
+[2022.04.02-18.14.03:814][259]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.02-18.14.03:814][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
