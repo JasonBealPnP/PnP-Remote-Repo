@@ -1989,3 +1989,845 @@ Jnix_SciFI_wall8
 [2022.04.02-21.25.49:957][384]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decals_Blood_sfjjcfzp_2K_atlas_ms/sfjjcfzp_2K_Albedo.sfjjcfzp_2K_Albedo
 [2022.04.02-21.25.49:957][384]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.04.02-21.25.49:957][384]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.02-21.26.34:321][960]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.02-21.26.34:337][960]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.02-21.26.41:205][328]LogContentBrowser: Attempting asset rename: NewFolder -> Decal_Textures
+[2022.04.02-21.26.41:205][328]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.02-21.26.42:371][389]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.04.02-21.26.42:371][389]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.04.02-21.26.43:805][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Decals/BloodSplatter1" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/BloodSplatter1.uasset" SILENT=true
+[2022.04.02-21.26.43:807][446]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/BloodSplatter1681B773145553381BDA9FDB56175D5F7.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/BloodSplatter1.uasset'
+[2022.04.02-21.26.43:811][446]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/sfjjcfzp_2K_Roughness8B75D56646CD611BCFF9D2B9ED01F41C.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Decals_Blood_sfjjcfzp_2K_atlas_ms/sfjjcfzp_2K_Roughness.uasset'
+[2022.04.02-21.26.43:818][446]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/sfjjcfzp_2K_Opacity2DA3897A4C85D3307D27B8BEEEC34FA5.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Decals_Blood_sfjjcfzp_2K_atlas_ms/sfjjcfzp_2K_Opacity.uasset'
+[2022.04.02-21.26.43:824][446]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/sfjjcfzp_2K_Normal37AEBDA24EF88157FBBFBD80F7E879A2.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Decals_Blood_sfjjcfzp_2K_atlas_ms/sfjjcfzp_2K_Normal.uasset'
+[2022.04.02-21.26.43:830][446]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/sfjjcfzp_2K_AlbedoEAA7772E4DA2F8330A714B86D55A0772.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Decals_Blood_sfjjcfzp_2K_atlas_ms/sfjjcfzp_2K_Albedo.uasset'
+[2022.04.02-21.26.43:979][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.02-21.26.43:991][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.02-21.26.43:996][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.02-21.26.44:027][446]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.02-21.26.44:029][446]LogContentValidation: Display: Validating Material /Game/Decals/BloodSplatter1.BloodSplatter1
+[2022.04.02-21.26.44:029][446]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_Blood_sfjjcfzp_2K_atlas_ms/sfjjcfzp_2K_Roughness.sfjjcfzp_2K_Roughness
+[2022.04.02-21.26.44:029][446]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_Blood_sfjjcfzp_2K_atlas_ms/sfjjcfzp_2K_Opacity.sfjjcfzp_2K_Opacity
+[2022.04.02-21.26.44:029][446]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_Blood_sfjjcfzp_2K_atlas_ms/sfjjcfzp_2K_Normal.sfjjcfzp_2K_Normal
+[2022.04.02-21.26.44:029][446]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_Blood_sfjjcfzp_2K_atlas_ms/sfjjcfzp_2K_Albedo.sfjjcfzp_2K_Albedo
+[2022.04.02-21.26.54:126][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_AO.jpg)
+[2022.04.02-21.26.54:158][690]LogTexture: Display: Building textures: shhnouh_2K_AO (AutoDXT, 2048X2048)
+[2022.04.02-21.26.54:158][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Albedo.jpg)
+[2022.04.02-21.26.54:234][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Displacement.exr)
+[2022.04.02-21.26.54:517][690]LogTexture: Display: Building textures: shhnouh_2K_Albedo (AutoDXT, 2048X2048)
+[2022.04.02-21.26.54:524][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Displacement.jpg)
+[2022.04.02-21.26.54:565][690]LogTexture: Display: Building textures: shhnouh_2K_Displacement (RGBA16F, 2048X2048)
+[2022.04.02-21.26.54:565][690]LogTexture: Display: Building textures: shhnouh_2K_Displacement_0 (AutoDXT, 2048X2048)
+[2022.04.02-21.26.54:566][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Normal.jpg)
+[2022.04.02-21.26.54:642][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Opacity.jpg)
+[2022.04.02-21.26.54:681][690]LogTexture: Display: Building textures: shhnouh_2K_Normal (BC5, 2048X2048)
+[2022.04.02-21.26.54:681][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Roughness.jpg)
+[2022.04.02-21.26.54:714][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Translucency.jpg)
+[2022.04.02-21.26.54:798][690]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 F:\Plug n Play\Decals\Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh.json)
+[2022.04.02-21.26.54:903][690]LogTexture: Display: Building textures: shhnouh_2K_Opacity (AutoDXT, 2048X2048)
+[2022.04.02-21.26.54:984][690]LogTexture: Display: Building textures: shhnouh_2K_Roughness (AutoDXT, 2048X2048)
+[2022.04.02-21.26.55:083][690]LogTexture: Display: Building textures: shhnouh_2K_Translucency (AutoDXT, 2048X2048)
+[2022.04.02-21.27.08:124][690]LogSlate: Window 'DataTable Options' being destroyed
+[2022.04.02-21.27.08:133][690]LogCSVImportFactory: Imported DataTable 'shhnouh' - 1 Problems
+[2022.04.02-21.27.08:134][690]LogCSVImportFactory: 0:Failed to parse the JSON data. Error: 
+[2022.04.02-21.27.09:269][690]LogSlate: Window 'Message' being destroyed
+[2022.04.02-21.27.09:274][690]Message dialog closed, result: Ok, title: Message, text: Failed to parse the JSON data. Error: 
+
+[2022.04.02-21.27.09:281][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shhnouh_2K_atlas_ms/Debris_Manmade_shhnouh_atlas_Preview.png)
+[2022.04.02-21.27.09:298][690]LogTexture: Display: Building textures: Debris_Manmade_shhnouh_atlas_Preview (AutoDXT, 720X720)
+[2022.04.02-21.27.09:298][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_AO.jpg)
+[2022.04.02-21.27.09:334][690]LogTexture: Display: Building textures: shmklxh_2K_AO (AutoDXT, 2048X2048)
+[2022.04.02-21.27.09:334][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Albedo.jpg)
+[2022.04.02-21.27.09:404][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Displacement.exr)
+[2022.04.02-21.27.09:643][690]LogTexture: Display: Building textures: shmklxh_2K_Albedo (AutoDXT, 2048X2048)
+[2022.04.02-21.27.09:649][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Displacement.jpg)
+[2022.04.02-21.27.09:688][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Normal.jpg)
+[2022.04.02-21.27.09:766][690]LogTexture: Display: Building textures: shmklxh_2K_Displacement_0 (AutoDXT, 2048X2048)
+[2022.04.02-21.27.09:767][690]LogTexture: Display: Building textures: shmklxh_2K_Displacement (RGBA16F, 2048X2048)
+[2022.04.02-21.27.09:779][690]LogTexture: Display: Building textures: shmklxh_2K_Normal (BC5, 2048X2048)
+[2022.04.02-21.27.09:779][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Opacity.jpg)
+[2022.04.02-21.27.09:811][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Roughness.jpg)
+[2022.04.02-21.27.09:892][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Translucency.jpg)
+[2022.04.02-21.27.09:948][690]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 F:\Plug n Play\Decals\Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh.json)
+[2022.04.02-21.27.09:951][690]LogCSVImportFactory: Imported DataTable 'shmklxh' - 1 Problems
+[2022.04.02-21.27.09:951][690]LogCSVImportFactory: 0:Failed to parse the JSON data. Error: 
+[2022.04.02-21.27.10:055][690]LogTexture: Display: Building textures: shmklxh_2K_Opacity (AutoDXT, 2048X2048)
+[2022.04.02-21.27.10:133][690]LogTexture: Display: Building textures: shmklxh_2K_Roughness (AutoDXT, 2048X2048)
+[2022.04.02-21.27.10:234][690]LogTexture: Display: Building textures: shmklxh_2K_Translucency (AutoDXT, 2048X2048)
+[2022.04.02-21.27.10:711][690]LogSlate: Window 'Message' being destroyed
+[2022.04.02-21.27.10:716][690]Message dialog closed, result: Ok, title: Message, text: Failed to parse the JSON data. Error: 
+
+[2022.04.02-21.27.10:722][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shmklxh_2K_atlas_ms/Debris_Manmade_shmklxh_atlas_Preview.png)
+[2022.04.02-21.27.10:741][690]LogTexture: Display: Building textures: Debris_Manmade_shmklxh_atlas_Preview (AutoDXT, 720X720)
+[2022.04.02-21.27.10:741][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_AO.jpg)
+[2022.04.02-21.27.10:778][690]LogTexture: Display: Building textures: shnnqwh_2K_AO (AutoDXT, 2048X2048)
+[2022.04.02-21.27.10:778][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Albedo.jpg)
+[2022.04.02-21.27.10:858][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Displacement.exr)
+[2022.04.02-21.27.11:120][690]LogTexture: Display: Building textures: shnnqwh_2K_Albedo (AutoDXT, 2048X2048)
+[2022.04.02-21.27.11:127][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Displacement.jpg)
+[2022.04.02-21.27.11:172][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Normal.jpg)
+[2022.04.02-21.27.11:251][690]LogTexture: Display: Building textures: shnnqwh_2K_Displacement_0 (AutoDXT, 2048X2048)
+[2022.04.02-21.27.11:251][690]LogTexture: Display: Building textures: shnnqwh_2K_Displacement (RGBA16F, 2048X2048)
+[2022.04.02-21.27.11:261][690]LogTexture: Display: Building textures: shnnqwh_2K_Normal (BC5, 2048X2048)
+[2022.04.02-21.27.11:261][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Opacity.jpg)
+[2022.04.02-21.27.11:291][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Roughness.jpg)
+[2022.04.02-21.27.11:326][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Translucency.jpg)
+[2022.04.02-21.27.11:396][690]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 F:\Plug n Play\Decals\Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh.json)
+[2022.04.02-21.27.11:399][690]LogCSVImportFactory: Imported DataTable 'shnnqwh' - 1 Problems
+[2022.04.02-21.27.11:399][690]LogCSVImportFactory: 0:Failed to parse the JSON data. Error: 
+[2022.04.02-21.27.11:518][690]LogTexture: Display: Building textures: shnnqwh_2K_Opacity (AutoDXT, 2048X2048)
+[2022.04.02-21.27.11:600][690]LogTexture: Display: Building textures: shnnqwh_2K_Roughness (AutoDXT, 2048X2048)
+[2022.04.02-21.27.11:736][690]LogTexture: Display: Building textures: shnnqwh_2K_Translucency (AutoDXT, 2048X2048)
+[2022.04.02-21.27.12:679][690]LogSlate: Window 'Message' being destroyed
+[2022.04.02-21.27.12:686][690]Message dialog closed, result: Ok, title: Message, text: Failed to parse the JSON data. Error: 
+
+[2022.04.02-21.27.12:692][690]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Decals\Debris_Manmade_shnnqwh_2K_atlas_ms/Debris_Manmade_shnnqwh_atlas_Preview.png)
+[2022.04.02-21.27.12:747][690]LogTexture: Display: Building textures: Debris_Manmade_shnnqwh_atlas_Preview (AutoDXT, 720X720)
+[2022.04.02-21.27.24:941][213]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/Debris_Manmade_shhnouh_atlas_Preview.Debris_Manmade_shhnouh_atlas_Preview
+[2022.04.02-21.27.24:967][213]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.04.02-21.27.37:559][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.02-21.27.38:834][940]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.02-21.27.38:951][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.04.02-21.27.42:942][140]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Albedo.shhnouh_2K_Albedo
+[2022.04.02-21.28.01:821][132]LogContentBrowser: Deferred new asset file creation: shhnouh_2K_Albedo_Mat
+[2022.04.02-21.28.01:835][132]LogContentBrowser: Creating deferred item: shhnouh_2K_Albedo_Mat
+[2022.04.02-21.28.12:102][684]LogContentBrowser: Attempting asset rename: shhnouh_2K_Albedo_Mat -> Debris1
+[2022.04.02-21.28.12:115][684]LogMaterial: Display: Missing cached shadermap for Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7D61DD7BFCA060CD2F25CD24ABB7359D1A83D1AA), compiling. 
+[2022.04.02-21.28.12:123][684]LogContentBrowser: End creating deferred item shhnouh_2K_Albedo_Mat
+[2022.04.02-21.28.13:636][723]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/Debris1.Debris1
+[2022.04.02-21.28.13:639][723]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8EA1162310EE8D9EAD3724028BACEFAF85437CD6), compiling. 
+[2022.04.02-21.28.13:810][723]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 757E2BDB102427D56EA72E04C8AE90DF03040F4D), compiling. 
+[2022.04.02-21.28.13:815][723]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 71809590C526EFCE7402A5C71221D56FF5B7C8A1), compiling. 
+[2022.04.02-21.28.13:820][723]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D374F3FCC0914EC98CB885B49712B1E25D96FA7), compiling. 
+[2022.04.02-21.28.13:875][723]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.28.13:875][723]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.28.13:875][723]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.28.13:875][723]MaterialEditorStats: 
+[2022.04.02-21.28.13:875][723]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.28.13:877][723]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-21.28.13:877][723]LogShaderCompilers: Display: Total job queries 2013, among them cache hits 232 (11.53%)
+[2022.04.02-21.28.13:877][723]LogShaderCompilers: Display: Tracking 1738 distinct input hashes that result in 441 distinct outputs (25.37%)
+[2022.04.02-21.28.13:877][723]LogShaderCompilers: Display: RAM used: 1.88 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2022.04.02-21.28.13:877][723]LogShaderCompilers: Display: ================================================
+[2022.04.02-21.28.14:042][725]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.28.14:042][725]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.28.14:042][725]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.28.14:042][725]MaterialEditorStats: 
+[2022.04.02-21.28.14:042][725]MaterialEditorStats: Shader Count: 2
+[2022.04.02-21.28.16:249][816]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-21.28.16:249][816]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-21.28.16:249][816]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-21.28.16:249][816]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.28.16:249][816]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.28.16:249][816]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.28.16:249][816]MaterialEditorStats: 
+[2022.04.02-21.28.16:249][816]MaterialEditorStats: Shader Count: 12
+[2022.04.02-21.28.19:665][985]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1B8F3210A52B0BB645A9BCAA7B8AD999ADB3C9D8), compiling. 
+[2022.04.02-21.28.19:673][985]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.28.19:673][985]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.28.19:673][985]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.28.19:673][985]MaterialEditorStats: 
+[2022.04.02-21.28.19:673][985]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.28.19:728][987]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-21.28.19:728][987]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-21.28.19:728][987]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-21.28.19:728][987]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.28.19:728][987]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.28.19:728][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.28.19:728][987]MaterialEditorStats: 
+[2022.04.02-21.28.19:728][987]MaterialEditorStats: Shader Count: 12
+[2022.04.02-21.28.20:527][ 24]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: BB3FDE1066B99342296174F37F652C695DE3406E), compiling. 
+[2022.04.02-21.28.20:527][ 24]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.20:527][ 24]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.20:533][ 24]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: A16155FD0A30535E1886DD986918A56C2A7A68A9), compiling. 
+[2022.04.02-21.28.20:534][ 24]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.20:534][ 24]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.20:536][ 24]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 36D962F5A4CD201BEA405918CE7753DB5BBED79C), compiling. 
+[2022.04.02-21.28.20:536][ 24]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.20:536][ 24]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.20:542][ 24]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.21:080][ 51]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: D9BBB1AE7D6CC7C1750EE58E07FBA9BDD9A25891), compiling. 
+[2022.04.02-21.28.21:080][ 51]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.21:081][ 51]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.22:040][ 97]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: AB6EB74DC19CE9C0CB30BD46A5B6994FB07FF675), compiling. 
+[2022.04.02-21.28.22:041][ 97]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.22:041][ 97]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.22:043][ 97]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 426A389BCA5E482C1ED1C4E49677F32E2FC74DE3), compiling. 
+[2022.04.02-21.28.22:043][ 97]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.22:043][ 97]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.22:045][ 97]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: BCB325C25518334D90CD96C8095807929BC33DCC), compiling. 
+[2022.04.02-21.28.22:045][ 97]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.22:045][ 97]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.28:796][427]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 22F31E0AFC08584AAFB6B6F8624B5CD577B8F581), compiling. 
+[2022.04.02-21.28.28:796][427]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.28:796][427]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.28:797][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A4AE770036E39456235A7071C5B68399CB8D5288), compiling. 
+[2022.04.02-21.28.28:799][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4DAF55E8B293CED9350DCE581B432C82E1F8D516), compiling. 
+[2022.04.02-21.28.28:800][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 36FEB782FADC6E09F018C15FE9F715D286090FD9), compiling. 
+[2022.04.02-21.28.28:808][427]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4065520740A50A36E56B5CC6C03E97196D43C284), compiling. 
+[2022.04.02-21.28.28:808][427]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.28:808][427]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.28:809][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 66E1EC0218AB89406DBACDB5E34BA02125216604), compiling. 
+[2022.04.02-21.28.28:810][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 55D5A2EF921BC20FFA6177111BC5BF09EE865438), compiling. 
+[2022.04.02-21.28.28:812][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 72AFD733977F64CA58522DBC32EEFA6293D1225B), compiling. 
+[2022.04.02-21.28.28:813][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D9BD97D6525454578CE21C6C1FEBD4BE77A13793), compiling. 
+[2022.04.02-21.28.28:820][427]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 60D278FCEF340DC33FB80FF6EFE1EA5987991178), compiling. 
+[2022.04.02-21.28.28:821][427]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.28:821][427]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.28:822][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 5BEE507729B5B2DF9FEE3E9281DFAACFC6479DF4), compiling. 
+[2022.04.02-21.28.28:823][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3009493F1D183609D5C6CDA8615A56BC5EFB34B6), compiling. 
+[2022.04.02-21.28.28:824][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: AE747E21AB6469E649DCC698BC5200BDC583BA21), compiling. 
+[2022.04.02-21.28.28:826][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F80FE0694CB1FA4408CC16B30A686FBAA37218B1), compiling. 
+[2022.04.02-21.28.28:827][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F498C693F48AE1F4A43765E6550347C6348E981), compiling. 
+[2022.04.02-21.28.28:834][427]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 91F68066A3A2BEB961310295A1733063661B880E), compiling. 
+[2022.04.02-21.28.28:835][427]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.28:835][427]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.28:836][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: D5E75838A65C91DC68DB19EDDFD0FB05CBF97527), compiling. 
+[2022.04.02-21.28.28:837][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 624A60247578D19E68CB71190F51FF12EBD20656), compiling. 
+[2022.04.02-21.28.28:839][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1E662879F0C147DFBFD8CC9EBFF2C50D6E550407), compiling. 
+[2022.04.02-21.28.28:840][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F27CFE43AE896B30522BAF191F1ECD7F2076663), compiling. 
+[2022.04.02-21.28.28:841][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: CA2E51F702E785699DC5914BF82BD5F725FCCE87), compiling. 
+[2022.04.02-21.28.28:843][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A3D6D8F9F1A73D19D02539E3BEA344A44509D17), compiling. 
+[2022.04.02-21.28.28:850][427]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: CF1F8834CC5644B5CF917232D4254D73E2C63AAD), compiling. 
+[2022.04.02-21.28.28:850][427]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.28:850][427]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.28:851][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 3395E526ED5CACA6939C2A59BAEFE29A3E3E3D33), compiling. 
+[2022.04.02-21.28.28:853][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8E094BEE1664B2173AAE257EDF975F671DC39A75), compiling. 
+[2022.04.02-21.28.28:854][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 84B027BF1B69D877F6978A420F67B8D08170CA49), compiling. 
+[2022.04.02-21.28.28:856][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B90A0BA076E70E29BF201DC60AE178A28B194D92), compiling. 
+[2022.04.02-21.28.28:857][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 574975C2A192AFB449241489539AACEB6A420763), compiling. 
+[2022.04.02-21.28.28:858][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 16FDA3F20ACCE099ED0BF56435FC656B6D2E077C), compiling. 
+[2022.04.02-21.28.28:860][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 494A1F5321E97908E880E9958F2EECBA355533D5), compiling. 
+[2022.04.02-21.28.28:867][427]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: AA589204F17DFB6BA3422A343DAA78133E3FC234), compiling. 
+[2022.04.02-21.28.28:867][427]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.28:867][427]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.28:868][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 78A18018312F7A92C01457E07BBD06FBE538E7D4), compiling. 
+[2022.04.02-21.28.28:870][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 91620235611D0874F2F7B2C474907692AE7D43BD), compiling. 
+[2022.04.02-21.28.28:871][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F3AE103C63788BFE4D0AAE0815D77B47B0998481), compiling. 
+[2022.04.02-21.28.28:872][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7CECE8D584D40ADD4619FDA19009AAA064E818D8), compiling. 
+[2022.04.02-21.28.28:874][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 06A4C3524BFE0966F7CF0C133A21B948F1854B21), compiling. 
+[2022.04.02-21.28.28:875][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: C11EB3C6619534CC34AA5881512131D1C75DEDA8), compiling. 
+[2022.04.02-21.28.28:876][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: FA2451A4EB1596FC8020EEF956B8521BF2C4C120), compiling. 
+[2022.04.02-21.28.28:878][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F799C471316127CA1EC19313B2B0D780E8B99DF), compiling. 
+[2022.04.02-21.28.28:885][427]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3C644C3E95609E890C5E8012245F8496DB8269C2), compiling. 
+[2022.04.02-21.28.28:885][427]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.28:885][427]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.28:886][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 01D2254E21F611E5FAD783EA3A38149AA51958AD), compiling. 
+[2022.04.02-21.28.28:888][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2BB707CF257E048A94CF2CAA11FFB1BB2FF9977C), compiling. 
+[2022.04.02-21.28.28:889][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: BD6A7F1A84A9D9436D8C8B03234B7BB8C451671C), compiling. 
+[2022.04.02-21.28.28:890][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F9CD8006DCDCE2C9B6DC7484741844E0BBFCCCD7), compiling. 
+[2022.04.02-21.28.28:892][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 6FF7D89B742D8A7C309A593D13B1CDAE5389FE23), compiling. 
+[2022.04.02-21.28.28:893][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 9377EDFEAD7C2E386D693EDAFFE11F7ACEDFDBAE), compiling. 
+[2022.04.02-21.28.28:895][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 3C25EBD80AF84A5A0E3ED39A8FD6A6E58BB8FDAA), compiling. 
+[2022.04.02-21.28.28:896][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 10F8E19E8E3E62BD0113B5AA7590DB42B094A197), compiling. 
+[2022.04.02-21.28.28:897][427]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 4C05F05E8716A8B329A4912272E4330BF6372447), compiling. 
+[2022.04.02-21.28.38:125][862]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 98412188052CE64F910156B2F08524C79D631D55), compiling. 
+[2022.04.02-21.28.38:126][862]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.38:126][862]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.41:298][ 23]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3B9FB66602DBBF0C2ECDF99E0A697C36CFCF90BE), compiling. 
+[2022.04.02-21.28.41:298][ 23]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.41:298][ 23]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.46:090][267]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 62745C7EF5D80C38EAA4BC3D99534D5D0271FF48), compiling. 
+[2022.04.02-21.28.46:091][267]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.46:091][267]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.48:992][413]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 54D12274E0BB202B8074C5964A03E10006C90B55), compiling. 
+[2022.04.02-21.28.48:992][413]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.48:992][413]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.48:993][413]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 72F408D9245845007BBB9F0519B72866A669F129), compiling. 
+[2022.04.02-21.28.52:093][570]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 027C933474DEEBA60F42EC062030F7E19FB946AB), compiling. 
+[2022.04.02-21.28.52:093][570]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.52:093][570]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.52:096][570]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 8F37A7EEB762D8480937662E6C8D0D55E86FA183), compiling. 
+[2022.04.02-21.28.58:737][907]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 554E4CB8DFB7D8764BDE207D5F08BBC1B34573CD), compiling. 
+[2022.04.02-21.28.58:737][907]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.28.58:737][907]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.28.58:738][907]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 6C017B87C116893D7F1F654C3131429450528023), compiling. 
+[2022.04.02-21.29.04:814][216]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: DA276B9AF5C27ED882D2BC84E26457C03CB35FE7), compiling. 
+[2022.04.02-21.29.04:815][216]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.29.04:815][216]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.29.06:996][328]LogMaterialEditor: Saving and Compiling material Debris1
+[2022.04.02-21.29.13:727][328]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2022.04.02-21.29.14:204][328]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: BE8FE9143A12A5F807EF713F440EA1D9A7FA0E03), compiling. 
+[2022.04.02-21.29.14:205][328]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.29.14:205][328]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.29.14:276][328]LogMaterial: Display: Missing cached shadermap for Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2F730018CD019F4A23089E8A4DE80656FCDE570E), compiling. 
+[2022.04.02-21.29.14:276][328]LogMaterial: Warning: [AssetLog] /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/Debris1.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.29.14:277][328]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.29.14:294][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.02-21.29.14:303][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.02-21.29.14:397][328]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Debris15C4E8B324B7CED29FBF0BD8B58DE2C1F.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/Debris1.uasset'
+[2022.04.02-21.29.14:413][328]AssetCheck: New page: Asset Save: Debris1
+[2022.04.02-21.29.14:413][328]LogContentValidation: Display: Validating Material /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/Debris1.Debris1
+[2022.04.02-21.29.18:133][513]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: F87DB3A95AD011DD0C1E724DDDEFE1C4AA2464C8), compiling. 
+[2022.04.02-21.29.18:134][513]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.29.18:134][513]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.29.19:382][575]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: BEE7F09D5348DD50B4D1B048E361755C3EEEDE7A), compiling. 
+[2022.04.02-21.29.19:385][575]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A90C19020AF193900A75A152279AE3C998289AD), compiling. 
+[2022.04.02-21.29.19:388][575]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 33EB2A0C85A44DF7494F16F0B4CE94025D7CE89B), compiling. 
+[2022.04.02-21.29.19:395][575]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.29.19:395][575]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.29.19:395][575]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.29.19:395][575]MaterialEditorStats: 
+[2022.04.02-21.29.19:395][575]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.29.20:411][615]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.29.20:411][615]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.29.20:411][615]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.29.20:412][615]MaterialEditorStats: 
+[2022.04.02-21.29.20:412][615]MaterialEditorStats: Shader Count: 1
+[2022.04.02-21.29.21:032][639]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.29.21:032][639]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.29.21:032][639]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.29.21:032][639]MaterialEditorStats: 
+[2022.04.02-21.29.21:032][639]MaterialEditorStats: Shader Count: 3
+[2022.04.02-21.29.22:388][702]LogMaterialEditor: Saving and Compiling material Debris1
+[2022.04.02-21.29.22:852][702]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: DA993C60D4972CA8CD7AEA043CF8C6071D87EF9B), compiling. 
+[2022.04.02-21.29.22:928][702]LogMaterial: Display: Missing cached shadermap for Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: F0EAE5366EC827D372002AFB6D4B0F2DC093D805), compiling. 
+[2022.04.02-21.29.22:936][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.02-21.29.22:943][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.02-21.29.23:138][702]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Debris1EEA1AE0A4F6E9C8F91D2838ABE3CFC56.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/Debris1.uasset'
+[2022.04.02-21.29.23:150][702]AssetCheck: New page: Asset Save: Debris1
+[2022.04.02-21.29.23:150][702]LogContentValidation: Display: Validating Material /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/Debris1.Debris1
+[2022.04.02-21.29.23:151][702]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.29.23:151][702]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.29.23:151][702]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.29.23:151][702]MaterialEditorStats: 
+[2022.04.02-21.29.23:151][702]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.29.23:168][703]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.29.23:168][703]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.29.23:168][703]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.29.23:168][703]MaterialEditorStats: 
+[2022.04.02-21.29.23:168][703]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.29.24:270][741]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.29.24:270][741]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.29.24:270][741]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.29.24:270][741]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.29.24:270][741]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.29.24:270][741]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.29.24:270][741]MaterialEditorStats: 
+[2022.04.02-21.29.24:270][741]MaterialEditorStats: Shader Count: 37
+[2022.04.02-21.29.31:558][ 96]Cmd: TRANSACTION UNDO
+[2022.04.02-21.29.31:558][ 96]LogEditorTransaction: Undo Move Elements
+[2022.04.02-21.29.31:577][ 96]LogMaterial: Display: Missing cached shadermap for Preview:sfjjcfzp_2K_Albedo_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 481958BDB4AF3015576324EB95885D127C4B7F5E), compiling. 
+[2022.04.02-21.29.31:582][ 96]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 08AEA62E2C394F9DEFB9DB388E5C7F2C11709745), compiling. 
+[2022.04.02-21.29.31:594][ 96]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.29.31:594][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.29.31:594][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.29.31:594][ 96]MaterialEditorStats: 
+[2022.04.02-21.29.31:594][ 96]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.29.31:594][ 96]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.29.31:594][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.29.31:594][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.29.31:594][ 96]MaterialEditorStats: 
+[2022.04.02-21.29.31:594][ 96]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.29.31:747][ 98]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.29.31:747][ 98]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.29.31:747][ 98]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.29.31:747][ 98]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.29.31:747][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.29.31:747][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.29.31:747][ 98]MaterialEditorStats: 
+[2022.04.02-21.29.31:747][ 98]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.29.31:835][ 99]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.29.31:835][ 99]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.29.31:835][ 99]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.29.31:835][ 99]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.29.31:835][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.29.31:835][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.29.31:835][ 99]MaterialEditorStats: 
+[2022.04.02-21.29.31:835][ 99]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.29.33:630][175]Cmd: DELETE
+[2022.04.02-21.29.33:630][175]Cmd: ACTOR DELETE
+[2022.04.02-21.29.33:635][175]LogEditorActor: Deleted Actor: DecalActor
+[2022.04.02-21.29.33:659][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.02-21.29.33:661][175]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2022.04.02-21.29.40:180][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Decals/Debris1" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Debris1.uasset" SILENT=true
+[2022.04.02-21.29.40:182][496]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Debris1015BCC794720E30E6880D5919CEBF11E.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Debris1.uasset'
+[2022.04.02-21.29.40:286][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.04.02-21.29.40:299][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.02-21.29.40:305][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.02-21.29.40:334][496]AssetCheck: New page: Asset Save: Debris1
+[2022.04.02-21.29.40:334][496]LogContentValidation: Display: Validating Material /Game/Decals/Debris1.Debris1
+[2022.04.02-21.29.51:401][ 49]LogContentBrowser: Deferred new asset file creation: shmklxh_2K_Albedo_Mat
+[2022.04.02-21.29.51:415][ 49]LogContentBrowser: Creating deferred item: shmklxh_2K_Albedo_Mat
+[2022.04.02-21.29.56:191][300]LogContentBrowser: Attempting asset rename: shmklxh_2K_Albedo_Mat -> Debris2
+[2022.04.02-21.29.56:219][300]LogMaterial: Display: Missing cached shadermap for Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: D4B66AF0FC69FD1C06D3AEF4CB2956544BB57032), compiling. 
+[2022.04.02-21.29.56:222][300]LogContentBrowser: End creating deferred item shmklxh_2K_Albedo_Mat
+[2022.04.02-21.29.58:517][352]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Decals/Decal_Textures/Debris_Manmade_shmklxh_2K_atlas_ms/Debris2.Debris2
+[2022.04.02-21.29.58:519][352]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: D5FA3009FAFEC2AB2436849E5AB4E8AA9B0101AB), compiling. 
+[2022.04.02-21.29.58:633][352]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: 805E1A8A56E0934C42DBD837FDBA38BF497A4016), compiling. 
+[2022.04.02-21.29.58:637][352]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: F37EB22E7DAEF29EB565460D0DAFB2F065A198D1), compiling. 
+[2022.04.02-21.29.58:641][352]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E2188712BE987FDE8D4966158C97FC942C5DCBD), compiling. 
+[2022.04.02-21.29.58:685][352]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.29.58:685][352]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.29.58:685][352]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.29.58:685][352]MaterialEditorStats: 
+[2022.04.02-21.29.58:685][352]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.29.58:817][354]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.29.58:817][354]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.29.58:817][354]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.29.58:817][354]MaterialEditorStats: 
+[2022.04.02-21.29.58:817][354]MaterialEditorStats: Shader Count: 3
+[2022.04.02-21.30.00:525][433]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-21.30.00:525][433]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-21.30.00:525][433]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-21.30.00:525][433]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.30.00:525][433]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.30.00:525][433]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.00:525][433]MaterialEditorStats: 
+[2022.04.02-21.30.00:526][433]MaterialEditorStats: Shader Count: 12
+[2022.04.02-21.30.09:448][882]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: 004931685D055BD81DE5D0F3AC1A94691814F33B), compiling. 
+[2022.04.02-21.30.09:450][882]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 107FEB5314C44E107D10EE515A3AB54A4B9FBF43), compiling. 
+[2022.04.02-21.30.09:452][882]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 61DFE133833E8126B1A70DF50F456C7A23D6D542), compiling. 
+[2022.04.02-21.30.09:453][882]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D659F6807D54F03F55122FD0C28AD70EF5087F03), compiling. 
+[2022.04.02-21.30.09:460][882]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: 23774F2B9250FBA834A27EF4DC271E704E2B5444), compiling. 
+[2022.04.02-21.30.09:462][882]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 027789D3568F0CB234B33F8D989511B3A68CE453), compiling. 
+[2022.04.02-21.30.09:464][882]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ED87CA88E147B75DA768652948FCC05C31A6940B), compiling. 
+[2022.04.02-21.30.09:465][882]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 83A407E7A017C7E75FF6BF92F02C1CA650C28D32), compiling. 
+[2022.04.02-21.30.09:467][882]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4CF6A35F9F8C6A83A7A460FB782AEBE703BC88EE), compiling. 
+[2022.04.02-21.30.09:474][882]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: 89C360C28466C38B124C3E48DDC4DD2C3EA7EA55), compiling. 
+[2022.04.02-21.30.09:476][882]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 27A1BF1C72CD702384E3259B6250EDDA18070FED), compiling. 
+[2022.04.02-21.30.09:477][882]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ECC868B6DE7C17A2A2EB30B60F76DBC959262F21), compiling. 
+[2022.04.02-21.30.09:479][882]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 324646CE462727004E0E68A7D9B4C525DDB4600B), compiling. 
+[2022.04.02-21.30.09:480][882]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DFE2F2CFB42A9DB95BC489DC567F7FF3933C77A), compiling. 
+[2022.04.02-21.30.09:481][882]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 10B2AE856D1ACFB1E9603D6CFDE5DC3794E9A3C0), compiling. 
+[2022.04.02-21.30.09:485][882]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.30.09:485][882]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.30.09:485][882]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.09:485][882]MaterialEditorStats: 
+[2022.04.02-21.30.09:485][882]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.30.09:521][884]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-21.30.09:521][884]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-21.30.09:521][884]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-21.30.09:521][884]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.30.09:521][884]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.30.09:521][884]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.09:521][884]MaterialEditorStats: 
+[2022.04.02-21.30.09:521][884]MaterialEditorStats: Shader Count: 12
+[2022.04.02-21.30.14:076][110]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: 640CDF459326298AEF8B1410E5A6681F515AD15C), compiling. 
+[2022.04.02-21.30.14:079][110]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: E9434E5C23E6E5CFA9E28C4E1DC37A47E631BA12), compiling. 
+[2022.04.02-21.30.14:084][110]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.30.14:084][110]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.30.14:084][110]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.14:084][110]MaterialEditorStats: 
+[2022.04.02-21.30.14:084][110]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.30.14:890][135]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.02-21.30.14:891][135]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.30.14:891][135]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.14:891][135]MaterialEditorStats: 
+[2022.04.02-21.30.14:891][135]MaterialEditorStats: Shader Count: 1
+[2022.04.02-21.30.15:467][160]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.30.15:467][160]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.30.15:467][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.15:467][160]MaterialEditorStats: 
+[2022.04.02-21.30.15:467][160]MaterialEditorStats: Shader Count: 7
+[2022.04.02-21.30.15:538][162]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9497A123CD355631A600608800BCCB0E339947C0), compiling. 
+[2022.04.02-21.30.15:541][162]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D7D7201BD9CBCAFE1E65C599D1C5BF51CEB1E53D), compiling. 
+[2022.04.02-21.30.15:545][162]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.30.15:546][162]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-21.30.15:546][162]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.15:546][162]MaterialEditorStats: 
+[2022.04.02-21.30.15:546][162]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.30.16:488][192]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.02-21.30.16:488][192]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-21.30.16:488][192]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.16:488][192]MaterialEditorStats: 
+[2022.04.02-21.30.16:488][192]MaterialEditorStats: Shader Count: 2
+[2022.04.02-21.30.16:845][207]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.30.16:845][207]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-21.30.16:845][207]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.16:845][207]MaterialEditorStats: 
+[2022.04.02-21.30.16:845][207]MaterialEditorStats: Shader Count: 7
+[2022.04.02-21.30.17:081][219]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.04.02-21.30.17:081][219]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 230 instructions
+[2022.04.02-21.30.17:081][219]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-21.30.17:081][219]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.30.17:081][219]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-21.30.17:081][219]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.17:081][219]MaterialEditorStats: 
+[2022.04.02-21.30.17:081][219]MaterialEditorStats: Shader Count: 12
+[2022.04.02-21.30.21:472][435]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: 62A8A55B699700389E65C854B9F82860B227C0F6), compiling. 
+[2022.04.02-21.30.21:496][435]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.30.21:496][435]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-21.30.21:496][435]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.21:496][435]MaterialEditorStats: 
+[2022.04.02-21.30.21:496][435]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.30.21:551][437]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.04.02-21.30.21:551][437]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 230 instructions
+[2022.04.02-21.30.21:551][437]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-21.30.21:551][437]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.30.21:551][437]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-21.30.21:551][437]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.21:551][437]MaterialEditorStats: 
+[2022.04.02-21.30.21:551][437]MaterialEditorStats: Shader Count: 12
+[2022.04.02-21.30.22:610][489]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: B67D072059F17BD6348598511285D8A908369B6E), compiling. 
+[2022.04.02-21.30.22:611][489]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.30.22:611][489]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.30.22:618][489]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2E6AF907125D0E6562E40A32D3088FDE27765C79), compiling. 
+[2022.04.02-21.30.22:618][489]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.30.22:618][489]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.30.22:620][489]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: BF854D793AD22671746ABC2CB9F1E30003270FA0), compiling. 
+[2022.04.02-21.30.22:621][489]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.30.22:621][489]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.30.22:626][489]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.30.22:983][507]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: DDB41477C2E45503C611B61A2FEACF02B4250812), compiling. 
+[2022.04.02-21.30.22:983][507]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.30.22:983][507]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.30.24:201][567]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: 255CBB4FEA2D05C2ECAE6FD9A973D4F09EA63378), compiling. 
+[2022.04.02-21.30.24:204][567]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: D59AD6253C9524D5A51D9A902F3FEBDA92C2F6E1), compiling. 
+[2022.04.02-21.30.24:207][567]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: BDFD2D7B7C7A2CE573AB2AB39AA0236C49DECB4F), compiling. 
+[2022.04.02-21.30.24:214][567]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.30.24:214][567]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-21.30.24:214][567]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.24:214][567]MaterialEditorStats: 
+[2022.04.02-21.30.24:214][567]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.30.24:855][592]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.30.24:855][592]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-21.30.24:855][592]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.24:855][592]MaterialEditorStats: 
+[2022.04.02-21.30.24:855][592]MaterialEditorStats: Shader Count: 1
+[2022.04.02-21.30.25:505][621]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.30.25:506][621]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-21.30.25:506][621]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.25:506][621]MaterialEditorStats: 
+[2022.04.02-21.30.25:506][621]MaterialEditorStats: Shader Count: 3
+[2022.04.02-21.30.27:319][708]MaterialEditorStats: Base pass shader: 103 instructions
+[2022.04.02-21.30.27:319][708]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2022.04.02-21.30.27:319][708]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.30.27:319][708]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.30.27:319][708]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-21.30.27:319][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.27:319][708]MaterialEditorStats: 
+[2022.04.02-21.30.27:319][708]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.30.29:226][802]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: A81D599675AEF6E9B13EBE29977D661DA85DB5D5), compiling. 
+[2022.04.02-21.30.29:228][802]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9BAE3BC05A04BBCFC8F3128970AA243D2AE05C38), compiling. 
+[2022.04.02-21.30.29:233][802]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.30.29:233][802]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.30.29:233][802]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.29:233][802]MaterialEditorStats: 
+[2022.04.02-21.30.29:233][802]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.30.29:897][827]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.30.29:897][827]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.30.29:897][827]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.29:897][827]MaterialEditorStats: 
+[2022.04.02-21.30.29:897][827]MaterialEditorStats: Shader Count: 1
+[2022.04.02-21.30.30:521][854]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.30.30:521][854]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.30.30:521][854]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.30:521][854]MaterialEditorStats: 
+[2022.04.02-21.30.30:521][854]MaterialEditorStats: Shader Count: 3
+[2022.04.02-21.30.30:768][866]LogMaterialEditor: Saving and Compiling material Debris2
+[2022.04.02-21.30.31:344][866]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5DE406728B184A52662262892956795D0A17B2CD), compiling. 
+[2022.04.02-21.30.31:422][866]LogMaterial: Display: Missing cached shadermap for Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: BC4E9BAB3267C8110D8C702F61C7C3060EE790B6), compiling. 
+[2022.04.02-21.30.31:527][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.04.02-21.30.31:537][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.04.02-21.30.31:674][866]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Debris21AD5E0E34FEFB346D0EAFD9D6B24BBCD.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shmklxh_2K_atlas_ms/Debris2.uasset'
+[2022.04.02-21.30.31:695][866]AssetCheck: New page: Asset Save: Debris2
+[2022.04.02-21.30.31:695][866]LogContentValidation: Display: Validating Material /Game/Decals/Decal_Textures/Debris_Manmade_shmklxh_2K_atlas_ms/Debris2.Debris2
+[2022.04.02-21.30.31:697][866]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.30.31:697][866]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.30.31:697][866]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.31:697][866]MaterialEditorStats: 
+[2022.04.02-21.30.31:697][866]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.30.31:745][867]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.30.31:745][867]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.30.31:745][867]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.31:745][867]MaterialEditorStats: 
+[2022.04.02-21.30.31:745][867]MaterialEditorStats: Shader Count: 18
+[2022.04.02-21.30.33:037][915]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.30.33:037][915]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.30.33:037][915]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.30.33:037][915]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.30.33:037][915]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.30.33:037][915]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.33:037][915]MaterialEditorStats: 
+[2022.04.02-21.30.33:037][915]MaterialEditorStats: Shader Count: 37
+[2022.04.02-21.30.40:437][278]Cmd: TRANSACTION UNDO
+[2022.04.02-21.30.40:437][278]LogEditorTransaction: Undo Create Actors
+[2022.04.02-21.30.40:461][278]LogMaterial: Display: Missing cached shadermap for Preview:sfjjcfzp_2K_Albedo_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3ADA380A8D4C6730E0D0F5C4927390F252178085), compiling. 
+[2022.04.02-21.30.40:464][278]LogMaterial: Display: Missing cached shadermap for Preview:Debris1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C501171AB5E6BAE3E7FD3D67A5D612DF538F722), compiling. 
+[2022.04.02-21.30.40:468][278]LogMaterial: Display: Missing cached shadermap for Preview:Debris2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2676BBF0D7E30C0618D894AC5F4F6420B1B0F32B), compiling. 
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: 
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: 
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: 
+[2022.04.02-21.30.40:482][278]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: 
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: 
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: 
+[2022.04.02-21.30.40:886][280]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.30.45:884][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Decals/Debris2" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Debris2.uasset" SILENT=true
+[2022.04.02-21.30.45:886][504]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Debris2CB54BBA7433DFDDB0F83D8B73D5C2989.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Debris2.uasset'
+[2022.04.02-21.30.45:990][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.02-21.30.46:003][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.02-21.30.46:009][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.02-21.30.46:036][504]AssetCheck: New page: Asset Save: Debris2
+[2022.04.02-21.30.46:036][504]LogContentValidation: Display: Validating Material /Game/Decals/Debris2.Debris2
+[2022.04.02-21.30.49:766][691]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.02-21.30.49:766][691]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.02-21.30.51:215][754]LogContentBrowser: Deferred new asset file creation: shnnqwh_2K_Albedo_Mat
+[2022.04.02-21.30.51:235][754]LogContentBrowser: Creating deferred item: shnnqwh_2K_Albedo_Mat
+[2022.04.02-21.30.55:991][998]LogContentBrowser: Attempting asset rename: shnnqwh_2K_Albedo_Mat -> Debris3
+[2022.04.02-21.30.56:020][998]LogMaterial: Display: Missing cached shadermap for Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 8E0A834449161209719253B40A97BD81C879D086), compiling. 
+[2022.04.02-21.30.56:023][998]LogContentBrowser: End creating deferred item shnnqwh_2K_Albedo_Mat
+[2022.04.02-21.31.03:819][338]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Decals/Decal_Textures/Debris_Manmade_shnnqwh_2K_atlas_ms/Debris3.Debris3
+[2022.04.02-21.31.03:820][338]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 7278447D5F91C2395D4B5C8AB0C7E4072DBE35E6), compiling. 
+[2022.04.02-21.31.03:885][338]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: EC91BDE84935FB7F79EB992D00178C518D32A3D8), compiling. 
+[2022.04.02-21.31.03:888][338]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 9AB88881B7F7BE05AF1CD736E43D8C3E854809A7), compiling. 
+[2022.04.02-21.31.03:889][338]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A6BA8ABDD9A5F8E9199E513603E016D786F57BF6), compiling. 
+[2022.04.02-21.31.03:916][338]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.31.03:916][338]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.31.03:916][338]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.31.03:916][338]MaterialEditorStats: 
+[2022.04.02-21.31.03:916][338]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.31.04:059][340]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-21.31.04:059][340]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-21.31.04:059][340]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-21.31.04:059][340]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.31.04:059][340]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.31.04:059][340]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.31.04:059][340]MaterialEditorStats: 
+[2022.04.02-21.31.04:059][340]MaterialEditorStats: Shader Count: 12
+[2022.04.02-21.31.07:888][541]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: D39AB4F0EEE01BBDE9BBDECC6291A2B449C7FA77), compiling. 
+[2022.04.02-21.31.07:898][541]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.31.07:898][541]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.31.07:898][541]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.31.07:898][541]MaterialEditorStats: 
+[2022.04.02-21.31.07:898][541]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.31.07:952][543]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-21.31.07:952][543]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-21.31.07:952][543]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-21.31.07:952][543]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.31.07:952][543]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.31.07:952][543]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.31.07:952][543]MaterialEditorStats: 
+[2022.04.02-21.31.07:952][543]MaterialEditorStats: Shader Count: 12
+[2022.04.02-21.31.08:691][578]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D790C347CA8931E575F7CA566CF27D432BAC76E), compiling. 
+[2022.04.02-21.31.08:692][578]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.31.08:692][578]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.31.08:699][578]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 843081539D361F60E989C68D1D3ECB49A3D4FDEA), compiling. 
+[2022.04.02-21.31.08:699][578]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.31.08:699][578]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.31.08:700][578]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 26509AAE0C1C93AAB0C8E068BB1A64D5EA8EB748), compiling. 
+[2022.04.02-21.31.08:701][578]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.31.08:701][578]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.31.08:707][578]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.31.09:245][606]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F65A6328FC7401DAC1925CE4F8A7301D7858B63), compiling. 
+[2022.04.02-21.31.09:245][606]LogMaterial: Warning: [AssetLog] /Engine/Transient.Debris3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.02-21.31.09:246][606]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.04.02-21.31.10:234][654]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 9C0EAA4405AF00262173C3E1E6C540958337161E), compiling. 
+[2022.04.02-21.31.10:237][654]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 31B838391DD2D55351B520C4058053E951B13210), compiling. 
+[2022.04.02-21.31.10:240][654]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 6311F6A166E2F75F29D90BBD897B696877DDDF82), compiling. 
+[2022.04.02-21.31.10:245][654]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.31.10:245][654]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.31.10:245][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.31.10:245][654]MaterialEditorStats: 
+[2022.04.02-21.31.10:245][654]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.31.10:733][677]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.02-21.31.10:733][677]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.31.10:733][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.31.10:733][677]MaterialEditorStats: 
+[2022.04.02-21.31.10:733][677]MaterialEditorStats: Shader Count: 1
+[2022.04.02-21.31.11:665][714]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.31.11:665][714]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.31.11:665][714]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.31.11:665][714]MaterialEditorStats: 
+[2022.04.02-21.31.11:665][714]MaterialEditorStats: Shader Count: 3
+[2022.04.02-21.31.12:765][764]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.31.12:765][764]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.31.12:765][764]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.31.12:765][764]MaterialEditorStats: 
+[2022.04.02-21.31.12:765][764]MaterialEditorStats: Shader Count: 9
+[2022.04.02-21.31.13:619][792]MaterialEditorStats: Base pass shader: 103 instructions
+[2022.04.02-21.31.13:619][792]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2022.04.02-21.31.13:619][792]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.31.13:619][792]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.31.13:619][792]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.31.13:619][792]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.31.13:619][792]MaterialEditorStats: 
+[2022.04.02-21.31.13:619][792]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.31.23:307][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.04.02-21.31.25:023][ 98]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.02-21.31.25:151][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.02-21.31.31:795][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.04.02-21.31.33:026][440]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.02-21.31.33:151][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.04.02-21.31.38:477][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.02-21.31.39:945][714]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.02-21.31.39:959][714]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_AO.shhnouh_2K_AO
+	Asset Name: /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Displacement.shhnouh_2K_Displacement
+	Asset Name: /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Displacement.shhnouh_2K_Displacement_0
+	Asset Name: /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Translucency.shhnouh_2K_Translucency
+[2022.04.02-21.31.40:197][714]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.04.02-21.31.40:424][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.04.02-21.31.53:970][401]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 7772488A7CB12F7C802BEF7831E55DDDFF7917E2), compiling. 
+[2022.04.02-21.31.53:972][401]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E8E0F010C25136F8AE9D9A010ACE96A6A9FA7EE), compiling. 
+[2022.04.02-21.31.53:974][401]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DE214C58C6EFD41BF79CDDF6395F35F921CF00E0), compiling. 
+[2022.04.02-21.31.53:975][401]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B4EEDB050CEB39C073C8D66376A851AADAA390F), compiling. 
+[2022.04.02-21.31.53:983][401]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 7FD5F5176915E1AE452D9B6C609ACAB080B05E03), compiling. 
+[2022.04.02-21.31.53:984][401]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F226D22E1F952788C3AB1272493EF252D37C8917), compiling. 
+[2022.04.02-21.31.53:986][401]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9EC8E59BA9D60834F0FFDBC172062EEA5304A8DD), compiling. 
+[2022.04.02-21.31.53:987][401]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 60F129964600CF3775AD0F382C7D58F07352C4BD), compiling. 
+[2022.04.02-21.31.53:989][401]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7209FF1EE910779BCD9101797F6E3F7069E0C64C), compiling. 
+[2022.04.02-21.31.53:995][401]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 4ADECD8CA2A3BD2BCDE0B1F796172AFC010A4513), compiling. 
+[2022.04.02-21.31.53:997][401]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 18754752BAE9FCC71FF7A0E1095AFAD8F8158052), compiling. 
+[2022.04.02-21.31.53:999][401]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0114D310CA69966FC0B8CAB0C1D3611BFC979ECC), compiling. 
+[2022.04.02-21.31.54:000][401]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1842015CA8D369A26DB7726843DCD3E931DD2043), compiling. 
+[2022.04.02-21.31.54:002][401]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 119CD7C92D673C2F179D18261801C07C3BCDD5EF), compiling. 
+[2022.04.02-21.31.54:003][401]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: F6563D1BFEF3A1D7C551DB23D61824B89BA2545F), compiling. 
+[2022.04.02-21.31.54:007][401]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.31.54:007][401]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.31.54:007][401]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.31.54:007][401]MaterialEditorStats: 
+[2022.04.02-21.31.54:007][401]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.31.54:044][403]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-21.31.54:044][403]LogShaderCompilers: Display: Total job queries 2722, among them cache hits 655 (24.06%)
+[2022.04.02-21.31.54:044][403]LogShaderCompilers: Display: Tracking 1997 distinct input hashes that result in 479 distinct outputs (23.99%)
+[2022.04.02-21.31.54:044][403]LogShaderCompilers: Display: RAM used: 1.97 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.12%
+[2022.04.02-21.31.54:044][403]LogShaderCompilers: Display: ================================================
+[2022.04.02-21.31.54:075][404]MaterialEditorStats: Base pass shader: 103 instructions
+[2022.04.02-21.31.54:075][404]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2022.04.02-21.31.54:075][404]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.31.54:075][404]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.31.54:075][404]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-21.31.54:075][404]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.31.54:075][404]MaterialEditorStats: 
+[2022.04.02-21.31.54:075][404]MaterialEditorStats: Shader Count: 27
+[2022.04.02-21.31.58:983][656]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 8513BD6E1DB507E3C7CDBBEE8D086527921AF96A), compiling. 
+[2022.04.02-21.31.58:985][656]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C2695623145EFD73D5491C34592B2E205727658C), compiling. 
+[2022.04.02-21.31.58:990][656]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.31.58:990][656]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.31.58:990][656]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.31.58:990][656]MaterialEditorStats: 
+[2022.04.02-21.31.58:990][656]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.31.59:727][691]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.02-21.31.59:727][691]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.31.59:727][691]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.31.59:727][691]MaterialEditorStats: 
+[2022.04.02-21.31.59:727][691]MaterialEditorStats: Shader Count: 1
+[2022.04.02-21.32.00:585][724]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.32.00:586][724]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-21.32.00:586][724]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.32.00:586][724]MaterialEditorStats: 
+[2022.04.02-21.32.00:586][724]MaterialEditorStats: Shader Count: 3
+[2022.04.02-21.32.02:337][806]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 3938F61FCCB9F216DFA0AD7DD9E1A50BDC64F25C), compiling. 
+[2022.04.02-21.32.02:339][806]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 265BBE2D92739FE702BDB8B564E763F2AF16858F), compiling. 
+[2022.04.02-21.32.02:343][806]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.32.02:343][806]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-21.32.02:343][806]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.32.02:343][806]MaterialEditorStats: 
+[2022.04.02-21.32.02:343][806]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.32.02:955][827]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-21.32.02:956][827]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-21.32.02:956][827]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.32.02:956][827]MaterialEditorStats: 
+[2022.04.02-21.32.02:956][827]MaterialEditorStats: Shader Count: 1
+[2022.04.02-21.32.03:732][854]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.32.03:732][854]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-21.32.03:732][854]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.32.03:732][854]MaterialEditorStats: 
+[2022.04.02-21.32.03:732][854]MaterialEditorStats: Shader Count: 3
+[2022.04.02-21.32.04:001][867]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DDD42610DB156DAB94EA97DFF423DC812AFF19F), compiling. 
+[2022.04.02-21.32.04:005][867]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: A7DE1590B52550FB5860E77A9CEA72572A80B4DC), compiling. 
+[2022.04.02-21.32.04:010][867]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.32.04:010][867]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.32.04:010][867]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.32.04:010][867]MaterialEditorStats: 
+[2022.04.02-21.32.04:011][867]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.32.05:885][930]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.02-21.32.05:885][930]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.32.05:885][930]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.32.05:885][930]MaterialEditorStats: 
+[2022.04.02-21.32.05:885][930]MaterialEditorStats: Shader Count: 2
+[2022.04.02-21.32.06:554][953]LogMaterialEditor: Saving and Compiling material Debris3
+[2022.04.02-21.32.07:227][953]LogMaterial: Display: Missing cached shadermap for Preview:Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: 25014EB150D29E5BAEFDE40EF72C9F5921A7B85F), compiling. 
+[2022.04.02-21.32.07:310][953]LogMaterial: Display: Missing cached shadermap for Debris3 in PCD3D_SM5, Default, SM5 (DDC key hash: D656983245A7B4AAC183185CF99DB255C86E73E2), compiling. 
+[2022.04.02-21.32.07:320][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.04.02-21.32.07:328][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.04.02-21.32.07:533][953]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Debris3EA011BB74E1689FDF6634FBEFDC2CA05.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shnnqwh_2K_atlas_ms/Debris3.uasset'
+[2022.04.02-21.32.07:554][953]AssetCheck: New page: Asset Save: Debris3
+[2022.04.02-21.32.07:554][953]LogContentValidation: Display: Validating Material /Game/Decals/Decal_Textures/Debris_Manmade_shnnqwh_2K_atlas_ms/Debris3.Debris3
+[2022.04.02-21.32.07:555][953]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.32.07:555][953]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.32.07:555][953]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.32.07:555][953]MaterialEditorStats: 
+[2022.04.02-21.32.07:555][953]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.32.07:573][954]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.32.07:573][954]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.32.07:573][954]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.32.07:573][954]MaterialEditorStats: 
+[2022.04.02-21.32.07:573][954]MaterialEditorStats: Shader Count: 23
+[2022.04.02-21.32.08:728][  4]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-21.32.08:728][  4]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-21.32.08:728][  4]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-21.32.08:728][  4]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-21.32.08:728][  4]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.32.08:728][  4]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.32.08:728][  4]MaterialEditorStats: 
+[2022.04.02-21.32.08:728][  4]MaterialEditorStats: Shader Count: 37
+[2022.04.02-21.32.11:786][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.02-21.32.11:844][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.02-21.32.11:976][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap8425A84B489C437981BB19987811BB84.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.02-21.32.11:993][151]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.02-21.32.12:364][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap_BuiltDataE38B47904CB02D17BF3EADB420F9C5EA.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.02-21.32.12:372][151]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.02-21.32.12:372][151]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.534
+[2022.04.02-21.32.12:605][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/shhnouh_2K_AlbedoE2E651BF4FA1E3476266E4907AB576DA.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Albedo.uasset'
+[2022.04.02-21.32.12:768][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/shnnqwh_2K_Roughness77DAB4864B590F5010EB94A3F0141FAB.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Roughness.uasset'
+[2022.04.02-21.32.13:056][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/shhnouh_2K_Normal83AE27064B337CECDAA2C3B71BE57DC6.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Normal.uasset'
+[2022.04.02-21.32.13:135][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/shhnouh_2K_OpacityF32107E14DDD487CE7A99DB0486730E4.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Opacity.uasset'
+[2022.04.02-21.32.13:291][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/shhnouh_2K_RoughnessA1A6DC7E472FFA2D4430C683E4C263EA.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Roughness.uasset'
+[2022.04.02-21.32.13:380][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/shnnqwh_2K_OpacityE3654D794C85EB500EDEDB9A7CC9A4DE.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Opacity.uasset'
+[2022.04.02-21.32.13:602][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/shmklxh_2K_Albedo9A3E6E634121E177A09005B387C50F8B.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Albedo.uasset'
+[2022.04.02-21.32.13:844][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/shnnqwh_2K_Albedo2F66687540680FF2236FA9ACD11DC196.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Albedo.uasset'
+[2022.04.02-21.32.14:117][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/shmklxh_2K_Normal7A154A4E4532C0156A244A9D08628EB2.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Normal.uasset'
+[2022.04.02-21.32.14:197][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/shmklxh_2K_Opacity9039892F4E95BF1624F0498178FF9B23.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Opacity.uasset'
+[2022.04.02-21.32.14:355][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/shmklxh_2K_RoughnessBE3880EE4ECC826A2C93C2866ABE2B41.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Roughness.uasset'
+[2022.04.02-21.32.14:661][151]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/shnnqwh_2K_NormalC014B0164D864C8E5541AE922CAA104B.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Normal.uasset'
+[2022.04.02-21.32.14:675][151]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Normal.shmklxh_2K_Normal
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Albedo.shmklxh_2K_Albedo
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Roughness.shmklxh_2K_Roughness
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shmklxh_2K_atlas_ms/shmklxh_2K_Opacity.shmklxh_2K_Opacity
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Roughness.shnnqwh_2K_Roughness
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Opacity.shnnqwh_2K_Opacity
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Normal.shnnqwh_2K_Normal
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shnnqwh_2K_atlas_ms/shnnqwh_2K_Albedo.shnnqwh_2K_Albedo
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Roughness.shhnouh_2K_Roughness
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Opacity.shhnouh_2K_Opacity
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Normal.shhnouh_2K_Normal
+[2022.04.02-21.32.14:675][151]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Debris_Manmade_shhnouh_2K_atlas_ms/shhnouh_2K_Albedo.shhnouh_2K_Albedo
