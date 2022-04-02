@@ -5526,3 +5526,972 @@ Jnix_SciFI_wall8
 [2022.04.02-21.50.10:151][191]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_wdcpdgzv_2K_atlas_ms/wdcpdgzv_2K_Albedo.wdcpdgzv_2K_Albedo
 [2022.04.02-21.50.10:151][191]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_wdcpdgmv_2K_atlas_ms/wdcpdgmv_2K_Opacity.wdcpdgmv_2K_Opacity
 [2022.04.02-21.50.10:151][191]LogContentValidation: Display: Validating Texture2D /Game/Decals/Decal_Textures/Decals_wdcpdgmv_2K_atlas_ms/wdcpdgmv_2K_Albedo.wdcpdgmv_2K_Albedo
+[2022.04.02-21.51.31:936][363]Cmd: DELETE
+[2022.04.02-21.51.31:936][363]Cmd: ACTOR DELETE
+[2022.04.02-21.51.31:940][363]LogEditorActor: Deleted Actor: DecalActor
+[2022.04.02-21.51.31:952][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.02-21.51.31:954][363]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2022.04.02-21.52.24:213][297]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Plug n Play\Models\Tent_1.fbx)
+[2022.04.02-21.52.24:223][297]LogFbx: Loading FBX Scene from F:\Plug n Play\Models\Tent_1.fbx
+[2022.04.02-21.52.24:250][297]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.02-21.52.33:662][297]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.02-21.52.33:789][297]LogFbx: Display: Triangulating static mesh polySurface13
+[2022.04.02-21.52.34:699][297]LogStaticMesh: Display: Building static mesh Tent_1...
+[2022.04.02-21.52.35:109][297]LogStaticMesh: Built static mesh [0.41s] /Game/Meshes/Tent_1.Tent_1
+[2022.04.02-21.52.35:243][297]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.02-21.52.35:315][297]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Tent_1) ...
+[2022.04.02-21.52.36:985][355]LogActorFactory: Actor Factory created Tent_1
+[2022.04.02-21.52.36:986][355]LogActorFactory: Actor Factory created Tent_1
+[2022.04.02-21.52.37:697][390]LogActorFactory: Actor Factory created Tent_1
+[2022.04.02-21.52.37:697][390]LogActorFactory: Actor Factory created Tent_1
+[2022.04.02-21.53.19:633][419]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.02-21.55.02:120][551]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.02-21.55.02:120][551]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.02-21.55.07:403][769]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Tent_1.Tent_1
+[2022.04.02-21.55.42:626][420]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Tent_1) ...
+[2022.04.02-21.55.45:618][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Tent_1" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Tent_1.uasset" SILENT=true
+[2022.04.02-21.55.45:672][551]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Tent_128256B7B44B2BCB267122C97684B5CDA.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Tent_1.uasset'
+[2022.04.02-21.55.45:683][551]AssetCheck: New page: Asset Save: Tent_1
+[2022.04.02-21.55.45:683][551]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Tent_1.Tent_1
+[2022.04.02-21.55.50:583][774]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.04.02-21.55.50:583][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.02-21.55.52:628][873]Cmd: DELETE
+[2022.04.02-21.55.52:628][873]Cmd: ACTOR DELETE
+[2022.04.02-21.55.52:632][873]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.02-21.55.52:650][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.04.02-21.55.52:653][873]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.04.02-21.55.55:534][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.04.02-21.55.57:060][996]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.02-21.55.57:229][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.02-21.55.57:242][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.02-21.55.57:248][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.02-21.56.28:158][368]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Plug n Play\Models\Tent_1.fbx)
+[2022.04.02-21.56.28:168][368]LogFbx: Loading FBX Scene from F:\Plug n Play\Models\Tent_1.fbx
+[2022.04.02-21.56.28:198][368]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.02-21.56.32:907][368]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.02-21.56.32:933][368]LogFbx: Display: Triangulating static mesh polySurface13
+[2022.04.02-21.56.33:824][368]LogStaticMesh: Display: Building static mesh Tent_1...
+[2022.04.02-21.56.34:218][368]LogStaticMesh: Built static mesh [0.39s] /Game/Meshes/Tent_1.Tent_1
+[2022.04.02-21.56.34:431][368]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.02-21.56.34:630][368]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Tent_1) ...
+[2022.04.02-21.56.34:681][368]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(207)].
+[2022.04.02-21.56.37:468][484]LogActorFactory: Actor Factory created Tent_1
+[2022.04.02-21.56.37:469][484]LogActorFactory: Actor Factory created Tent_1
+[2022.04.02-21.56.38:333][525]LogActorFactory: Actor Factory created Tent_1
+[2022.04.02-21.56.38:333][525]LogActorFactory: Actor Factory created Tent_1
+[2022.04.02-21.56.49:606][ 18]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2022.04.02-21.56.49:609][ 18]LogMaterial: Display: Missing cached shadermap for Preview:WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1F55522E0D499D27EC407DDD0F5C39DD4EC441E5), compiling. 
+[2022.04.02-21.56.49:707][ 18]LogMaterial: Display: Missing cached shadermap for Preview:WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3040A78FD95E69BE13778A1CD4741F84CE5D26A7), compiling. Is special engine material.
+[2022.04.02-21.56.49:712][ 18]LogMaterial: Display: Missing cached shadermap for Preview:WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 05BFFF9484A40A3B89D79DC077C9D02B09B0B3C7), compiling. Is special engine material.
+[2022.04.02-21.56.49:714][ 18]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_26 in PCD3D_SM5, Default, SM5 (DDC key hash: 726F2664A7EB7B6E02D1488CD2E74314D3059494), compiling. 
+[2022.04.02-21.56.49:716][ 18]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_27 in PCD3D_SM5, Default, SM5 (DDC key hash: 848AA3A5631201792B727CEB0C877515D0426CF7), compiling. 
+[2022.04.02-21.56.49:717][ 18]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_28 in PCD3D_SM5, Default, SM5 (DDC key hash: 5F1FA8F3D4D9C57914EEBA82C0D9BA5ED484B0C3), compiling. 
+[2022.04.02-21.56.49:719][ 18]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 40264CD12C958A737CDEE9F3F9AE0B7B7DF9F0AE), compiling. 
+[2022.04.02-21.56.49:720][ 18]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_29 in PCD3D_SM5, Default, SM5 (DDC key hash: 2C7EEB061540CAC2701D79D561D5466699D76E6A), compiling. 
+[2022.04.02-21.56.51:031][ 18]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2022.04.02-21.56.51:074][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-21.56.51:074][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.56.51:074][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.56.51:074][ 18]MaterialEditorStats: 
+[2022.04.02-21.56.51:074][ 18]MaterialEditorStats: Shader Count: 0
+[2022.04.02-21.56.52:287][ 48]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-21.56.52:287][ 48]LogShaderCompilers: Display: Total job queries 7252, among them cache hits 3249 (44.80%)
+[2022.04.02-21.56.52:287][ 48]LogShaderCompilers: Display: Tracking 3363 distinct input hashes that result in 505 distinct outputs (15.02%)
+[2022.04.02-21.56.52:287][ 48]LogShaderCompilers: Display: RAM used: 2.18 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.13%
+[2022.04.02-21.56.52:287][ 48]LogShaderCompilers: Display: ================================================
+[2022.04.02-21.56.52:604][ 56]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-21.56.52:604][ 56]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.04.02-21.56.52:604][ 56]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-21.56.52:604][ 56]MaterialEditorStats: 
+[2022.04.02-21.56.52:604][ 56]MaterialEditorStats: Shader Count: 2
+[2022.04.02-21.56.54:179][ 99]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.04.02-21.56.54:179][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.02-22.00.09:593][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.04.02-22.00.09:730][535]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap_Auto20082A5394F4C04DAA93CC48FB4EABD37.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2022.04.02-22.00.09:738][535]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.154
+[2022.04.02-22.00.09:738][535]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.154
+[2022.04.02-22.00.09:739][535]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Tent_1] ([1] browsable assets)...
+[2022.04.02-22.00.09:768][535]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Tent_1.Tent_1]
+[2022.04.02-22.00.09:768][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Tent_1]
+[2022.04.02-22.00.09:768][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Tent_1" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Autosaves/Game/Meshes/Tent_1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.04.02-22.00.09:834][535]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Tent_1_Auto201C98ADC45D6462870BA9D9513BA70F8.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Autosaves/Game/Meshes/Tent_1_Auto2.uasset'
+[2022.04.02-22.00.09:836][535]LogFileHelpers: Auto-saving content packages took 0.097
+[2022.04.02-22.02.44:813][  7]LogMaterialEditor: Saving and Compiling material GraffitiClean
+[2022.04.02-22.02.45:287][  7]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 0181283E95C305FC99A466E1AF51D7D4BA2EEE31), compiling. 
+[2022.04.02-22.02.45:338][  7]LogMaterial: Display: Missing cached shadermap for GraffitiClean in PCD3D_SM5, Default, SM5 (DDC key hash: 27E331FFF26E18EEC3378409C3D6150A4E9913F9), compiling. 
+[2022.04.02-22.02.45:349][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.04.02-22.02.45:356][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.02-22.02.45:578][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Decals/GraffitiClean" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiClean.uasset" SILENT=true
+[2022.04.02-22.02.45:583][  7]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiClean88407B2D46C8128B8105A78D2936D81D.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiClean.uasset'
+[2022.04.02-22.02.45:593][  7]AssetCheck: New page: Asset Save: GraffitiClean
+[2022.04.02-22.02.45:593][  7]LogContentValidation: Display: Validating Material /Game/Decals/GraffitiClean.GraffitiClean
+[2022.04.02-22.02.45:594][  7]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.02.45:594][  7]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.02.45:594][  7]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.02.45:594][  7]MaterialEditorStats: 
+[2022.04.02-22.02.45:594][  7]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.02.45:600][  7]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-22.02.45:600][  7]LogShaderCompilers: Display: Total job queries 7318, among them cache hits 3315 (45.30%)
+[2022.04.02-22.02.45:600][  7]LogShaderCompilers: Display: Tracking 3448 distinct input hashes that result in 577 distinct outputs (16.73%)
+[2022.04.02-22.02.45:600][  7]LogShaderCompilers: Display: RAM used: 2.30 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.14%
+[2022.04.02-22.02.45:600][  7]LogShaderCompilers: Display: ================================================
+[2022.04.02-22.02.45:617][  8]MaterialEditorStats: Base pass shader: 108 instructions
+[2022.04.02-22.02.45:617][  8]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 128 instructions
+[2022.04.02-22.02.45:617][  8]MaterialEditorStats: Base pass vertex shader: 235 instructions
+[2022.04.02-22.02.45:617][  8]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-22.02.45:617][  8]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.02.45:617][  8]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.02.45:617][  8]MaterialEditorStats: 
+[2022.04.02-22.02.45:617][  8]MaterialEditorStats: Shader Count: 37
+[2022.04.02-22.07.01:351][ 10]LogSlate: Window 'Message' being destroyed
+[2022.04.02-22.07.01:357][ 10]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Decals/GraffitiLightning.GraffitiLightning
+(Selecting 'No' will cause all changes to be lost!)
+[2022.04.02-22.07.01:809][ 10]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiLightning in PCD3D_SM5, Default, SM5 (DDC key hash: A4E39ABCE24B6586D39833B11A056694F95D4E73), compiling. 
+[2022.04.02-22.07.01:868][ 10]LogMaterial: Display: Missing cached shadermap for GraffitiLightning in PCD3D_SM5, Default, SM5 (DDC key hash: 4C228CD707657EB04F76719265EDCE6E7770B162), compiling. 
+[2022.04.02-22.07.01:877][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.02-22.07.01:884][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.02-22.07.01:971][ 10]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.02-22.07.01:971][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.02-22.07.01:988][ 10]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-22.07.01:988][ 10]LogShaderCompilers: Display: Total job queries 7345, among them cache hits 3342 (45.50%)
+[2022.04.02-22.07.01:988][ 10]LogShaderCompilers: Display: Tracking 3448 distinct input hashes that result in 577 distinct outputs (16.73%)
+[2022.04.02-22.07.01:988][ 10]LogShaderCompilers: Display: RAM used: 2.30 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.14%
+[2022.04.02-22.07.01:988][ 10]LogShaderCompilers: Display: ================================================
+[2022.04.02-22.07.03:502][ 27]LogSlate: Window 'Message' being destroyed
+[2022.04.02-22.07.03:507][ 27]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Decals/GraffitiTechno.GraffitiTechno
+(Selecting 'No' will cause all changes to be lost!)
+[2022.04.02-22.07.03:955][ 27]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiTechno in PCD3D_SM5, Default, SM5 (DDC key hash: FEB8557695340D3BC4D638C0C4D19E6AED3869DD), compiling. 
+[2022.04.02-22.07.04:018][ 27]LogMaterial: Display: Missing cached shadermap for GraffitiTechno in PCD3D_SM5, Default, SM5 (DDC key hash: 043E29BE571C588A2BFCB0E01EBCA2763FAFA19B), compiling. 
+[2022.04.02-22.07.04:092][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.04.02-22.07.04:102][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.02-22.07.04:126][ 27]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.02-22.07.04:126][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.02-22.07.05:646][ 48]LogSlate: Window 'Message' being destroyed
+[2022.04.02-22.07.05:651][ 48]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Decals/GraffitiThisWay.GraffitiThisWay
+(Selecting 'No' will cause all changes to be lost!)
+[2022.04.02-22.07.06:105][ 48]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiThisWay in PCD3D_SM5, Default, SM5 (DDC key hash: 1A1D9F4CE93298C98D699C67BFBB34B8212B5142), compiling. 
+[2022.04.02-22.07.06:169][ 48]LogMaterial: Display: Missing cached shadermap for GraffitiThisWay in PCD3D_SM5, Default, SM5 (DDC key hash: F316942EEDBF965D59FB1A5676D22E75EC5CEF1C), compiling. 
+[2022.04.02-22.07.06:243][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.04.02-22.07.06:253][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.04.02-22.07.06:305][ 48]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.02-22.07.06:305][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.02-22.07.07:826][ 60]LogSlate: Window 'Message' being destroyed
+[2022.04.02-22.07.07:832][ 60]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Decals/GraffitiCrime.GraffitiCrime
+(Selecting 'No' will cause all changes to be lost!)
+[2022.04.02-22.07.08:279][ 60]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiCrime in PCD3D_SM5, Default, SM5 (DDC key hash: FBA1657AAD6167FECA7E8D6536D7FF0D22666C41), compiling. 
+[2022.04.02-22.07.08:351][ 60]LogMaterial: Display: Missing cached shadermap for GraffitiCrime in PCD3D_SM5, Default, SM5 (DDC key hash: E32D70BDEA340EB9A7FEEDD7F740A91985F4A337), compiling. 
+[2022.04.02-22.07.08:427][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.04.02-22.07.08:437][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.02-22.07.08:459][ 60]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.02-22.07.08:459][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.02-22.07.10:178][ 79]LogSlate: Window 'Message' being destroyed
+[2022.04.02-22.07.10:185][ 79]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Decals/Decal_Textures/Decals_vlrkdiyc_2K_atlas_ms/GraffitiWords.GraffitiWords
+(Selecting 'No' will cause all changes to be lost!)
+[2022.04.02-22.07.10:629][ 79]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiWords in PCD3D_SM5, Default, SM5 (DDC key hash: 1DF0423D5BFEE26D9BB96BF31E099FF937676678), compiling. 
+[2022.04.02-22.07.10:700][ 79]LogMaterial: Display: Missing cached shadermap for GraffitiWords in PCD3D_SM5, Default, SM5 (DDC key hash: 2C86874EC381A60AF31D6D3367375197BE8478C6), compiling. 
+[2022.04.02-22.07.10:774][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.04.02-22.07.10:784][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.02-22.07.10:805][ 79]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.02-22.07.10:806][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.02-22.07.12:286][ 90]LogSlate: Window 'Message' being destroyed
+[2022.04.02-22.07.12:293][ 90]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Decals/GraffitiDirt.GraffitiDirt
+(Selecting 'No' will cause all changes to be lost!)
+[2022.04.02-22.07.12:739][ 90]LogMaterial: Display: Missing cached shadermap for Preview:GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: F48D3CE7BDDD91A0110C528EAE47704D880588A8), compiling. 
+[2022.04.02-22.07.12:803][ 90]LogMaterial: Display: Missing cached shadermap for GraffitiDirt in PCD3D_SM5, Default, SM5 (DDC key hash: 92FD23D8ACC139E3F1B47E05F8DDDF71C4A53B3E), compiling. 
+[2022.04.02-22.07.12:886][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.04.02-22.07.12:895][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.02-22.07.12:913][ 90]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.02-22.07.12:913][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.02-22.07.27:683][807]Cmd: DELETE
+[2022.04.02-22.07.27:683][807]Cmd: ACTOR DELETE
+[2022.04.02-22.07.27:691][807]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.02-22.07.27:712][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.04.02-22.07.27:717][807]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.04.02-22.10.10:203][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.04.02-22.10.10:334][455]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap_Auto30876428941CB3C4C699B0999ED195DFB.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2022.04.02-22.10.10:342][455]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.146
+[2022.04.02-22.10.10:342][455]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.146
+[2022.04.02-22.10.10:342][455]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Decals/GraffitiLightning] ([1] browsable assets)...
+[2022.04.02-22.10.10:414][455]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Decals/GraffitiLightning.GraffitiLightning]
+[2022.04.02-22.10.10:414][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/Decals/GraffitiLightning]
+[2022.04.02-22.10.10:419][455]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiLightning_Auto3C9025A974762E6AB2604D8951779580E.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Autosaves/Game/Decals/GraffitiLightning_Auto3.uasset'
+[2022.04.02-22.10.10:421][455]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Decals/GraffitiTechno] ([1] browsable assets)...
+[2022.04.02-22.10.10:453][455]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Decals/GraffitiTechno.GraffitiTechno]
+[2022.04.02-22.10.10:453][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/Decals/GraffitiTechno]
+[2022.04.02-22.10.10:458][455]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiTechno_Auto3D788A1D04931D20E5B02629E91759876.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Autosaves/Game/Decals/GraffitiTechno_Auto3.uasset'
+[2022.04.02-22.10.10:459][455]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Decals/GraffitiThisWay] ([1] browsable assets)...
+[2022.04.02-22.10.10:491][455]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Decals/GraffitiThisWay.GraffitiThisWay]
+[2022.04.02-22.10.10:491][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/Decals/GraffitiThisWay]
+[2022.04.02-22.10.10:496][455]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiThisWay_Auto30E2CA8E745BDBDFEC4F643BB619C6871.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Autosaves/Game/Decals/GraffitiThisWay_Auto3.uasset'
+[2022.04.02-22.10.10:497][455]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Decals/GraffitiCrime] ([1] browsable assets)...
+[2022.04.02-22.10.10:530][455]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Decals/GraffitiCrime.GraffitiCrime]
+[2022.04.02-22.10.10:530][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/Decals/GraffitiCrime]
+[2022.04.02-22.10.10:535][455]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiCrime_Auto30F7CC21449D68229901E339E1983D65E.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Autosaves/Game/Decals/GraffitiCrime_Auto3.uasset'
+[2022.04.02-22.10.10:537][455]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Decals/Decal_Textures/Decals_vlrkdiyc_2K_atlas_ms/GraffitiWords] ([1] browsable assets)...
+[2022.04.02-22.10.10:569][455]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Decals/Decal_Textures/Decals_vlrkdiyc_2K_atlas_ms/GraffitiWords.GraffitiWords]
+[2022.04.02-22.10.10:569][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/Decals/Decal_Textures/Decals_vlrkdiyc_2K_atlas_ms/GraffitiWords]
+[2022.04.02-22.10.10:574][455]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiWords_Auto348C28BCE4E0BD66D6ADE28A0DEB4F446.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Autosaves/Game/Decals/Decal_Textures/Decals_vlrkdiyc_2K_atlas_ms/GraffitiWords_Auto3.uasset'
+[2022.04.02-22.10.10:575][455]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Decals/GraffitiDirt] ([1] browsable assets)...
+[2022.04.02-22.10.10:608][455]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Decals/GraffitiDirt.GraffitiDirt]
+[2022.04.02-22.10.10:608][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/Decals/GraffitiDirt]
+[2022.04.02-22.10.10:608][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Decals/GraffitiDirt" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Autosaves/Game/Decals/GraffitiDirt_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.04.02-22.10.10:613][455]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiDirt_Auto3DD010D144C37E686174120BDDFC8BE39.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Autosaves/Game/Decals/GraffitiDirt_Auto3.uasset'
+[2022.04.02-22.10.10:614][455]LogFileHelpers: Auto-saving content packages took 0.272
+[2022.04.02-22.10.10:650][455]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-22.10.10:650][455]LogShaderCompilers: Display: Total job queries 7702, among them cache hits 3699 (48.03%)
+[2022.04.02-22.10.10:650][455]LogShaderCompilers: Display: Tracking 3448 distinct input hashes that result in 577 distinct outputs (16.73%)
+[2022.04.02-22.10.10:650][455]LogShaderCompilers: Display: RAM used: 2.30 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.14%
+[2022.04.02-22.10.10:650][455]LogShaderCompilers: Display: ================================================
+[2022.04.02-22.13.53:752][469]LogMaterial: Display: Missing cached shadermap for M_TruckBed in PCD3D_SM5, Default, SM5 (DDC key hash: 5790A2A8639371B819937D5421CADCAB683AFFF2), compiling. 
+[2022.04.02-22.13.53:837][469]LogTexture: Display: Building textures: M_TruckBed_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2022.04.02-22.13.53:837][469]LogTexture: Display: Building textures: M_TruckBed_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.02-22.13.53:842][469]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/M_TruckBed_M_TruckBed.M_TruckBed_M_TruckBed
+[2022.04.02-22.13.53:860][469]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (M_TruckBed_M_TruckBed) ...
+[2022.04.02-22.13.54:056][469]LogTexture: Display: Building textures: M_TruckBed_lambert1_Normal (BC5, 2048X2048)
+[2022.04.02-22.13.54:257][469]LogStaticMesh: Display: Building static mesh M_TruckBed_M_TruckBed...
+[2022.04.02-22.13.54:258][469]LogStaticMesh: Built static mesh [0.06s] /Game/Meshes/M_TruckBed_M_TruckBed.M_TruckBed_M_TruckBed
+[2022.04.02-22.13.56:398][524]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-22.13.56:398][524]LogShaderCompilers: Display: Total job queries 7732, among them cache hits 3699 (47.84%)
+[2022.04.02-22.13.56:398][524]LogShaderCompilers: Display: Tracking 3451 distinct input hashes that result in 577 distinct outputs (16.72%)
+[2022.04.02-22.13.56:398][524]LogShaderCompilers: Display: RAM used: 2.30 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.14%
+[2022.04.02-22.13.56:398][524]LogShaderCompilers: Display: ================================================
+[2022.04.02-22.14.02:179][767]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.04.02-22.14.02:179][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.02-22.15.01:983][723]LogMaterial: Display: Missing cached shadermap for M_TrussBeam in PCD3D_SM5, Default, SM5 (DDC key hash: 6815DF3803450CBBB0486DFBC3924FF1DBD3EE63), compiling. 
+[2022.04.02-22.15.02:008][723]LogTexture: Display: Building textures: Truss_Beam_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.02:020][723]LogTexture: Display: Building textures: Truss_Beam_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.02:020][723]LogTexture: Display: Building textures: Truss_Beam_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.02:056][723]LogStaticMesh: Display: Building static mesh Jnix_Truss_Beam...
+[2022.04.02-22.15.02:060][723]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Jnix_Truss_Beam.Jnix_Truss_Beam
+[2022.04.02-22.15.02:078][723]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Jnix_Truss_Beam) ...
+[2022.04.02-22.15.02:150][723]LogStaticMesh: Built static mesh [0.08s] /Game/Meshes/Jnix_Truss_Beam.Jnix_Truss_Beam
+[2022.04.02-22.15.13:380][198]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.04.02-22.15.13:380][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.02-22.15.42:898][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_Waist in PCD3D_SM5, Default, SM5 (DDC key hash: B3D3AB9F3C037F3A404A22EAA62F8A9C523DD013), compiling. 
+[2022.04.02-22.15.42:924][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_AltMetal in PCD3D_SM5, Default, SM5 (DDC key hash: 099A0403E555373255F96E38402D5C3C3245C14C), compiling. 
+[2022.04.02-22.15.42:967][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Waist_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.42:967][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Waist_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.42:967][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Waist_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.42:967][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_ArmJoints in PCD3D_SM5, Default, SM5 (DDC key hash: 95543C835C8B13895810FE855F591E6FC9D845E1), compiling. 
+[2022.04.02-22.15.43:009][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_BackPack in PCD3D_SM5, Default, SM5 (DDC key hash: DE013F19A1D0368775F6BE058C447ECFA6710786), compiling. 
+[2022.04.02-22.15.43:052][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_ChestDecorations in PCD3D_SM5, Default, SM5 (DDC key hash: 4DAFA2E310ACFB5320C2541EA99E90B2841A8565), compiling. 
+[2022.04.02-22.15.43:093][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_Chestpiece in PCD3D_SM5, Default, SM5 (DDC key hash: 58481D7BC9FAFF7EF7B57EA97210A17D021E5076), compiling. 
+[2022.04.02-22.15.43:134][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_Faceplate in PCD3D_SM5, Default, SM5 (DDC key hash: E8CBA9E2E4D7F426E8D0C3D6B5C14859A7331EAD), compiling. 
+[2022.04.02-22.15.43:174][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_Feet in PCD3D_SM5, Default, SM5 (DDC key hash: C9BBDD4704EF46E376CDFBA7994369B10289C8D3), compiling. 
+[2022.04.02-22.15.43:213][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_Fingers in PCD3D_SM5, Default, SM5 (DDC key hash: ED018900CD7D7D78026DFF5986BB27EEA0CF7853), compiling. 
+[2022.04.02-22.15.43:250][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_AltMetal_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.43:250][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_AltMetal_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.43:250][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_Forearms in PCD3D_SM5, Default, SM5 (DDC key hash: 49D9960F9F4A936C0238EA119EA162A5CF210FAB), compiling. 
+[2022.04.02-22.15.43:289][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_AltMetal_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.43:289][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 0952A1CBB346FA3F2A1A5FF99E9CC30A0CF3570B), compiling. 
+[2022.04.02-22.15.43:327][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_HEad in PCD3D_SM5, Default, SM5 (DDC key hash: F4A0DB2098E87FF900563313779741A05123BDAF), compiling. 
+[2022.04.02-22.15.43:365][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_ArmJoints_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.43:365][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_Hip in PCD3D_SM5, Default, SM5 (DDC key hash: 064C20902F41D38E1CC8FF9327B3B6A39E5B4771), compiling. 
+[2022.04.02-22.15.43:405][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_ArmJoints_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.43:405][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_ArmJoints_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.43:405][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_Knees in PCD3D_SM5, Default, SM5 (DDC key hash: B8683C6E0058C32CC4EF006995EC5987E0748F7F), compiling. 
+[2022.04.02-22.15.43:447][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_LegJoints in PCD3D_SM5, Default, SM5 (DDC key hash: AA23BED5BE1B791FF39644BEEB8656F0587BCABF), compiling. 
+[2022.04.02-22.15.43:484][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_NeckWires in PCD3D_SM5, Default, SM5 (DDC key hash: 040BCDD5CFFC7F41D4672EC1418BD99444E2AA85), compiling. 
+[2022.04.02-22.15.43:525][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_Palms in PCD3D_SM5, Default, SM5 (DDC key hash: 37CC87B768A347BCF340A675C0B70804411D970A), compiling. 
+[2022.04.02-22.15.43:566][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_Shins in PCD3D_SM5, Default, SM5 (DDC key hash: 9DF13D85038410715ACF731FC20CD887D8DA05B4), compiling. 
+[2022.04.02-22.15.43:605][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_BackPack_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.43:605][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_Shoulders in PCD3D_SM5, Default, SM5 (DDC key hash: 3C37E785754CF23777A9A06D341D7816F3B2D74D), compiling. 
+[2022.04.02-22.15.43:646][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_BackPack_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.43:646][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_Thighs in PCD3D_SM5, Default, SM5 (DDC key hash: A9505807266EA7AC6E0AD06178A72A48BD46DAA7), compiling. 
+[2022.04.02-22.15.43:698][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_BackPack_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.43:698][595]LogMaterial: Display: Missing cached shadermap for M_EnemyModel_UpperArms in PCD3D_SM5, Default, SM5 (DDC key hash: 0D610B9575AD1CCB201AB2163395570002105471), compiling. 
+[2022.04.02-22.15.43:757][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_ChestDecorations_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.43:760][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.04.02-22.15.43:872][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_ChestDecorations_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.43:872][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_ChestDecorations_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.43:872][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Chestpiece_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.43:872][595]LogTexture: Display: Waiting for textures to be ready 1/3 (EnemyModel_UV_M_EnemyModel_ChestDecorations_BaseColor) ...
+[2022.04.02-22.15.44:161][595]LogTexture: Display: Waiting for textures to be ready 2/3 (EnemyModel_UV_M_EnemyModel_ChestDecorations_OcclusionRoughnessMetallic) ...
+[2022.04.02-22.15.44:243][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Faceplate_Emissive (AutoDXT, 1024X1024)
+[2022.04.02-22.15.44:243][595]LogTexture: Display: Waiting for textures to be ready 0/3 (EnemyModel_UV_M_EnemyModel_Chestpiece_Normal) ...
+[2022.04.02-22.15.44:316][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Chestpiece_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.44:316][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Chestpiece_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.44:316][595]LogTexture: Display: Waiting for textures to be ready 2/3 (EnemyModel_UV_M_EnemyModel_Chestpiece_OcclusionRoughnessMetallic) ...
+[2022.04.02-22.15.44:583][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Faceplate_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.44:583][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Faceplate_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.44:583][595]LogTexture: Display: Waiting for textures to be ready 2/4 (EnemyModel_UV_M_EnemyModel_Faceplate_BaseColor) ...
+[2022.04.02-22.15.44:625][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Feet_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.44:625][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Faceplate_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.44:625][595]LogTexture: Display: Waiting for textures to be ready 3/4 (EnemyModel_UV_M_EnemyModel_Faceplate_OcclusionRoughnessMetallic) ...
+[2022.04.02-22.15.44:797][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Feet_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.44:797][595]LogTexture: Display: Waiting for textures to be ready 1/3 (EnemyModel_UV_M_EnemyModel_Feet_BaseColor) ...
+[2022.04.02-22.15.44:884][595]LogTexture: Display: Waiting for textures to be ready 2/3 (EnemyModel_UV_M_EnemyModel_Feet_OcclusionRoughnessMetallic) ...
+[2022.04.02-22.15.45:287][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Feet_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.45:287][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Fingers_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.45:287][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Fingers_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.45:287][595]LogTexture: Display: Waiting for textures to be ready 0/3 (EnemyModel_UV_M_EnemyModel_Fingers_Normal) ...
+[2022.04.02-22.15.45:491][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Forearms_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.45:491][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Forearms_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.45:491][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Fingers_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.45:491][595]LogTexture: Display: Waiting for textures to be ready 0/3 (EnemyModel_UV_M_EnemyModel_Forearms_Normal) ...
+[2022.04.02-22.15.45:634][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Glow_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.45:634][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Forearms_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.45:634][595]LogTexture: Display: Waiting for textures to be ready 0/3 (EnemyModel_UV_M_EnemyModel_Glow_Normal) ...
+[2022.04.02-22.15.45:755][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_HEad_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.45:755][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Glow_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.45:755][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Glow_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.45:755][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_HEad_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.45:755][595]LogTexture: Display: Waiting for textures to be ready 1/3 (EnemyModel_UV_M_EnemyModel_HEad_BaseColor) ...
+[2022.04.02-22.15.45:940][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Hip_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.45:940][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_HEad_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.45:940][595]LogTexture: Display: Waiting for textures to be ready 2/3 (EnemyModel_UV_M_EnemyModel_HEad_OcclusionRoughnessMetallic) ...
+[2022.04.02-22.15.46:070][595]LogTexture: Display: Waiting for textures to be ready 0/3 (EnemyModel_UV_M_EnemyModel_Hip_Normal) ...
+[2022.04.02-22.15.46:172][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Hip_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.46:172][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Hip_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.46:172][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Knees_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.46:172][595]LogTexture: Display: Waiting for textures to be ready 1/3 (EnemyModel_UV_M_EnemyModel_Hip_BaseColor) ...
+[2022.04.02-22.15.46:280][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Knees_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.46:280][595]LogTexture: Display: Waiting for textures to be ready 1/3 (EnemyModel_UV_M_EnemyModel_Knees_BaseColor) ...
+[2022.04.02-22.15.46:585][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Knees_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.46:585][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_LegJoints_OcclusionRoughnessMetallic (BC5, 1024X1024)
+[2022.04.02-22.15.46:585][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_LegJoints_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.46:585][595]LogTexture: Display: Waiting for textures to be ready 0/3 (EnemyModel_UV_M_EnemyModel_LegJoints_Normal) ...
+[2022.04.02-22.15.46:630][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_LegJoints_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.46:630][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_NeckWires_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.46:630][595]LogTexture: Display: Waiting for textures to be ready 1/3 (EnemyModel_UV_M_EnemyModel_LegJoints_BaseColor) ...
+[2022.04.02-22.15.46:776][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_NeckWires_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.46:776][595]LogTexture: Display: Waiting for textures to be ready 1/3 (EnemyModel_UV_M_EnemyModel_NeckWires_BaseColor) ...
+[2022.04.02-22.15.46:823][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_NeckWires_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.46:823][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Palms_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.46:823][595]LogTexture: Display: Waiting for textures to be ready 2/3 (EnemyModel_UV_M_EnemyModel_NeckWires_OcclusionRoughnessMetallic) ...
+[2022.04.02-22.15.46:920][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Palms_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.46:920][595]LogTexture: Display: Waiting for textures to be ready 0/3 (EnemyModel_UV_M_EnemyModel_Palms_Normal) ...
+[2022.04.02-22.15.47:247][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Palms_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.47:247][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Shins_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.47:247][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Shins_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.47:247][595]LogTexture: Display: Waiting for textures to be ready 0/3 (EnemyModel_UV_M_EnemyModel_Shins_Normal) ...
+[2022.04.02-22.15.47:268][595]LogTexture: Display: Waiting for textures to be ready 1/3 (EnemyModel_UV_M_EnemyModel_Shins_BaseColor) ...
+[2022.04.02-22.15.47:528][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Shins_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.47:528][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Shoulders_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.47:528][595]LogTexture: Display: Waiting for textures to be ready 1/3 (EnemyModel_UV_M_EnemyModel_Shoulders_BaseColor) ...
+[2022.04.02-22.15.47:876][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Shoulders_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.47:876][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Shoulders_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.47:876][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Thighs_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.47:876][595]LogTexture: Display: Waiting for textures to be ready 2/3 (EnemyModel_UV_M_EnemyModel_Shoulders_OcclusionRoughnessMetallic) ...
+[2022.04.02-22.15.47:937][595]LogTexture: Display: Waiting for textures to be ready 0/3 (EnemyModel_UV_M_EnemyModel_Thighs_Normal) ...
+[2022.04.02-22.15.48:054][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Thighs_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.48:054][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_Thighs_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.48:054][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_UpperArms_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.15.48:054][595]LogTexture: Display: Waiting for textures to be ready 1/3 (EnemyModel_UV_M_EnemyModel_Thighs_BaseColor) ...
+[2022.04.02-22.15.48:317][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_UpperArms_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.15.48:317][595]LogTexture: Display: Waiting for textures to be ready 0/3 (EnemyModel_UV_M_EnemyModel_UpperArms_Normal) ...
+[2022.04.02-22.15.48:473][595]LogTexture: Display: Building textures: EnemyModel_UV_M_EnemyModel_UpperArms_Normal (BC5, 1024X1024)
+[2022.04.02-22.15.54:125][595]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.02-22.15.54:359][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.04.02-22.15.54:395][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.04.02-22.15.54:404][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.04.02-22.16.18:168][190]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Tent/Tent_1_M_Tent_Cloth_BaseColor.png)
+[2022.04.02-22.16.18:206][190]LogTexture: Display: Building textures: Tent_1_M_Tent_Cloth_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.16.18:206][190]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Tent/Tent_1_M_Tent_Cloth_OcclusionRoughnessMetallic.png)
+[2022.04.02-22.16.18:257][190]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Tent/Tent_1_M_Tent_Cloth_Normal.png)
+[2022.04.02-22.16.18:307][190]LogTexture: Display: Building textures: Tent_1_M_Tent_Cloth_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.16.18:318][190]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Tent/Tent_1_M_Tent_Pipes_BaseColor.png)
+[2022.04.02-22.16.18:366][190]LogTexture: Display: Building textures: Tent_1_M_Tent_Cloth_Normal (BC5, 1024X1024)
+[2022.04.02-22.16.18:366][190]LogTexture: Display: Building textures: Tent_1_M_Tent_Pipes_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.16.18:366][190]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Tent/Tent_1_M_Tent_Pipes_OcclusionRoughnessMetallic.png)
+[2022.04.02-22.16.18:441][190]LogTexture: Display: Building textures: Tent_1_M_Tent_Pipes_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.16.18:451][190]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Tent/Tent_1_M_Tent_Pipes_Normal.png)
+[2022.04.02-22.16.18:506][190]LogTexture: Display: Building textures: Tent_1_M_Tent_Pipes_Normal (BC5, 1024X1024)
+[2022.04.02-22.16.18:506][190]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Tent/Tent_1_M_Tent_Metal_BaseColor.png)
+[2022.04.02-22.16.18:548][190]LogTexture: Display: Building textures: Tent_1_M_Tent_Metal_BaseColor (AutoDXT, 1024X1024)
+[2022.04.02-22.16.18:548][190]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Tent/Tent_1_M_Tent_Metal_OcclusionRoughnessMetallic.png)
+[2022.04.02-22.16.18:605][190]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Tent/Tent_1_M_Tent_Metal_Normal.png)
+[2022.04.02-22.16.18:640][190]LogTexture: Display: Building textures: Tent_1_M_Tent_Metal_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.02-22.16.18:647][190]LogTexture: Display: Building textures: Tent_1_M_Tent_Metal_Normal (BC5, 1024X1024)
+[2022.04.02-22.16.18:762][190]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(207)].
+[2022.04.02-22.16.27:662][483]LogContentBrowser: Deferred new asset file creation: Tent_1_M_Tent_Cloth_BaseColor_Mat
+[2022.04.02-22.16.27:684][483]LogContentBrowser: Creating deferred item: Tent_1_M_Tent_Cloth_BaseColor_Mat
+[2022.04.02-22.16.29:013][542]LogContentBrowser: Attempting asset rename: Tent_1_M_Tent_Cloth_BaseColor_Mat -> Tent_1_M_Tent_Cloth_BaseColor_Mat
+[2022.04.02-22.16.29:036][542]LogMaterial: Display: Missing cached shadermap for Tent_1_M_Tent_Cloth_BaseColor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FAB28BA65EAEC9E475A55254B5C5F0E0FB404844), compiling. 
+[2022.04.02-22.16.29:039][542]LogContentBrowser: End creating deferred item Tent_1_M_Tent_Cloth_BaseColor_Mat
+[2022.04.02-22.16.40:112][ 10]LogContentBrowser: Attempting asset rename: Tent_1_M_Tent_Cloth_BaseColor_Mat -> M_Tent_Cloth
+[2022.04.02-22.16.40:239][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Textures/Tent/M_Tent_Cloth" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/M_Tent_Cloth.uasset" SILENT=true
+[2022.04.02-22.16.40:245][ 10]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/M_Tent_Cloth8DA8CEF04C7B57C48FC2A8B8A1316158.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/M_Tent_Cloth.uasset'
+[2022.04.02-22.16.40:405][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.02-22.16.40:422][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.04.02-22.16.40:428][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.02-22.16.40:433][ 10]AssetCheck: New page: Asset Save: M_Tent_Cloth
+[2022.04.02-22.16.40:433][ 10]LogContentValidation: Display: Validating Material /Game/Materials/Textures/Tent/M_Tent_Cloth.M_Tent_Cloth
+[2022.04.02-22.16.42:582][101]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.02-22.16.42:582][101]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.02-22.16.43:727][148]LogContentBrowser: Deferred new asset file creation: Tent_1_M_Tent_Metal_BaseColor_Mat
+[2022.04.02-22.16.43:752][148]LogContentBrowser: Creating deferred item: Tent_1_M_Tent_Metal_BaseColor_Mat
+[2022.04.02-22.16.49:630][444]LogContentBrowser: Attempting asset rename: Tent_1_M_Tent_Metal_BaseColor_Mat -> M_Tent_Metal
+[2022.04.02-22.16.49:642][444]LogMaterial: Display: Missing cached shadermap for M_Tent_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 7138838A45A196E64F020EAC6FE4913D3C24B08A), compiling. 
+[2022.04.02-22.16.49:649][444]LogContentBrowser: End creating deferred item Tent_1_M_Tent_Metal_BaseColor_Mat
+[2022.04.02-22.16.52:758][533]LogContentBrowser: Deferred new asset file creation: Tent_1_M_Tent_Pipes_BaseColor_Mat
+[2022.04.02-22.16.52:798][533]LogContentBrowser: Creating deferred item: Tent_1_M_Tent_Pipes_BaseColor_Mat
+[2022.04.02-22.16.58:697][820]LogContentBrowser: Attempting asset rename: Tent_1_M_Tent_Pipes_BaseColor_Mat -> M_Tent_Pipes
+[2022.04.02-22.16.58:708][820]LogMaterial: Display: Missing cached shadermap for M_Tent_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 0881BB192F4B76574E286137806DBA74529E773F), compiling. 
+[2022.04.02-22.16.58:716][820]LogContentBrowser: End creating deferred item Tent_1_M_Tent_Pipes_BaseColor_Mat
+[2022.04.02-22.16.59:945][843]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.02-22.16.59:945][843]LogShaderCompilers: Display: Total job queries 8482, among them cache hits 3699 (43.61%)
+[2022.04.02-22.16.59:945][843]LogShaderCompilers: Display: Tracking 3719 distinct input hashes that result in 577 distinct outputs (15.51%)
+[2022.04.02-22.16.59:946][843]LogShaderCompilers: Display: RAM used: 2.30 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.14%
+[2022.04.02-22.16.59:946][843]LogShaderCompilers: Display: ================================================
+[2022.04.02-22.17.00:454][855]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/Tent/M_Tent_Cloth.M_Tent_Cloth
+[2022.04.02-22.17.00:456][855]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Cloth in PCD3D_SM5, Default, SM5 (DDC key hash: 9DA3E07FBC5FFA307A27C1BDF4025867C276F04F), compiling. 
+[2022.04.02-22.17.00:562][855]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Cloth in PCD3D_SM5, Default, SM5 (DDC key hash: 3E8483A21D6951F436F861A53CD4B777E97FA789), compiling. 
+[2022.04.02-22.17.00:565][855]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Cloth in PCD3D_SM5, Default, SM5 (DDC key hash: 0BF4797279E0BA2BF26364BB157414DA36B13877), compiling. 
+[2022.04.02-22.17.00:568][855]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2F204BF3F88CA21ED154DB25B25076AC5A68F3E9), compiling. 
+[2022.04.02-22.17.00:603][855]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.17.00:603][855]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-22.17.00:603][855]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.00:603][855]MaterialEditorStats: 
+[2022.04.02-22.17.00:603][855]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.17.02:275][887]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.17.02:276][887]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-22.17.02:276][887]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.02:276][887]MaterialEditorStats: 
+[2022.04.02-22.17.02:276][887]MaterialEditorStats: Shader Count: 4
+[2022.04.02-22.17.02:670][895]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/Tent/M_Tent_Metal.M_Tent_Metal
+[2022.04.02-22.17.02:672][895]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: E537FACA999C08967FAE87C299637950FD35F2DE), compiling. 
+[2022.04.02-22.17.02:794][895]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: C2B13EDDF6A9BEE0F40F2EAF1E7E8645DA70B06B), compiling. 
+[2022.04.02-22.17.02:799][895]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 9D64ED8E9AABFAA8E4C694F5F8265AB4727DEFD5), compiling. 
+[2022.04.02-22.17.02:803][895]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DC38A2F531AEECA79D49F990D3D8E88CA369F745), compiling. 
+[2022.04.02-22.17.02:858][895]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.17.02:858][895]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-22.17.02:858][895]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.02:858][895]MaterialEditorStats: 
+[2022.04.02-22.17.02:858][895]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.17.03:127][897]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-22.17.03:127][897]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-22.17.03:127][897]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.17.03:127][897]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.17.03:127][897]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-22.17.03:127][897]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.03:127][897]MaterialEditorStats: 
+[2022.04.02-22.17.03:127][897]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.17.03:760][919]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-22.17.03:760][919]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-22.17.03:760][919]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.17.03:760][919]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.17.03:760][919]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-22.17.03:760][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.03:760][919]MaterialEditorStats: 
+[2022.04.02-22.17.03:760][919]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.17.04:633][955]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/Tent/M_Tent_Pipes.M_Tent_Pipes
+[2022.04.02-22.17.04:634][955]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 5EC95A65D3A02496774F9B911C0955AC840E573B), compiling. 
+[2022.04.02-22.17.04:703][955]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 1A9BC014D10F8C18573B620A33AD0B1A2B72ABD1), compiling. 
+[2022.04.02-22.17.04:705][955]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 724B0046ECE9B5B3D3A2F2345CEFC7AE2B6D2571), compiling. 
+[2022.04.02-22.17.04:707][955]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F1034865E72511AA77CD5C03A980CC0DFB459F63), compiling. 
+[2022.04.02-22.17.04:737][955]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.17.04:737][955]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-22.17.04:737][955]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.04:737][955]MaterialEditorStats: 
+[2022.04.02-22.17.04:737][955]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.17.04:889][957]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-22.17.04:889][957]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-22.17.04:889][957]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.17.04:889][957]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.17.04:889][957]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-22.17.04:889][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.04:889][957]MaterialEditorStats: 
+[2022.04.02-22.17.04:889][957]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.17.11:687][261]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Cloth in PCD3D_SM5, Default, SM5 (DDC key hash: 39B8E26F965AFACD6C65E70A09FC340CAF79694C), compiling. 
+[2022.04.02-22.17.11:689][261]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 11960AB58387784B97F70C21578FA3555ED9225F), compiling. 
+[2022.04.02-22.17.11:691][261]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EFBF1B8BD99BBF92B0DBF33C12D0CBCE527D1716), compiling. 
+[2022.04.02-22.17.11:692][261]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CA0AD1145D6DBE8E51B1FC939D0C18F2324FF454), compiling. 
+[2022.04.02-22.17.11:699][261]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Cloth in PCD3D_SM5, Default, SM5 (DDC key hash: B641CBAE74559985DE6BEAA3C6E1482A5003C509), compiling. 
+[2022.04.02-22.17.11:701][261]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 399405D994AA6D682A94C13FF8B2E4BC31715452), compiling. 
+[2022.04.02-22.17.11:702][261]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D10F331D7720E5592C015733FBE5002611DF0F31), compiling. 
+[2022.04.02-22.17.11:704][261]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 57D77930F0A1448B3541FFC239E69BB1EF76EFFD), compiling. 
+[2022.04.02-22.17.11:705][261]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 765B71F7C4B86CB4D0FAE26F7FE7A3274CEB0D01), compiling. 
+[2022.04.02-22.17.11:708][261]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.17.11:708][261]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-22.17.11:708][261]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.11:708][261]MaterialEditorStats: 
+[2022.04.02-22.17.11:708][261]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.17.11:746][263]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-22.17.11:746][263]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-22.17.11:746][263]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.17.11:746][263]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.17.11:746][263]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-22.17.11:746][263]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.11:746][263]MaterialEditorStats: 
+[2022.04.02-22.17.11:746][263]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.17.14:940][403]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Cloth in PCD3D_SM5, Default, SM5 (DDC key hash: 8A634595A1459808ABB12C7B355A4AA4894B935B), compiling. 
+[2022.04.02-22.17.14:942][403]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5AD58608BE1A63CA48DB70492F35D0F3C325D735), compiling. 
+[2022.04.02-22.17.14:946][403]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.17.14:946][403]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.17.14:946][403]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.14:946][403]MaterialEditorStats: 
+[2022.04.02-22.17.14:946][403]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.17.15:663][426]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.02-22.17.15:663][426]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.17.15:663][426]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.15:663][426]MaterialEditorStats: 
+[2022.04.02-22.17.15:663][426]MaterialEditorStats: Shader Count: 1
+[2022.04.02-22.17.16:264][446]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.17.16:264][446]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.17.16:264][446]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.16:264][446]MaterialEditorStats: 
+[2022.04.02-22.17.16:264][446]MaterialEditorStats: Shader Count: 7
+[2022.04.02-22.17.16:354][450]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-22.17.16:354][450]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.17.16:354][450]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.16:355][450]MaterialEditorStats: 
+[2022.04.02-22.17.16:355][450]MaterialEditorStats: Shader Count: 9
+[2022.04.02-22.17.16:441][454]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-22.17.16:441][454]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 226 instructions
+[2022.04.02-22.17.16:441][454]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.17.16:441][454]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-22.17.16:441][454]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.17.16:441][454]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.16:441][454]MaterialEditorStats: 
+[2022.04.02-22.17.16:441][454]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.17.16:871][471]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Cloth in PCD3D_SM5, Default, SM5 (DDC key hash: A3543A011C3B707BDC0B8A39518A63315EE433BA), compiling. 
+[2022.04.02-22.17.16:873][471]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 27BBBD491F01BF622251A13B10D789B281F79884), compiling. 
+[2022.04.02-22.17.16:878][471]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.17.16:878][471]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.17.16:878][471]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.16:878][471]MaterialEditorStats: 
+[2022.04.02-22.17.16:878][471]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.17.17:687][495]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.02-22.17.17:687][495]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.17.17:687][495]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.17:687][495]MaterialEditorStats: 
+[2022.04.02-22.17.17:688][495]MaterialEditorStats: Shader Count: 1
+[2022.04.02-22.17.18:256][516]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-22.17.18:256][516]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.17.18:256][516]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.18:256][516]MaterialEditorStats: 
+[2022.04.02-22.17.18:256][516]MaterialEditorStats: Shader Count: 7
+[2022.04.02-22.17.18:395][522]MaterialEditorStats: Base pass shader: 150 instructions
+[2022.04.02-22.17.18:395][522]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 226 instructions
+[2022.04.02-22.17.18:395][522]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.17.18:395][522]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-22.17.18:395][522]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.17.18:395][522]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.18:395][522]MaterialEditorStats: 
+[2022.04.02-22.17.18:395][522]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.17.22:481][701]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Cloth in PCD3D_SM5, Default, SM5 (DDC key hash: 64341574F159C03878019BE1C19A9371EA73057C), compiling. 
+[2022.04.02-22.17.22:483][701]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A940FBCA7BED2B10D6F0EE97F53CE3D963F7F7EC), compiling. 
+[2022.04.02-22.17.22:488][701]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.17.22:488][701]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.17.22:488][701]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.22:488][701]MaterialEditorStats: 
+[2022.04.02-22.17.22:488][701]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.17.23:218][725]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.02-22.17.23:218][725]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.17.23:218][725]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.23:218][725]MaterialEditorStats: 
+[2022.04.02-22.17.23:218][725]MaterialEditorStats: Shader Count: 1
+[2022.04.02-22.17.23:803][744]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-22.17.23:803][744]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.17.23:803][744]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.23:803][744]MaterialEditorStats: 
+[2022.04.02-22.17.23:803][744]MaterialEditorStats: Shader Count: 7
+[2022.04.02-22.17.24:004][752]MaterialEditorStats: Base pass shader: 150 instructions
+[2022.04.02-22.17.24:004][752]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 229 instructions
+[2022.04.02-22.17.24:004][752]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.17.24:004][752]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-22.17.24:004][752]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.17.24:005][752]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.24:005][752]MaterialEditorStats: 
+[2022.04.02-22.17.24:005][752]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.17.24:336][766]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Cloth in PCD3D_SM5, Default, SM5 (DDC key hash: 61B079F8CFC011E2218FF7FC9B562BBE5BB2EF6A), compiling. 
+[2022.04.02-22.17.24:338][766]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 72CF2E9117DD9C03E4FC21ABBA43861F56431821), compiling. 
+[2022.04.02-22.17.24:341][766]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.17.24:341][766]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.17.24:341][766]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.24:341][766]MaterialEditorStats: 
+[2022.04.02-22.17.24:341][766]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.17.25:128][789]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.17.25:128][789]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.17.25:128][789]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.25:128][789]MaterialEditorStats: 
+[2022.04.02-22.17.25:128][789]MaterialEditorStats: Shader Count: 1
+[2022.04.02-22.17.25:526][802]LogMaterialEditor: Saving and Compiling material M_Tent_Cloth
+[2022.04.02-22.17.26:014][802]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Cloth in PCD3D_SM5, Default, SM5 (DDC key hash: 0631375960117955A522B18079544EE93643E404), compiling. 
+[2022.04.02-22.17.26:079][802]LogMaterial: Display: Missing cached shadermap for M_Tent_Cloth in PCD3D_SM5, Default, SM5 (DDC key hash: 7901700DB7A1F8A67C968EDB4D236EA74C5ED9C2), compiling. 
+[2022.04.02-22.17.26:126][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.02-22.17.26:444][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.02-22.17.26:576][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Textures/Tent/M_Tent_Cloth" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/M_Tent_Cloth.uasset" SILENT=true
+[2022.04.02-22.17.26:584][802]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/M_Tent_ClothCE375B8240DDE13179234F89BF6DC3C0.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/M_Tent_Cloth.uasset'
+[2022.04.02-22.17.26:597][802]AssetCheck: New page: Asset Save: M_Tent_Cloth
+[2022.04.02-22.17.26:597][802]LogContentValidation: Display: Validating Material /Game/Materials/Textures/Tent/M_Tent_Cloth.M_Tent_Cloth
+[2022.04.02-22.17.26:612][803]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-22.17.26:612][803]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.17.26:612][803]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.26:612][803]MaterialEditorStats: 
+[2022.04.02-22.17.26:612][803]MaterialEditorStats: Shader Count: 13
+[2022.04.02-22.17.28:903][884]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.02-22.17.28:903][884]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.17.28:903][884]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.28:903][884]MaterialEditorStats: 
+[2022.04.02-22.17.28:904][884]MaterialEditorStats: Shader Count: 18
+[2022.04.02-22.17.30:277][936]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.04.02-22.17.30:277][936]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.04.02-22.17.30:277][936]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.17.30:277][936]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.02-22.17.30:277][936]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.17.30:277][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.30:277][936]MaterialEditorStats: 
+[2022.04.02-22.17.30:277][936]MaterialEditorStats: Shader Count: 30
+[2022.04.02-22.17.37:354][250]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 386AA3AFD3B1B2D2D48CB26914A5DB96CB6ECDD3), compiling. 
+[2022.04.02-22.17.37:356][250]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 88A3DB036421B44DE785FD6ADD6836926F76800F), compiling. 
+[2022.04.02-22.17.37:357][250]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D5E3A97C5C9B4F3A99FEBFE64BACA5813CAB3602), compiling. 
+[2022.04.02-22.17.37:359][250]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E0FB1D013F1ECD54ED72F226BA69464E3339205C), compiling. 
+[2022.04.02-22.17.37:366][250]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 520F900690AF87A0250ED4516CB8BA8C6FA216C3), compiling. 
+[2022.04.02-22.17.37:368][250]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8DD7E22E66AEDE359BCBDB632B276D6F2CF004D5), compiling. 
+[2022.04.02-22.17.37:369][250]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 227509043E96453D7321049DC9E51D2E1EAED031), compiling. 
+[2022.04.02-22.17.37:371][250]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A06F29C254EC13F79CF831248826BD1FA9BAEC9E), compiling. 
+[2022.04.02-22.17.37:372][250]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 164DF5071741C819C92E5D52A4AABE765F6AFE32), compiling. 
+[2022.04.02-22.17.37:376][250]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.17.37:376][250]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-22.17.37:376][250]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.37:376][250]MaterialEditorStats: 
+[2022.04.02-22.17.37:376][250]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.17.37:414][252]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-22.17.37:414][252]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-22.17.37:414][252]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.17.37:414][252]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.17.37:414][252]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-22.17.37:414][252]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.37:414][252]MaterialEditorStats: 
+[2022.04.02-22.17.37:414][252]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.17.42:131][460]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 65147913404D0F2EB3CCB22BAD8610E62872CAB4), compiling. 
+[2022.04.02-22.17.42:133][460]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 543C42DCC46013642F4228D4AFFE417DD54D7405), compiling. 
+[2022.04.02-22.17.42:135][460]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F8AFE4DCF0D2D87F6E31CF452CFADCBD3DAEA89A), compiling. 
+[2022.04.02-22.17.42:136][460]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 143C5FE817C5B6C39EBCBE7A1670FD00A3656309), compiling. 
+[2022.04.02-22.17.42:143][460]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 469B855B9E313A8B7F4B1FFE774DA66FD885A76C), compiling. 
+[2022.04.02-22.17.42:145][460]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 74C35B420B2E68620225F6DC536E326AD4C45236), compiling. 
+[2022.04.02-22.17.42:147][460]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D177280F20A61B4C6A14B4A0B8F3777AC5065CC6), compiling. 
+[2022.04.02-22.17.42:148][460]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: EE31FEA7637C843CA909934A23BE039CA4E77F8F), compiling. 
+[2022.04.02-22.17.42:149][460]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9C12CF3D40F137D4927AD22695B6873BD2661BE8), compiling. 
+[2022.04.02-22.17.42:153][460]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.17.42:154][460]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-22.17.42:154][460]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.42:154][460]MaterialEditorStats: 
+[2022.04.02-22.17.42:154][460]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.17.42:196][462]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.04.02-22.17.42:196][462]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.04.02-22.17.42:196][462]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.17.42:196][462]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.17.42:196][462]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.02-22.17.42:196][462]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.17.42:196][462]MaterialEditorStats: 
+[2022.04.02-22.17.42:196][462]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.17.50:270][808]LogActorFactory: Actor Factory created Tent_1
+[2022.04.02-22.17.50:271][808]LogActorFactory: Actor Factory created Tent_1
+[2022.04.02-22.17.51:038][841]LogActorFactory: Actor Factory created Tent_1
+[2022.04.02-22.17.51:038][841]LogActorFactory: Actor Factory created Tent_1
+[2022.04.02-22.18.53:072][784]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: BABBF26E2E498C24E055C4FB38DEDB4E0CB9E805), compiling. 
+[2022.04.02-22.18.53:074][784]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D18027C618AC9E55297D73C6C784F73720786E2), compiling. 
+[2022.04.02-22.18.53:077][784]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.18.53:077][784]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.18.53:077][784]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.18.53:077][784]MaterialEditorStats: 
+[2022.04.02-22.18.53:077][784]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.18.53:974][819]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.02-22.18.53:974][819]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.18.53:974][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.18.53:974][819]MaterialEditorStats: 
+[2022.04.02-22.18.53:974][819]MaterialEditorStats: Shader Count: 1
+[2022.04.02-22.18.54:553][838]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-22.18.54:553][838]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.18.54:553][838]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.18.54:553][838]MaterialEditorStats: 
+[2022.04.02-22.18.54:553][838]MaterialEditorStats: Shader Count: 5
+[2022.04.02-22.18.54:860][851]MaterialEditorStats: Base pass shader: 154 instructions
+[2022.04.02-22.18.54:860][851]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 228 instructions
+[2022.04.02-22.18.54:860][851]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.18.54:860][851]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-22.18.54:860][851]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.18.54:860][851]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.18.54:860][851]MaterialEditorStats: 
+[2022.04.02-22.18.54:860][851]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.18.56:999][942]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 97BE755A8CF076101D68BC678D3591EA4C493B3C), compiling. 
+[2022.04.02-22.18.57:001][942]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 95CD774F54C057E4A1F64894B81E4595A9C58CE1), compiling. 
+[2022.04.02-22.18.57:005][942]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.18.57:005][942]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.18.57:005][942]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.18.57:005][942]MaterialEditorStats: 
+[2022.04.02-22.18.57:005][942]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.18.57:830][967]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.02-22.18.57:831][967]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.18.57:831][967]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.18.57:831][967]MaterialEditorStats: 
+[2022.04.02-22.18.57:831][967]MaterialEditorStats: Shader Count: 1
+[2022.04.02-22.18.58:341][986]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-22.18.58:342][986]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.18.58:342][986]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.18.58:342][986]MaterialEditorStats: 
+[2022.04.02-22.18.58:342][986]MaterialEditorStats: Shader Count: 7
+[2022.04.02-22.18.58:387][988]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-22.18.58:387][988]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.18.58:387][988]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.18.58:387][988]MaterialEditorStats: 
+[2022.04.02-22.18.58:387][988]MaterialEditorStats: Shader Count: 8
+[2022.04.02-22.18.58:527][994]MaterialEditorStats: Base pass shader: 154 instructions
+[2022.04.02-22.18.58:527][994]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 232 instructions
+[2022.04.02-22.18.58:527][994]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.18.58:527][994]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-22.18.58:527][994]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.18.58:527][994]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.18.58:527][994]MaterialEditorStats: 
+[2022.04.02-22.18.58:527][994]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.18.58:771][  0]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 7A3D6B090B6675259883599017BC259A40DE537E), compiling. 
+[2022.04.02-22.18.58:774][  0]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9EF07B9ABCCAE967E327B22ED7415C1A508FD220), compiling. 
+[2022.04.02-22.18.58:785][  0]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.18.58:785][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.18.58:785][  0]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.18.58:785][  0]MaterialEditorStats: 
+[2022.04.02-22.18.58:785][  0]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.18.59:714][ 32]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.18.59:714][ 32]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.18.59:714][ 32]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.18.59:714][ 32]MaterialEditorStats: 
+[2022.04.02-22.18.59:714][ 32]MaterialEditorStats: Shader Count: 1
+[2022.04.02-22.19.00:073][ 44]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-22.19.00:073][ 44]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.00:073][ 44]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.00:073][ 44]MaterialEditorStats: 
+[2022.04.02-22.19.00:073][ 44]MaterialEditorStats: Shader Count: 4
+[2022.04.02-22.19.00:400][ 57]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.04.02-22.19.00:400][ 57]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 232 instructions
+[2022.04.02-22.19.00:400][ 57]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.19.00:400][ 57]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-22.19.00:400][ 57]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.00:400][ 57]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.00:400][ 57]MaterialEditorStats: 
+[2022.04.02-22.19.00:400][ 57]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.19.01:447][ 92]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 9008834F045CBBD2D71D5678581826AC151C4B8F), compiling. 
+[2022.04.02-22.19.01:449][ 92]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3895624734AF2C18BF6C9846E3A8BC2CE21247EC), compiling. 
+[2022.04.02-22.19.01:453][ 92]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.19.01:453][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.01:453][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.01:453][ 92]MaterialEditorStats: 
+[2022.04.02-22.19.01:453][ 92]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.19.02:391][116]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.19.02:391][116]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.02:391][116]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.02:391][116]MaterialEditorStats: 
+[2022.04.02-22.19.02:391][116]MaterialEditorStats: Shader Count: 1
+[2022.04.02-22.19.02:792][133]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-22.19.02:792][133]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.02:792][133]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.02:792][133]MaterialEditorStats: 
+[2022.04.02-22.19.02:792][133]MaterialEditorStats: Shader Count: 7
+[2022.04.02-22.19.02:952][140]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.04.02-22.19.02:952][140]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.04.02-22.19.02:952][140]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.19.02:952][140]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-22.19.02:952][140]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.02:952][140]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.02:952][140]MaterialEditorStats: 
+[2022.04.02-22.19.02:952][140]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.19.03:732][169]LogMaterialEditor: Saving and Compiling material M_Tent_Pipes
+[2022.04.02-22.19.04:175][169]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: BFFBE051306816CA2C3120A94F7982F48714E635), compiling. 
+[2022.04.02-22.19.04:234][169]LogMaterial: Display: Missing cached shadermap for M_Tent_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 956D675A3A69F9A224091D5ED6226D0C969F5DF1), compiling. 
+[2022.04.02-22.19.04:280][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.02-22.19.04:700][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.02-22.19.04:808][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Textures/Tent/M_Tent_Pipes" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/M_Tent_Pipes.uasset" SILENT=true
+[2022.04.02-22.19.04:814][169]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/M_Tent_Pipes8414730D4850A58D1A7A949F0ED02C10.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/M_Tent_Pipes.uasset'
+[2022.04.02-22.19.04:825][169]AssetCheck: New page: Asset Save: M_Tent_Pipes
+[2022.04.02-22.19.04:825][169]LogContentValidation: Display: Validating Material /Game/Materials/Textures/Tent/M_Tent_Pipes.M_Tent_Pipes
+[2022.04.02-22.19.04:825][169]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.19.04:825][169]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.04:825][169]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.04:825][169]MaterialEditorStats: 
+[2022.04.02-22.19.04:825][169]MaterialEditorStats: Shader Count: 2
+[2022.04.02-22.19.04:851][170]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-22.19.04:851][170]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.04:851][170]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.04:851][170]MaterialEditorStats: 
+[2022.04.02-22.19.04:851][170]MaterialEditorStats: Shader Count: 13
+[2022.04.02-22.19.07:141][243]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.02-22.19.07:141][243]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.07:141][243]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.07:141][243]MaterialEditorStats: 
+[2022.04.02-22.19.07:141][243]MaterialEditorStats: Shader Count: 18
+[2022.04.02-22.19.08:489][302]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.04.02-22.19.08:489][302]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.04.02-22.19.08:489][302]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.19.08:489][302]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.02-22.19.08:489][302]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.08:489][302]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.08:489][302]MaterialEditorStats: 
+[2022.04.02-22.19.08:489][302]MaterialEditorStats: Shader Count: 30
+[2022.04.02-22.19.42:846][833]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 06B34285F1EF2D7235C2103B5A316C654A556D83), compiling. 
+[2022.04.02-22.19.42:848][833]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 129A25EE16E733444CCF28FBE025AFD94FA6D34B), compiling. 
+[2022.04.02-22.19.42:852][833]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.19.42:852][833]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.19.42:852][833]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.42:852][833]MaterialEditorStats: 
+[2022.04.02-22.19.42:852][833]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.19.43:861][870]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.02-22.19.43:861][870]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.19.43:861][870]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.43:861][870]MaterialEditorStats: 
+[2022.04.02-22.19.43:861][870]MaterialEditorStats: Shader Count: 1
+[2022.04.02-22.19.44:388][884]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-22.19.44:388][884]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.19.44:388][884]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.44:388][884]MaterialEditorStats: 
+[2022.04.02-22.19.44:388][884]MaterialEditorStats: Shader Count: 7
+[2022.04.02-22.19.44:590][893]MaterialEditorStats: Base pass shader: 154 instructions
+[2022.04.02-22.19.44:590][893]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 228 instructions
+[2022.04.02-22.19.44:590][893]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.19.44:590][893]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.02-22.19.44:590][893]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.04.02-22.19.44:590][893]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.44:591][893]MaterialEditorStats: 
+[2022.04.02-22.19.44:591][893]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.19.46:102][958]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: EC5BB54FF9A933AB2B1468FAA6789B2D7BC70278), compiling. 
+[2022.04.02-22.19.46:104][958]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A40CA8B9C17AF9AEC622A3E51131A26A8F584C15), compiling. 
+[2022.04.02-22.19.46:107][958]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.19.46:107][958]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.46:107][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.46:107][958]MaterialEditorStats: 
+[2022.04.02-22.19.46:107][958]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.19.46:977][989]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.02-22.19.46:977][989]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.46:977][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.46:977][989]MaterialEditorStats: 
+[2022.04.02-22.19.46:978][989]MaterialEditorStats: Shader Count: 1
+[2022.04.02-22.19.47:534][  4]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 928BEBF6DAD11233DD370C47AA30DFBE5F1D56BF), compiling. 
+[2022.04.02-22.19.47:537][  4]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 482C4FA3B987BD344779221DEBFB93113787D25F), compiling. 
+[2022.04.02-22.19.47:542][  4]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.19.47:542][  4]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.47:542][  4]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.47:542][  4]MaterialEditorStats: 
+[2022.04.02-22.19.47:542][  4]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.19.48:705][ 36]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.19.48:705][ 36]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.48:705][ 36]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.48:705][ 36]MaterialEditorStats: 
+[2022.04.02-22.19.48:705][ 36]MaterialEditorStats: Shader Count: 2
+[2022.04.02-22.19.48:905][ 43]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-22.19.48:905][ 43]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.48:905][ 43]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.48:905][ 43]MaterialEditorStats: 
+[2022.04.02-22.19.48:905][ 43]MaterialEditorStats: Shader Count: 6
+[2022.04.02-22.19.49:066][ 49]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 40668563BDAA50BC5A28623CE45FB920D166A145), compiling. 
+[2022.04.02-22.19.49:068][ 49]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4CA8537FB8EFDC6B6A9ED01B98913F9947C47609), compiling. 
+[2022.04.02-22.19.49:071][ 49]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.02-22.19.49:071][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.49:071][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.49:071][ 49]MaterialEditorStats: 
+[2022.04.02-22.19.49:071][ 49]MaterialEditorStats: Shader Count: 0
+[2022.04.02-22.19.49:802][ 69]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.02-22.19.49:802][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.49:802][ 69]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.49:802][ 69]MaterialEditorStats: 
+[2022.04.02-22.19.49:802][ 69]MaterialEditorStats: Shader Count: 1
+[2022.04.02-22.19.50:419][ 92]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-22.19.50:419][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.50:419][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.50:419][ 92]MaterialEditorStats: 
+[2022.04.02-22.19.50:419][ 92]MaterialEditorStats: Shader Count: 7
+[2022.04.02-22.19.50:551][ 98]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.04.02-22.19.50:551][ 98]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.04.02-22.19.50:551][ 98]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.19.50:551][ 98]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-22.19.50:551][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.50:551][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.50:551][ 98]MaterialEditorStats: 
+[2022.04.02-22.19.50:552][ 98]MaterialEditorStats: Shader Count: 12
+[2022.04.02-22.19.50:572][ 99]LogMaterialEditor: Applying material M_Tent_Metal
+[2022.04.02-22.19.51:011][ 99]LogMaterial: Display: Missing cached shadermap for Preview:M_Tent_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: AE6DB9C15841D6B7CB3150DEDBA9EC44800EBBAB), compiling. 
+[2022.04.02-22.19.51:069][ 99]LogMaterial: Display: Missing cached shadermap for M_Tent_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 1A8C4683A07BE862C34B1A983F1A831B495C6AB6), compiling. 
+[2022.04.02-22.19.51:078][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.04.02-22.19.51:711][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.04.02-22.19.51:727][ 99]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.02-22.19.51:727][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.51:728][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.51:728][ 99]MaterialEditorStats: 
+[2022.04.02-22.19.51:728][ 99]MaterialEditorStats: Shader Count: 14
+[2022.04.02-22.19.53:402][155]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.02-22.19.53:402][155]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.53:402][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.53:402][155]MaterialEditorStats: 
+[2022.04.02-22.19.53:402][155]MaterialEditorStats: Shader Count: 18
+[2022.04.02-22.19.54:803][213]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.04.02-22.19.54:803][213]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.04.02-22.19.54:803][213]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.02-22.19.54:803][213]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.02-22.19.54:803][213]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.02-22.19.54:803][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.02-22.19.54:803][213]MaterialEditorStats: 
+[2022.04.02-22.19.54:803][213]MaterialEditorStats: Shader Count: 30
+[2022.04.02-22.20.45:283][630]Cmd: DELETE
+[2022.04.02-22.20.45:283][630]Cmd: ACTOR DELETE
+[2022.04.02-22.20.45:288][630]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.02-22.20.45:295][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.02-22.20.45:297][630]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.04.02-22.20.53:661][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Tent_Pipes" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/M_Tent_Pipes.uasset" SILENT=true
+[2022.04.02-22.20.53:663][  9]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/M_Tent_Pipes594BED4F417CE58888961EB87C619104.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/M_Tent_Pipes.uasset'
+[2022.04.02-22.20.53:675][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Tent_Metal" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/M_Tent_Metal.uasset" SILENT=true
+[2022.04.02-22.20.53:682][  9]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/M_Tent_Metal5F261DD742470746561E3F96309E21AA.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/M_Tent_Metal.uasset'
+[2022.04.02-22.20.53:683][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Tent_Cloth" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/M_Tent_Cloth.uasset" SILENT=true
+[2022.04.02-22.20.53:685][  9]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/M_Tent_Cloth5CB24F02445A350203A9998622475B3B.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/M_Tent_Cloth.uasset'
+[2022.04.02-22.20.53:933][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.02-22.20.53:947][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.02-22.20.53:953][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.02-22.20.53:980][  9]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.02-22.20.53:980][  9]LogContentValidation: Display: Validating Material /Game/Materials/M_Tent_Pipes.M_Tent_Pipes
+[2022.04.02-22.20.53:980][  9]LogContentValidation: Display: Validating Material /Game/Materials/M_Tent_Metal.M_Tent_Metal
+[2022.04.02-22.20.53:980][  9]LogContentValidation: Display: Validating Material /Game/Materials/M_Tent_Cloth.M_Tent_Cloth
+[2022.04.02-22.21.32:986][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.02-22.21.33:036][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.02-22.21.33:172][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMapC91D02B548A4904590A1CFB7475EF62B.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.02-22.21.33:189][652]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.02-22.21.33:556][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/FirstPersonExampleMap_BuiltData6FB042BF4E464860DF7103AE8AF5D025.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.02-22.21.33:565][652]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.02-22.21.33:565][652]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.534
+[2022.04.02-22.21.33:565][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Decals/GraffitiLightning" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiLightning.uasset" SILENT=true
+[2022.04.02-22.21.33:567][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiLightning1E73527444692B54DB2EBEB8FDE17D39.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiLightning.uasset'
+[2022.04.02-22.21.33:568][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Decals/GraffitiTechno" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiTechno.uasset" SILENT=true
+[2022.04.02-22.21.33:569][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiTechno0C656EFE452C36EC25BF00808065A1F8.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiTechno.uasset'
+[2022.04.02-22.21.33:571][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Decals/GraffitiThisWay" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiThisWay.uasset" SILENT=true
+[2022.04.02-22.21.33:573][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiThisWayFE87B64F432D3D2DA35BFFBE89977023.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiThisWay.uasset'
+[2022.04.02-22.21.33:574][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Decals/GraffitiCrime" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiCrime.uasset" SILENT=true
+[2022.04.02-22.21.33:575][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiCrime87504F534C6431CF65E2A0A03BEBE1A7.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiCrime.uasset'
+[2022.04.02-22.21.33:579][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiWords2B648C174020376A101C97BD5380947D.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/Decal_Textures/Decals_vlrkdiyc_2K_atlas_ms/GraffitiWords.uasset'
+[2022.04.02-22.21.33:581][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Decals/GraffitiDirt" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiDirt.uasset" SILENT=true
+[2022.04.02-22.21.33:582][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/GraffitiDirtD985445C49314AA8B617A08C61270030.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Decals/GraffitiDirt.uasset'
+[2022.04.02-22.21.33:584][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Tent_1" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Tent_1.uasset" SILENT=true
+[2022.04.02-22.21.33:639][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Tent_13D79BA2C459908C961004A94D9BCF1A1.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Meshes/Tent_1.uasset'
+[2022.04.02-22.21.33:696][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Tent_1_M_Tent_Cloth_BaseColor7225FC384D34BEB5F5F74FAB7E9C2D94.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/Tent_1_M_Tent_Cloth_BaseColor.uasset'
+[2022.04.02-22.21.33:748][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Tent_1_M_Tent_Cloth_OcclusionRouF7C0F36345F4B4739C5163A43816FD5F.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/Tent_1_M_Tent_Cloth_OcclusionRoughnessMetallic.uasset'
+[2022.04.02-22.21.33:826][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Tent_1_M_Tent_Cloth_Normal19D355BA46B78DAEB33788AFABCC2DCB.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/Tent_1_M_Tent_Cloth_Normal.uasset'
+[2022.04.02-22.21.33:870][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Tent_1_M_Tent_Pipes_BaseColor476973FE424A1FFABBF8D38D045FB848.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/Tent_1_M_Tent_Pipes_BaseColor.uasset'
+[2022.04.02-22.21.33:919][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Tent_1_M_Tent_Pipes_OcclusionRouF6AB35C240DE630034C5ED9564D52326.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/Tent_1_M_Tent_Pipes_OcclusionRoughnessMetallic.uasset'
+[2022.04.02-22.21.33:966][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Tent_1_M_Tent_Pipes_Normal1FB8569F4BCDF72E3A7A00AC55B9F8E1.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/Tent_1_M_Tent_Pipes_Normal.uasset'
+[2022.04.02-22.21.34:047][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Tent_1_M_Tent_Metal_BaseColorAF7E27994E6500FB249CCCB92A4393A3.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/Tent_1_M_Tent_Metal_BaseColor.uasset'
+[2022.04.02-22.21.34:120][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Tent_1_M_Tent_Metal_OcclusionRouD421A59C4CE6FAE1DBABF884853CAE92.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/Tent_1_M_Tent_Metal_OcclusionRoughnessMetallic.uasset'
+[2022.04.02-22.21.34:206][652]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Saved/Tent_1_M_Tent_Metal_Normal646C77144FF8B65DD90132A1022FF55D.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_2.0/Content/Materials/Textures/Tent/Tent_1_M_Tent_Metal_Normal.uasset'
+[2022.04.02-22.21.34:220][652]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.02-22.21.34:220][652]LogContentValidation: Display: Validating Material /Game/Decals/GraffitiDirt.GraffitiDirt
+[2022.04.02-22.21.34:220][652]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Tent/Tent_1_M_Tent_Cloth_BaseColor.Tent_1_M_Tent_Cloth_BaseColor
+[2022.04.02-22.21.34:220][652]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.02-22.21.34:220][652]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.02-22.21.34:220][652]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Tent/Tent_1_M_Tent_Metal_Normal.Tent_1_M_Tent_Metal_Normal
+[2022.04.02-22.21.34:220][652]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Tent/Tent_1_M_Tent_Metal_OcclusionRoughnessMetallic.Tent_1_M_Tent_Metal_OcclusionRoughnessMetallic
+[2022.04.02-22.21.34:220][652]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Tent/Tent_1_M_Tent_Metal_BaseColor.Tent_1_M_Tent_Metal_BaseColor
+[2022.04.02-22.21.34:220][652]LogContentValidation: Display: Validating Material /Game/Decals/GraffitiTechno.GraffitiTechno
+[2022.04.02-22.21.34:220][652]LogContentValidation: Display: Validating Material /Game/Decals/GraffitiLightning.GraffitiLightning
+[2022.04.02-22.21.34:220][652]LogContentValidation: Display: Validating Material /Game/Decals/Decal_Textures/Decals_vlrkdiyc_2K_atlas_ms/GraffitiWords.GraffitiWords
+[2022.04.02-22.21.34:220][652]LogContentValidation: Display: Validating Material /Game/Decals/GraffitiCrime.GraffitiCrime
+[2022.04.02-22.21.34:221][652]LogContentValidation: Display: Validating Material /Game/Decals/GraffitiThisWay.GraffitiThisWay
+[2022.04.02-22.21.34:221][652]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Tent/Tent_1_M_Tent_Pipes_Normal.Tent_1_M_Tent_Pipes_Normal
+[2022.04.02-22.21.34:221][652]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Tent/Tent_1_M_Tent_Pipes_OcclusionRoughnessMetallic.Tent_1_M_Tent_Pipes_OcclusionRoughnessMetallic
+[2022.04.02-22.21.34:221][652]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Tent_1.Tent_1
+[2022.04.02-22.21.34:221][652]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Tent/Tent_1_M_Tent_Pipes_BaseColor.Tent_1_M_Tent_Pipes_BaseColor
+[2022.04.02-22.21.34:221][652]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Tent/Tent_1_M_Tent_Cloth_Normal.Tent_1_M_Tent_Cloth_Normal
+[2022.04.02-22.21.34:221][652]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Tent/Tent_1_M_Tent_Cloth_OcclusionRoughnessMetallic.Tent_1_M_Tent_Cloth_OcclusionRoughnessMetallic
