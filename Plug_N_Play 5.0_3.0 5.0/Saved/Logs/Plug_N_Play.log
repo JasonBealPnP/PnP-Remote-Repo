@@ -1472,3 +1472,22 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.04.08-17.22.13:810][339]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.04.08-17.22.13:810][339]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2022.04.08-17.22.13:810][339]LogContentValidation: Display: Validating Blueprint /Game/Particles/Bloods/BloodBP/BloodSplatBP.BloodSplatBP
+[2022.04.08-17.23.56:358][243]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2022.04.08-17.23.56:431][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.04.08-17.24.01:129][363]Cmd: DELETE
+[2022.04.08-17.24.01:129][363]Cmd: ACTOR DELETE
+[2022.04.08-17.24.01:139][363]LogEditorActor: Deleted Actor: Explosion_BP_NOAUTOPLAY_C
+[2022.04.08-17.24.01:181][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.04.08-17.24.01:183][363]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.04.08-17.24.04:062][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.04.08-17.24.04:135][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.04.08-17.24.04:420][432]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0/Saved/FirstPersonExampleMapA852DB524687CBE1C01B8BB29F715B1C.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.08-17.24.04:432][432]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.08-17.24.05:086][432]LogSavePackage: Moving '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0/Saved/FirstPersonExampleMap_BuiltData83CC05844F0E1B0C4ED84D9847455208.tmp' to '../../../../../Kraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.08-17.24.05:088][432]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.08-17.24.05:088][432]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.989
+[2022.04.08-17.24.05:102][432]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.08-17.24.05:102][432]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.08-17.24.05:102][432]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
