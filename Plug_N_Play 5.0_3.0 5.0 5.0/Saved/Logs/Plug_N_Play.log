@@ -2059,3 +2059,125 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.04.14-18.36.53:081][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Generator_Sides_BaseColor.Generator_reUV_Generator_Sides_BaseColor
 [2022.04.14-18.36.53:081][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Eletric_Panel_OcclusionRoughnessMetallic.Generator_reUV_Eletric_Panel_OcclusionRoughnessMetallic
 [2022.04.14-18.36.53:081][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Eletric_Panel_Normal.Generator_reUV_Eletric_Panel_Normal
+[2022.04.14-18.37.12:582][478]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_PLugs_Normal.png)
+[2022.04.14-18.37.12:614][478]LogTexture: Display: Building textures: Generator_reUV_PLugs_Normal (BC5, 512X512)
+[2022.04.14-18.37.12:614][478]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_PLugs_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.37.12:646][478]LogTexture: Display: Building textures: Generator_reUV_PLugs_OcclusionRoughnessMetallic (BC5, 512X512)
+[2022.04.14-18.37.12:646][478]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Rails_BaseColor.png)
+[2022.04.14-18.37.12:671][478]LogTexture: Display: Building textures: Generator_reUV_Rails_BaseColor (AutoDXT, 1024X1024)
+[2022.04.14-18.37.12:671][478]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Rails_Normal.png)
+[2022.04.14-18.37.12:719][478]LogTexture: Display: Building textures: Generator_reUV_Rails_Normal (BC5, 1024X1024)
+[2022.04.14-18.37.12:719][478]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Rails_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.37.12:755][478]LogTexture: Display: Building textures: Generator_reUV_Rails_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.14-18.37.12:755][478]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Switches_BaseColor.png)
+[2022.04.14-18.37.12:768][478]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Switches_Normal.png)
+[2022.04.14-18.37.12:777][478]LogTexture: Display: Building textures: Generator_reUV_Switches_BaseColor (AutoDXT, 512X512)
+[2022.04.14-18.37.12:909][478]LogTexture: Display: Building textures: Generator_reUV_Switches_Normal (BC5, 512X512)
+[2022.04.14-18.37.12:917][478]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Switches_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.37.12:935][478]LogTexture: Display: Building textures: Generator_reUV_Switches_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2022.04.14-18.37.12:935][478]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Vents_BaseColor.png)
+[2022.04.14-18.37.13:209][478]LogTexture: Display: Building textures: Generator_reUV_Vents_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.37.13:229][478]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Vents_Normal.png)
+[2022.04.14-18.37.13:560][478]LogTexture: Display: Building textures: Generator_reUV_Vents_Normal (BC5, 2048X2048)
+[2022.04.14-18.37.13:625][478]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Vents_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.37.13:810][478]LogTexture: Display: Building textures: Generator_reUV_Vents_OcclusionRoughnessMetallic (BC5, 2048X2048)
+[2022.04.14-18.37.13:812][478]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2022.04.14-18.37.52:219][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.04.14-18.37.52:229][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-18.37.52:235][194]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Generator_Electric_Panel828860A0412694BDAFD4C3BEC1AF4735.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_Electric_Panel.uasset'
+[2022.04.14-18.37.52:245][194]AssetCheck: New page: Asset Save: M_Generator_Electric_Panel
+[2022.04.14-18.37.52:245][194]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Generator_Electric_Panel.M_Generator_Electric_Panel
+[2022.04.14-18.37.59:469][ 33]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.37.59:469][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.38.10:805][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.04.14-18.38.10:816][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.04.14-18.38.10:823][214]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Generator_Generator_Sides66C6F10840C0E57F759DD78AD9C7F70F.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_Generator_Sides.uasset'
+[2022.04.14-18.38.10:833][214]AssetCheck: New page: Asset Save: M_Generator_Generator_Sides
+[2022.04.14-18.38.10:833][214]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Generator_Generator_Sides.M_Generator_Generator_Sides
+[2022.04.14-18.38.12:020][343]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.38.12:020][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.38.22:988][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.04.14-18.38.22:999][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.04.14-18.38.23:006][487]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Generator_GeneratorBase9402367F47A3B6266D5D4D9608924087.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_GeneratorBase.uasset'
+[2022.04.14-18.38.23:015][487]AssetCheck: New page: Asset Save: M_Generator_GeneratorBase
+[2022.04.14-18.38.23:015][487]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Generator_GeneratorBase.M_Generator_GeneratorBase
+[2022.04.14-18.38.23:938][588]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.38.23:938][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.38.31:730][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Generator_PanelLabels" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_PanelLabels.uasset" SILENT=true
+[2022.04.14-18.38.31:739][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.04.14-18.38.31:751][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.14-18.38.31:757][371]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Generator_PanelLabels6B342B254AF90B0EA40D7A985DAF9490.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_PanelLabels.uasset'
+[2022.04.14-18.38.31:767][371]AssetCheck: New page: Asset Save: M_Generator_PanelLabels
+[2022.04.14-18.38.31:767][371]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Generator_PanelLabels.M_Generator_PanelLabels
+[2022.04.14-18.38.34:310][668]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.38.34:311][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.38.45:413][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Generator_PanelScrews" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_PanelScrews.uasset" SILENT=true
+[2022.04.14-18.38.45:423][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.04.14-18.38.45:434][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.04.14-18.38.45:440][786]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Generator_PanelScrewsB299553249D22CF9B1E3F494707D0296.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_PanelScrews.uasset'
+[2022.04.14-18.38.45:450][786]AssetCheck: New page: Asset Save: M_Generator_PanelScrews
+[2022.04.14-18.38.45:450][786]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Generator_PanelScrews.M_Generator_PanelScrews
+[2022.04.14-18.38.46:687][930]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.38.46:687][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.38.54:798][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Generator_PLugs" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_PLugs.uasset" SILENT=true
+[2022.04.14-18.38.54:807][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.04.14-18.38.54:818][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.14-18.38.54:825][732]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Generator_PLugs763F2B964AA0E599D77059AAA73BAFDE.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_PLugs.uasset'
+[2022.04.14-18.38.54:835][732]AssetCheck: New page: Asset Save: M_Generator_PLugs
+[2022.04.14-18.38.54:835][732]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Generator_PLugs.M_Generator_PLugs
+[2022.04.14-18.38.56:205][885]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.38.56:205][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.39.04:248][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Generator_Rails" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_Rails.uasset" SILENT=true
+[2022.04.14-18.39.04:257][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.04.14-18.39.04:268][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.14-18.39.04:274][680]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Generator_Rails3264F57E457A0BA2F39DB683135566D2.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_Rails.uasset'
+[2022.04.14-18.39.04:285][680]AssetCheck: New page: Asset Save: M_Generator_Rails
+[2022.04.14-18.39.04:285][680]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Generator_Rails.M_Generator_Rails
+[2022.04.14-18.39.23:075][786]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.39.23:075][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.39.30:333][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Generator_Switches" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_Switches.uasset" SILENT=true
+[2022.04.14-18.39.30:342][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.04.14-18.39.30:354][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.04.14-18.39.30:360][516]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Generator_Switches47B365DA4CE322848158268C1F0E7CC7.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_Switches.uasset'
+[2022.04.14-18.39.30:370][516]AssetCheck: New page: Asset Save: M_Generator_Switches
+[2022.04.14-18.39.30:370][516]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Generator_Switches.M_Generator_Switches
+[2022.04.14-18.39.31:264][618]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.39.31:264][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.39.40:134][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Generator_Vents" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_Vents.uasset" SILENT=true
+[2022.04.14-18.39.40:143][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.04.14-18.39.40:154][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.04.14-18.39.40:161][553]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Generator_Vents811B084E464E5C9D362EFE9534D88155.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Generator_Vents.uasset'
+[2022.04.14-18.39.40:170][553]AssetCheck: New page: Asset Save: M_Generator_Vents
+[2022.04.14-18.39.40:170][553]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Generator_Vents.M_Generator_Vents
+[2022.04.14-18.39.40:973][639]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.39.40:973][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.39.54:957][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Generator" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Meshes/Generator.uasset" SILENT=true
+[2022.04.14-18.39.54:989][301]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator3972F6EC43BA8B1ABFB4288E8712EBB6.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Meshes/Generator.uasset'
+[2022.04.14-18.39.55:000][301]AssetCheck: New page: Asset Save: Generator
+[2022.04.14-18.39.55:000][301]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Generator.Generator
+[2022.04.14-18.39.57:178][470]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.39.57:178][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.39.59:010][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.04.14-18.39.59:099][572]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_PLugs_NormalF8B870C34F1669DFE98E0A85F2B43C4A.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_PLugs_Normal.uasset'
+[2022.04.14-18.39.59:129][572]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_PLugs_OcclusionRo52759C644D89D13365BBD5B2898A8E33.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_PLugs_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.39.59:158][572]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Rails_BaseColor7EED1C4D4CC4222328752FBCB3B5AA36.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Rails_BaseColor.uasset'
+[2022.04.14-18.39.59:189][572]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Rails_Normal28A13F8D4C6472C333AF799ECADA163C.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Rails_Normal.uasset'
+[2022.04.14-18.39.59:221][572]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Rails_OcclusionRoA886235D4D7D6EE6C6E899ABF5310873.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Rails_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.39.59:231][572]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Switches_BaseColoDC839E7241837A8DEB91008AEADF112B.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Switches_BaseColor.uasset'
+[2022.04.14-18.39.59:344][572]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Switches_NormalB009475444397243DEAD988B17040A64.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Switches_Normal.uasset'
+[2022.04.14-18.39.59:354][572]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Switches_Occlusio1D6CE18344DD6AC270E65ABA9533B2B7.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Switches_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.39.59:530][572]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Vents_BaseColorAAC9C47645E2A6D6E65F019F88FCFF83.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Vents_BaseColor.uasset'
+[2022.04.14-18.39.59:759][572]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Vents_Normal3D4E52D843FAC930A123838FA3115BBB.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Vents_Normal.uasset'
+[2022.04.14-18.40.00:003][572]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Vents_OcclusionRo0BFE81CB4FC718457E9FC88DBB3884CC.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Vents_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.40.00:015][572]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-18.40.00:015][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Vents_OcclusionRoughnessMetallic.Generator_reUV_Vents_OcclusionRoughnessMetallic
+[2022.04.14-18.40.00:015][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Vents_Normal.Generator_reUV_Vents_Normal
+[2022.04.14-18.40.00:015][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Vents_BaseColor.Generator_reUV_Vents_BaseColor
+[2022.04.14-18.40.00:015][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Switches_OcclusionRoughnessMetallic.Generator_reUV_Switches_OcclusionRoughnessMetallic
+[2022.04.14-18.40.00:015][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Switches_Normal.Generator_reUV_Switches_Normal
+[2022.04.14-18.40.00:015][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Switches_BaseColor.Generator_reUV_Switches_BaseColor
+[2022.04.14-18.40.00:016][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Rails_OcclusionRoughnessMetallic.Generator_reUV_Rails_OcclusionRoughnessMetallic
+[2022.04.14-18.40.00:016][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Rails_Normal.Generator_reUV_Rails_Normal
+[2022.04.14-18.40.00:016][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Rails_BaseColor.Generator_reUV_Rails_BaseColor
+[2022.04.14-18.40.00:016][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_PLugs_OcclusionRoughnessMetallic.Generator_reUV_PLugs_OcclusionRoughnessMetallic
+[2022.04.14-18.40.00:016][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_PLugs_Normal.Generator_reUV_PLugs_Normal
