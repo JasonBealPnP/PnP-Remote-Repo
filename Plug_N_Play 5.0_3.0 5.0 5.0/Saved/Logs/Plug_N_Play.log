@@ -1508,3 +1508,367 @@ Are you sure?
 [2022.04.14-20.38.01:126][527]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Enemy_Model/EnemyBot_Final_M_Bot_Legs_OcclusionRoughnessMetallic.EnemyBot_Final_M_Bot_Legs_OcclusionRoughnessMetallic
 [2022.04.14-20.38.01:126][527]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Enemy_Model/EnemyBot_Final_M_Bot_UpperJunk_OcclusionRoughnessMetallic.EnemyBot_Final_M_Bot_UpperJunk_OcclusionRoughnessMetallic
 [2022.04.14-20.38.01:126][527]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Enemy_Model/EnemyBot_Final_M_Bot_UpperJunk_Normal.EnemyBot_Final_M_Bot_UpperJunk_Normal
+[2022.04.14-20.38.20:597][805]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.14-20.38.20:668][805]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.14-20.38.24:898][ 95]LogContentBrowser: Attempting asset rename: NewFolder -> Masks
+[2022.04.14-20.38.24:898][ 95]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.14-20.38.33:385][307]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Enemy Bot\MASKS\EnemyBot_Final_M_Bot_Face_BaseColor.png)
+[2022.04.14-20.38.33:511][307]LogTexture: Display: Building textures: EnemyBot_Final_M_Bot_Face_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-20.38.33:511][307]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Enemy Bot\MASKS\EnemyBot_Final_M_Bot_Legs_BaseColor.png)
+[2022.04.14-20.38.33:659][307]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Enemy Bot\MASKS\EnemyBot_Final_M_Bot_Arms_BaseColor.png)
+[2022.04.14-20.38.33:818][307]LogTexture: Display: Building textures: EnemyBot_Final_M_Bot_Legs_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-20.38.33:818][307]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Enemy Bot\MASKS\EnemyBot_Final_M_Bot_Chest_BaseColor.png)
+[2022.04.14-20.38.34:015][307]LogTexture: Display: Building textures: EnemyBot_Final_M_Bot_Arms_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-20.38.34:015][307]LogTexture: Display: Building textures: EnemyBot_Final_M_Bot_Chest_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-20.39.49:238][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Accents1" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Accents1.uasset" SILENT=true
+[2022.04.14-20.39.49:248][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.04.14-20.39.49:259][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-20.39.49:266][328]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Accents1F8F3241F43C5B158E5D90CBFDB374368.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Accents1.uasset'
+[2022.04.14-20.39.49:276][328]AssetCheck: New page: Asset Save: M_Bot_Accents1
+[2022.04.14-20.39.49:276][328]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Accents1.M_Bot_Accents1
+[2022.04.14-20.39.57:523][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_ArmJoints" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_ArmJoints.uasset" SILENT=true
+[2022.04.14-20.39.57:530][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-20.39.57:540][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.14-20.39.57:546][891]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_ArmJointsD4AACC454FABDBAA7D1D0FA4FDFF0335.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_ArmJoints.uasset'
+[2022.04.14-20.39.57:556][891]AssetCheck: New page: Asset Save: M_Bot_ArmJoints
+[2022.04.14-20.39.57:556][891]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_ArmJoints.M_Bot_ArmJoints
+[2022.04.14-20.40.09:571][726]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.14-20.40.20:612][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Backpack" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Backpack.uasset" SILENT=true
+[2022.04.14-20.40.20:620][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.40.20:630][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.40.20:637][479]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_BackpackE9B30C904F498A8B3C6B34B2DB7CAE9B.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Backpack.uasset'
+[2022.04.14-20.40.20:647][479]AssetCheck: New page: Asset Save: M_Bot_Backpack
+[2022.04.14-20.40.20:647][479]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Backpack.M_Bot_Backpack
+[2022.04.14-20.40.36:011][515]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.14-20.41.09:383][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Eyes" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Eyes.uasset" SILENT=true
+[2022.04.14-20.41.09:391][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.14-20.41.09:402][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-20.41.09:409][741]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_EyesCCA7C2AF4A23FFC809CB7AAEEB961B2E.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Eyes.uasset'
+[2022.04.14-20.41.09:419][741]AssetCheck: New page: Asset Save: M_Bot_Eyes
+[2022.04.14-20.41.09:419][741]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Eyes.M_Bot_Eyes
+[2022.04.14-20.41.18:382][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Face" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Face.uasset" SILENT=true
+[2022.04.14-20.41.18:391][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-20.41.18:402][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-20.41.18:408][327]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_FaceD8AEAF264E36330E00FE09B3783B7D45.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Face.uasset'
+[2022.04.14-20.41.18:418][327]AssetCheck: New page: Asset Save: M_Bot_Face
+[2022.04.14-20.41.18:418][327]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Face.M_Bot_Face
+[2022.04.14-20.41.30:133][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Fingers" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Fingers.uasset" SILENT=true
+[2022.04.14-20.41.30:140][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.41.30:152][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.41.30:158][128]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Fingers38A57DA146C511126BC3A7B34385328E.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Fingers.uasset'
+[2022.04.14-20.41.30:168][128]AssetCheck: New page: Asset Save: M_Bot_Fingers
+[2022.04.14-20.41.30:168][128]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Fingers.M_Bot_Fingers
+[2022.04.14-20.41.38:866][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_LegJoints" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_LegJoints.uasset" SILENT=true
+[2022.04.14-20.41.38:874][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.14-20.41.38:884][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.41.38:891][739]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_LegJoints14BA486B48C23881BB6FD981E79DB5E9.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_LegJoints.uasset'
+[2022.04.14-20.41.38:901][739]AssetCheck: New page: Asset Save: M_Bot_LegJoints
+[2022.04.14-20.41.38:902][739]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_LegJoints.M_Bot_LegJoints
+[2022.04.14-20.41.47:617][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Head" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Head.uasset" SILENT=true
+[2022.04.14-20.41.47:625][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-20.41.47:636][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-20.41.47:642][326]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_HeadFC63A86041BF9942A20CE3AF14400C83.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Head.uasset'
+[2022.04.14-20.41.47:655][326]AssetCheck: New page: Asset Save: M_Bot_Head
+[2022.04.14-20.41.47:655][326]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Head.M_Bot_Head
+[2022.04.14-20.42.16:736][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Head" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Head.uasset" SILENT=true
+[2022.04.14-20.42.16:744][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-20.42.16:755][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-20.42.16:761][315]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Head382180DE40B69E1271E7378A7E671540.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Head.uasset'
+[2022.04.14-20.42.16:772][315]AssetCheck: New page: Asset Save: M_Bot_Head
+[2022.04.14-20.42.16:772][315]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Head.M_Bot_Head
+[2022.04.14-20.42.27:519][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_LegJoints" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_LegJoints.uasset" SILENT=true
+[2022.04.14-20.42.27:527][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.42.27:537][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-20.42.27:543][ 29]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_LegJointsABA13F5C48F7855CB1C858A42BE09FED.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_LegJoints.uasset'
+[2022.04.14-20.42.27:554][ 29]AssetCheck: New page: Asset Save: M_Bot_LegJoints
+[2022.04.14-20.42.27:554][ 29]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_LegJoints.M_Bot_LegJoints
+[2022.04.14-20.42.43:198][112]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.14-20.42.45:021][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Legs" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Legs.uasset" SILENT=true
+[2022.04.14-20.42.45:029][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-20.42.45:039][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.42.45:047][224]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Legs8C29594844766774FF1E51B753F12DD0.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Legs.uasset'
+[2022.04.14-20.42.45:057][224]AssetCheck: New page: Asset Save: M_Bot_Legs
+[2022.04.14-20.42.45:057][224]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Legs.M_Bot_Legs
+[2022.04.14-20.42.56:439][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_LowerJunk" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_LowerJunk.uasset" SILENT=true
+[2022.04.14-20.42.56:447][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.14-20.42.56:458][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.42.56:465][982]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_LowerJunkCCF7B9BC4507BA202AF9649E969064C1.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_LowerJunk.uasset'
+[2022.04.14-20.42.56:475][982]AssetCheck: New page: Asset Save: M_Bot_LowerJunk
+[2022.04.14-20.42.56:475][982]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_LowerJunk.M_Bot_LowerJunk
+[2022.04.14-20.43.06:800][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Neck" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Neck.uasset" SILENT=true
+[2022.04.14-20.43.06:808][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.43.06:819][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.43.06:825][686]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Neck16DF826440047D1E92634685508040ED.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Neck.uasset'
+[2022.04.14-20.43.06:836][686]AssetCheck: New page: Asset Save: M_Bot_Neck
+[2022.04.14-20.43.06:836][686]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Neck.M_Bot_Neck
+[2022.04.14-20.43.15:718][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_UpperJunk" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_UpperJunk.uasset" SILENT=true
+[2022.04.14-20.43.15:726][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.43.15:736][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.43.15:743][291]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_UpperJunk76FBE54C4B78F11FFF32709D01240854.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_UpperJunk.uasset'
+[2022.04.14-20.43.15:752][291]AssetCheck: New page: Asset Save: M_Bot_UpperJunk
+[2022.04.14-20.43.15:753][291]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_UpperJunk.M_Bot_UpperJunk
+[2022.04.14-20.43.25:959][989]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.14-20.43.27:152][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Face" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Face.uasset" SILENT=true
+[2022.04.14-20.43.27:160][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.43.27:170][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.43.27:177][ 59]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_FaceAC38CDEB499E19CFC0062FAAD906CCFE.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Face.uasset'
+[2022.04.14-20.43.27:188][ 59]AssetCheck: New page: Asset Save: M_Bot_Face
+[2022.04.14-20.43.27:188][ 59]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Face.M_Bot_Face
+[2022.04.14-20.43.27:926][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Accents1" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Accents1.uasset" SILENT=true
+[2022.04.14-20.43.27:928][105]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Accents151A2A97A41C58D98B594F9B952B51DFA.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Accents1.uasset'
+[2022.04.14-20.43.27:936][105]AssetCheck: New page: Asset Save: M_Bot_Accents1
+[2022.04.14-20.43.27:936][105]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Accents1.M_Bot_Accents1
+[2022.04.14-20.43.29:342][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_ArmJoints" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_ArmJoints.uasset" SILENT=true
+[2022.04.14-20.43.29:344][196]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_ArmJointsEF73A18347A9C7038EA6ABAB05DACD5E.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_ArmJoints.uasset'
+[2022.04.14-20.43.29:351][196]AssetCheck: New page: Asset Save: M_Bot_ArmJoints
+[2022.04.14-20.43.29:351][196]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_ArmJoints.M_Bot_ArmJoints
+[2022.04.14-20.43.30:822][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Arms" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Arms.uasset" SILENT=true
+[2022.04.14-20.43.30:830][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.43.30:840][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.43.30:847][288]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Arms5776145C4F09F25865F8419DCD1AD607.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Arms.uasset'
+[2022.04.14-20.43.30:858][288]AssetCheck: New page: Asset Save: M_Bot_Arms
+[2022.04.14-20.43.30:858][288]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Arms.M_Bot_Arms
+[2022.04.14-20.43.32:127][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Backpack" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Backpack.uasset" SILENT=true
+[2022.04.14-20.43.32:129][368]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Backpack8915BBB14F5441898E6630A17A374678.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Backpack.uasset'
+[2022.04.14-20.43.32:138][368]AssetCheck: New page: Asset Save: M_Bot_Backpack
+[2022.04.14-20.43.32:138][368]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Backpack.M_Bot_Backpack
+[2022.04.14-20.43.33:519][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Chest" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Chest.uasset" SILENT=true
+[2022.04.14-20.43.33:527][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.14-20.43.33:537][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.43.33:544][454]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Chest75783C8643E7AFD8955245910A00A308.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Chest.uasset'
+[2022.04.14-20.43.33:554][454]AssetCheck: New page: Asset Save: M_Bot_Chest
+[2022.04.14-20.43.33:554][454]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Chest.M_Bot_Chest
+[2022.04.14-20.43.35:040][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_EyeGlow" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_EyeGlow.uasset" SILENT=true
+[2022.04.14-20.43.35:048][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.43.35:058][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.43.35:065][551]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_EyeGlow533C464946855E1C88516B9B2F44CD7D.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_EyeGlow.uasset'
+[2022.04.14-20.43.35:075][551]AssetCheck: New page: Asset Save: M_Bot_EyeGlow
+[2022.04.14-20.43.35:075][551]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_EyeGlow.M_Bot_EyeGlow
+[2022.04.14-20.43.36:493][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Eyes" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Eyes.uasset" SILENT=true
+[2022.04.14-20.43.36:495][645]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Eyes82C78F594219CA8BD07EFB940A6465CD.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Eyes.uasset'
+[2022.04.14-20.43.36:503][645]AssetCheck: New page: Asset Save: M_Bot_Eyes
+[2022.04.14-20.43.36:503][645]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Eyes.M_Bot_Eyes
+[2022.04.14-20.43.37:994][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Face" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Face.uasset" SILENT=true
+[2022.04.14-20.43.37:996][744]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_FaceA524BC86437F6B7FA409F29B8913B6F7.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Face.uasset'
+[2022.04.14-20.43.38:004][744]AssetCheck: New page: Asset Save: M_Bot_Face
+[2022.04.14-20.43.38:004][744]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Face.M_Bot_Face
+[2022.04.14-20.43.39:643][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Fingers" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Fingers.uasset" SILENT=true
+[2022.04.14-20.43.39:645][852]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Fingers48628F49441779F1FCFC0D8B3F1F46FA.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Fingers.uasset'
+[2022.04.14-20.43.39:652][852]AssetCheck: New page: Asset Save: M_Bot_Fingers
+[2022.04.14-20.43.39:652][852]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Fingers.M_Bot_Fingers
+[2022.04.14-20.43.42:093][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Head" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Head.uasset" SILENT=true
+[2022.04.14-20.43.42:095][ 18]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Head32B6DEEA445B6E8EB50F5D814068A15C.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Head.uasset'
+[2022.04.14-20.43.42:105][ 18]AssetCheck: New page: Asset Save: M_Bot_Head
+[2022.04.14-20.43.42:105][ 18]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Head.M_Bot_Head
+[2022.04.14-20.43.55:832][932]LogActorFactory: Actor Factory created EnemyBot_Final
+[2022.04.14-20.43.55:833][932]LogActorFactory: Actor Factory created EnemyBot_Final
+[2022.04.14-20.43.56:574][984]LogActorFactory: Actor Factory created EnemyBot_Final
+[2022.04.14-20.43.56:574][984]LogActorFactory: Actor Factory created EnemyBot_Final
+[2022.04.14-20.43.57:952][ 59]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.14-20.44.11:340][917]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.14-20.44.32:191][180]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.14-20.44.33:393][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Legs" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Legs.uasset" SILENT=true
+[2022.04.14-20.44.33:401][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.04.14-20.44.33:411][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.44.33:419][244]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Legs99AAAA1F4DC108AF56127B9D75A8EB89.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Legs.uasset'
+[2022.04.14-20.44.33:429][244]AssetCheck: New page: Asset Save: M_Bot_Legs
+[2022.04.14-20.44.33:429][244]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Legs.M_Bot_Legs
+[2022.04.14-20.44.44:090][965]Cmd: SELECT NONE
+[2022.04.14-20.45.00:152][116]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.14-20.45.00:160][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-20.45.00:160][116]PIE: New page: PIE session: FirstPersonExampleMap (Apr 14, 2022, 12:45:00 PM)
+[2022.04.14-20.45.00:162][116]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.14-20.45.00:163][116]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.14-20.45.00:163][116]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.14-20.45.00:238][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075684s)
+[2022.04.14-20.45.00:240][116]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.14-20.45.00:241][116]LogPlayLevel: PIE: World Init took: (0.002609s)
+[2022.04.14-20.45.00:241][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.078630s)
+[2022.04.14-20.45.00:252][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.04.14-20.45.00:253][116]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.14-20.45.00:253][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-20.45.00:253][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-20.45.00:253][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-20.45.00:253][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-20.45.00:253][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-20.45.00:253][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-20.45.00:253][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-20.45.00:253][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-20.45.00:254][116]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-20.45.00:254][116]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-20.45.00:287][116]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-20.45.00:287][116]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-20.45.00:295][116]LogAudioMixer: Display: Using Audio Device DELL P2715Q (NVIDIA High Definition Audio)
+[2022.04.14-20.45.00:295][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-20.45.00:295][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-20.45.00:295][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-20.45.00:296][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-20.45.00:296][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-20.45.00:296][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-20.45.00:297][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-20.45.00:297][116]LogInit: FAudioDevice initialized.
+[2022.04.14-20.45.00:297][116]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.04.14-20.45.00:304][116]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.14-20.45.00:320][116]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.14-16.45.00
+[2022.04.14-20.45.00:321][116]LogWorld: Bringing up level for play took: 0.016989
+[2022.04.14-20.45.00:321][116]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.04.14-20.45.00:369][116]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.04.14-20.45.00:371][116]PIE: Server logged in
+[2022.04.14-20.45.00:371][116]PIE: Play in editor total start time 0.213 seconds.
+[2022.04.14-20.45.16:834][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-20.45.16:834][272]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.14-20.45.16:834][272]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-20.45.16:837][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-20.45.16:845][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-20.45.16:850][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-20.45.16:859][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.14-20.45.16:860][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-20.45.16:861][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-20.45.16:863][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-20.45.16:872][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.04.14-20.45.16:882][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.04.14-20.45.16:914][273]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.04.14-20.47.06:424][744]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.14-20.47.06:431][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-20.47.06:431][744]PIE: New page: PIE session: FirstPersonExampleMap (Apr 14, 2022, 12:47:06 PM)
+[2022.04.14-20.47.06:431][744]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.14-20.47.06:492][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060695s)
+[2022.04.14-20.47.06:493][744]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.14-20.47.06:494][744]LogPlayLevel: PIE: World Init took: (0.001588s)
+[2022.04.14-20.47.06:494][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.062509s)
+[2022.04.14-20.47.06:505][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.04.14-20.47.06:506][744]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.14-20.47.06:506][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-20.47.06:506][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-20.47.06:506][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-20.47.06:506][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-20.47.06:506][744]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-20.47.06:506][744]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-20.47.06:506][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-20.47.06:506][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-20.47.06:507][744]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-20.47.06:507][744]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-20.47.06:509][744]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-20.47.06:509][744]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-20.47.06:516][744]LogAudioMixer: Display: Using Audio Device DELL P2715Q (NVIDIA High Definition Audio)
+[2022.04.14-20.47.06:517][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-20.47.06:517][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-20.47.06:517][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-20.47.06:517][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-20.47.06:517][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-20.47.06:519][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-20.47.06:519][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-20.47.06:519][744]LogInit: FAudioDevice initialized.
+[2022.04.14-20.47.06:519][744]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.04.14-20.47.06:527][744]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.14-20.47.06:543][744]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.14-16.47.06
+[2022.04.14-20.47.06:543][744]LogWorld: Bringing up level for play took: 0.016684
+[2022.04.14-20.47.06:544][744]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.04.14-20.47.06:546][744]PIE: Server logged in
+[2022.04.14-20.47.06:547][744]PIE: Play in editor total start time 0.116 seconds.
+[2022.04.14-20.48.13:393][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-20.48.13:393][808]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.14-20.48.13:393][808]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-20.48.13:396][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-20.48.13:408][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-20.48.13:412][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-20.48.13:420][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-20.48.13:422][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-20.48.13:423][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-20.48.13:430][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.04.14-20.48.13:439][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.04.14-20.48.13:470][809]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.04.14-20.48.29:698][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.04.14-20.48.29:767][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.48.29:995][ 58]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/FirstPersonExampleMapA720B2D64109664CA0AD73992F2A3A93.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.14-20.48.30:014][ 58]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.14-20.48.30:707][ 58]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/FirstPersonExampleMap_BuiltData8152313545B8C940C13202A3E6159918.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.14-20.48.30:716][ 58]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.14-20.48.30:717][ 58]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.957
+[2022.04.14-20.48.30:876][ 58]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/EnemyBot_Final_M_Bot_Face_BaseCo666998E14B64AC4658466C88906AAC78.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Enemy_Model/Masks/EnemyBot_Final_M_Bot_Face_BaseColor.uasset'
+[2022.04.14-20.48.31:041][ 58]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/EnemyBot_Final_M_Bot_Legs_BaseCoA82743754FE9ECCE2ADDC384973C77DD.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Enemy_Model/Masks/EnemyBot_Final_M_Bot_Legs_BaseColor.uasset'
+[2022.04.14-20.48.31:195][ 58]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/EnemyBot_Final_M_Bot_Arms_BaseCo32DE27184A5453971EE67EB4C1044D1B.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Enemy_Model/Masks/EnemyBot_Final_M_Bot_Arms_BaseColor.uasset'
+[2022.04.14-20.48.31:362][ 58]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/EnemyBot_Final_M_Bot_Chest_BaseC4662D7E34D92825645B9BF9A5273A51F.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Enemy_Model/Masks/EnemyBot_Final_M_Bot_Chest_BaseColor.uasset'
+[2022.04.14-20.48.31:398][ 58]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-20.48.31:398][ 58]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.14-20.48.31:398][ 58]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.14-20.48.31:398][ 58]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Enemy_Model/Masks/EnemyBot_Final_M_Bot_Chest_BaseColor.EnemyBot_Final_M_Bot_Chest_BaseColor
+[2022.04.14-20.48.31:398][ 58]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Enemy_Model/Masks/EnemyBot_Final_M_Bot_Arms_BaseColor.EnemyBot_Final_M_Bot_Arms_BaseColor
+[2022.04.14-20.48.31:398][ 58]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Enemy_Model/Masks/EnemyBot_Final_M_Bot_Legs_BaseColor.EnemyBot_Final_M_Bot_Legs_BaseColor
+[2022.04.14-20.48.31:398][ 58]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Enemy_Model/Masks/EnemyBot_Final_M_Bot_Face_BaseColor.EnemyBot_Final_M_Bot_Face_BaseColor
+[2022.04.14-20.49.15:269][ 96]Cmd: SELECT NONE
+[2022.04.14-20.49.45:821][192]Cmd: DELETE
+[2022.04.14-20.49.45:821][192]Cmd: ACTOR DELETE
+[2022.04.14-20.49.45:831][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.14-20.49.45:839][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.14-20.49.45:841][192]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2022.04.14-20.50.07:663][555]Cmd: TRANSACTION UNDO
+[2022.04.14-20.50.07:663][555]LogEditorTransaction: Undo Rotate Elements
+[2022.04.14-20.50.08:259][555]Cmd: TRANSACTION UNDO
+[2022.04.14-20.50.08:259][555]LogEditorTransaction: Undo Move Elements
+[2022.04.14-20.50.08:809][555]Cmd: TRANSACTION UNDO
+[2022.04.14-20.50.08:809][555]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.14-20.50.09:367][555]Cmd: TRANSACTION UNDO
+[2022.04.14-20.50.09:367][555]LogEditorTransaction: Undo Clicking on Elements
+[2022.04.14-20.50.18:627][101]Cmd: SELECT NONE
+[2022.04.14-20.50.46:656][ 56]Cmd: SELECT NONE
+[2022.04.14-20.51.37:266][575]Cmd: SELECT NONE
+[2022.04.14-20.51.55:493][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.04.14-20.51.55:542][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-20.51.55:760][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/FirstPersonExampleMap1FDB2869498F6B779ABA1D96F31B0D20.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.14-20.51.55:778][860]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.14-20.51.56:112][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/FirstPersonExampleMap_BuiltDataABFCD4AA456BE371F44F0CB0BA9BF167.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.14-20.51.56:121][860]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.14-20.51.56:121][860]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.587
+[2022.04.14-20.51.56:121][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_UpperJunk" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_UpperJunk.uasset" SILENT=true
+[2022.04.14-20.51.56:123][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_UpperJunk582B75FD48C4A5B3F51E9C818D3BC5B1.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_UpperJunk.uasset'
+[2022.04.14-20.51.56:124][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Neck" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Neck.uasset" SILENT=true
+[2022.04.14-20.51.56:125][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Neck0CE3920E4972DF122F56898394B09EC0.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Neck.uasset'
+[2022.04.14-20.51.56:127][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_LowerJunk" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_LowerJunk.uasset" SILENT=true
+[2022.04.14-20.51.56:128][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_LowerJunk8057F79D42BD911FF817E0845D0123F8.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_LowerJunk.uasset'
+[2022.04.14-20.51.56:130][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Legs" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Legs.uasset" SILENT=true
+[2022.04.14-20.51.56:132][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_LegsA7A73E904B6A6740A3D43490C4AA8637.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Legs.uasset'
+[2022.04.14-20.51.56:134][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_LegJoints" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_LegJoints.uasset" SILENT=true
+[2022.04.14-20.51.56:135][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_LegJoints19E77821407446197FE7BBB9C98EEBC6.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_LegJoints.uasset'
+[2022.04.14-20.51.56:137][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Head" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Head.uasset" SILENT=true
+[2022.04.14-20.51.56:139][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_HeadD78592234A1C2C22F8D6758BB768E07C.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Head.uasset'
+[2022.04.14-20.51.56:141][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Fingers" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Fingers.uasset" SILENT=true
+[2022.04.14-20.51.56:143][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_FingersD0BB219040ABF65A30A3E085182B8718.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Fingers.uasset'
+[2022.04.14-20.51.56:144][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Face" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Face.uasset" SILENT=true
+[2022.04.14-20.51.56:146][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_FaceD2A475244D6D10ED54D45C9BC764FC73.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Face.uasset'
+[2022.04.14-20.51.56:148][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Eyes" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Eyes.uasset" SILENT=true
+[2022.04.14-20.51.56:150][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_EyesB819C3C947D404E81D3EFB8D781595E3.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Eyes.uasset'
+[2022.04.14-20.51.56:152][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_EyeGlow" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_EyeGlow.uasset" SILENT=true
+[2022.04.14-20.51.56:154][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_EyeGlow45393C02422A8860CC617B8FD87F6BB2.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_EyeGlow.uasset'
+[2022.04.14-20.51.56:156][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Chest" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Chest.uasset" SILENT=true
+[2022.04.14-20.51.56:158][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Chest499CE582409B749B0BB036B980243F17.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Chest.uasset'
+[2022.04.14-20.51.56:160][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Backpack" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Backpack.uasset" SILENT=true
+[2022.04.14-20.51.56:162][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_BackpackFEDA099B4DE4D92C2DAEFBA09DE1CAF8.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Backpack.uasset'
+[2022.04.14-20.51.56:164][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Arms" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Arms.uasset" SILENT=true
+[2022.04.14-20.51.56:165][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Arms371ADF4344033A886CB91098DBBE0533.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Arms.uasset'
+[2022.04.14-20.51.56:167][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_ArmJoints" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_ArmJoints.uasset" SILENT=true
+[2022.04.14-20.51.56:169][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_ArmJoints4CF21C3A4CE156DE4D4059BBA74DE49A.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_ArmJoints.uasset'
+[2022.04.14-20.51.56:170][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bot_Accents1" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Accents1.uasset" SILENT=true
+[2022.04.14-20.51.56:172][860]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bot_Accents137B007474C7FEA74C6050EA40E8E63C2.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bot_Accents1.uasset'
+[2022.04.14-20.51.56:405][860]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_LowerJunk.M_Bot_LowerJunk
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_LegJoints.M_Bot_LegJoints
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Face.M_Bot_Face
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Fingers.M_Bot_Fingers
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Backpack.M_Bot_Backpack
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Chest.M_Bot_Chest
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Accents1.M_Bot_Accents1
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Arms.M_Bot_Arms
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Legs.M_Bot_Legs
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Head.M_Bot_Head
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Neck.M_Bot_Neck
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_ArmJoints.M_Bot_ArmJoints
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_UpperJunk.M_Bot_UpperJunk
+[2022.04.14-20.51.56:405][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_EyeGlow.M_Bot_EyeGlow
+[2022.04.14-20.51.56:406][860]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Bot_Eyes.M_Bot_Eyes
+[2022.04.14-20.51.56:406][860]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.14-20.51.56:406][860]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
