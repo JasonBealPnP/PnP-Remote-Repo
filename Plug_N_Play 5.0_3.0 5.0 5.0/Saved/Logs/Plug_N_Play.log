@@ -2181,3 +2181,509 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.04.14-18.40.00:016][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Rails_BaseColor.Generator_reUV_Rails_BaseColor
 [2022.04.14-18.40.00:016][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_PLugs_OcclusionRoughnessMetallic.Generator_reUV_PLugs_OcclusionRoughnessMetallic
 [2022.04.14-18.40.00:016][572]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_PLugs_Normal.Generator_reUV_PLugs_Normal
+[2022.04.14-18.40.22:301][103]LogStaticMesh: Display: Building static mesh Concrete_Double_Wall...
+[2022.04.14-18.40.22:310][103]LogTexture: Display: Building textures: Double_Wall_WallMat_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.14-18.40.22:371][103]LogTexture: Display: Building textures: Double_Wall_WallMat_BaseColor (AutoDXT, 1024X1024)
+[2022.04.14-18.40.22:371][103]LogTexture: Display: Building textures: Double_Wall_WallMat_Normal (BC5, 1024X1024)
+[2022.04.14-18.40.22:371][103]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/Concrete_Double_Wall.Concrete_Double_Wall
+[2022.04.14-18.40.22:464][107]LogActorFactory: Actor Factory created Concrete_Double_Wall
+[2022.04.14-18.40.22:465][107]LogActorFactory: Actor Factory created Concrete_Double_Wall
+[2022.04.14-18.40.23:166][136]LogActorFactory: Actor Factory created Concrete_Double_Wall
+[2022.04.14-18.40.23:166][136]LogActorFactory: Actor Factory created Concrete_Double_Wall
+[2022.04.14-18.40.23:581][148]LogMeshUtilities: Finished distance field build in 1.1s - 182x21x210 sparse distance field, 1.4Mb total, 0.0Mb always loaded, 100% occupied, 1173 triangles, Concrete_Double_Wall
+[2022.04.14-18.40.26:145][299]Cmd: DELETE
+[2022.04.14-18.40.26:145][299]Cmd: ACTOR DELETE
+[2022.04.14-18.40.26:155][299]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.14-18.40.26:168][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.04.14-18.40.26:171][299]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.04.14-18.40.34:276][724]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Gun_Body.Gun_Body
+[2022.04.14-18.40.55:911][ 90]LogActorFactory: Actor Factory created Gun_Body
+[2022.04.14-18.40.55:912][ 90]LogActorFactory: Actor Factory created Gun_Body
+[2022.04.14-18.40.56:567][115]LogActorFactory: Actor Factory created Gun_Body
+[2022.04.14-18.40.56:567][115]LogActorFactory: Actor Factory created Gun_Body
+[2022.04.14-18.40.57:321][144]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.14-18.41.18:092][971]Cmd: SELECT NONE
+[2022.04.14-18.41.58:494][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.04.14-18.41.58:712][681]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/FirstPersonExampleMap_Auto1E9886DEE4C116DCD416B60835284AE5D.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2022.04.14-18.41.58:720][681]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.235
+[2022.04.14-18.41.58:720][681]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.235
+[2022.04.14-18.42.35:857][808]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.14-18.42.41:384][ 39]Cmd: DELETE
+[2022.04.14-18.42.41:384][ 39]Cmd: ACTOR DELETE
+[2022.04.14-18.42.41:394][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.14-18.42.41:401][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.14-18.42.41:402][ 39]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.04.14-18.42.53:444][579]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.42.53:444][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.43.04:833][217]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Bus_UV.Bus_UV
+[2022.04.14-18.43.08:344][363]LogSlate: Window 'Bus_UV' being destroyed
+[2022.04.14-18.43.38:932][882]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/Models/Bus UV.fbx]
+[2022.04.14-18.43.38:993][882]LogFbx: Loading FBX Scene from F:/Plug n Play/Models/Bus UV.fbx
+[2022.04.14-18.43.39:029][882]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.14-18.43.39:217][882]LogFbx: Display: Triangulating static mesh polySurface137
+[2022.04.14-18.43.40:325][882]LogStaticMesh: Display: Building static mesh Bus_UV...
+[2022.04.14-18.43.40:915][882]LogStaticMesh: Built static mesh [0.59s] /Game/Meshes/Bus_UV.Bus_UV
+[2022.04.14-18.43.41:169][882]LogEditorFactories: -- imported successfully
+[2022.04.14-18.43.41:175][882]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'UV_checker_Tex' was renamed 'UV_checker_Tex_ncl1_1' 
+[2022.04.14-18.43.41:175][882]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'UV_checker_Tex' was renamed 'UV_checker_Tex_ncl1_2' 
+[2022.04.14-18.43.41:175][882]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'UV_checker_Tex' was renamed 'UV_checker_Tex_ncl1_3' 
+[2022.04.14-18.43.41:175][882]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'UV_checker_Tex' was renamed 'UV_checker_Tex_ncl1_4' 
+[2022.04.14-18.43.41:176][882]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'UV_checker_Tex' was renamed 'UV_checker_Tex_ncl1_5' 
+[2022.04.14-18.43.41:176][882]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'UV_checker_Tex' was renamed 'UV_checker_Tex_ncl1_6' 
+[2022.04.14-18.43.41:176][882]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'UV_checker_Tex' was renamed 'UV_checker_Tex_ncl1_7' 
+[2022.04.14-18.43.41:176][882]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.14-18.43.42:238][882]LogMeshUtilities: Finished distance field build in 1.3s - 56x252x56 sparse distance field, 1.2Mb total, 0.0Mb always loaded, 91% occupied, 18469 triangles, Bus_UV
+[2022.04.14-18.43.42:259][882]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Bus_UV) ...
+[2022.04.14-18.43.43:868][888]LogMeshUtilities: Finished distance field build in 1.3s - 56x252x56 sparse distance field, 1.2Mb total, 0.0Mb always loaded, 91% occupied, 18469 triangles, Bus_UV
+[2022.04.14-18.43.51:211][331]LogStaticMesh: Display: Building static mesh Bus_UV...
+[2022.04.14-18.43.51:211][331]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (Bus_UV) ...
+[2022.04.14-18.43.52:197][331]LogStaticMesh: Boundary [0.01s], tris: 55408, UVs 2
+[2022.04.14-18.43.52:197][331]LogStaticMesh: Clustering [0.06s]. Ratio: 1.016166
+[2022.04.14-18.43.52:197][331]LogStaticMesh: Leaves [0.02s]
+[2022.04.14-18.43.52:674][331]LogStaticMesh: Reduce [0.91s]
+[2022.04.14-18.43.53:071][331]LogStaticMesh: Coarse [0.38s], original tris: 55408, coarse tris: 2000
+[2022.04.14-18.43.53:071][331]LogStaticMesh: ConstrainClusters:
+[2022.04.14-18.43.53:071][331]LogStaticMesh:   Input: 905 Clusters, 113978 Triangles and 104156 Vertices
+[2022.04.14-18.43.53:071][331]LogStaticMesh:   Output without splits: 905 Clusters, 113978 Triangles and 104702 Vertices
+[2022.04.14-18.43.53:071][331]LogStaticMesh:   Output with splits: 905 Clusters, 113978 Triangles and 104702 Vertices
+[2022.04.14-18.43.53:071][331]LogStaticMesh: Material Stats - Unique Materials: 8, Fast Path Clusters: 888, Slow Path Clusters: 17, 1 Material: 535, 2 Materials: 270, 3 Materials: 83, At Least 4 Materials: 17
+[2022.04.14-18.43.53:071][331]LogStaticMesh: WritePages:
+[2022.04.14-18.43.53:071][331]LogStaticMesh:   13 pages written.
+[2022.04.14-18.43.53:071][331]LogStaticMesh:   GPU size: 1676980 bytes. 128998.461 bytes per page. 98.418% utilization.
+[2022.04.14-18.43.53:071][331]LogStaticMesh:   Uncompressed page data: 1512000 bytes. Compressed page data: 1353133 bytes. Fixup data: 6056 bytes.
+[2022.04.14-18.43.53:071][331]LogStaticMesh:   Total disk size: 1359189 bytes. 104553.000 bytes per page.
+[2022.04.14-18.43.53:071][331]LogStaticMesh: Encode [0.07s]
+[2022.04.14-18.43.53:071][331]LogStaticMesh: Imposter [0.00s]
+[2022.04.14-18.43.53:071][331]LogStaticMesh: Nanite build [1.36s]
+
+[2022.04.14-18.43.53:071][331]LogStaticMesh: Built static mesh [1.87s] /Game/Meshes/Bus_UV.Bus_UV
+[2022.04.14-18.43.54:510][383]LogMeshUtilities: Finished distance field build in 1.4s - 56x252x56 sparse distance field, 1.2Mb total, 0.0Mb always loaded, 91% occupied, 18469 triangles, Bus_UV
+[2022.04.14-18.44.31:975][877]LogContentBrowser: Attempting asset rename: Damaged_Metal -> Damaged_Metal
+[2022.04.14-18.44.32:864][937]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.14-18.44.32:864][937]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.14-18.44.41:427][631]LogContentBrowser: Attempting asset rename: Damaged_Metal -> M_Bus_Damaged_Metal
+[2022.04.14-18.44.41:578][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Bus_UV" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Meshes/Bus_UV.uasset" SILENT=true
+[2022.04.14-18.44.41:651][631]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Bus_UV854834044C5091BB2F7D268C1EF2EB75.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Meshes/Bus_UV.uasset'
+[2022.04.14-18.44.41:654][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Bus_Damaged_Metal" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bus_Damaged_Metal.uasset" SILENT=true
+[2022.04.14-18.44.41:656][631]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Bus_Damaged_Metal5FF279E54037B504BC6AFAA9343B11A0.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Bus_Damaged_Metal.uasset'
+[2022.04.14-18.44.41:747][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.04.14-18.44.41:763][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.04.14-18.44.41:771][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.14-18.44.41:776][631]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-18.44.41:776][631]LogContentValidation: Display: Validating Material /Game/Materials/M_Bus_Damaged_Metal.M_Bus_Damaged_Metal
+[2022.04.14-18.44.41:776][631]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Bus_UV.Bus_UV
+[2022.04.14-18.44.47:836][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Bars in PCD3D_SM5, Default, SM5 (DDC key hash: 7D5AD3B67F1F1802D1185FA3C0514DB3651F4D67), compiling. 
+[2022.04.14-18.44.47:898][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Bars in PCD3D_SM5, Default, SM5 (DDC key hash: 4A76B23857001DA5D599DED9DEEDBDCA9FFD3BBD), compiling. 
+[2022.04.14-18.44.47:900][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Bars in PCD3D_SM5, Default, SM5 (DDC key hash: 7A4EA270BC101CB25C4E41F8B16F13EE247A3AE7), compiling. 
+[2022.04.14-18.44.47:902][ 89]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D22D43AA4D1D63FA5DD50EFECE6365BC1F0A9E60), compiling. 
+[2022.04.14-18.44.47:904][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Bus in PCD3D_SM5, Default, SM5 (DDC key hash: 2A40B3F0993D227475FD1DE781B0AFBD35DEE71E), compiling. 
+[2022.04.14-18.44.47:962][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Bus in PCD3D_SM5, Default, SM5 (DDC key hash: 703E86845C9E2BF6689571E9132AC261A94BBDB5), compiling. 
+[2022.04.14-18.44.47:964][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Bus in PCD3D_SM5, Default, SM5 (DDC key hash: 03238348BBA0AD08C7E1C30713AFF330CA9434FD), compiling. 
+[2022.04.14-18.44.47:966][ 89]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BC9A50D4F81C4383017A7E345C5D59550EDE8C6C), compiling. 
+[2022.04.14-18.44.47:969][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Damaged_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: CF954CE1EF72A3049A0836121BA59FFD810C3545), compiling. 
+[2022.04.14-18.44.48:026][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Damaged_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: D6690AF45F0731CA25FCAABBABBA5615033A6F41), compiling. 
+[2022.04.14-18.44.48:029][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Damaged_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 85F595F3401A76BBAD40F21D31423D6DF8C80EF7), compiling. 
+[2022.04.14-18.44.48:031][ 89]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 92A61E3AE98A451772012D04829839527CEC24B7), compiling. 
+[2022.04.14-18.44.48:033][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Front_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: 594A6307041344CDB66B5DFF74FB0024E55CF2CA), compiling. 
+[2022.04.14-18.44.48:092][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Front_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: 27237F3FCE6D3B689D98FBB30061BE19C3EC2343), compiling. 
+[2022.04.14-18.44.48:095][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Front_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: 8145BE2671D88B9BD4A859A5757AD2AC49DF5AED), compiling. 
+[2022.04.14-18.44.48:097][ 89]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D14773AB8DCAD2E85D2AE259FFCC2EE88DF65EB), compiling. 
+[2022.04.14-18.44.48:099][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Grill in PCD3D_SM5, Default, SM5 (DDC key hash: 892002942073112E78C8FAC2ADD3045273D5591A), compiling. 
+[2022.04.14-18.44.48:156][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Grill in PCD3D_SM5, Default, SM5 (DDC key hash: 96EA66AE791521D10FB56562DB6AAA8640EB7B7C), compiling. 
+[2022.04.14-18.44.48:159][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Grill in PCD3D_SM5, Default, SM5 (DDC key hash: AFCA0460000F9CC959A8C260430D85049046CF8D), compiling. 
+[2022.04.14-18.44.48:161][ 89]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F7F674376D30293C0B2505ECEBC2258E3E9AB57), compiling. 
+[2022.04.14-18.44.48:163][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Headlights in PCD3D_SM5, Default, SM5 (DDC key hash: BB909B12D7E015B455BA7273F3F3EA6865AA9EB8), compiling. 
+[2022.04.14-18.44.48:221][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Headlights in PCD3D_SM5, Default, SM5 (DDC key hash: 140510BC6E436DDD96AC38D32C957005DCCB0028), compiling. 
+[2022.04.14-18.44.48:224][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Headlights in PCD3D_SM5, Default, SM5 (DDC key hash: 100913DDD1A8FF3987E7957D00BB1EA9C71E6BA2), compiling. 
+[2022.04.14-18.44.48:226][ 89]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CF7D4FFD0C163DCFC039237C7BF1F428FFF9500C), compiling. 
+[2022.04.14-18.44.48:228][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Tread in PCD3D_SM5, Default, SM5 (DDC key hash: 4DC896C2186305AAEF949B2BCE00A2DA61809E78), compiling. 
+[2022.04.14-18.44.48:286][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Tread in PCD3D_SM5, Default, SM5 (DDC key hash: C33F7FCB5932607356C940DC424935C3C305C2F0), compiling. 
+[2022.04.14-18.44.48:288][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Tread in PCD3D_SM5, Default, SM5 (DDC key hash: ECF55B30064865440AFE4FCC496CE409A6037E28), compiling. 
+[2022.04.14-18.44.48:290][ 89]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EB426FEAC290EB320699C265BC90851A8EE98391), compiling. 
+[2022.04.14-18.44.48:292][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Windshield in PCD3D_SM5, Default, SM5 (DDC key hash: ED361299A822AB8612934FF119E7AA3153F2AF1E), compiling. 
+[2022.04.14-18.44.48:353][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Windshield in PCD3D_SM5, Default, SM5 (DDC key hash: A399F148D2F33AF67D2ECB8B2197AAC3ADC2FFFC), compiling. 
+[2022.04.14-18.44.48:355][ 89]LogMaterial: Display: Missing cached shadermap for Preview:M_Bus_Windshield in PCD3D_SM5, Default, SM5 (DDC key hash: F23493317D8065A04B7983BF0F3FA14B548C026C), compiling. 
+[2022.04.14-18.44.48:357][ 89]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7B007245E75FB1F8B73E74E38FAFBDC9F292F87D), compiling. 
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: 
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: 
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: 
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: 
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: 
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: 
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: 
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: 
+[2022.04.14-18.44.48:387][ 89]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.48:664][ 92]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.14-18.44.48:664][ 92]LogShaderCompilers: Display: Total job queries 542, among them cache hits 44 (8.12%)
+[2022.04.14-18.44.48:664][ 92]LogShaderCompilers: Display: Tracking 294 distinct input hashes that result in 53 distinct outputs (18.03%)
+[2022.04.14-18.44.48:664][ 92]LogShaderCompilers: Display: RAM used: 0.23 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.04.14-18.44.48:664][ 92]LogShaderCompilers: Display: ================================================
+[2022.04.14-18.44.50:234][149]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.44.50:234][149]MaterialEditorStats: 
+[2022.04.14-18.44.50:234][149]MaterialEditorStats: Shader Count: 2
+[2022.04.14-18.44.50:405][156]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.44.50:405][156]MaterialEditorStats: 
+[2022.04.14-18.44.50:405][156]MaterialEditorStats: Shader Count: 8
+[2022.04.14-18.44.51:254][188]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.44.51:254][188]MaterialEditorStats: 
+[2022.04.14-18.44.51:254][188]MaterialEditorStats: Shader Count: 2
+[2022.04.14-18.44.51:345][191]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.44.51:345][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.44.51:391][192]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.44.51:392][192]MaterialEditorStats: 
+[2022.04.14-18.44.51:392][192]MaterialEditorStats: Shader Count: 2
+[2022.04.14-18.44.51:485][198]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.44.51:485][198]MaterialEditorStats: 
+[2022.04.14-18.44.51:485][198]MaterialEditorStats: Shader Count: 2
+[2022.04.14-18.44.51:678][212]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.44.51:678][212]MaterialEditorStats: 
+[2022.04.14-18.44.51:678][212]MaterialEditorStats: Shader Count: 2
+[2022.04.14-18.44.51:724][214]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.44.51:724][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.44.51:773][216]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.44.51:773][216]MaterialEditorStats: 
+[2022.04.14-18.44.51:773][216]MaterialEditorStats: Shader Count: 2
+[2022.04.14-18.44.52:139][236]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.44.52:139][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.44.52:413][248]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.44.52:413][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.44.52:718][263]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.44.52:718][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.44.53:113][281]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.44.53:114][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.44.53:503][303]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.44.53:503][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.44.55:182][402]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.44.55:182][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.44.57:845][524]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.14-18.44.57:845][524]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.14-18.44.58:671][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A71FA0E550F156B7FAB6E5C38EEDAEAD99F8BC4C), compiling. 
+[2022.04.14-18.44.58:746][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 60204BB62CD1797B6B67B3ADFB0A2FB2D8FFEA62), compiling. 
+[2022.04.14-18.44.58:749][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AA610AB62D868F192F8DF34AEB2BF5169C695178), compiling. 
+[2022.04.14-18.44.58:751][570]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A31B783B73E37627D07BF07395DD52C6C5A4D96F), compiling. 
+[2022.04.14-18.44.58:754][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 65170F6E0A73C3E839DCDC9DD93331DF7C901C21), compiling. 
+[2022.04.14-18.44.58:840][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 572BBDBB76068BEA692386EBBAC9521A4C5D3CC6), compiling. 
+[2022.04.14-18.44.58:843][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8AC77BBCE1AFAF90FD226C65D2398CEDBCACC28A), compiling. 
+[2022.04.14-18.44.58:846][570]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D8957ABE939153A2834AFB7F63E0B1DCB297CC9), compiling. 
+[2022.04.14-18.44.58:850][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 215419E83836188C627D209171A80D703EC3024E), compiling. 
+[2022.04.14-18.44.58:942][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 48547E4128E86E91FF76FD3DB596C804E161FA77), compiling. 
+[2022.04.14-18.44.58:946][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 972E86183825C91F124E4EB0E1F248031EE2E460), compiling. 
+[2022.04.14-18.44.58:950][570]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C149028B7C13FD5AA84C43A63107781FEB127111), compiling. 
+[2022.04.14-18.44.58:954][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: B4E2B01DCBAC986650EF317B1C65E7B8BD724516), compiling. 
+[2022.04.14-18.44.59:078][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: DBEE6BF93D7E0FBAA8478C66E055A8EA1C26E015), compiling. 
+[2022.04.14-18.44.59:084][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D0921F1DE8C0DF8FC16A67F42FF1E91D65A3EA1), compiling. 
+[2022.04.14-18.44.59:090][570]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 05A3914CD95E2B8F141C6EB54AC6C7DCD15AAA7B), compiling. 
+[2022.04.14-18.44.59:095][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_4 in PCD3D_SM5, Default, SM5 (DDC key hash: E12EF9EC6D5294809D17734DE82273B5A1D328D7), compiling. 
+[2022.04.14-18.44.59:226][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 8081DFD961DBD121ADE150BC1B5E76EC78737268), compiling. 
+[2022.04.14-18.44.59:232][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 013C4473C23C95EF2003DAEB7904156F43AFF845), compiling. 
+[2022.04.14-18.44.59:237][570]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C27CAD1F2064D25770DA70FC823EC6A77EA46932), compiling. 
+[2022.04.14-18.44.59:241][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 48F4E46F485AE1E201125FF3578363045D794491), compiling. 
+[2022.04.14-18.44.59:377][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_5 in PCD3D_SM5, Default, SM5 (DDC key hash: CDC36BF05D725308EB4DFD49D6E301352200068E), compiling. 
+[2022.04.14-18.44.59:383][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_5 in PCD3D_SM5, Default, SM5 (DDC key hash: DB5B64ED3C5C30D18FA76A0838912017401FEA73), compiling. 
+[2022.04.14-18.44.59:388][570]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A8F7CB33CFA0296777DE13460F2E0B5B7AB4985C), compiling. 
+[2022.04.14-18.44.59:395][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_6 in PCD3D_SM5, Default, SM5 (DDC key hash: DE39EABC3009358AD4E6F85C08E88A21B8762727), compiling. 
+[2022.04.14-18.44.59:504][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 9D38E912DEF927F18D271444BAD92742EFEB439A), compiling. 
+[2022.04.14-18.44.59:509][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 86D597982595D05D7A98AC0423A5FB95DF9825D7), compiling. 
+[2022.04.14-18.44.59:513][570]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 282CB3B56080541E94D79C940C2AF435191F367E), compiling. 
+[2022.04.14-18.44.59:518][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_7 in PCD3D_SM5, Default, SM5 (DDC key hash: EA33A311E9C1DF8473F6FCED8ADFD4F40AEDA0A5), compiling. 
+[2022.04.14-18.44.59:628][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_7 in PCD3D_SM5, Default, SM5 (DDC key hash: AEB981E74A5B4723EA7BD1785E847902804BC725), compiling. 
+[2022.04.14-18.44.59:632][570]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 256B068D3D41C2C90909187180B6C9F2A1620BBC), compiling. 
+[2022.04.14-18.44.59:637][570]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 36191842C56DFC0D662999A4A3814BF6ED2D8A04), compiling. 
+[2022.04.14-18.44.59:715][570]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: 
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: 
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: 
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: 
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: 
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: 
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: 
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: 
+[2022.04.14-18.44.59:716][570]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.45.00:760][598]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.00:760][598]MaterialEditorStats: 
+[2022.04.14-18.45.00:760][598]MaterialEditorStats: Shader Count: 4
+[2022.04.14-18.45.00:998][601]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.00:998][601]MaterialEditorStats: 
+[2022.04.14-18.45.00:998][601]MaterialEditorStats: Shader Count: 4
+[2022.04.14-18.45.01:502][615]MaterialEditorStats: Base pass shader: 147 instructions
+[2022.04.14-18.45.01:502][615]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2022.04.14-18.45.01:503][615]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.01:503][615]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.01:503][615]MaterialEditorStats: 
+[2022.04.14-18.45.01:503][615]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.01:697][619]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.01:697][619]MaterialEditorStats: 
+[2022.04.14-18.45.01:697][619]MaterialEditorStats: Shader Count: 2
+[2022.04.14-18.45.01:937][626]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.01:937][626]MaterialEditorStats: 
+[2022.04.14-18.45.01:937][626]MaterialEditorStats: Shader Count: 2
+[2022.04.14-18.45.02:142][629]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.02:142][629]MaterialEditorStats: 
+[2022.04.14-18.45.02:142][629]MaterialEditorStats: Shader Count: 2
+[2022.04.14-18.45.02:351][637]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.02:351][637]MaterialEditorStats: 
+[2022.04.14-18.45.02:351][637]MaterialEditorStats: Shader Count: 3
+[2022.04.14-18.45.02:661][643]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.02:661][643]MaterialEditorStats: 
+[2022.04.14-18.45.02:662][643]MaterialEditorStats: Shader Count: 2
+[2022.04.14-18.45.02:932][648]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.02:933][648]MaterialEditorStats: 
+[2022.04.14-18.45.02:933][648]MaterialEditorStats: Shader Count: 2
+[2022.04.14-18.45.05:391][740]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C88D89A0664E1F945A74BB49244A71E116E779C), compiling. 
+[2022.04.14-18.45.05:396][740]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.45.05:396][740]MaterialEditorStats: 
+[2022.04.14-18.45.05:396][740]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.45.06:207][773]MaterialEditorStats: Base pass shader: 147 instructions
+[2022.04.14-18.45.06:207][773]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2022.04.14-18.45.06:207][773]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.06:207][773]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.06:207][773]MaterialEditorStats: 
+[2022.04.14-18.45.06:207][773]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.06:625][789]MaterialEditorStats: Base pass shader: 147 instructions
+[2022.04.14-18.45.06:625][789]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2022.04.14-18.45.06:625][789]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.06:625][789]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.06:625][789]MaterialEditorStats: 
+[2022.04.14-18.45.06:625][789]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.06:806][798]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.06:806][798]MaterialEditorStats: 
+[2022.04.14-18.45.06:806][798]MaterialEditorStats: Shader Count: 5
+[2022.04.14-18.45.07:210][813]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_6 in PCD3D_SM5, Default, SM5 (DDC key hash: F21B1F63B679C14B7AB8CC365BE275D261DFF921), compiling. 
+[2022.04.14-18.45.07:215][813]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.45.07:216][813]MaterialEditorStats: 
+[2022.04.14-18.45.07:216][813]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.45.08:558][865]MaterialEditorStats: Base pass shader: 147 instructions
+[2022.04.14-18.45.08:558][865]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2022.04.14-18.45.08:558][865]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.08:558][865]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.08:558][865]MaterialEditorStats: 
+[2022.04.14-18.45.08:558][865]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.08:742][872]MaterialEditorStats: Base pass shader: 147 instructions
+[2022.04.14-18.45.08:742][872]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2022.04.14-18.45.08:742][872]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.08:742][872]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.08:742][872]MaterialEditorStats: 
+[2022.04.14-18.45.08:742][872]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.08:767][873]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.08:767][873]MaterialEditorStats: 
+[2022.04.14-18.45.08:767][873]MaterialEditorStats: Shader Count: 3
+[2022.04.14-18.45.09:077][885]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.04.14-18.45.09:077][885]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.04.14-18.45.09:077][885]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.09:077][885]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.09:077][885]MaterialEditorStats: 
+[2022.04.14-18.45.09:077][885]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.09:232][891]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 53492783F30DBEE5409DEFD88DDF08F540E57F41), compiling. 
+[2022.04.14-18.45.09:237][891]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.45.09:237][891]MaterialEditorStats: 
+[2022.04.14-18.45.09:237][891]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.45.10:270][933]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.04.14-18.45.10:270][933]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.04.14-18.45.10:270][933]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.10:270][933]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.10:270][933]MaterialEditorStats: 
+[2022.04.14-18.45.10:270][933]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.10:288][934]MaterialEditorStats: Base pass shader: 147 instructions
+[2022.04.14-18.45.10:288][934]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2022.04.14-18.45.10:288][934]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.10:288][934]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.10:289][934]MaterialEditorStats: 
+[2022.04.14-18.45.10:289][934]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.10:605][951]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.10:605][951]MaterialEditorStats: 
+[2022.04.14-18.45.10:605][951]MaterialEditorStats: Shader Count: 6
+[2022.04.14-18.45.11:111][989]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.04.14-18.45.11:111][989]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.04.14-18.45.11:111][989]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.11:111][989]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.11:111][989]MaterialEditorStats: 
+[2022.04.14-18.45.11:111][989]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.11:327][992]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 20D64F32A49F57509B2005E45849B0E03396280D), compiling. 
+[2022.04.14-18.45.11:336][992]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.45.11:336][992]MaterialEditorStats: 
+[2022.04.14-18.45.11:336][992]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.45.12:700][ 46]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.12:700][ 46]MaterialEditorStats: 
+[2022.04.14-18.45.12:700][ 46]MaterialEditorStats: Shader Count: 7
+[2022.04.14-18.45.12:876][ 58]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.04.14-18.45.12:876][ 58]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.04.14-18.45.12:876][ 58]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.12:876][ 58]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.12:876][ 58]MaterialEditorStats: 
+[2022.04.14-18.45.12:876][ 58]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.13:048][ 60]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: A2E52A0D724571535665F61E727C5B3C7E26C4AC), compiling. 
+[2022.04.14-18.45.13:057][ 60]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.45.13:057][ 60]MaterialEditorStats: 
+[2022.04.14-18.45.13:057][ 60]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.45.14:366][112]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.14:366][112]MaterialEditorStats: 
+[2022.04.14-18.45.14:366][112]MaterialEditorStats: Shader Count: 7
+[2022.04.14-18.45.14:593][128]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.04.14-18.45.14:593][128]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.04.14-18.45.14:593][128]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.14:593][128]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.14:593][128]MaterialEditorStats: 
+[2022.04.14-18.45.14:593][128]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.15:321][159]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6CD6CA4A6DE88476C51A9C2979860494C11F18F9), compiling. 
+[2022.04.14-18.45.15:324][159]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.45.15:324][159]MaterialEditorStats: 
+[2022.04.14-18.45.15:324][159]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.45.16:649][221]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.16:649][221]MaterialEditorStats: 
+[2022.04.14-18.45.16:649][221]MaterialEditorStats: Shader Count: 7
+[2022.04.14-18.45.16:812][232]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.04.14-18.45.16:812][232]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.04.14-18.45.16:812][232]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.16:812][232]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.16:812][232]MaterialEditorStats: 
+[2022.04.14-18.45.16:812][232]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.17:224][238]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 12464396191C7DD4604D61EFA35C516CA4B63929), compiling. 
+[2022.04.14-18.45.17:227][238]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.45.17:227][238]MaterialEditorStats: 
+[2022.04.14-18.45.17:227][238]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.45.18:527][298]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.18:527][298]MaterialEditorStats: 
+[2022.04.14-18.45.18:527][298]MaterialEditorStats: Shader Count: 7
+[2022.04.14-18.45.18:707][310]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.04.14-18.45.18:707][310]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.04.14-18.45.18:707][310]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.18:707][310]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.18:707][310]MaterialEditorStats: 
+[2022.04.14-18.45.18:707][310]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.19:168][318]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 80252EBA208A732B91548872F47B7BC37DE1A8FB), compiling. 
+[2022.04.14-18.45.19:170][318]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.14-18.45.19:170][318]MaterialEditorStats: 
+[2022.04.14-18.45.19:170][318]MaterialEditorStats: Shader Count: 0
+[2022.04.14-18.45.20:449][383]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.20:449][383]MaterialEditorStats: 
+[2022.04.14-18.45.20:449][383]MaterialEditorStats: Shader Count: 7
+[2022.04.14-18.45.20:608][399]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.04.14-18.45.20:608][399]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.04.14-18.45.20:608][399]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.04.14-18.45.20:608][399]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.14-18.45.20:608][399]MaterialEditorStats: 
+[2022.04.14-18.45.20:608][399]MaterialEditorStats: Shader Count: 12
+[2022.04.14-18.45.29:356][ 63]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.14-18.45.29:372][ 63]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.14-18.45.30:831][184]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.04.14-18.45.30:831][184]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.14-18.45.37:160][683]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.14-18.45.37:173][683]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.14-18.45.39:563][885]LogContentBrowser: Attempting asset rename: NewFolder -> Bus
+[2022.04.14-18.45.39:564][885]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.14-18.46.01:015][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Grill_BaseColor.png)
+[2022.04.14-18.46.01:170][405]LogTexture: Display: Building textures: Bus_UV_Grill_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.46.01:170][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Grill_Normal.png)
+[2022.04.14-18.46.01:380][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Grill_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.46.01:534][405]LogTexture: Display: Building textures: Bus_UV_Grill_Normal (BC5, 2048X2048)
+[2022.04.14-18.46.01:534][405]LogTexture: Display: Building textures: Bus_UV_Grill_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.14-18.46.01:534][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Headlights_BaseColor.png)
+[2022.04.14-18.46.01:771][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Headlights_Normal.png)
+[2022.04.14-18.46.01:967][405]LogTexture: Display: Building textures: Bus_UV_Headlights_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.46.02:035][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Headlights_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.46.02:177][405]LogTexture: Display: Building textures: Bus_UV_Headlights_Normal (BC5, 2048X2048)
+[2022.04.14-18.46.02:233][405]LogTexture: Display: Building textures: Bus_UV_Headlights_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.14-18.46.02:241][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Tread_BaseColor.png)
+[2022.04.14-18.46.02:358][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Tread_Normal.png)
+[2022.04.14-18.46.02:565][405]LogTexture: Display: Building textures: Bus_UV_Tread_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.46.02:566][405]LogTexture: Display: Building textures: Bus_UV_Tread_Normal (BC5, 2048X2048)
+[2022.04.14-18.46.02:566][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Tread_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.46.02:746][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Windshield_BaseColor.png)
+[2022.04.14-18.46.02:886][405]LogTexture: Display: Building textures: Bus_UV_Tread_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.14-18.46.02:886][405]LogTexture: Display: Building textures: Bus_UV_Windshield_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.46.02:886][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Windshield_Normal.png)
+[2022.04.14-18.46.03:097][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Windshield_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.46.03:217][405]LogTexture: Display: Building textures: Bus_UV_Windshield_Normal (BC5, 2048X2048)
+[2022.04.14-18.46.03:217][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Bars_BaseColor.png)
+[2022.04.14-18.46.03:345][405]LogTexture: Display: Building textures: Bus_UV_Windshield_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.14-18.46.03:426][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Bars_Normal.png)
+[2022.04.14-18.46.03:550][405]LogTexture: Display: Building textures: Bus_UV_Bars_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.46.03:600][405]LogTexture: Display: Building textures: Bus_UV_Bars_Normal (BC5, 2048X2048)
+[2022.04.14-18.46.03:611][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Bars_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.46.03:740][405]LogTexture: Display: Building textures: Bus_UV_Bars_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.14-18.46.03:740][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Bus_BaseColor.png)
+[2022.04.14-18.46.04:018][405]LogTexture: Display: Building textures: Bus_UV_Bus_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.46.04:036][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Bus_Normal.png)
+[2022.04.14-18.46.04:235][405]LogTexture: Display: Building textures: Bus_UV_Bus_Normal (BC5, 2048X2048)
+[2022.04.14-18.46.04:253][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Bus_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.46.04:500][405]LogTexture: Display: Building textures: Bus_UV_Bus_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.14-18.46.04:511][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Damaged_Metal_BaseColor.png)
+[2022.04.14-18.46.04:680][405]LogTexture: Display: Building textures: Bus_UV_Damaged_Metal_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.46.04:680][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Damaged_Metal_Normal.png)
+[2022.04.14-18.46.04:831][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Damaged_Metal_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.46.04:953][405]LogTexture: Display: Building textures: Bus_UV_Damaged_Metal_Normal (BC5, 2048X2048)
+[2022.04.14-18.46.05:002][405]LogTexture: Display: Building textures: Bus_UV_Damaged_Metal_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.14-18.46.05:011][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Front_Bumper_BaseColor.png)
+[2022.04.14-18.46.05:118][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Front_Bumper_Normal.png)
+[2022.04.14-18.46.05:234][405]LogTexture: Display: Building textures: Bus_UV_Front_Bumper_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.46.05:417][405]LogTexture: Display: Building textures: Bus_UV_Front_Bumper_Normal (BC5, 2048X2048)
+[2022.04.14-18.46.05:424][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Bus\Bus UV_Front_Bumper_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.46.05:618][405]LogTexture: Display: Building textures: Bus_UV_Front_Bumper_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.14-18.46.13:754][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.04.14-18.46.14:874][717]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.14-18.46.15:012][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.04.14-18.46.21:206][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-18.46.21:265][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.14-18.46.21:482][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/FirstPersonExampleMapC09A0E3541BBAC084B807E881C73AF06.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.14-18.46.21:501][933]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.14-18.46.21:895][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/FirstPersonExampleMap_BuiltData90A504BD45C97CFC5D666BB5F783319F.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.14-18.46.21:903][933]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.14-18.46.21:903][933]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.646
+[2022.04.14-18.46.21:983][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Bus_UV_Bars_BaseColorF59BDA9F433039BEF92AE49AC832264A.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Bus/Bus_UV_Bars_BaseColor.uasset'
+[2022.04.14-18.46.22:082][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Bus_UV_Bars_Normal7AA6C21141CD5F0C9F0313BDB9E7BF45.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Bus/Bus_UV_Bars_Normal.uasset'
+[2022.04.14-18.46.22:178][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Bus_UV_Bars_OcclusionRoughnessMe3902CEEC48D4293D2104979AD4DC02E5.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Bus/Bus_UV_Bars_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.46.22:374][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Bus_UV_Bus_BaseColor798B4DAD4B517322021E95B464A9FDE2.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Bus/Bus_UV_Bus_BaseColor.uasset'
+[2022.04.14-18.46.22:614][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Bus_UV_Bus_NormalAB4B812D4D016EF79C45D5A2473F824B.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Bus/Bus_UV_Bus_Normal.uasset'
+[2022.04.14-18.46.22:803][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Bus_UV_Bus_OcclusionRoughnessMetCA6928424B45F7A5EACCCD9FB0874A26.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Bus/Bus_UV_Bus_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.46.22:922][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Bus_UV_Damaged_Metal_BaseColor3EDD0554467FE83A82D097B8A3527490.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Bus/Bus_UV_Damaged_Metal_BaseColor.uasset'
+[2022.04.14-18.46.23:075][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Bus_UV_Damaged_Metal_NormalD7E7A85647E26FC889DAF498123630AB.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Bus/Bus_UV_Damaged_Metal_Normal.uasset'
+[2022.04.14-18.46.23:210][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Bus_UV_Damaged_Metal_OcclusionRo2FDB239C456DA808D0DADC81AB44F826.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Bus/Bus_UV_Damaged_Metal_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.46.23:277][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Bus_UV_Front_Bumper_BaseColorB8191DB24B21D87CA6B3D4A966F83259.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Bus/Bus_UV_Front_Bumper_BaseColor.uasset'
+[2022.04.14-18.46.23:346][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Bus_UV_Front_Bumper_NormalF12B993440C362D40ECB25A41C0BFFE5.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Bus/Bus_UV_Front_Bumper_Normal.uasset'
+[2022.04.14-18.46.23:413][933]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Bus_UV_Front_Bumper_OcclusionRouE8CCF1D942427A199B7170B279C0FAB4.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Bus/Bus_UV_Front_Bumper_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.46.23:425][933]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Bus/Bus_UV_Bars_BaseColor.Bus_UV_Bars_BaseColor
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Bus/Bus_UV_Bars_Normal.Bus_UV_Bars_Normal
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Bus/Bus_UV_Bars_OcclusionRoughnessMetallic.Bus_UV_Bars_OcclusionRoughnessMetallic
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Bus/Bus_UV_Bus_BaseColor.Bus_UV_Bus_BaseColor
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Bus/Bus_UV_Bus_Normal.Bus_UV_Bus_Normal
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Bus/Bus_UV_Bus_OcclusionRoughnessMetallic.Bus_UV_Bus_OcclusionRoughnessMetallic
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Bus/Bus_UV_Damaged_Metal_BaseColor.Bus_UV_Damaged_Metal_BaseColor
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Bus/Bus_UV_Damaged_Metal_Normal.Bus_UV_Damaged_Metal_Normal
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Bus/Bus_UV_Damaged_Metal_OcclusionRoughnessMetallic.Bus_UV_Damaged_Metal_OcclusionRoughnessMetallic
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Bus/Bus_UV_Front_Bumper_BaseColor.Bus_UV_Front_Bumper_BaseColor
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Bus/Bus_UV_Front_Bumper_Normal.Bus_UV_Front_Bumper_Normal
+[2022.04.14-18.46.23:425][933]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Bus/Bus_UV_Front_Bumper_OcclusionRoughnessMetallic.Bus_UV_Front_Bumper_OcclusionRoughnessMetallic
