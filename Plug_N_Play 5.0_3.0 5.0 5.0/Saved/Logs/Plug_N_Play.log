@@ -1324,3 +1324,25 @@ Are you sure?
 [2022.04.14-20.35.08:425][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
 [2022.04.14-20.35.08:442][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
 [2022.04.14-20.35.08:450][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.04.14-20.35.35:119][ 65]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Enemy Bot\New folder\EnemyBot_Final_M_Bot_ArmJoints_BaseColor.png)
+[2022.04.14-20.35.35:151][ 65]LogTexture: Display: Building textures: EnemyBot_Final_M_Bot_ArmJoints_BaseColor (AutoDXT, 1024X1024)
+[2022.04.14-20.35.35:151][ 65]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Enemy Bot\New folder\EnemyBot_Final_M_Bot_ArmJoints_Normal.png)
+[2022.04.14-20.35.35:210][ 65]LogTexture: Display: Building textures: EnemyBot_Final_M_Bot_ArmJoints_Normal (BC5, 1024X1024)
+[2022.04.14-20.35.35:210][ 65]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Enemy Bot\New folder\EnemyBot_Final_M_Bot_ArmJoints_OcclusionRoughnessMetallic.png)
+[2022.04.14-20.35.35:259][ 65]LogTexture: Display: Building textures: EnemyBot_Final_M_Bot_ArmJoints_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.14-20.35.35:259][ 65]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Enemy Bot\New folder\EnemyBot_Final_M_Bot_Arms_BaseColor.png)
+[2022.04.14-20.35.35:306][ 65]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Enemy Bot\New folder\EnemyBot_Final_M_Bot_Arms_Normal.png)
+[2022.04.14-20.35.35:361][ 65]LogTexture: Display: Building textures: EnemyBot_Final_M_Bot_Arms_BaseColor (AutoDXT, 1024X1024)
+[2022.04.14-20.35.35:428][ 65]LogTexture: Display: Building textures: EnemyBot_Final_M_Bot_Arms_Normal (BC5, 1024X1024)
+[2022.04.14-20.35.38:525][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.04.14-20.35.38:630][189]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/EnemyBot_Final_M_Bot_ArmJoints_B5B4F8A7E4551EDC307ECC28E6D04C146.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Enemy_Model/EnemyBot_Final_M_Bot_ArmJoints_BaseColor.uasset'
+[2022.04.14-20.35.38:689][189]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/EnemyBot_Final_M_Bot_ArmJoints_N496EFB514D8AC59FE6440E9F26EF96FE.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Enemy_Model/EnemyBot_Final_M_Bot_ArmJoints_Normal.uasset'
+[2022.04.14-20.35.38:753][189]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/EnemyBot_Final_M_Bot_ArmJoints_O3191383B489F8135BFAC21AE93A78046.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Enemy_Model/EnemyBot_Final_M_Bot_ArmJoints_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-20.35.38:818][189]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/EnemyBot_Final_M_Bot_Arms_BaseCoA92EE05F483D3FB9FA5434AF6A0C984D.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Enemy_Model/EnemyBot_Final_M_Bot_Arms_BaseColor.uasset'
+[2022.04.14-20.35.38:906][189]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/EnemyBot_Final_M_Bot_Arms_Normal3F3222DF48890F189F8B06BACC8E5BC7.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Enemy_Model/EnemyBot_Final_M_Bot_Arms_Normal.uasset'
+[2022.04.14-20.35.38:917][189]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-20.35.38:918][189]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Enemy_Model/EnemyBot_Final_M_Bot_Arms_Normal.EnemyBot_Final_M_Bot_Arms_Normal
+[2022.04.14-20.35.38:918][189]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Enemy_Model/EnemyBot_Final_M_Bot_Arms_BaseColor.EnemyBot_Final_M_Bot_Arms_BaseColor
+[2022.04.14-20.35.38:918][189]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Enemy_Model/EnemyBot_Final_M_Bot_ArmJoints_Normal.EnemyBot_Final_M_Bot_ArmJoints_Normal
+[2022.04.14-20.35.38:918][189]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Enemy_Model/EnemyBot_Final_M_Bot_ArmJoints_OcclusionRoughnessMetallic.EnemyBot_Final_M_Bot_ArmJoints_OcclusionRoughnessMetallic
+[2022.04.14-20.35.38:918][189]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Enemy_Model/EnemyBot_Final_M_Bot_ArmJoints_BaseColor.EnemyBot_Final_M_Bot_ArmJoints_BaseColor
