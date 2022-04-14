@@ -1977,3 +1977,85 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_RustyMetal_BaseColor.MT_ShipCDoorV2_UV_RustyMetal_BaseColor
 [2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_PaintedMetalT2_OcclusionRoughnessMetallic.MT_ShipCDoorV2_UV_PaintedMetalT2_OcclusionRoughnessMetallic
 [2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_PaintedMetalT2_Normal.MT_ShipCDoorV2_UV_PaintedMetalT2_Normal
+[2022.04.14-18.32.08:066][608]LogSlate: Window 'M_Rebar' being destroyed
+[2022.04.14-18.32.26:229][246]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.32.26:229][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.32.27:033][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.04.14-18.32.27:095][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.04.14-18.32.27:111][288]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.32.27:112][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.35.11:110][305]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Generator.Generator
+[2022.04.14-18.36.21:541][153]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.14-18.36.21:565][153]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.14-18.36.24:039][449]LogContentBrowser: Attempting asset rename: NewFolder -> Generator
+[2022.04.14-18.36.24:040][449]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.14-18.36.44:651][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Eletric_Panel_Normal.png)
+[2022.04.14-18.36.44:701][895]LogTexture: Display: Building textures: Generator_reUV_Eletric_Panel_Normal (BC5, 1024X1024)
+[2022.04.14-18.36.44:701][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Eletric_Panel_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.36.44:769][895]LogTexture: Display: Building textures: Generator_reUV_Eletric_Panel_OcclusionRoughnessMetallic (BC5, 1024X1024)
+[2022.04.14-18.36.44:769][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Generator_Sides_BaseColor.png)
+[2022.04.14-18.36.44:908][895]LogTexture: Display: Building textures: Generator_reUV_Generator_Sides_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.36.44:918][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Generator_Sides_Normal.png)
+[2022.04.14-18.36.45:053][895]LogTexture: Display: Building textures: Generator_reUV_Generator_Sides_Normal (BC5, 2048X2048)
+[2022.04.14-18.36.45:054][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Generator_Sides_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.36.45:275][895]LogTexture: Display: Building textures: Generator_reUV_Generator_Sides_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.14-18.36.45:290][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_GeneratorBase_BaseColor.png)
+[2022.04.14-18.36.45:442][895]LogTexture: Display: Building textures: Generator_reUV_GeneratorBase_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.36.45:457][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_GeneratorBase_Normal.png)
+[2022.04.14-18.36.45:624][895]LogTexture: Display: Building textures: Generator_reUV_GeneratorBase_Normal (BC5, 2048X2048)
+[2022.04.14-18.36.45:639][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_GeneratorBase_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.36.45:765][895]LogTexture: Display: Building textures: Generator_reUV_GeneratorBase_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.14-18.36.45:765][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_PanelLabels_BaseColor.png)
+[2022.04.14-18.36.45:798][895]LogTexture: Display: Building textures: Generator_reUV_PanelLabels_BaseColor (AutoDXT, 1024X1024)
+[2022.04.14-18.36.45:798][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_PanelLabels_Normal.png)
+[2022.04.14-18.36.45:898][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_PanelLabels_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.36.45:923][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_PanelScrews_BaseColor.png)
+[2022.04.14-18.36.45:937][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_PanelScrews_Normal.png)
+[2022.04.14-18.36.45:965][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_PanelScrews_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.36.45:978][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_PLugs_BaseColor.png)
+[2022.04.14-18.36.45:995][895]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Generator\Generator reUV_Eletric_Panel_BaseColor.png)
+[2022.04.14-18.36.46:018][895]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2022.04.14-18.36.46:076][895]LogTexture: Display: Building textures: Generator_reUV_PanelLabels_Normal (BC5, 1024X1024)
+[2022.04.14-18.36.46:076][895]LogTexture: Display: Building textures: Generator_reUV_PanelLabels_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.14-18.36.46:076][895]LogTexture: Display: Building textures: Generator_reUV_PanelScrews_BaseColor (AutoDXT, 512X512)
+[2022.04.14-18.36.46:192][895]LogTexture: Display: Building textures: Generator_reUV_PanelScrews_Normal (BC5, 512X512)
+[2022.04.14-18.36.46:192][895]LogTexture: Display: Building textures: Generator_reUV_PanelScrews_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2022.04.14-18.36.46:192][895]LogTexture: Display: Building textures: Generator_reUV_PLugs_BaseColor (AutoDXT, 512X512)
+[2022.04.14-18.36.46:192][895]LogTexture: Display: Building textures: Generator_reUV_Eletric_Panel_BaseColor (AutoDXT, 1024X1024)
+[2022.04.14-18.36.51:891][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.04.14-18.36.51:963][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Rebar" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Rebar.uasset" SILENT=true
+[2022.04.14-18.36.51:968][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_RebarAF4406484BA9481F06E631BD0B30685E.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Rebar.uasset'
+[2022.04.14-18.36.52:016][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Eletric_Panel_NorE0ADC35540294A248ECFCDB7F8B8C1BC.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Eletric_Panel_Normal.uasset'
+[2022.04.14-18.36.52:075][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Eletric_Panel_OccFF5E13D44988E9FC2F32E49FE71565BD.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Eletric_Panel_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.36.52:190][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Generator_Sides_B219A0611419873672183B48C896A6A35.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Generator_Sides_BaseColor.uasset'
+[2022.04.14-18.36.52:297][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Generator_Sides_NCD57027C43D33145D20C029FBB035DB6.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Generator_Sides_Normal.uasset'
+[2022.04.14-18.36.52:410][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Generator_Sides_OD107C2964789A617067E829D5D7C6075.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Generator_Sides_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.36.52:540][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_GeneratorBase_BasA06115EF4EA3AA1C82434D97C8CAF764.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_GeneratorBase_BaseColor.uasset'
+[2022.04.14-18.36.52:727][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_GeneratorBase_Nor8D6C080448522374759E148994F66F4D.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_GeneratorBase_Normal.uasset'
+[2022.04.14-18.36.52:898][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_GeneratorBase_Occ7BD8604D4EAC3948812B57B76DB05C80.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_GeneratorBase_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.36.52:929][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_PanelLabels_BaseCB0AA827341F4610CAD7934A927DD4911.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_PanelLabels_BaseColor.uasset'
+[2022.04.14-18.36.52:952][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_PanelLabels_NormaC64EC8B243FA56B33BC4C7916911B1A4.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_PanelLabels_Normal.uasset'
+[2022.04.14-18.36.52:979][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_PanelLabels_Occlu4CE631EE45F54E98B1BF91B6ADDD6B27.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_PanelLabels_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.36.52:988][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_PanelScrews_BaseC5A4D553E4860A3EDF31FD2861ED0A41E.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_PanelScrews_BaseColor.uasset'
+[2022.04.14-18.36.52:997][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_PanelScrews_Norma2E9E34CF4739FA076251638FFB92A03F.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_PanelScrews_Normal.uasset'
+[2022.04.14-18.36.53:006][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_PanelScrews_Occlu34ECAD26423F3624FDBD4D954DDAC4A9.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_PanelScrews_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.36.53:030][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_PLugs_BaseColor4D6C1AC14246B005DEC5A0AA2B2CE069.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_PLugs_BaseColor.uasset'
+[2022.04.14-18.36.53:064][186]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Generator_reUV_Eletric_Panel_Bas68D29B5343916A0A259F3686E37C3A10.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Generator/Generator_reUV_Eletric_Panel_BaseColor.uasset'
+[2022.04.14-18.36.53:080][186]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Rebar.M_Rebar
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Eletric_Panel_BaseColor.Generator_reUV_Eletric_Panel_BaseColor
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_PLugs_BaseColor.Generator_reUV_PLugs_BaseColor
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_PanelScrews_OcclusionRoughnessMetallic.Generator_reUV_PanelScrews_OcclusionRoughnessMetallic
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_PanelScrews_Normal.Generator_reUV_PanelScrews_Normal
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_PanelScrews_BaseColor.Generator_reUV_PanelScrews_BaseColor
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_PanelLabels_OcclusionRoughnessMetallic.Generator_reUV_PanelLabels_OcclusionRoughnessMetallic
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_PanelLabels_Normal.Generator_reUV_PanelLabels_Normal
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_PanelLabels_BaseColor.Generator_reUV_PanelLabels_BaseColor
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_GeneratorBase_OcclusionRoughnessMetallic.Generator_reUV_GeneratorBase_OcclusionRoughnessMetallic
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_GeneratorBase_Normal.Generator_reUV_GeneratorBase_Normal
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_GeneratorBase_BaseColor.Generator_reUV_GeneratorBase_BaseColor
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Generator_Sides_OcclusionRoughnessMetallic.Generator_reUV_Generator_Sides_OcclusionRoughnessMetallic
+[2022.04.14-18.36.53:080][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Generator_Sides_Normal.Generator_reUV_Generator_Sides_Normal
+[2022.04.14-18.36.53:081][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Generator_Sides_BaseColor.Generator_reUV_Generator_Sides_BaseColor
+[2022.04.14-18.36.53:081][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Eletric_Panel_OcclusionRoughnessMetallic.Generator_reUV_Eletric_Panel_OcclusionRoughnessMetallic
+[2022.04.14-18.36.53:081][186]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Generator/Generator_reUV_Eletric_Panel_Normal.Generator_reUV_Eletric_Panel_Normal
