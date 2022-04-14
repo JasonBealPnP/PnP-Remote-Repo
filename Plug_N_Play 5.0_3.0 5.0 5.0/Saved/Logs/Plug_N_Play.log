@@ -1765,3 +1765,215 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.04.14-18.25.13:184][989]LogSlate: Window 'MT_ShipCDoorV2_UV' being destroyed
 [2022.04.14-18.25.20:033][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
 [2022.04.14-18.25.34:249][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.04.14-18.26.21:507][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Shipping Containers\Right Door\MT_ShipCDoorV2 UV_PaintedMetalT2_BaseColor.png)
+[2022.04.14-18.26.21:654][  7]LogTexture: Display: Building textures: MT_ShipCDoorV2_UV_PaintedMetalT2_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.26.21:654][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Shipping Containers\Right Door\MT_ShipCDoorV2 UV_PaintedMetalT2_Normal.png)
+[2022.04.14-18.26.21:805][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Shipping Containers\Right Door\MT_ShipCDoorV2 UV_PaintedMetalT2_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.26.21:956][  7]LogTexture: Display: Building textures: MT_ShipCDoorV2_UV_PaintedMetalT2_Normal (BC5, 2048X2048)
+[2022.04.14-18.26.21:956][  7]LogTexture: Display: Building textures: MT_ShipCDoorV2_UV_PaintedMetalT2_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.14-18.26.21:956][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Shipping Containers\Right Door\MT_ShipCDoorV2 UV_RustyMetal_BaseColor.png)
+[2022.04.14-18.26.22:050][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Shipping Containers\Right Door\MT_ShipCDoorV2 UV_RustyMetal_Normal.png)
+[2022.04.14-18.26.22:100][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Shipping Containers\Right Door\MT_ShipCDoorV2 UV_RustyMetal_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.26.22:152][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Shipping Containers\Right Door\MT_ShipCDoorV2 UV_WhitePaintedMetal_BaseColor.png)
+[2022.04.14-18.26.22:294][  7]LogTexture: Display: Building textures: MT_ShipCDoorV2_UV_RustyMetal_BaseColor (AutoDXT, 1024X1024)
+[2022.04.14-18.26.22:294][  7]LogTexture: Display: Building textures: MT_ShipCDoorV2_UV_RustyMetal_Normal (BC5, 1024X1024)
+[2022.04.14-18.26.22:294][  7]LogTexture: Display: Building textures: MT_ShipCDoorV2_UV_RustyMetal_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.14-18.26.22:348][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Shipping Containers\Right Door\MT_ShipCDoorV2 UV_WhitePaintedMetal_Normal.png)
+[2022.04.14-18.26.22:445][  7]LogTexture: Display: Building textures: MT_ShipCDoorV2_UV_WhitePaintedMetal_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.26.22:456][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Shipping Containers\Right Door\MT_ShipCDoorV2 UV_WhitePaintedMetal_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.26.22:662][  7]LogTexture: Display: Building textures: MT_ShipCDoorV2_UV_WhitePaintedMetal_Normal (BC5, 2048X2048)
+[2022.04.14-18.26.22:662][  7]LogTexture: Display: Building textures: MT_ShipCDoorV2_UV_WhitePaintedMetal_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.14-18.26.22:665][  7]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(207)].
+[2022.04.14-18.27.05:351][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.04.14-18.27.05:362][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.04.14-18.27.05:368][992]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ShippingDoorRight_PaintedMetal916709DE4FB4153CECFF5692D3F14EF0.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_ShippingDoorRight_PaintedMetalT2.uasset'
+[2022.04.14-18.27.05:378][992]AssetCheck: New page: Asset Save: M_ShippingDoorRight_PaintedMetalT2
+[2022.04.14-18.27.05:378][992]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_ShippingDoorRight_PaintedMetalT2.M_ShippingDoorRight_PaintedMetalT2
+[2022.04.14-18.27.06:429][100]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.27.06:430][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.27.15:087][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.04.14-18.27.15:099][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.14-18.27.15:106][ 37]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ShippingDoorRight_RustyMetalF3C06F7945A6A3E8C988AF88913684B1.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_ShippingDoorRight_RustyMetal.uasset'
+[2022.04.14-18.27.15:115][ 37]AssetCheck: New page: Asset Save: M_ShippingDoorRight_RustyMetal
+[2022.04.14-18.27.15:115][ 37]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_ShippingDoorRight_RustyMetal.M_ShippingDoorRight_RustyMetal
+[2022.04.14-18.27.16:574][201]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.27.16:574][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.27.24:602][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.04.14-18.27.24:613][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.04.14-18.27.24:620][ 48]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ShippingDoorRight_WhitePaintedFC79B86F4FCDA273051EE4A234ADC88F.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_ShippingDoorRight_WhitePaintedMetal.uasset'
+[2022.04.14-18.27.24:628][ 48]AssetCheck: New page: Asset Save: M_ShippingDoorRight_WhitePaintedMetal
+[2022.04.14-18.27.24:628][ 48]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_ShippingDoorRight_WhitePaintedMetal.M_ShippingDoorRight_WhitePaintedMetal
+[2022.04.14-18.27.25:639][160]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.27.25:639][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.27.28:872][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/MT_ShipCDoorV2_UV" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Meshes/MT_ShipCDoorV2_UV.uasset" SILENT=true
+[2022.04.14-18.27.28:893][535]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCDoorV2_UVC1E157E5476A331EB96EF1A0493C6818.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Meshes/MT_ShipCDoorV2_UV.uasset'
+[2022.04.14-18.27.28:902][535]AssetCheck: New page: Asset Save: MT_ShipCDoorV2_UV
+[2022.04.14-18.27.28:902][535]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/MT_ShipCDoorV2_UV.MT_ShipCDoorV2_UV
+[2022.04.14-18.27.31:617][848]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.27.31:617][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.27.54:256][224]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.04.14-18.27.54:256][224]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.04.14-18.28.04:490][188]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Plug n Play\Models\MT_ShipCBack.fbx)
+[2022.04.14-18.28.04:496][188]LogFbx: Loading FBX Scene from F:\Plug n Play\Models\MT_ShipCBack.fbx
+[2022.04.14-18.28.04:501][188]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.14-18.28.07:800][188]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.14-18.28.07:819][188]LogFbx: Display: Triangulating static mesh MT_ShipCV8
+[2022.04.14-18.28.07:825][188]LogStaticMesh: Display: Building static mesh MT_ShipCBack...
+[2022.04.14-18.28.07:828][188]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/MT_ShipCBack.MT_ShipCBack
+[2022.04.14-18.28.25:355][ 52]LogContentBrowser: Attempting asset rename: PaintedMetal1 -> M_ShippingContainerBackWall
+[2022.04.14-18.28.25:469][ 52]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ShippingContainerBackWall2E3880B44E23549ED20A06A6CC982A39.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Meshes/M_ShippingContainerBackWall.uasset'
+[2022.04.14-18.28.25:600][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.04.14-18.28.25:617][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.04.14-18.28.25:624][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.04.14-18.28.25:628][ 52]AssetCheck: New page: Asset Save: M_ShippingContainerBackWall
+[2022.04.14-18.28.25:628][ 52]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/M_ShippingContainerBackWall.M_ShippingContainerBackWall
+[2022.04.14-18.28.34:209][688]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ShippingContainerBackWall6488261E4E0B34C1163A64B131489A1C.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_ShippingContainerBackWall.uasset'
+[2022.04.14-18.28.34:331][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.14-18.28.34:345][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.04.14-18.28.34:353][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.14-18.28.34:377][688]AssetCheck: New page: Asset Save: M_ShippingContainerBackWall
+[2022.04.14-18.28.34:377][688]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_ShippingContainerBackWall.M_ShippingContainerBackWall
+[2022.04.14-18.28.40:142][990]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/M_ShippingContainerBackWall.M_ShippingContainerBackWall
+[2022.04.14-18.28.42:684][132]LogSlate: Window 'M_ShippingContainerBackWall' being destroyed
+[2022.04.14-18.28.52:964][245]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.14-18.28.52:993][245]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.14-18.28.56:398][652]LogContentBrowser: Attempting asset rename: NewFolder -> BackWall
+[2022.04.14-18.28.56:398][652]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.14-18.29.17:332][341]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Shipping Containers\Back Wall\MT_ShipCBack_PaintedMetal1_BaseColor.png)
+[2022.04.14-18.29.17:435][341]LogTexture: Display: Building textures: MT_ShipCBack_PaintedMetal1_BaseColor (AutoDXT, 2048X2048)
+[2022.04.14-18.29.17:435][341]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Shipping Containers\Back Wall\MT_ShipCBack_PaintedMetal1_Normal.png)
+[2022.04.14-18.29.17:580][341]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\Textures\Model Textures\Shipping Containers\Back Wall\MT_ShipCBack_PaintedMetal1_OcclusionRoughnessMetallic.png)
+[2022.04.14-18.29.17:705][341]LogTexture: Display: Building textures: MT_ShipCBack_PaintedMetal1_Normal (BC5, 2048X2048)
+[2022.04.14-18.29.17:705][341]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2022.04.14-18.29.17:730][341]LogTexture: Display: Building textures: MT_ShipCBack_PaintedMetal1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.14-18.29.28:252][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.04.14-18.29.28:263][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.14-18.29.28:270][331]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ShippingContainerBackWallC1B05ED646E8544C079519A43EB40BC9.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_ShippingContainerBackWall.uasset'
+[2022.04.14-18.29.28:280][331]AssetCheck: New page: Asset Save: M_ShippingContainerBackWall
+[2022.04.14-18.29.28:280][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_ShippingContainerBackWall.M_ShippingContainerBackWall
+[2022.04.14-18.29.29:253][430]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.29.29:253][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.29.47:129][399]LogContentBrowser: Attempting asset rename: MT_ShipCBack -> MT_ShipCBackWall
+[2022.04.14-18.29.47:195][399]LogMetaData: Removing '/Game/Meshes/MT_ShipCBackWall.MT_ShipCBackWall' ref from Metadata '/Game/Meshes/MT_ShipCBack.PackageMetaData'
+[2022.04.14-18.29.47:251][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/MT_ShipCBackWall" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Meshes/MT_ShipCBackWall.uasset" SILENT=true
+[2022.04.14-18.29.47:259][399]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCBackWall357DBADF4D0C9FE8CE62EEB80DFA3F62.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Meshes/MT_ShipCBackWall.uasset'
+[2022.04.14-18.29.47:386][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.04.14-18.29.47:403][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.04.14-18.29.47:410][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.14-18.29.47:414][399]AssetCheck: New page: Asset Save: MT_ShipCBackWall
+[2022.04.14-18.29.47:414][399]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/MT_ShipCBackWall.MT_ShipCBackWall
+[2022.04.14-18.29.52:834][687]LogActorFactory: Actor Factory created MT_ShippingContainerV1_UV
+[2022.04.14-18.29.52:835][687]LogActorFactory: Actor Factory created MT_ShippingContainerV1_UV
+[2022.04.14-18.29.53:663][738]LogActorFactory: Actor Factory created MT_ShippingContainerV1_UV
+[2022.04.14-18.29.53:663][738]LogActorFactory: Actor Factory created MT_ShippingContainerV1_UV
+[2022.04.14-18.30.00:345][184]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.14-18.30.00:355][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.14-18.30.00:359][184]PIE: New page: PIE session: FirstPersonExampleMap (Apr 14, 2022, 10:30:00 AM)
+[2022.04.14-18.30.00:361][184]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.14-18.30.00:362][184]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.14-18.30.00:363][184]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.14-18.30.00:439][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076949s)
+[2022.04.14-18.30.00:441][184]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.14-18.30.00:441][184]LogPlayLevel: PIE: World Init took: (0.002128s)
+[2022.04.14-18.30.00:442][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.079480s)
+[2022.04.14-18.30.00:454][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.04.14-18.30.00:457][184]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.14-18.30.00:457][184]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.14-18.30.00:457][184]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.14-18.30.00:457][184]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.14-18.30.00:457][184]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.14-18.30.00:457][184]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.14-18.30.00:457][184]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.14-18.30.00:457][184]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.14-18.30.00:457][184]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.14-18.30.00:458][184]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.14-18.30.00:458][184]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.14-18.30.00:460][184]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.14-18.30.00:460][184]LogAudioMixer: Display: 1: FrontRight
+[2022.04.14-18.30.00:468][184]LogAudioMixer: Display: Using Audio Device DELL P2715Q (NVIDIA High Definition Audio)
+[2022.04.14-18.30.00:468][184]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.14-18.30.00:468][184]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.14-18.30.00:469][184]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.14-18.30.00:469][184]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.14-18.30.00:469][184]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.14-18.30.00:470][184]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.14-18.30.00:470][184]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.14-18.30.00:470][184]LogInit: FAudioDevice initialized.
+[2022.04.14-18.30.00:470][184]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.04.14-18.30.00:481][184]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.14-18.30.00:497][184]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.14-14.30.00
+[2022.04.14-18.30.00:500][184]LogWorld: Bringing up level for play took: 0.019133
+[2022.04.14-18.30.00:501][184]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.04.14-18.30.00:519][184]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.04.14-18.30.00:524][184]PIE: Server logged in
+[2022.04.14-18.30.00:525][184]PIE: Play in editor total start time 0.175 seconds.
+[2022.04.14-18.30.04:492][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-18.30.04:492][412]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.14-18.30.04:493][412]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.30.04:495][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.30.04:500][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.14-18.30.04:515][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.30.04:523][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.14-18.30.04:524][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-18.30.04:525][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.14-18.30.04:527][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.14-18.30.04:536][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.04.14-18.30.04:544][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.14-18.30.04:593][413]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.04.14-18.30.08:106][611]Cmd: DELETE
+[2022.04.14-18.30.08:106][611]Cmd: ACTOR DELETE
+[2022.04.14-18.30.08:117][611]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.14-18.30.08:125][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.14-18.30.08:127][611]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.04.14-18.30.34:781][167]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/RebarLowPoly.RebarLowPoly
+[2022.04.14-18.30.36:396][224]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/lambert2.lambert2
+[2022.04.14-18.30.39:017][330]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.04.14-18.30.39:017][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.14-18.31.04:494][440]LogContentBrowser: Attempting asset rename: lambert2 -> M_Rebar
+[2022.04.14-18.31.04:632][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/RebarLowPoly" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Meshes/RebarLowPoly.uasset" SILENT=true
+[2022.04.14-18.31.04:635][440]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/RebarLowPolyFB8B603C494634E6FE1B388A4673438D.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Meshes/RebarLowPoly.uasset'
+[2022.04.14-18.31.04:644][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Rebar" FILE="../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Rebar.uasset" SILENT=true
+[2022.04.14-18.31.04:649][440]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Rebar7B53439046EAA010391CCC81C600666F.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Rebar.uasset'
+[2022.04.14-18.31.04:773][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.04.14-18.31.04:789][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.04.14-18.31.04:796][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.14-18.31.04:800][440]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-18.31.04:800][440]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Rebar.M_Rebar
+[2022.04.14-18.31.04:800][440]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/RebarLowPoly.RebarLowPoly
+[2022.04.14-18.31.06:149][485]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/M_Rebar.M_Rebar
+[2022.04.14-18.31.09:691][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.14-18.31.09:756][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.14-18.31.09:985][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/FirstPersonExampleMap9877A0E04786AA215DD2B3908EAF3AAA.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.14-18.31.10:003][618]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.14-18.31.10:685][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/FirstPersonExampleMap_BuiltDataE265BEC246B001C2DD95539F1BFAE174.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.14-18.31.10:694][618]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.14-18.31.10:694][618]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.945
+[2022.04.14-18.31.10:868][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCDoorV2_UV_PaintedMetalT2E7C68CE54FFF6C3F365FA88DC640ED86.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_PaintedMetalT2_BaseColor.uasset'
+[2022.04.14-18.31.11:087][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCDoorV2_UV_PaintedMetalT2099B1293471C3B96D2CE219E9B837502.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_PaintedMetalT2_Normal.uasset'
+[2022.04.14-18.31.11:266][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCDoorV2_UV_PaintedMetalT21AAA904541542E3BAA207785B98ECDBF.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_PaintedMetalT2_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.31.11:327][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCDoorV2_UV_RustyMetal_Bas75EBAEF6416EA138EF8E7E8BF1AC4FC3.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_RustyMetal_BaseColor.uasset'
+[2022.04.14-18.31.11:395][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCDoorV2_UV_RustyMetal_Nor2AD09AE949AD4D4D20975B979A40B024.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_RustyMetal_Normal.uasset'
+[2022.04.14-18.31.11:461][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCDoorV2_UV_RustyMetal_Occ392C3E2D45261A48D3FEF7B4CAD8CE3D.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_RustyMetal_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.31.11:628][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCDoorV2_UV_WhitePaintedMe0FFF05A94F9195FDABCAF0855A0387BD.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_WhitePaintedMetal_BaseColor.uasset'
+[2022.04.14-18.31.11:693][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCDoorV2_UV_WhitePaintedMeFBE8075C4A484C92F00834831DF8B467.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_WhitePaintedMetal_Normal.uasset'
+[2022.04.14-18.31.11:856][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCDoorV2_UV_WhitePaintedMe0B2D4AB04D17ADCFA34E4AA737974A0F.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_WhitePaintedMetal_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.31.12:030][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCBack_PaintedMetal1_BaseC0EFFDBC5467AD610D0714BAAB2EACB45.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/ShippingContainers/BackWall/MT_ShipCBack_PaintedMetal1_BaseColor.uasset'
+[2022.04.14-18.31.12:253][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCBack_PaintedMetal1_Norma3FA66D10451E508746FA21BC3AC89492.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/ShippingContainers/BackWall/MT_ShipCBack_PaintedMetal1_Normal.uasset'
+[2022.04.14-18.31.12:419][618]LogSavePackage: Moving '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/MT_ShipCBack_PaintedMetal1_Occlu06517CCE47DC308BD3CE488DA91C511A.tmp' to '../../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/ShippingContainers/BackWall/MT_ShipCBack_PaintedMetal1_OcclusionRoughnessMetallic.uasset'
+[2022.04.14-18.31.12:432][618]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/BackWall/MT_ShipCBack_PaintedMetal1_OcclusionRoughnessMetallic.MT_ShipCBack_PaintedMetal1_OcclusionRoughnessMetallic
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/BackWall/MT_ShipCBack_PaintedMetal1_Normal.MT_ShipCBack_PaintedMetal1_Normal
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/BackWall/MT_ShipCBack_PaintedMetal1_BaseColor.MT_ShipCBack_PaintedMetal1_BaseColor
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_WhitePaintedMetal_OcclusionRoughnessMetallic.MT_ShipCDoorV2_UV_WhitePaintedMetal_OcclusionRoughnessMetallic
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_WhitePaintedMetal_Normal.MT_ShipCDoorV2_UV_WhitePaintedMetal_Normal
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_WhitePaintedMetal_BaseColor.MT_ShipCDoorV2_UV_WhitePaintedMetal_BaseColor
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_PaintedMetalT2_BaseColor.MT_ShipCDoorV2_UV_PaintedMetalT2_BaseColor
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_RustyMetal_OcclusionRoughnessMetallic.MT_ShipCDoorV2_UV_RustyMetal_OcclusionRoughnessMetallic
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_RustyMetal_Normal.MT_ShipCDoorV2_UV_RustyMetal_Normal
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_RustyMetal_BaseColor.MT_ShipCDoorV2_UV_RustyMetal_BaseColor
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_PaintedMetalT2_OcclusionRoughnessMetallic.MT_ShipCDoorV2_UV_PaintedMetalT2_OcclusionRoughnessMetallic
+[2022.04.14-18.31.12:432][618]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/ShippingContainers/RightDoor/MT_ShipCDoorV2_UV_PaintedMetalT2_Normal.MT_ShipCDoorV2_UV_PaintedMetalT2_Normal
