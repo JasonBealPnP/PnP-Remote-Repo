@@ -2398,3 +2398,688 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.04.20-06.25.38:164][ 29]LogContentValidation: Display: Validating Material /Game/Materials/Textures/SciFI_wall4Corner_Tex/M_Scificorner4_pipes.M_Scificorner4_pipes
 [2022.04.20-06.25.38:164][ 29]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/SciFI_wall4Corner_Tex/Jnix_SciFi_Wall4Corner_SciFi_WAll4Corner_OcclusionRoughnessMetallic.Jnix_SciFi_Wall4Corner_SciFi_WAll4Corner_OcclusionRoughnessMetallic
 [2022.04.20-06.25.38:164][ 29]LogContentValidation: Display: Validating Material /Game/Materials/Textures/SciFI_wall4Corner_Tex/M_SCifiCorner4.M_SCifiCorner4
+[2022.04.20-06.27.03:682][182]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Jnix_Scifi_WAll5.Jnix_Scifi_WAll5
+[2022.04.20-06.27.07:560][360]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5.M_ScifiWAll5
+[2022.04.20-06.27.07:562][360]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5 in PCD3D_SM5, Default, SM5 (DDC key hash: ABC748D39F71D271CD492A2C12942A82FD476954), compiling. 
+[2022.04.20-06.27.07:633][360]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5 in PCD3D_SM5, Default, SM5 (DDC key hash: 7059493E27F369503E31C830F51B8C57804DA740), compiling. 
+[2022.04.20-06.27.07:636][360]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5 in PCD3D_SM5, Default, SM5 (DDC key hash: 4E0539EB9A6DBF425404DCF274436E0FD01799A3), compiling. 
+[2022.04.20-06.27.07:639][360]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 881B96B5146489BE3C5CF52A5D3F4F552212FC2D), compiling. 
+[2022.04.20-06.27.07:640][360]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 7041F654A6992C082BD389EC3CF81D640D150AE9), compiling. 
+[2022.04.20-06.27.07:642][360]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 7AD0E94E1C88DFB9DFD138D7FE5B7E537A0BBC34), compiling. 
+[2022.04.20-06.27.07:665][360]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.27.07:665][360]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.27.07:665][360]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.27.07:665][360]MaterialEditorStats: 
+[2022.04.20-06.27.07:665][360]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.27.09:612][398]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5 in PCD3D_SM5, Default, SM5 (DDC key hash: C0E4E1D6AE1FA5B392B3F9522139D2B64CA78DF8), compiling. 
+[2022.04.20-06.27.11:352][440]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5 in PCD3D_SM5, Default, SM5 (DDC key hash: 43D0E1B396C18C29742CC8875805CD5F6B310B79), compiling. 
+[2022.04.20-06.27.11:356][440]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_ScifiWAll5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.27.11:356][440]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SciFIWall5_Tex/Tex2/Scifi_WAll5_Wall5_OcclusionRoughnessMetallic.Scifi_WAll5_Wall5_OcclusionRoughnessMetallic
+[2022.04.20-06.27.11:363][440]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 19C4A90DD6385BE4B4B6D4B2398BEE0C8C55E2C5), compiling. 
+[2022.04.20-06.27.11:368][440]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5 in PCD3D_SM5, Default, SM5 (DDC key hash: 57C9F7F720440685FE393D14C782CF01D1ABDBEA), compiling. 
+[2022.04.20-06.27.11:370][440]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_ScifiWAll5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.27.11:371][440]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SciFIWall5_Tex/Tex2/Scifi_WAll5_Wall5_OcclusionRoughnessMetallic.Scifi_WAll5_Wall5_OcclusionRoughnessMetallic
+[2022.04.20-06.27.11:387][440]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SciFIWall5_Tex/Tex2/Scifi_WAll5_Wall5_OcclusionRoughnessMetallic.Scifi_WAll5_Wall5_OcclusionRoughnessMetallic
+[2022.04.20-06.27.12:082][450]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Textures/SciFIWall5_Tex/Tex2/Scifi_WAll5_Wall5_OcclusionRoughnessMetallic.Scifi_WAll5_Wall5_OcclusionRoughnessMetallic
+[2022.04.20-06.27.13:334][475]LogMaterial: Display: Missing cached shadermap for M_ScifiWAll5 in PCD3D_SM5, Default, SM5 (DDC key hash: 9FA1E5B87749447A1C384D6B0BEF75837036F364), compiling. 
+[2022.04.20-06.27.13:336][475]LogMaterial: Warning: [AssetLog] C:\Users\James Nix\Desktop\GitKraken\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0\Content\Materials\Textures\SciFIWall5_Tex\M_ScifiWAll5.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.27.13:336][475]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Textures/SciFIWall5_Tex/Tex2/Scifi_WAll5_Wall5_OcclusionRoughnessMetallic.Scifi_WAll5_Wall5_OcclusionRoughnessMetallic
+[2022.04.20-06.27.13:339][475]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5 in PCD3D_SM5, Default, SM5 (DDC key hash: 48E03206D957DE1BBDE02AFB1FF2DAE066C631A9), compiling. 
+[2022.04.20-06.27.13:384][475]LogTexture: Display: Building textures: Scifi_WAll5_Wall5_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.20-06.27.13:384][475]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.27.13:384][475]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.27.13:384][475]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.27.13:384][475]MaterialEditorStats: 
+[2022.04.20-06.27.13:384][475]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.27.16:140][531]LogMaterialEditor: Applying material M_ScifiWAll5
+[2022.04.20-06.27.17:033][531]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5 in PCD3D_SM5, Default, SM5 (DDC key hash: 22043F5D961CE5431299C703965B3457BF00E429), compiling. 
+[2022.04.20-06.27.17:180][531]LogMaterial: Display: Missing cached shadermap for M_ScifiWAll5 in PCD3D_SM5, Default, SM5 (DDC key hash: C97AD113B5448DE83CE3982F9477C8905B23B235), compiling. 
+[2022.04.20-06.27.17:438][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.04.20-06.27.19:346][531]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2022.04.20-06.27.19:379][531]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.20-06.27.19:379][531]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.27.19:379][531]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.27.19:380][531]MaterialEditorStats: 
+[2022.04.20-06.27.19:380][531]MaterialEditorStats: Shader Count: 10
+[2022.04.20-06.27.21:694][568]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5_pipes.M_ScifiWAll5_pipes
+[2022.04.20-06.27.21:698][568]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 3A087032C34096139EB48B9E131C6D47BAB76ED8), compiling. 
+[2022.04.20-06.27.21:920][568]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: D56AB494EBBACCD96C68E9040D7CDAED3C807C67), compiling. 
+[2022.04.20-06.27.21:930][568]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 57D84B78E8542ECB5EC4F82BB9715C2059015679), compiling. 
+[2022.04.20-06.27.21:942][568]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B5313AC0BCBA52AE149BD9FFEA83B39BD2FF4136), compiling. 
+[2022.04.20-06.27.21:947][568]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D07769381F5E0655F2D8D8CE21CEFCC6186BA8F), compiling. 
+[2022.04.20-06.27.21:952][568]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 528F1CC601FC8254B4D2D1E2B50FC674EE47500D), compiling. 
+[2022.04.20-06.27.22:053][568]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.27.22:053][568]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.27.22:053][568]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.27.22:053][568]MaterialEditorStats: 
+[2022.04.20-06.27.22:053][568]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.27.24:265][603]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 2EEA26A1C64194C6D79EE35C6807F8212B531599), compiling. 
+[2022.04.20-06.27.25:116][623]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 4FCC65D0442A9EDB6CEE0A14226761DEE5871AB3), compiling. 
+[2022.04.20-06.27.25:118][623]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_ScifiWAll5_pipes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.27.25:118][623]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SciFIWall5_Tex/Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic.Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic
+[2022.04.20-06.27.25:125][623]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 22355A89FD79EE2738A734F8FFDC6E222DA2D5EC), compiling. 
+[2022.04.20-06.27.25:130][623]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: DB15DD31682570C79CF2B78FCB16879B0B2F0765), compiling. 
+[2022.04.20-06.27.25:132][623]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_ScifiWAll5_pipes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.27.25:132][623]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SciFIWall5_Tex/Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic.Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic
+[2022.04.20-06.27.25:143][623]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SciFIWall5_Tex/Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic.Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic
+[2022.04.20-06.27.26:259][637]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Textures/SciFIWall5_Tex/Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic.Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic
+[2022.04.20-06.27.26:600][638]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.20-06.27.26:601][638]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.27.26:601][638]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.27.26:601][638]MaterialEditorStats: 
+[2022.04.20-06.27.26:601][638]MaterialEditorStats: Shader Count: 18
+[2022.04.20-06.27.28:466][678]LogMaterial: Display: Missing cached shadermap for M_ScifiWAll5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: EBAECA159811BECB749D481587517337D276CD8A), compiling. 
+[2022.04.20-06.27.28:469][678]LogMaterial: Warning: [AssetLog] C:\Users\James Nix\Desktop\GitKraken\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0\Content\Materials\Textures\SciFIWall5_Tex\M_ScifiWAll5_pipes.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.27.28:469][678]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Textures/SciFIWall5_Tex/Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic.Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic
+[2022.04.20-06.27.31:519][749]LogMaterialEditor: Applying material M_ScifiWAll5_pipes
+[2022.04.20-06.27.38:148][749]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2022.04.20-06.27.38:599][749]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiWAll5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: FDF8F8183F3ADB69F52E7F1B6C177ABC368EB5D9), compiling. 
+[2022.04.20-06.27.38:650][749]LogMaterial: Display: Missing cached shadermap for M_ScifiWAll5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 17A1A22A5EB5B804B168685807A66EAE8C033C98), compiling. 
+[2022.04.20-06.27.38:771][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.04.20-06.27.44:375][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.04.20-06.27.44:389][749]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.04.20-06.27.44:389][749]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.04.20-06.27.44:389][749]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.20-06.27.44:389][749]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.20-06.27.44:389][749]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.27.44:389][749]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.27.44:389][749]MaterialEditorStats: 
+[2022.04.20-06.27.44:389][749]MaterialEditorStats: Shader Count: 30
+[2022.04.20-06.27.44:390][749]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.20-06.27.44:390][749]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.27.44:390][749]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.27.44:390][749]MaterialEditorStats: 
+[2022.04.20-06.27.44:390][749]MaterialEditorStats: Shader Count: 10
+[2022.04.20-06.27.45:849][777]LogSlate: Window 'Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.27.45:857][777]LogSlate: Window 'Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.27.46:002][777]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.27.46:003][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.27.46:118][777]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.27.46:118][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.27.46:286][777]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.27.46:286][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.27.49:702][853]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Jnix_SciFi_wall5_Corner.Jnix_SciFi_wall5_Corner
+[2022.04.20-06.27.52:131][892]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5.M_ScifiCorner5
+[2022.04.20-06.27.52:134][892]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5 in PCD3D_SM5, Default, SM5 (DDC key hash: 2B3EE5F8B35109F26D012476C3E9CC7024716030), compiling. 
+[2022.04.20-06.27.52:297][892]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5 in PCD3D_SM5, Default, SM5 (DDC key hash: D6F88CC4A0B123D63A084EB17E1C079B5B35FA45), compiling. 
+[2022.04.20-06.27.52:303][892]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5 in PCD3D_SM5, Default, SM5 (DDC key hash: AAADCCB4CB9AE5353DEC6209309DFF6D1CF5DD5A), compiling. 
+[2022.04.20-06.27.52:310][892]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F79268ADA9574C3DA3BCCB786DE2BC5EAD54F4AE), compiling. 
+[2022.04.20-06.27.52:312][892]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E9AE7008A483C97DD521E40713AB65E984AB61BB), compiling. 
+[2022.04.20-06.27.52:316][892]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 118A59465026E4D4B70CD3771CF4643016D2F160), compiling. 
+[2022.04.20-06.27.52:378][892]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.27.52:378][892]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.27.52:378][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.27.52:378][892]MaterialEditorStats: 
+[2022.04.20-06.27.52:378][892]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.27.54:842][928]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A640A1A6DCB463E067E34874940FF2D5A82CB2F), compiling. 
+[2022.04.20-06.27.55:797][950]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5 in PCD3D_SM5, Default, SM5 (DDC key hash: 2A3B71EEBA5A56AD7FC63E991FA003C9140CC8A7), compiling. 
+[2022.04.20-06.27.55:799][950]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_ScifiCorner5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.27.55:800][950]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic.SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic
+[2022.04.20-06.27.55:808][950]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: BC00FFA927FEFD9CE10DF39238CEF2489C13E141), compiling. 
+[2022.04.20-06.27.55:814][950]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5 in PCD3D_SM5, Default, SM5 (DDC key hash: D8FBD877D4515DE40B58216D2B99E656EA2D6908), compiling. 
+[2022.04.20-06.27.55:816][950]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_ScifiCorner5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.27.55:816][950]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic.SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic
+[2022.04.20-06.27.55:829][950]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic.SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic
+[2022.04.20-06.27.56:638][961]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic.SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic
+[2022.04.20-06.27.57:931][983]LogMaterial: Display: Missing cached shadermap for M_ScifiCorner5 in PCD3D_SM5, Default, SM5 (DDC key hash: 396C40ED395831EC11BCBA17221F4C3F02D020DD), compiling. 
+[2022.04.20-06.27.57:934][983]LogMaterial: Warning: [AssetLog] C:\Users\James Nix\Desktop\GitKraken\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0\Content\Materials\Textures\SCifiWall5_Corner_Tex\M_ScifiCorner5.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.27.57:934][983]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic.SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic
+[2022.04.20-06.27.57:938][983]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5 in PCD3D_SM5, Default, SM5 (DDC key hash: 9B87AB007DA6CBA04AB4B5F42AF1CC86219A50F9), compiling. 
+[2022.04.20-06.27.57:994][983]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.27.57:994][983]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.27.57:994][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.27.57:994][983]MaterialEditorStats: 
+[2022.04.20-06.27.57:994][983]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.28.00:499][ 27]LogMaterialEditor: Applying material M_ScifiCorner5
+[2022.04.20-06.28.01:487][ 27]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5 in PCD3D_SM5, Default, SM5 (DDC key hash: 82F6EB0E7C215BDE4A4D7AEBBA3682631211328D), compiling. 
+[2022.04.20-06.28.01:624][ 27]LogMaterial: Display: Missing cached shadermap for M_ScifiCorner5 in PCD3D_SM5, Default, SM5 (DDC key hash: 34862987D4CD648A93ADAAF7D4CE105A5BCE1CFB), compiling. 
+[2022.04.20-06.28.01:892][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2022.04.20-06.28.03:600][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2022.04.20-06.28.03:629][ 27]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.20-06.28.03:629][ 27]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.28.03:630][ 27]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.28.03:630][ 27]MaterialEditorStats: 
+[2022.04.20-06.28.03:630][ 27]MaterialEditorStats: Shader Count: 10
+[2022.04.20-06.28.04:683][ 39]LogSlate: Window 'SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.28.04:708][ 39]LogSlate: Window 'SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.28.04:889][ 39]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.28.04:889][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.28.05:012][ 39]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.28.05:013][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.28.06:732][ 53]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Jnix_SciFi_wall5_Corner.Jnix_SciFi_wall5_Corner
+[2022.04.20-06.28.09:235][ 79]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5_pipes.M_ScifiCorner5_pipes
+[2022.04.20-06.28.09:240][ 79]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: B5A49BBC64225402FA54298783D2C87B047B5127), compiling. 
+[2022.04.20-06.28.09:431][ 79]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: A5F353539B8F5206249E61B4A8B08D2ED969449F), compiling. 
+[2022.04.20-06.28.09:439][ 79]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: EFAD22E34395105A04517247E0E5C278F17C117C), compiling. 
+[2022.04.20-06.28.09:448][ 79]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 38EA777B57B6509E9653669A61A5DBEB76255D84), compiling. 
+[2022.04.20-06.28.09:453][ 79]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 378DC1A018D752F32BCD7F54A7E7527B5A22B74F), compiling. 
+[2022.04.20-06.28.09:458][ 79]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7B5C74044EFBF1642AFD175C42B564A35BBE3C37), compiling. 
+[2022.04.20-06.28.09:538][ 79]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.28.09:538][ 79]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.28.09:538][ 79]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.28.09:539][ 79]MaterialEditorStats: 
+[2022.04.20-06.28.09:539][ 79]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.28.12:876][133]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 16A8F62BCD8E2A682C9001FD713A7690DD81A609), compiling. 
+[2022.04.20-06.28.14:083][150]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.20-06.28.14:083][150]LogShaderCompilers: Display: Total job queries 2822, among them cache hits 399 (14.14%)
+[2022.04.20-06.28.14:083][150]LogShaderCompilers: Display: Tracking 1165 distinct input hashes that result in 65 distinct outputs (5.58%)
+[2022.04.20-06.28.14:083][150]LogShaderCompilers: Display: RAM used: 0.38 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2022.04.20-06.28.14:083][150]LogShaderCompilers: Display: ================================================
+[2022.04.20-06.28.15:200][168]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 4F5A778632A4CEF902D054279484E4E9626D9EDE), compiling. 
+[2022.04.20-06.28.15:204][168]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_ScifiCorner5_pipes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.28.15:204][168]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic.SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic
+[2022.04.20-06.28.15:213][168]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2535EF1A1DC06EF2A0F4AE7FAABFF45CB041FEDE), compiling. 
+[2022.04.20-06.28.15:220][168]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: FDD36DCAA9B1ABA480CBFACBEC5B6EC87A2E0FAC), compiling. 
+[2022.04.20-06.28.15:222][168]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_ScifiCorner5_pipes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.28.15:222][168]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic.SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic
+[2022.04.20-06.28.15:242][168]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic.SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic
+[2022.04.20-06.28.16:585][188]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic.SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic
+[2022.04.20-06.28.19:118][241]LogTexture: Display: Building textures: SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.20-06.28.19:133][241]LogMaterial: Display: Missing cached shadermap for M_ScifiCorner5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: E4E716E2AF0F8394A4A330893B967EA38A9E55C9), compiling. 
+[2022.04.20-06.28.19:134][241]LogMaterial: Warning: [AssetLog] C:\Users\James Nix\Desktop\GitKraken\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0\Content\Materials\Textures\SCifiWall5_Corner_Tex\M_ScifiCorner5_pipes.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.28.19:134][241]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic.SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic
+[2022.04.20-06.28.21:640][292]LogMaterialEditor: Applying material M_ScifiCorner5_pipes
+[2022.04.20-06.28.26:341][292]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2022.04.20-06.28.26:789][292]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiCorner5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: CD78489A7F743B584873998F359C2BE3EDFAF148), compiling. 
+[2022.04.20-06.28.26:842][292]LogMaterial: Display: Missing cached shadermap for M_ScifiCorner5_pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 2F929CB4AC33B469219083CCAFAD11953F4C47D9), compiling. 
+[2022.04.20-06.28.26:967][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.04.20-06.28.32:468][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.04.20-06.28.32:494][292]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.20-06.28.32:495][292]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.28.32:495][292]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.28.32:495][292]MaterialEditorStats: 
+[2022.04.20-06.28.32:495][292]MaterialEditorStats: Shader Count: 10
+[2022.04.20-06.28.34:795][332]LogSlate: Window 'SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.28.34:814][332]LogSlate: Window 'SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.28.35:014][332]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.28.35:014][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.28.35:107][332]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.28.35:108][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.28.37:724][382]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Jnix_SciFi_Wall6.Jnix_SciFi_Wall6
+[2022.04.20-06.28.40:100][419]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/SciFI_wall6_Tex/M_Scifiwall6.M_Scifiwall6
+[2022.04.20-06.28.40:105][419]LogMaterial: Display: Missing cached shadermap for Preview:M_Scifiwall6 in PCD3D_SM5, Default, SM5 (DDC key hash: B3835DEAE56EDBEC48AB44CA7B6E2C5726A52CEF), compiling. 
+[2022.04.20-06.28.40:318][419]LogMaterial: Display: Missing cached shadermap for Preview:M_Scifiwall6 in PCD3D_SM5, Default, SM5 (DDC key hash: A5FF0CC66FD458159C3A47ADB4FFACAAA283803B), compiling. 
+[2022.04.20-06.28.40:326][419]LogMaterial: Display: Missing cached shadermap for Preview:M_Scifiwall6 in PCD3D_SM5, Default, SM5 (DDC key hash: A9D0EB314D7C6ADA0972A1478C169D50D53CBA72), compiling. 
+[2022.04.20-06.28.40:339][419]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D86134756CD8124E039233533EA16638D778BBE), compiling. 
+[2022.04.20-06.28.40:344][419]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5FD61D1B8AB667730E8F7887018A99232C5DAACA), compiling. 
+[2022.04.20-06.28.40:350][419]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 68C63F4E8618E0F0A15762CCF4C2B66FD443A839), compiling. 
+[2022.04.20-06.28.40:432][419]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.28.40:432][419]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.28.40:432][419]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.28.40:432][419]MaterialEditorStats: 
+[2022.04.20-06.28.40:432][419]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.28.43:341][465]LogMaterial: Display: Missing cached shadermap for Preview:M_Scifiwall6 in PCD3D_SM5, Default, SM5 (DDC key hash: 1D1A5BAD208D5BB2731EAC1C196F4297B32D3ECA), compiling. 
+[2022.04.20-06.28.44:481][496]LogMaterial: Display: Missing cached shadermap for Preview:M_Scifiwall6 in PCD3D_SM5, Default, SM5 (DDC key hash: 94A3C6818D95F92A2FCEA026465A025E0789E5C9), compiling. 
+[2022.04.20-06.28.44:484][496]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Scifiwall6 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.28.44:485][496]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SciFI_wall6_Tex/SciFi_Wall6_lambert1_OcclusionRoughnessMetallic.SciFi_Wall6_lambert1_OcclusionRoughnessMetallic
+[2022.04.20-06.28.44:491][496]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: CC09C57F81C4033B3E9B87CD53AD5AE60200CFB8), compiling. 
+[2022.04.20-06.28.44:497][496]LogMaterial: Display: Missing cached shadermap for Preview:M_Scifiwall6 in PCD3D_SM5, Default, SM5 (DDC key hash: 17E280C95D6942BAF086862410A3F3BA28DC3856), compiling. 
+[2022.04.20-06.28.44:499][496]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Scifiwall6 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.28.44:499][496]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SciFI_wall6_Tex/SciFi_Wall6_lambert1_OcclusionRoughnessMetallic.SciFi_Wall6_lambert1_OcclusionRoughnessMetallic
+[2022.04.20-06.28.44:511][496]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SciFI_wall6_Tex/SciFi_Wall6_lambert1_OcclusionRoughnessMetallic.SciFi_Wall6_lambert1_OcclusionRoughnessMetallic
+[2022.04.20-06.28.45:270][505]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Textures/SciFI_wall6_Tex/SciFi_Wall6_lambert1_OcclusionRoughnessMetallic.SciFi_Wall6_lambert1_OcclusionRoughnessMetallic
+[2022.04.20-06.28.46:859][539]LogMaterial: Display: Missing cached shadermap for M_Scifiwall6 in PCD3D_SM5, Default, SM5 (DDC key hash: 2FE7AAA8C22E68EDABB7FB181314A1C014BA45CD), compiling. 
+[2022.04.20-06.28.46:861][539]LogMaterial: Warning: [AssetLog] C:\Users\James Nix\Desktop\GitKraken\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0\Content\Materials\Textures\SciFI_wall6_Tex\M_Scifiwall6.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.28.46:862][539]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Textures/SciFI_wall6_Tex/SciFi_Wall6_lambert1_OcclusionRoughnessMetallic.SciFi_Wall6_lambert1_OcclusionRoughnessMetallic
+[2022.04.20-06.28.46:866][539]LogMaterial: Display: Missing cached shadermap for Preview:M_Scifiwall6 in PCD3D_SM5, Default, SM5 (DDC key hash: 3A0F788FD753442B6D368504918571D9F98B83DB), compiling. 
+[2022.04.20-06.28.46:909][539]LogTexture: Display: Building textures: SciFi_Wall6_lambert1_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.20-06.28.46:909][539]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.28.46:909][539]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.28.46:909][539]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.28.46:909][539]MaterialEditorStats: 
+[2022.04.20-06.28.46:909][539]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.28.49:057][589]LogMaterialEditor: Applying material M_Scifiwall6
+[2022.04.20-06.28.49:956][589]LogMaterial: Display: Missing cached shadermap for Preview:M_Scifiwall6 in PCD3D_SM5, Default, SM5 (DDC key hash: CBB478667AFA4F31DB9812D1BF7B564C4C22BAE6), compiling. 
+[2022.04.20-06.28.50:087][589]LogMaterial: Display: Missing cached shadermap for M_Scifiwall6 in PCD3D_SM5, Default, SM5 (DDC key hash: 33D16D603EEB74DA00A2AC560691659F8E262A57), compiling. 
+[2022.04.20-06.28.50:327][589]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.04.20-06.28.53:454][589]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2022.04.20-06.28.53:485][589]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.20-06.28.53:485][589]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.28.53:485][589]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.28.53:485][589]MaterialEditorStats: 
+[2022.04.20-06.28.53:485][589]MaterialEditorStats: Shader Count: 6
+[2022.04.20-06.28.54:112][596]LogSlate: Window 'SciFi_Wall6_lambert1_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.28.54:129][596]LogSlate: Window 'SciFi_Wall6_lambert1_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.28.54:277][596]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.28.54:277][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.28.54:368][596]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.28.54:368][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.28.56:256][620]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Jnix_SciFiDoorWay3.Jnix_SciFiDoorWay3
+[2022.04.20-06.29.04:815][770]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/SciFi_Door2_TEx/M_ScifiDoorWay2.M_ScifiDoorWay2
+[2022.04.20-06.29.04:818][770]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiDoorWay2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6EBF8AE3FF3D823EE020AEEAD35763A6E75D60B5), compiling. 
+[2022.04.20-06.29.04:993][770]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiDoorWay2 in PCD3D_SM5, Default, SM5 (DDC key hash: 83C856555A9F920EFBBC28BB6CF63261F7060FFA), compiling. 
+[2022.04.20-06.29.04:999][770]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiDoorWay2 in PCD3D_SM5, Default, SM5 (DDC key hash: B93C24A212ED5AF9C6B6C017AF409C7E3677B9E3), compiling. 
+[2022.04.20-06.29.05:006][770]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 895D7C7D07B9E181DB4ED1203FB30361F06EFDAD), compiling. 
+[2022.04.20-06.29.05:010][770]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A19707DE39AF31EE80D939ECE76B9BD6DBE1168D), compiling. 
+[2022.04.20-06.29.05:014][770]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0BEAA9745E86F0C26335A96E0B433FA4B7D40974), compiling. 
+[2022.04.20-06.29.05:076][770]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.29.05:076][770]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.29.05:077][770]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.29.05:077][770]MaterialEditorStats: 
+[2022.04.20-06.29.05:077][770]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.29.07:165][804]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiDoorWay2 in PCD3D_SM5, Default, SM5 (DDC key hash: 57F422A4343C88CE5B7369E8DB1C434922BC3400), compiling. 
+[2022.04.20-06.29.08:081][828]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiDoorWay2 in PCD3D_SM5, Default, SM5 (DDC key hash: DD1128ED78512DA51F50A923C336E47E8D8BEB9C), compiling. 
+[2022.04.20-06.29.08:083][828]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_ScifiDoorWay2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.29.08:083][828]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SciFi_Door2_TEx/scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic.scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic
+[2022.04.20-06.29.08:090][828]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: CE31F4CEEC79CB99C699606571A7C057564A24E1), compiling. 
+[2022.04.20-06.29.08:095][828]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiDoorWay2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1519B15B1BC12A0C1B7A38C24C7CA1C010336777), compiling. 
+[2022.04.20-06.29.08:097][828]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_ScifiDoorWay2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.29.08:097][828]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SciFi_Door2_TEx/scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic.scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic
+[2022.04.20-06.29.08:108][828]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/SciFi_Door2_TEx/scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic.scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic
+[2022.04.20-06.29.08:866][838]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Textures/SciFi_Door2_TEx/scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic.scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic
+[2022.04.20-06.29.11:345][891]LogMaterial: Display: Missing cached shadermap for M_ScifiDoorWay2 in PCD3D_SM5, Default, SM5 (DDC key hash: FD2664FCC3A7610FE649107E40F2853D4332FEB4), compiling. 
+[2022.04.20-06.29.11:347][891]LogMaterial: Warning: [AssetLog] C:\Users\James Nix\Desktop\GitKraken\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0\Content\Materials\Textures\SciFi_Door2_TEx\M_ScifiDoorWay2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.29.11:347][891]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Textures/SciFi_Door2_TEx/scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic.scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic
+[2022.04.20-06.29.11:352][891]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiDoorWay2 in PCD3D_SM5, Default, SM5 (DDC key hash: F2CD1157F70952A186786C23B12420646C0C5C37), compiling. 
+[2022.04.20-06.29.11:401][891]LogTexture: Display: Building textures: scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2022.04.20-06.29.11:401][891]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.29.11:401][891]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.29.11:401][891]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.29.11:401][891]MaterialEditorStats: 
+[2022.04.20-06.29.11:401][891]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.29.15:183][962]LogMaterialEditor: Applying material M_ScifiDoorWay2
+[2022.04.20-06.29.16:099][962]LogMaterial: Display: Missing cached shadermap for Preview:M_ScifiDoorWay2 in PCD3D_SM5, Default, SM5 (DDC key hash: E7851D19CB0B3835D83D2B3E876FACDC607291FD), compiling. 
+[2022.04.20-06.29.16:220][962]LogMaterial: Display: Missing cached shadermap for M_ScifiDoorWay2 in PCD3D_SM5, Default, SM5 (DDC key hash: B34D39F48201A2B2488CF2C6A4391A21506DDDAF), compiling. 
+[2022.04.20-06.29.16:487][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.04.20-06.29.18:771][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2022.04.20-06.29.18:795][962]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.20-06.29.18:796][962]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.29.18:796][962]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.29.18:796][962]MaterialEditorStats: 
+[2022.04.20-06.29.18:796][962]MaterialEditorStats: Shader Count: 12
+[2022.04.20-06.29.21:103][986]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.20-06.29.21:104][986]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.29.21:104][986]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.29.21:104][986]MaterialEditorStats: 
+[2022.04.20-06.29.21:104][986]MaterialEditorStats: Shader Count: 15
+[2022.04.20-06.29.31:130][253]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.04.20-06.29.31:130][253]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.04.20-06.29.31:130][253]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.20-06.29.31:130][253]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.20-06.29.31:130][253]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.29.31:130][253]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.29.31:130][253]MaterialEditorStats: 
+[2022.04.20-06.29.31:130][253]MaterialEditorStats: Shader Count: 30
+[2022.04.20-06.29.37:167][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.04.20-06.29.37:170][534]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.016
+[2022.04.20-06.29.37:171][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5] ([1] browsable assets)...
+[2022.04.20-06.29.37:186][534]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5.M_ScifiWAll5]
+[2022.04.20-06.29.37:186][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5]
+[2022.04.20-06.29.37:193][534]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ScifiWAll5_Auto12A0ECE45407FB7C5F3D208950BCB1A92.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5_Auto1.uasset'
+[2022.04.20-06.29.37:194][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/SciFIWall5_Tex/Tex2/Scifi_WAll5_Wall5_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.04.20-06.29.37:195][534]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/SciFIWall5_Tex/Tex2/Scifi_WAll5_Wall5_OcclusionRoughnessMetallic.Scifi_WAll5_Wall5_OcclusionRoughnessMetallic]
+[2022.04.20-06.29.37:195][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/SciFIWall5_Tex/Tex2/Scifi_WAll5_Wall5_OcclusionRoughnessMetallic]
+[2022.04.20-06.29.37:201][534]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Scifi_WAll5_Wall5_OcclusionRoughE202CADC41DD43F33D399DA4858638C8.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/SciFIWall5_Tex/Tex2/Scifi_WAll5_Wall5_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.04.20-06.29.37:202][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5_pipes] ([1] browsable assets)...
+[2022.04.20-06.29.37:215][534]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5_pipes.M_ScifiWAll5_pipes]
+[2022.04.20-06.29.37:215][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5_pipes]
+[2022.04.20-06.29.37:222][534]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ScifiWAll5_pipes_Auto1CC168C8349C80E97090D2ABC8A5320E3.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5_pipes_Auto1.uasset'
+[2022.04.20-06.29.37:225][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/SciFIWall5_Tex/Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.04.20-06.29.37:227][534]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/SciFIWall5_Tex/Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic.Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic]
+[2022.04.20-06.29.37:227][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/SciFIWall5_Tex/Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic]
+[2022.04.20-06.29.37:231][534]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Scifi_WAll5_WAll5_Pipes_Occlusio811193CA4E14ACBC3949EF96A6940756.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/SciFIWall5_Tex/Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.04.20-06.29.37:233][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5] ([1] browsable assets)...
+[2022.04.20-06.29.37:244][534]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5.M_ScifiCorner5]
+[2022.04.20-06.29.37:244][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5]
+[2022.04.20-06.29.37:252][534]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ScifiCorner5_Auto1159456A54329F8E30E8C6FA155986977.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5_Auto1.uasset'
+[2022.04.20-06.29.37:254][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.04.20-06.29.37:254][534]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic.SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic]
+[2022.04.20-06.29.37:254][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic]
+[2022.04.20-06.29.37:259][534]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/SciFi_wall5_Corner_Wall5_Occlusi4492DCCB41CA0AF1BE6098B187B312D7.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.04.20-06.29.37:261][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5_pipes] ([1] browsable assets)...
+[2022.04.20-06.29.37:271][534]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5_pipes.M_ScifiCorner5_pipes]
+[2022.04.20-06.29.37:271][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5_pipes]
+[2022.04.20-06.29.37:277][534]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ScifiCorner5_pipes_Auto1855A4FB044D39D24B679E382C5936BBE.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5_pipes_Auto1.uasset'
+[2022.04.20-06.29.37:278][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.04.20-06.29.37:279][534]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic.SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic]
+[2022.04.20-06.29.37:279][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic]
+[2022.04.20-06.29.37:282][534]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/SciFi_wall5_Corner_wall5_Pipes_O75EF22844CA53A7C176975AD587D92DE.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.04.20-06.29.37:284][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/SciFI_wall6_Tex/M_Scifiwall6] ([1] browsable assets)...
+[2022.04.20-06.29.37:294][534]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Textures/SciFI_wall6_Tex/M_Scifiwall6.M_Scifiwall6]
+[2022.04.20-06.29.37:294][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/SciFI_wall6_Tex/M_Scifiwall6]
+[2022.04.20-06.29.37:300][534]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Scifiwall6_Auto17956869A47E223F1D2E186A5B75DF803.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/SciFI_wall6_Tex/M_Scifiwall6_Auto1.uasset'
+[2022.04.20-06.29.37:301][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/SciFI_wall6_Tex/SciFi_Wall6_lambert1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.04.20-06.29.37:302][534]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/SciFI_wall6_Tex/SciFi_Wall6_lambert1_OcclusionRoughnessMetallic.SciFi_Wall6_lambert1_OcclusionRoughnessMetallic]
+[2022.04.20-06.29.37:302][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/SciFI_wall6_Tex/SciFi_Wall6_lambert1_OcclusionRoughnessMetallic]
+[2022.04.20-06.29.37:309][534]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/SciFi_Wall6_lambert1_OcclusionRoD7A3FE0847800CE7FD0098B87B7DD193.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/SciFI_wall6_Tex/SciFi_Wall6_lambert1_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.04.20-06.29.37:310][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/SciFi_Door2_TEx/M_ScifiDoorWay2] ([1] browsable assets)...
+[2022.04.20-06.29.37:321][534]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Textures/SciFi_Door2_TEx/M_ScifiDoorWay2.M_ScifiDoorWay2]
+[2022.04.20-06.29.37:321][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/SciFi_Door2_TEx/M_ScifiDoorWay2]
+[2022.04.20-06.29.37:327][534]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ScifiDoorWay2_Auto1E0A838D44DA8533DFAFEE49555BCD6E1.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/SciFi_Door2_TEx/M_ScifiDoorWay2_Auto1.uasset'
+[2022.04.20-06.29.37:328][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/SciFi_Door2_TEx/scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.04.20-06.29.37:329][534]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/SciFi_Door2_TEx/scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic.scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic]
+[2022.04.20-06.29.37:329][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/SciFi_Door2_TEx/scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic]
+[2022.04.20-06.29.37:335][534]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/scIFI_DoorAndWall2_SciFi_DoorWay46B52793448B3A9F666ADCBA3BF9BA80.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/SciFi_Door2_TEx/scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.04.20-06.29.37:336][534]LogFileHelpers: Auto-saving content packages took 0.165
+[2022.04.20-06.29.39:398][630]LogMaterialEditor: Saving and Compiling material M_ScifiDoorWay2
+[2022.04.20-06.29.39:442][630]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ScifiDoorWay29FA512CA4BA380A8C5B9448C2EE29DA7.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/SciFi_Door2_TEx/M_ScifiDoorWay2.uasset'
+[2022.04.20-06.29.39:462][630]AssetCheck: New page: Asset Save: M_ScifiDoorWay2
+[2022.04.20-06.29.39:462][630]LogContentValidation: Display: Validating Material /Game/Materials/Textures/SciFi_Door2_TEx/M_ScifiDoorWay2.M_ScifiDoorWay2
+[2022.04.20-06.29.46:049][938]LogSlate: Window 'scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.29.46:057][938]LogSlate: Window 'scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.29.46:105][938]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.29.46:105][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.29.46:159][938]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.29.46:159][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.29.58:208][575]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Jnix_Shack1.Jnix_Shack1
+[2022.04.20-06.30.03:884][850]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Shack1_base.M_Shack1_base
+[2022.04.20-06.30.03:886][850]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_base in PCD3D_SM5, Default, SM5 (DDC key hash: 38A8F9A81C2535E50698BEB8F711BA0128599982), compiling. 
+[2022.04.20-06.30.03:963][850]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_base in PCD3D_SM5, Default, SM5 (DDC key hash: F8F06E4C5EEDC8D9BEF50E186965D759C5967EC5), compiling. 
+[2022.04.20-06.30.03:967][850]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_base in PCD3D_SM5, Default, SM5 (DDC key hash: E85B555A65F9939ED23146BCD4DB9957D52E3C77), compiling. 
+[2022.04.20-06.30.03:970][850]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7FB673B94B43B66BF7272BDE533AAC7E5DF39600), compiling. 
+[2022.04.20-06.30.03:971][850]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7FF2F86315FA54C70DCD0677184E8465D1DD9DCB), compiling. 
+[2022.04.20-06.30.03:973][850]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 35608F3B629E9693AF5CA9A09529DFB24A0410EC), compiling. 
+[2022.04.20-06.30.04:002][850]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.30.04:002][850]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.30.04:002][850]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.30.04:003][850]MaterialEditorStats: 
+[2022.04.20-06.30.04:003][850]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.30.06:243][893]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_base in PCD3D_SM5, Default, SM5 (DDC key hash: 72C10A136DB92BC72812F2B777070133FD388F05), compiling. 
+[2022.04.20-06.30.07:654][926]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_base in PCD3D_SM5, Default, SM5 (DDC key hash: 03E5205E0D0F6C213DCDE3DD52C0C0F123F5681D), compiling. 
+[2022.04.20-06.30.07:656][926]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Shack1_base (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.30.07:656][926]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_building_base2_OcclusionRoughnessMetallic.Jnix_shack_1_building_base2_OcclusionRoughnessMetallic
+[2022.04.20-06.30.07:665][926]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 699BA5AF5FBF362115854274A6A25C2B7CB8858E), compiling. 
+[2022.04.20-06.30.07:677][926]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_base in PCD3D_SM5, Default, SM5 (DDC key hash: B5EF0E48CACDD905DBF8A7988B02C8DD9DD06A8A), compiling. 
+[2022.04.20-06.30.07:679][926]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Shack1_base (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.30.07:679][926]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_building_base2_OcclusionRoughnessMetallic.Jnix_shack_1_building_base2_OcclusionRoughnessMetallic
+[2022.04.20-06.30.07:694][926]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_building_base2_OcclusionRoughnessMetallic.Jnix_shack_1_building_base2_OcclusionRoughnessMetallic
+[2022.04.20-06.30.08:637][940]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_building_base2_OcclusionRoughnessMetallic.Jnix_shack_1_building_base2_OcclusionRoughnessMetallic
+[2022.04.20-06.30.10:346][992]LogMaterial: Display: Missing cached shadermap for M_Shack1_base in PCD3D_SM5, Default, SM5 (DDC key hash: 2873FB7530EA6BBAA7484AAF3C805E5269558110), compiling. 
+[2022.04.20-06.30.10:348][992]LogMaterial: Warning: [AssetLog] C:\Users\James Nix\Desktop\GitKraken\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0\Content\Materials\M_Shack1_base.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.30.10:348][992]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_building_base2_OcclusionRoughnessMetallic.Jnix_shack_1_building_base2_OcclusionRoughnessMetallic
+[2022.04.20-06.30.10:351][992]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_base in PCD3D_SM5, Default, SM5 (DDC key hash: 624660D36C596EF79BF460A427486ABAAED6506D), compiling. 
+[2022.04.20-06.30.10:458][992]LogTexture: Display: Building textures: Jnix_shack_1_building_base2_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.20-06.30.10:458][992]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.30.10:458][992]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.30.10:458][992]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.30.10:458][992]MaterialEditorStats: 
+[2022.04.20-06.30.10:458][992]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.30.14:720][ 84]LogMaterialEditor: Applying material M_Shack1_base
+[2022.04.20-06.30.15:485][ 84]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_base in PCD3D_SM5, Default, SM5 (DDC key hash: 26193A4CE036C0F8184E7042C9587F6BD183E652), compiling. 
+[2022.04.20-06.30.15:577][ 84]LogMaterial: Display: Missing cached shadermap for M_Shack1_base in PCD3D_SM5, Default, SM5 (DDC key hash: D87C9FE4C9BF22EF1D270183F4E57F5C6A0FAA83), compiling. 
+[2022.04.20-06.30.15:769][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.04.20-06.30.19:659][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.04.20-06.30.19:681][ 84]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.20-06.30.19:681][ 84]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.30.19:681][ 84]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.30.19:681][ 84]MaterialEditorStats: 
+[2022.04.20-06.30.19:681][ 84]MaterialEditorStats: Shader Count: 15
+[2022.04.20-06.30.23:160][159]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Shack1_DoorFrame.M_Shack1_DoorFrame
+[2022.04.20-06.30.23:165][159]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_DoorFrame in PCD3D_SM5, Default, SM5 (DDC key hash: 9887607699C97B212CFE0B2427B8FFB36C731932), compiling. 
+[2022.04.20-06.30.23:345][159]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_DoorFrame in PCD3D_SM5, Default, SM5 (DDC key hash: 078800D3004FBADA051997981EA9DCDCDE43612B), compiling. 
+[2022.04.20-06.30.23:351][159]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_DoorFrame in PCD3D_SM5, Default, SM5 (DDC key hash: 75330CA6E70F4D2B74F26FFF780F02D50896DF4E), compiling. 
+[2022.04.20-06.30.23:358][159]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BADEF5285E83B41E04582091AE95E4138C2B11F6), compiling. 
+[2022.04.20-06.30.23:362][159]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4DE445202460AF9997CCC22CE0ADA88A8AC633F6), compiling. 
+[2022.04.20-06.30.23:366][159]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FEA763DB9F6B4094CF592C4D0E39A9DA6A6B71B7), compiling. 
+[2022.04.20-06.30.23:438][159]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.30.23:438][159]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.30.23:438][159]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.30.23:439][159]MaterialEditorStats: 
+[2022.04.20-06.30.23:439][159]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.30.25:655][193]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_DoorFrame in PCD3D_SM5, Default, SM5 (DDC key hash: F17330619D05690536F3E611679FF0F6DBD8544C), compiling. 
+[2022.04.20-06.30.27:122][228]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_DoorFrame in PCD3D_SM5, Default, SM5 (DDC key hash: BC831F83AD6AACEE06F52AD4AC2FA4BC89430E0B), compiling. 
+[2022.04.20-06.30.27:124][228]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Shack1_DoorFrame (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.30.27:124][228]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic.Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic
+[2022.04.20-06.30.27:132][228]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 18F38AA56F2FBB4135A80B6F7D2F015C8BC13235), compiling. 
+[2022.04.20-06.30.27:139][228]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_DoorFrame in PCD3D_SM5, Default, SM5 (DDC key hash: A72FB534E0F577ED9AF513E1945A7412F376EEC7), compiling. 
+[2022.04.20-06.30.27:141][228]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Shack1_DoorFrame (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.30.27:141][228]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic.Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic
+[2022.04.20-06.30.27:158][228]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic.Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic
+[2022.04.20-06.30.27:947][238]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic.Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic
+[2022.04.20-06.30.29:368][264]LogMaterial: Display: Missing cached shadermap for M_Shack1_DoorFrame in PCD3D_SM5, Default, SM5 (DDC key hash: 99771F94C6920356FF48647CE8E796639E28FE58), compiling. 
+[2022.04.20-06.30.29:370][264]LogMaterial: Warning: [AssetLog] C:\Users\James Nix\Desktop\GitKraken\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0\Content\Materials\M_Shack1_DoorFrame.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.30.29:371][264]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic.Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic
+[2022.04.20-06.30.29:375][264]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_DoorFrame in PCD3D_SM5, Default, SM5 (DDC key hash: 4131CE49C981C47DC0514B035A7BD661889DD63E), compiling. 
+[2022.04.20-06.30.29:426][264]LogTexture: Display: Building textures: Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.20-06.30.29:426][264]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.30.29:426][264]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.30.29:426][264]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.30.29:426][264]MaterialEditorStats: 
+[2022.04.20-06.30.29:426][264]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.30.31:286][302]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Jnix_shack_1_DoorFrame2_OcclusioFA953A354AC89F0F5714B4BB3CB3226A.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Shack1_textures/Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic.uasset'
+[2022.04.20-06.30.31:329][302]AssetCheck: New page: Asset Save: Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic
+[2022.04.20-06.30.31:329][302]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic.Jnix_shack_1_DoorFrame2_OcclusionRoughnessMetallic
+[2022.04.20-06.30.34:050][349]LogMaterialEditor: Applying material M_Shack1_DoorFrame
+[2022.04.20-06.30.34:921][349]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack1_DoorFrame in PCD3D_SM5, Default, SM5 (DDC key hash: 941C5809C854D6B7B97BA73C95CEA7E9246EE1A5), compiling. 
+[2022.04.20-06.30.35:033][349]LogMaterial: Display: Missing cached shadermap for M_Shack1_DoorFrame in PCD3D_SM5, Default, SM5 (DDC key hash: 36D5BC73F772500025895EE504B6497E58EFE43D), compiling. 
+[2022.04.20-06.30.35:233][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.04.20-06.30.36:926][349]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2022.04.20-06.30.36:961][349]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.20-06.30.36:962][349]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.30.36:962][349]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.30.36:962][349]MaterialEditorStats: 
+[2022.04.20-06.30.36:962][349]MaterialEditorStats: Shader Count: 11
+[2022.04.20-06.30.37:662][351]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.04.20-06.30.37:662][351]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.04.20-06.30.37:662][351]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.20-06.30.37:662][351]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.20-06.30.37:662][351]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.30.37:662][351]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.30.37:662][351]MaterialEditorStats: 
+[2022.04.20-06.30.37:662][351]MaterialEditorStats: Shader Count: 30
+[2022.04.20-06.30.41:429][410]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_shack1_Door.M_shack1_Door
+[2022.04.20-06.30.41:433][410]LogMaterial: Display: Missing cached shadermap for Preview:M_shack1_Door in PCD3D_SM5, Default, SM5 (DDC key hash: 0DCC7540DC70F20326B7EFBF1BFFC292AB660E56), compiling. 
+[2022.04.20-06.30.41:630][410]LogMaterial: Display: Missing cached shadermap for Preview:M_shack1_Door in PCD3D_SM5, Default, SM5 (DDC key hash: 97226C861535B8BFECCF76A6016DC8F247FB4B14), compiling. 
+[2022.04.20-06.30.41:638][410]LogMaterial: Display: Missing cached shadermap for Preview:M_shack1_Door in PCD3D_SM5, Default, SM5 (DDC key hash: 5CB4B84D3B54EA5D0701269816AEE05DF88987E6), compiling. 
+[2022.04.20-06.30.41:647][410]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B2B18C474BF46DC11F4EB5ACB288A9603CA221EA), compiling. 
+[2022.04.20-06.30.41:652][410]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 007514FED5548A89946506599FA5D1F324A828C4), compiling. 
+[2022.04.20-06.30.41:657][410]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CF2FB6F284A93608285339AA13F8127D8F9E2C75), compiling. 
+[2022.04.20-06.30.41:750][410]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.30.41:751][410]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.30.41:751][410]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.30.41:751][410]MaterialEditorStats: 
+[2022.04.20-06.30.41:751][410]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.30.42:177][412]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.20-06.30.42:177][412]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.30.42:177][412]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.30.42:177][412]MaterialEditorStats: 
+[2022.04.20-06.30.42:177][412]MaterialEditorStats: Shader Count: 17
+[2022.04.20-06.30.44:006][435]LogMaterial: Display: Missing cached shadermap for Preview:M_shack1_Door in PCD3D_SM5, Default, SM5 (DDC key hash: 3C7F73E6AAA1CABD242D23DB4AB7BD3FBD3AE2FC), compiling. 
+[2022.04.20-06.30.44:747][453]LogMaterial: Display: Missing cached shadermap for Preview:M_shack1_Door in PCD3D_SM5, Default, SM5 (DDC key hash: 2A9992DA974353834D5FCCE82DD71E3859565B4C), compiling. 
+[2022.04.20-06.30.44:749][453]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_shack1_Door (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.30.44:749][453]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_Door_OcclusionRoughnessMetallic.Jnix_shack_1_Door_OcclusionRoughnessMetallic
+[2022.04.20-06.30.44:757][453]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: CC4399995082491615FC8E41C7F8594AB788C19C), compiling. 
+[2022.04.20-06.30.44:762][453]LogMaterial: Display: Missing cached shadermap for Preview:M_shack1_Door in PCD3D_SM5, Default, SM5 (DDC key hash: C39C8DBBEF618C7473A3BF67B0BE5E5626B0DC1A), compiling. 
+[2022.04.20-06.30.44:764][453]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_shack1_Door (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.30.44:764][453]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_Door_OcclusionRoughnessMetallic.Jnix_shack_1_Door_OcclusionRoughnessMetallic
+[2022.04.20-06.30.44:775][453]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_Door_OcclusionRoughnessMetallic.Jnix_shack_1_Door_OcclusionRoughnessMetallic
+[2022.04.20-06.30.45:560][462]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_Door_OcclusionRoughnessMetallic.Jnix_shack_1_Door_OcclusionRoughnessMetallic
+[2022.04.20-06.30.47:849][501]LogMaterial: Display: Missing cached shadermap for M_shack1_Door in PCD3D_SM5, Default, SM5 (DDC key hash: 05ABD128C12137DD8C4D1D915CC6AD73F18522FE), compiling. 
+[2022.04.20-06.30.47:850][501]LogMaterial: Warning: [AssetLog] C:\Users\James Nix\Desktop\GitKraken\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0\Content\Materials\M_shack1_Door.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.30.47:850][501]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_Door_OcclusionRoughnessMetallic.Jnix_shack_1_Door_OcclusionRoughnessMetallic
+[2022.04.20-06.30.47:856][501]LogMaterial: Display: Missing cached shadermap for Preview:M_shack1_Door in PCD3D_SM5, Default, SM5 (DDC key hash: E14CF0E667A7463F2826A45778D0FB070E628F19), compiling. 
+[2022.04.20-06.30.47:943][501]LogTexture: Display: Building textures: Jnix_shack_1_Door_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.20-06.30.47:943][501]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.30.47:943][501]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.30.47:943][501]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.30.47:943][501]MaterialEditorStats: 
+[2022.04.20-06.30.47:943][501]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.30.52:474][598]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.20-06.30.52:474][598]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.30.52:474][598]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.30.52:474][598]MaterialEditorStats: 
+[2022.04.20-06.30.52:474][598]MaterialEditorStats: Shader Count: 2
+[2022.04.20-06.30.53:153][609]LogMaterialEditor: Applying material M_shack1_Door
+[2022.04.20-06.30.54:065][609]LogMaterial: Display: Missing cached shadermap for Preview:M_shack1_Door in PCD3D_SM5, Default, SM5 (DDC key hash: C8BA199A4CF507D07142A1ECD9B132B1B9096F49), compiling. 
+[2022.04.20-06.30.54:190][609]LogMaterial: Display: Missing cached shadermap for M_shack1_Door in PCD3D_SM5, Default, SM5 (DDC key hash: D4C29C91C8FF9B10AD314C7D9C0E03D8E4437C19), compiling. 
+[2022.04.20-06.30.54:458][609]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2022.04.20-06.30.56:558][609]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2022.04.20-06.30.59:054][645]LogSlate: Window 'Jnix_shack_1_Door_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.30.59:068][645]LogSlate: Window 'Jnix_shack_1_Door_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.30.59:200][645]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.30.59:200][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.30.59:303][645]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.30.59:303][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.30.59:423][645]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.30.59:423][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.30.59:539][645]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.30.59:539][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.31.04:231][726]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.04.20-06.31.06:449][772]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Jnix_shack3.Jnix_shack3
+[2022.04.20-06.31.08:816][824]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Shack3_wood.M_Shack3_wood
+[2022.04.20-06.31.08:818][824]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_wood in PCD3D_SM5, Default, SM5 (DDC key hash: 76B42FF49D04EF709460AAD5F8C4F5B7763DDFC3), compiling. 
+[2022.04.20-06.31.08:920][824]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_wood in PCD3D_SM5, Default, SM5 (DDC key hash: 2116EAFAA5AC11D4444D19EE5D2443F005707641), compiling. 
+[2022.04.20-06.31.08:922][824]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_wood in PCD3D_SM5, Default, SM5 (DDC key hash: 780891912A83756C52A06679A8A5A609C761E850), compiling. 
+[2022.04.20-06.31.08:925][824]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BBCBECE48635A4B5BDFFCE2FA12844182A709ADA), compiling. 
+[2022.04.20-06.31.08:927][824]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 931387F4ABC7CA1022121EA23D1D9555B6FE0A21), compiling. 
+[2022.04.20-06.31.08:929][824]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 048B72DE2901F5D9BCD8E6135798AB1757D72774), compiling. 
+[2022.04.20-06.31.08:956][824]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.31.08:956][824]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.31.08:956][824]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.31.08:956][824]MaterialEditorStats: 
+[2022.04.20-06.31.08:956][824]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.31.11:408][872]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_wood in PCD3D_SM5, Default, SM5 (DDC key hash: DDE4F301BF2B416117B84F519F9AE6A03365BBA5), compiling. 
+[2022.04.20-06.31.13:315][945]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_wood in PCD3D_SM5, Default, SM5 (DDC key hash: 60BABCA9B2693CD765027F8A94FF7A9F2EE16A64), compiling. 
+[2022.04.20-06.31.13:317][945]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Shack3_wood (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.31.13:317][945]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack3_textures/Jnix_shack_3_Wood_OcclusionRoughnessMetallic.Jnix_shack_3_Wood_OcclusionRoughnessMetallic
+[2022.04.20-06.31.13:324][945]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6051063E1DC4963E2004768C77E9ED59F0CE3E7B), compiling. 
+[2022.04.20-06.31.13:328][945]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_wood in PCD3D_SM5, Default, SM5 (DDC key hash: 3FB8CDC3C359AE1692323948254E75B3225AC90A), compiling. 
+[2022.04.20-06.31.13:329][945]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Shack3_wood (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.31.13:329][945]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack3_textures/Jnix_shack_3_Wood_OcclusionRoughnessMetallic.Jnix_shack_3_Wood_OcclusionRoughnessMetallic
+[2022.04.20-06.31.13:338][945]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack3_textures/Jnix_shack_3_Wood_OcclusionRoughnessMetallic.Jnix_shack_3_Wood_OcclusionRoughnessMetallic
+[2022.04.20-06.31.14:375][976]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.20-06.31.14:375][976]LogShaderCompilers: Display: Total job queries 3419, among them cache hits 517 (15.12%)
+[2022.04.20-06.31.14:375][976]LogShaderCompilers: Display: Tracking 1417 distinct input hashes that result in 70 distinct outputs (4.94%)
+[2022.04.20-06.31.14:375][976]LogShaderCompilers: Display: RAM used: 0.39 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2022.04.20-06.31.14:375][976]LogShaderCompilers: Display: ================================================
+[2022.04.20-06.31.14:759][991]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Textures/Shack3_textures/Jnix_shack_3_Wood_OcclusionRoughnessMetallic.Jnix_shack_3_Wood_OcclusionRoughnessMetallic
+[2022.04.20-06.31.16:624][ 33]LogMaterial: Display: Missing cached shadermap for M_Shack3_wood in PCD3D_SM5, Default, SM5 (DDC key hash: 9B25807BF30C0E01934EE452FE515EC0866A5C7F), compiling. 
+[2022.04.20-06.31.16:625][ 33]LogMaterial: Warning: [AssetLog] C:\Users\James Nix\Desktop\GitKraken\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0\Content\Materials\M_Shack3_wood.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.31.16:625][ 33]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Textures/Shack3_textures/Jnix_shack_3_Wood_OcclusionRoughnessMetallic.Jnix_shack_3_Wood_OcclusionRoughnessMetallic
+[2022.04.20-06.31.16:628][ 33]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_wood in PCD3D_SM5, Default, SM5 (DDC key hash: 1B1D7BB0B682C4B75EB18600391397055BF05084), compiling. 
+[2022.04.20-06.31.16:652][ 33]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.31.16:652][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.31.16:652][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.31.16:652][ 33]MaterialEditorStats: 
+[2022.04.20-06.31.16:652][ 33]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.31.19:123][ 79]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Jnix_shack_3_Wood_OcclusionRough9CAD716E42D424873A8134B808FE0F4B.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Shack3_textures/Jnix_shack_3_Wood_OcclusionRoughnessMetallic.uasset'
+[2022.04.20-06.31.19:151][ 79]AssetCheck: New page: Asset Save: Jnix_shack_3_Wood_OcclusionRoughnessMetallic
+[2022.04.20-06.31.19:151][ 79]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Shack3_textures/Jnix_shack_3_Wood_OcclusionRoughnessMetallic.Jnix_shack_3_Wood_OcclusionRoughnessMetallic
+[2022.04.20-06.31.20:612][105]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.20-06.31.20:612][105]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.31.20:612][105]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.31.20:612][105]MaterialEditorStats: 
+[2022.04.20-06.31.20:612][105]MaterialEditorStats: Shader Count: 2
+[2022.04.20-06.31.23:118][176]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.04.20-06.31.23:118][176]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 233 instructions
+[2022.04.20-06.31.23:118][176]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.20-06.31.23:118][176]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.20-06.31.23:118][176]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.31.23:118][176]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.31.23:118][176]MaterialEditorStats: 
+[2022.04.20-06.31.23:118][176]MaterialEditorStats: Shader Count: 12
+[2022.04.20-06.31.25:409][231]LogSlate: Window 'Jnix_shack_3_Wood_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.31.25:413][231]LogSlate: Window 'Jnix_shack_3_Wood_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.31.26:507][283]LogMaterialEditor: Applying material M_Shack3_wood
+[2022.04.20-06.31.26:977][283]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_wood in PCD3D_SM5, Default, SM5 (DDC key hash: 9BAB0C363287C26AD7E9871EC4ED714A6FAE37CC), compiling. 
+[2022.04.20-06.31.27:029][283]LogMaterial: Display: Missing cached shadermap for M_Shack3_wood in PCD3D_SM5, Default, SM5 (DDC key hash: 5D0C914DD409E676541A66EA46F5431CF2E03B8E), compiling. 
+[2022.04.20-06.31.27:132][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.04.20-06.31.30:801][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.04.20-06.31.30:831][283]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.20-06.31.30:831][283]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.31.30:831][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.31.30:832][283]MaterialEditorStats: 
+[2022.04.20-06.31.30:832][283]MaterialEditorStats: Shader Count: 15
+[2022.04.20-06.31.39:127][603]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.04.20-06.31.39:127][603]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 233 instructions
+[2022.04.20-06.31.39:127][603]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.04.20-06.31.39:127][603]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.20-06.31.39:127][603]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.31.39:127][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.31.39:127][603]MaterialEditorStats: 
+[2022.04.20-06.31.39:127][603]MaterialEditorStats: Shader Count: 30
+[2022.04.20-06.31.42:815][780]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Shack3_MetalSheets.M_Shack3_MetalSheets
+[2022.04.20-06.31.42:817][780]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_MetalSheets in PCD3D_SM5, Default, SM5 (DDC key hash: A94A298AA84445408AB35CD658593BF58D19364A), compiling. 
+[2022.04.20-06.31.42:919][780]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_MetalSheets in PCD3D_SM5, Default, SM5 (DDC key hash: 45A7044E709577847406A8A656E3CEBE3676DAAA), compiling. 
+[2022.04.20-06.31.42:923][780]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_MetalSheets in PCD3D_SM5, Default, SM5 (DDC key hash: 0B529995D4C8A87A9B3D1DE5BCC037A4B1B1D37B), compiling. 
+[2022.04.20-06.31.42:926][780]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 649D8BEC46711C891C6A12934F7D44D0F8D56E45), compiling. 
+[2022.04.20-06.31.42:929][780]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 125D4357F22C44CCCBB35601DA76A5C2F0CA93E6), compiling. 
+[2022.04.20-06.31.42:930][780]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 53A6DC7B3E3B409AFE9BD8EB2EE44214398709F0), compiling. 
+[2022.04.20-06.31.42:964][780]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.31.42:964][780]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.31.42:964][780]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.31.42:964][780]MaterialEditorStats: 
+[2022.04.20-06.31.42:964][780]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.31.46:680][853]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_MetalSheets in PCD3D_SM5, Default, SM5 (DDC key hash: 9897AFB36F11ED233AA1A1D1F860168F3E856016), compiling. 
+[2022.04.20-06.31.48:494][902]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_MetalSheets in PCD3D_SM5, Default, SM5 (DDC key hash: BD861FEEB7DCF6438156A4365ED59798751F7A3F), compiling. 
+[2022.04.20-06.31.48:495][902]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Shack3_MetalSheets (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.31.48:495][902]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack3_textures/Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic.Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic
+[2022.04.20-06.31.48:498][902]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6DF4CDA3F8A995C6E5E1190F6D20175FDDA3E75C), compiling. 
+[2022.04.20-06.31.48:502][902]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_MetalSheets in PCD3D_SM5, Default, SM5 (DDC key hash: 109A34B550EC0F6192659C5EB3642A0CC22C8945), compiling. 
+[2022.04.20-06.31.48:503][902]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Shack3_MetalSheets (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.31.48:503][902]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack3_textures/Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic.Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic
+[2022.04.20-06.31.48:509][902]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Materials/Textures/Shack3_textures/Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic.Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic
+[2022.04.20-06.31.49:476][929]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Textures/Shack3_textures/Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic.Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic
+[2022.04.20-06.31.50:805][976]LogMaterial: Display: Missing cached shadermap for M_Shack3_MetalSheets in PCD3D_SM5, Default, SM5 (DDC key hash: 249474CB2203531930A21A2AC6749A2E924C4034), compiling. 
+[2022.04.20-06.31.50:806][976]LogMaterial: Warning: [AssetLog] C:\Users\James Nix\Desktop\GitKraken\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0\Content\Materials\M_Shack3_MetalSheets.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.20-06.31.50:806][976]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Textures/Shack3_textures/Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic.Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic
+[2022.04.20-06.31.50:807][976]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_MetalSheets in PCD3D_SM5, Default, SM5 (DDC key hash: 81E339709D3BDFE2161D263047727E9324A157E5), compiling. 
+[2022.04.20-06.31.50:908][976]LogTexture: Display: Building textures: Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2022.04.20-06.31.50:908][976]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.20-06.31.50:909][976]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.31.50:909][976]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.31.50:909][976]MaterialEditorStats: 
+[2022.04.20-06.31.50:909][976]MaterialEditorStats: Shader Count: 0
+[2022.04.20-06.31.53:819][ 32]LogMaterialEditor: Applying material M_Shack3_MetalSheets
+[2022.04.20-06.31.54:744][ 32]LogMaterial: Display: Missing cached shadermap for Preview:M_Shack3_MetalSheets in PCD3D_SM5, Default, SM5 (DDC key hash: 8C4B7691E601044629B9C4C327EB05DF008EE2C1), compiling. 
+[2022.04.20-06.31.54:855][ 32]LogMaterial: Display: Missing cached shadermap for M_Shack3_MetalSheets in PCD3D_SM5, Default, SM5 (DDC key hash: B155A3E8400988188C54D077D059F2ADA06FA4F0), compiling. 
+[2022.04.20-06.31.55:053][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.04.20-06.31.57:575][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.04.20-06.31.57:606][ 32]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.20-06.31.57:606][ 32]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.20-06.31.57:607][ 32]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.20-06.31.57:607][ 32]MaterialEditorStats: 
+[2022.04.20-06.31.57:607][ 32]MaterialEditorStats: Shader Count: 12
+[2022.04.20-06.31.58:752][ 52]LogSlate: Window 'Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.31.58:778][ 52]LogSlate: Window 'Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic' being destroyed
+[2022.04.20-06.31.58:823][ 52]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-06.31.58:824][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-06.32.00:740][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Jnix_shack3" FILE="C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Meshes/Jnix_shack3.uasset" SILENT=true
+[2022.04.20-06.32.01:068][103]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Jnix_shack3932A6673438525281175A1A5AF00EF5C.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Meshes/Jnix_shack3.uasset'
+[2022.04.20-06.32.01:089][103]AssetCheck: New page: Asset Save: Jnix_shack3
+[2022.04.20-06.32.01:089][103]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Jnix_shack3.Jnix_shack3
+[2022.04.20-06.32.02:139][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.04.20-06.32.04:193][138]LogSlate: Window 'Save Content' being destroyed
+[2022.04.20-06.32.06:557][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.04.20-06.32.06:628][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ScifiWAll5FA4A5C2F4A208AEEB49FD4AD57F67DFC.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5.uasset'
+[2022.04.20-06.32.06:638][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Scifi_WAll5_Wall5_OcclusionRough1850646D46BF99A4F7F08D9201BBF815.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/SciFIWall5_Tex/Tex2/Scifi_WAll5_Wall5_OcclusionRoughnessMetallic.uasset'
+[2022.04.20-06.32.06:651][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ScifiWAll5_pipesE52C0CDE4110DD65C404B49C82F51264.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5_pipes.uasset'
+[2022.04.20-06.32.06:658][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Scifi_WAll5_WAll5_Pipes_OcclusioCDDEF9F9450DEEA097D097A7FC6EF8A2.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/SciFIWall5_Tex/Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic.uasset'
+[2022.04.20-06.32.06:667][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ScifiCorner5AA1E5FC845194B0BD0F2F8A8D16FAC8F.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5.uasset'
+[2022.04.20-06.32.06:675][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/SciFi_wall5_Corner_Wall5_Occlusi29508FA04135900D9614F0B0E2BF6FB9.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic.uasset'
+[2022.04.20-06.32.06:684][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_ScifiCorner5_pipes22FD01614DB40B363AD2899C2D343A09.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5_pipes.uasset'
+[2022.04.20-06.32.06:690][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/SciFi_wall5_Corner_wall5_Pipes_O16ADCCED4FE8B24B159CE386BCD2952C.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic.uasset'
+[2022.04.20-06.32.06:699][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Scifiwall68925E3464ED70EFD633FC5B6871353FB.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/SciFI_wall6_Tex/M_Scifiwall6.uasset'
+[2022.04.20-06.32.06:708][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/SciFi_Wall6_lambert1_OcclusionRo5B0CD2314C65843EC41299909B4D95F6.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/SciFI_wall6_Tex/SciFi_Wall6_lambert1_OcclusionRoughnessMetallic.uasset'
+[2022.04.20-06.32.06:716][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/scIFI_DoorAndWall2_SciFi_DoorWay2BD3B8CD403223E4242AB08FD853A66D.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/SciFi_Door2_TEx/scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic.uasset'
+[2022.04.20-06.32.06:858][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Shack1_base" FILE="C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Shack1_base.uasset" SILENT=true
+[2022.04.20-06.32.06:874][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Shack1_baseA2D158FE434DC76A1BA383999D225C9C.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Shack1_base.uasset'
+[2022.04.20-06.32.06:894][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Jnix_shack_1_building_base2_OcclABB912644D49F158C6736E89945284EA.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Shack1_textures/Jnix_shack_1_building_base2_OcclusionRoughnessMetallic.uasset'
+[2022.04.20-06.32.06:967][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_shack1_Door" FILE="C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_shack1_Door.uasset" SILENT=true
+[2022.04.20-06.32.06:979][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_shack1_Door9C367FA0401BAA48936F0C8EB8BCC0DE.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_shack1_Door.uasset'
+[2022.04.20-06.32.06:991][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Jnix_shack_1_Door_OcclusionRough91CB7F13414259827DCF7BB8CE4556C3.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Shack1_textures/Jnix_shack_1_Door_OcclusionRoughnessMetallic.uasset'
+[2022.04.20-06.32.07:039][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Shack1_DoorFrame8D8DDF93461BE1CBC2BA86A0F380BDC7.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Shack1_DoorFrame.uasset'
+[2022.04.20-06.32.08:864][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Shack3_MetalSheetsE842631F4C71E0916D5733BB946526F4.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Shack3_MetalSheets.uasset'
+[2022.04.20-06.32.08:873][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Jnix_shack_3_MetalSheets_OcclusiB6D17207419047663C5C5695C58F77FE.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/Textures/Shack3_textures/Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic.uasset'
+[2022.04.20-06.32.08:939][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Shack3_wood" FILE="C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Shack3_wood.uasset" SILENT=true
+[2022.04.20-06.32.08:947][239]LogSavePackage: Moving 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/M_Shack3_woodE8B67FE6485FDD8B088151A4C728F938.tmp' to 'C:/Users/James Nix/Desktop/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Materials/M_Shack3_wood.uasset'
+[2022.04.20-06.32.08:964][239]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/SciFIWall5_Tex/Tex2/Scifi_WAll5_Wall5_OcclusionRoughnessMetallic.Scifi_WAll5_Wall5_OcclusionRoughnessMetallic
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Material /Game/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5.M_ScifiWAll5
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/SciFIWall5_Tex/Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic.Scifi_WAll5_WAll5_Pipes_OcclusionRoughnessMetallic
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Material /Game/Materials/Textures/SciFIWall5_Tex/M_ScifiWAll5_pipes.M_ScifiWAll5_pipes
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic.SciFi_wall5_Corner_Wall5_OcclusionRoughnessMetallic
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Material /Game/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5.M_ScifiCorner5
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/SCifiWall5_Corner_Tex/SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic.SciFi_wall5_Corner_wall5_Pipes_OcclusionRoughnessMetallic
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Material /Game/Materials/Textures/SCifiWall5_Corner_Tex/M_ScifiCorner5_pipes.M_ScifiCorner5_pipes
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/SciFI_wall6_Tex/SciFi_Wall6_lambert1_OcclusionRoughnessMetallic.SciFi_Wall6_lambert1_OcclusionRoughnessMetallic
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Material /Game/Materials/Textures/SciFI_wall6_Tex/M_Scifiwall6.M_Scifiwall6
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/SciFi_Door2_TEx/scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic.scIFI_DoorAndWall2_SciFi_DoorWay2_OcclusionRoughnessMetallic
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_building_base2_OcclusionRoughnessMetallic.Jnix_shack_1_building_base2_OcclusionRoughnessMetallic
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Material /Game/Materials/M_Shack1_base.M_Shack1_base
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Shack1_textures/Jnix_shack_1_Door_OcclusionRoughnessMetallic.Jnix_shack_1_Door_OcclusionRoughnessMetallic
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Material /Game/Materials/M_shack1_Door.M_shack1_Door
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Material /Game/Materials/M_Shack1_DoorFrame.M_Shack1_DoorFrame
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Shack3_textures/Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic.Jnix_shack_3_MetalSheets_OcclusionRoughnessMetallic
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Material /Game/Materials/M_Shack3_MetalSheets.M_Shack3_MetalSheets
+[2022.04.20-06.32.08:965][239]LogContentValidation: Display: Validating Material /Game/Materials/M_Shack3_wood.M_Shack3_wood
