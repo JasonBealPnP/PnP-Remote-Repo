@@ -1732,6 +1732,7 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.04.21-17.08.05:985][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
 [2022.04.21-17.08.06:334][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/FirstPersonExampleMapF441C6814BC6295BDEA2068931ECB367.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2022.04.21-17.08.06:352][674]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+<<<<<<< Updated upstream
 /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
 [2022.04.21-17.08.07:019][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/FirstPersonExampleMap_BuiltDataBC824F3B43BA62FB9479499483903C70.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2022.04.21-17.08.07:028][674]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
@@ -2405,3 +2406,70 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.04.21-18.04.15:326][493]LogD3D11RHI: CleanupD3DDevice
 [2022.04.21-18.04.15:341][493]LogExit: Exiting.
 [2022.04.21-18.04.15:348][493]Log file closed, 04/21/22 14:04:15
+=======
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.21-17.08.07:019][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/FirstPersonExampleMap_BuiltDataBC824F3B43BA62FB9479499483903C70.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.21-17.08.07:028][674]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2022.04.21-17.08.07:028][674]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 1.055
+[2022.04.21-17.08.07:041][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ANI_TESTS/hit_reaction" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/ANI_TESTS/hit_reaction.uasset" SILENT=true
+[2022.04.21-17.08.07:102][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/hit_reaction6852C81349F742A0D3BA338E70AC6289.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/ANI_TESTS/hit_reaction.uasset'
+[2022.04.21-17.08.07:104][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Aim_Down_Site_sound" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Aim_Down_Site_sound.uasset" SILENT=true
+[2022.04.21-17.08.07:105][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Aim_Down_Site_sound3BE9B29C4FE7BAE8C337D4B2186F4BC3.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Aim_Down_Site_sound.uasset'
+[2022.04.21-17.08.07:107][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Chain_fired_sound" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Chain_fired_sound.uasset" SILENT=true
+[2022.04.21-17.08.07:109][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Chain_fired_sound7884F1C741CA8696130379BDA399F128.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Chain_fired_sound.uasset'
+[2022.04.21-17.08.07:111][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Chain_return" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Chain_return.uasset" SILENT=true
+[2022.04.21-17.08.07:113][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Chain_return203331FE4A83B4A686F8F8975A70F8CD.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Chain_return.uasset'
+[2022.04.21-17.08.07:114][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Dirt_Walking" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Dirt_Walking.uasset" SILENT=true
+[2022.04.21-17.08.07:117][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Dirt_WalkingE29CB89A4E8621E3D299B1B01EC4A4CB.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Dirt_Walking.uasset'
+[2022.04.21-17.08.07:120][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Electric_flow" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Electric_flow.uasset" SILENT=true
+[2022.04.21-17.08.07:123][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Electric_flow235D86F94EADBA17A7477B8A7576DCAA.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Electric_flow.uasset'
+[2022.04.21-17.08.07:125][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Electric_punch_" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Electric_punch_.uasset" SILENT=true
+[2022.04.21-17.08.07:127][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Electric_punch_BDE391E445378B452F23AA8351A88285.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Electric_punch_.uasset'
+[2022.04.21-17.08.07:128][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Electric_punch__2" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Electric_punch__2.uasset" SILENT=true
+[2022.04.21-17.08.07:130][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Electric_punch__242EB93E1429930378B56D18BEF4487C8.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Electric_punch__2.uasset'
+[2022.04.21-17.08.07:132][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Electric_punch" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Electric_punch.uasset" SILENT=true
+[2022.04.21-17.08.07:134][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Electric_punch323BE1124FB96E9B853D91AA3A8A72B9.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Electric_punch.uasset'
+[2022.04.21-17.08.07:137][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Electric_Sparking" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Electric_Sparking.uasset" SILENT=true
+[2022.04.21-17.08.07:139][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Electric_Sparking3900B4A34FABCEE909B41F9C60439FE5.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Electric_Sparking.uasset'
+[2022.04.21-17.08.07:141][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Explosion_v2" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Explosion_v2.uasset" SILENT=true
+[2022.04.21-17.08.07:143][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Explosion_v25A53EAC246A52E50F0CCF9B1C1971FDF.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Explosion_v2.uasset'
+[2022.04.21-17.08.07:145][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Gunshot_mix_3_v2" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Gunshot_mix_3_v2.uasset" SILENT=true
+[2022.04.21-17.08.07:146][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Gunshot_mix_3_v225A479084E30D0EC244E46B151FC191C.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Gunshot_mix_3_v2.uasset'
+[2022.04.21-17.08.07:148][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Mana_Full_sound" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Mana_Full_sound.uasset" SILENT=true
+[2022.04.21-17.08.07:150][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Mana_Full_sound8414AFB045E8D4A3C13B1EA343EB9035.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Mana_Full_sound.uasset'
+[2022.04.21-17.08.07:152][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Mana_Ticking_up" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Mana_Ticking_up.uasset" SILENT=true
+[2022.04.21-17.08.07:155][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Mana_Ticking_upC11436C34CC5AA120D4FBD9E31C6358B.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Mana_Ticking_up.uasset'
+[2022.04.21-17.08.07:158][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Metal_walking" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Metal_walking.uasset" SILENT=true
+[2022.04.21-17.08.07:162][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Metal_walking06B50FC2499F7FF0EC646AAFF80FB167.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Metal_walking.uasset'
+[2022.04.21-17.08.07:165][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Player_Damaged_sound" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Player_Damaged_sound.uasset" SILENT=true
+[2022.04.21-17.08.07:166][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Player_Damaged_sound1863FEEA47F81EC3528F1DA3DDB0941C.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Player_Damaged_sound.uasset'
+[2022.04.21-17.08.07:168][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_effects/Wood_footsteps" FILE="D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Wood_footsteps.uasset" SILENT=true
+[2022.04.21-17.08.07:172][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Wood_footstepsEDDC9E574F98A646463D1C94A9EFEF67.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Wood_footsteps.uasset'
+[2022.04.21-17.08.07:177][674]LogSavePackage: Moving 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Saved/Player_Damaged_sound_Cue549617E545F65C9175988A8397BCA889.tmp' to 'D:/GitKraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0/Content/Sound_effects/Sound_Cues/Player_Damaged_sound_Cue.uasset'
+[2022.04.21-17.08.07:215][674]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating AnimSequence /Game/ANI_TESTS/hit_reaction.hit_reaction
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Wood_footsteps.Wood_footsteps
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Player_Damaged_sound.Player_Damaged_sound
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Metal_walking.Metal_walking
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Mana_Ticking_up.Mana_Ticking_up
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Mana_Full_sound.Mana_Full_sound
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Gunshot_mix_3_v2.Gunshot_mix_3_v2
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Explosion_v2.Explosion_v2
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Electric_Sparking.Electric_Sparking
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Electric_punch.Electric_punch
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Electric_punch__2.Electric_punch__2
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Electric_punch_.Electric_punch_
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Electric_flow.Electric_flow
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Dirt_Walking.Dirt_Walking
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Chain_return.Chain_return
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Chain_fired_sound.Chain_fired_sound
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundWave /Game/Sound_effects/Aim_Down_Site_sound.Aim_Down_Site_sound
+[2022.04.21-17.08.07:215][674]LogContentValidation: Display: Validating SoundCue /Game/Sound_effects/Sound_Cues/Player_Damaged_sound_Cue.Player_Damaged_sound_Cue
+[2022.04.21-17.22.45:729][328]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{bdfb5703-24e9-4036-8678-96abea881d5e}.
+[2022.04.21-17.22.45:733][328]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.21-17.22.45:828][328]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-17.22.45:828][328]LogAudioMixer: Display: 1: FrontRight
+>>>>>>> Stashed changes
