@@ -1382,3 +1382,100 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.25-16.13.52:811][425]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/MT_LampLight_Bulb_BaseColor5A9406024A6547719B755586D3AC4F81.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/Textures/LampLight_Textures/MT_LampLight_Bulb_BaseColor.uasset'
 [2022.04.25-16.13.52:819][425]AssetCheck: New page: Asset Save: MT_LampLight_Bulb_BaseColor
 [2022.04.25-16.13.52:819][425]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/LampLight_Textures/MT_LampLight_Bulb_BaseColor.MT_LampLight_Bulb_BaseColor
+[2022.04.25-16.16.18:255][971]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\PlugNPlay 2022\MT_LampLight.fbx)
+[2022.04.25-16.16.18:403][971]LogFbx: Loading FBX Scene from E:\PlugNPlay 2022\MT_LampLight.fbx
+[2022.04.25-16.16.18:427][971]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.25-16.16.22:619][971]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.25-16.16.22:705][971]LogFbx: Display: Triangulating static mesh Screw40
+[2022.04.25-16.16.23:058][971]LogStaticMesh: Display: Building static mesh MT_LampLight...
+[2022.04.25-16.16.23:248][971]LogStaticMesh: Built static mesh [0.19s] /Game/Meshes/MT_LampLight.MT_LampLight
+[2022.04.25-16.16.23:748][971]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/MT_LampLight) ...
+[2022.04.25-16.16.23:763][971]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(210)].
+[2022.04.25-16.16.27:457][235]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/MT_LampLight.MT_LampLight
+[2022.04.25-16.16.27:570][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.25-16.16.29:759][384]LogSlate: Took 0.009242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.25-16.16.37:167][219]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/MT_LampLight) ...
+[2022.04.25-16.16.43:864][969]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/MT_LampLight) ...
+[2022.04.25-16.16.50:178][663]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/MT_LampLight) ...
+[2022.04.25-16.16.54:192][ 95]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/MT_LampLight) ...
+[2022.04.25-16.17.38:904][326]LogMaterial: Display: Missing cached shadermap for Preview:M_LampLightMetal1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: C97E4620C30E817D69A8E8B7376C58E39AE7788C), compiling. 
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: ================================================
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Total job queries 452, among them cache hits 234 (51.77%)
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Tracking 194 distinct input hashes that result in 35 distinct outputs (18.04%)
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Shaders Compiled: 106
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Jobs assigned 194, completed 194 (100.00%)
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Average time worker was idle: 9.68 s
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Time job spent in pending queue: average 0.39 s, longest 4.41 s
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Job execution time: average 1.87 s, max 7.49 s
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Job life time (pending + execution): average 2.27 s, max 9.07
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 46.31 s
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Jobs were issued in 166 batches (only local compilation was used), average 1.17 jobs/batch
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Average processing rate: 4.19 jobs/sec
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Effective parallelization: 4.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 1.65 sec, max 2.63 sec, min 1.37 sec)
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 1.51 sec, max 1.83 sec, min 1.25 sec)
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 1.50 sec, max 1.73 sec, min 1.32 sec)
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    7 times, average 1.46 sec, max 1.84 sec, min 1.27 sec)
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    7 times, average 1.41 sec, max 1.63 sec, min 1.25 sec)
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.21% of total time (compiled   29 times, average 0.94 sec, max 1.60 sec, min 0.79 sec)
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.23% of total time (compiled   29 times, average 0.87 sec, max 1.34 sec, min 0.71 sec)
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.39% of total time (compiled   26 times, average 0.91 sec, max 1.89 sec, min 0.76 sec)
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.03% of total time (compiled    7 times, average 1.65 sec, max 2.63 sec, min 1.37 sec)
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.52% of total time (compiled    7 times, average 1.51 sec, max 1.83 sec, min 1.25 sec)
+[2022.04.25-16.17.38:916][327]LogShaderCompilers: Display: ================================================
+[2022.04.25-16.17.41:753][634]LogMaterial: Display: Missing cached shadermap for Preview:M_LampLightMetal1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: E8D5E5DEB855123AC237FD1FDD17200298CB0CF5), compiling. 
+[2022.04.25-16.17.41:753][634]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_LampLightMetal1_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Linear Color, should be Color for /Game/Materials/Textures/LampLight_Textures/MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic.MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic
+
+[2022.04.25-16.17.41:755][634]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9536FAEB8E28FF952E1746D6ED2676EFF5886611), compiling. 
+[2022.04.25-16.17.41:757][634]LogMaterial: Display: Missing cached shadermap for Preview:M_LampLightMetal1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 346C873BAD0A370F60A3E6119AC2202DA5D0F73D), compiling. 
+[2022.04.25-16.17.41:757][634]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_LampLightMetal1_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Linear Color, should be Color for /Game/Materials/Textures/LampLight_Textures/MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic.MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic
+
+[2022.04.25-16.17.41:761][634]MaterialEditorStats: Error: [SM5] (Node TextureSample) Sampler type is Linear Color, should be Color for /Game/Materials/Textures/LampLight_Textures/MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic.MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic
+[2022.04.25-16.17.58:960][460]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Textures/LampLight_Textures/MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic.MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic
+[2022.04.25-16.17.59:012][460]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.04.25-16.18.06:419][320]LogMaterial: Display: Missing cached shadermap for M_LampLightMetal1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: D3D6B3931DC05129F40C4E6499EA905919F73DD2), compiling. 
+[2022.04.25-16.18.06:419][320]LogMaterial: Warning: [AssetLog] C:\Users\Pizza\Desktop\PLUGNPLAY\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0 5.0\Content\Materials\M_LampLight\M_LampLightMetal1_3.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Linear Color for /Game/Materials/Textures/LampLight_Textures/MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic.MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic
+
+[2022.04.25-16.18.06:458][321]LogTexture: Display: Building textures: /Game/Materials/Textures/LampLight_Textures/MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic.MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.04.25-16.18.13:690][128]LogSavePackage: Moving output files for package: /Game/Materials/Textures/LampLight_Textures/MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic
+[2022.04.25-16.18.13:690][128]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/MT_LampLight_RustyMetalT3_Occlus332A88A943ABF7C04DF9DEA21AFE62C8.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/Textures/LampLight_Textures/MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic.uasset'
+[2022.04.25-16.18.13:698][128]AssetCheck: New page: Asset Save: MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic
+[2022.04.25-16.18.13:698][128]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/LampLight_Textures/MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic.MT_LampLight_RustyMetalT3_OcclusionRoughnessMetallic
+[2022.04.25-16.18.18:671][657]LogMaterialEditor: Applying material M_LampLightMetal1_3
+[2022.04.25-16.18.23:529][657]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2022.04.25-16.18.23:868][657]LogMaterial: Display: Missing cached shadermap for Preview:M_LampLightMetal1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 526DCA5BC6EC1DB6EADD6A25EBA0BC0DD1DB93A8), compiling. 
+[2022.04.25-16.18.23:883][657]LogMaterial: Display: Missing cached shadermap for M_LampLightMetal1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 9D805430E33703A33D7A3A4C5005D0D52F33C089), compiling. 
+[2022.04.25-16.18.23:972][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.25-16.18.25:339][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.04.25-16.18.25:344][657]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.25-16.18.25:344][657]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.25-16.18.25:344][657]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.25-16.18.25:344][657]MaterialEditorStats: Shader Count: 6
+[2022.04.25-16.18.28:092][912]LogMaterialEditor: Saving and Compiling material M_LampLightMetal1_3
+[2022.04.25-16.18.30:232][912]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.04.25-16.18.30:243][912]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001049s (0.076425s overbudget)
+[2022.04.25-16.18.30:269][912]LogSavePackage: Moving output files for package: /Game/Materials/M_LampLight/M_LampLightMetal1_3
+[2022.04.25-16.18.30:269][912]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/M_LampLightMetal1_3DF78499341C1E4E4A9ECFFBCD11D964D.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/M_LampLight/M_LampLightMetal1_3.uasset'
+[2022.04.25-16.18.30:278][912]AssetCheck: New page: Asset Save: M_LampLightMetal1_3
+[2022.04.25-16.18.30:278][912]LogContentValidation: Display: Validating Material /Game/Materials/M_LampLight/M_LampLightMetal1_3.M_LampLightMetal1_3
+[2022.04.25-16.18.30:279][912]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.04.25-16.18.30:279][912]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.04.25-16.18.30:279][912]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.25-16.18.30:279][912]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.25-16.18.30:279][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.25-16.18.30:279][912]MaterialEditorStats: Shader Count: 16
+[2022.04.25-16.18.54:854][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/MT_LampLight" FILE="C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/MT_LampLight.uasset" SILENT=true
+[2022.04.25-16.18.54:892][745]LogSavePackage: Moving output files for package: /Game/Meshes/MT_LampLight
+[2022.04.25-16.18.54:892][745]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/MT_LampLight0DC0F8E44A9E8C0C2D38A4AA873E7C39.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/MT_LampLight.uasset'
+[2022.04.25-16.18.54:900][745]AssetCheck: New page: Asset Save: MT_LampLight
+[2022.04.25-16.18.54:900][745]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/MT_LampLight.MT_LampLight
+[2022.04.25-16.18.58:962][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.04.25-16.19.11:888][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
