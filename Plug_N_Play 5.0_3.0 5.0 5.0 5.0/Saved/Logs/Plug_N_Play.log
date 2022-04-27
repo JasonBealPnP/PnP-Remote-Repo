@@ -2146,3 +2146,299 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.27-17.02.25:066][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
 [2022.04.27-17.02.25:103][446]LogPlayLevel: Display: Destroying online subsystem :Context_24
 [2022.04.27-17.02.27:811][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.04.27-17.06.56:792][382]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.06.56:792][382]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.06.56:794][382]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_31
+[2022.04.27-17.06.56:795][382]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_31
+[2022.04.27-17.06.58:465][538]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.06.58:465][538]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.06.58:468][538]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_32
+[2022.04.27-17.06.58:469][538]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_32
+[2022.04.27-17.08.23:862][682]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.08.23:863][682]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.08.23:864][682]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_33
+[2022.04.27-17.08.23:865][682]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_33
+[2022.04.27-17.08.29:547][272]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.08.29:547][272]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.08.29:549][272]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_34
+[2022.04.27-17.08.29:550][272]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_34
+[2022.04.27-17.08.33:766][723]Cmd: TRANSACTION UNDO
+[2022.04.27-17.08.33:799][723]LogEditorTransaction: Undo Rotate Elements
+[2022.04.27-17.09.19:293][217]Cmd: SELECT NONE
+[2022.04.27-17.09.43:282][560]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.09.43:282][560]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.09.43:284][560]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_35
+[2022.04.27-17.09.43:284][560]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_35
+[2022.04.27-17.09.46:109][884]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.09.46:109][884]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.09.46:111][884]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_36
+[2022.04.27-17.09.46:112][884]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_36
+[2022.04.27-17.10.31:060][964]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.10.31:060][964]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.10.31:062][964]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_37
+[2022.04.27-17.10.31:063][964]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_37
+[2022.04.27-17.10.34:932][219]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.10.34:932][219]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.10.34:935][219]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_38
+[2022.04.27-17.10.34:936][219]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_38
+[2022.04.27-17.10.46:816][ 67]Cmd: TRANSACTION UNDO
+[2022.04.27-17.10.46:816][ 67]LogEditorTransaction: Undo Rotate Elements
+[2022.04.27-17.10.47:341][ 77]Cmd: TRANSACTION UNDO
+[2022.04.27-17.10.47:341][ 77]LogEditorTransaction: Undo Rotate Elements
+[2022.04.27-17.11.23:984][406]Cmd: DELETE
+[2022.04.27-17.11.23:984][406]Cmd: ACTOR DELETE
+[2022.04.27-17.11.24:029][406]LogUObjectGlobals: Warning: Guid referenced by Landscape /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0 is already used by Landscape /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:029][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_18 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_18, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:029][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_19 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_19, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:029][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_20 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_20, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:029][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_21 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_21, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:029][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_22 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_22, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:029][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_26 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_26, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:029][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_27 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_27, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:029][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_28 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_28, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:029][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_29 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_29, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:029][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_30 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_30, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:029][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_34 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_34, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:029][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_35 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_35, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_36 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_36, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_37 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_37, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_38 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_38, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_42 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_42, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_43 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_43, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_44 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_44, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_45 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_45, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_46 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_46, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_50 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_50, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_51 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_51, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_52 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_52, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_53 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_53, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_54 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_54, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_100 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_100, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_101 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_101, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_102 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_102, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_106 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_106, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_107 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_107, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_108 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_108, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_109 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_109, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_110 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_110, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_114 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_114, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_115 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_115, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_116 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_116, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:030][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_117 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_117, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:031][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_118 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_118, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:031][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_82 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_82, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:031][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_83 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_83, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:031][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_84 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_84, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:031][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_85 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_85, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:031][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_86 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_86, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:031][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_90 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_90, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:031][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_91 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_91, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:031][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_92 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_92, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:031][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_93 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_93, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:031][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_94 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_94, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:031][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_98 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_98, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:031][406]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_99 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_99, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.27-17.11.24:167][406]LogEditorActor: Deleted Actor: FlickerLightBP_C
+[2022.04.27-17.11.24:257][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.04.27-17.11.24:258][406]LogEditorActor: Deleted 1 Actors (0.273 secs)
+[2022.04.27-17.11.40:863][ 33]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.11.40:863][ 33]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.11.40:865][ 33]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_39
+[2022.04.27-17.11.40:866][ 33]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_39
+[2022.04.27-17.11.43:203][238]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.11.43:203][238]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.11.43:206][238]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_40
+[2022.04.27-17.11.43:207][238]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_40
+[2022.04.27-17.11.46:164][566]Cmd: TRANSACTION UNDO
+[2022.04.27-17.11.46:164][566]LogEditorTransaction: Undo Rotate Elements
+[2022.04.27-17.12.17:395][191]Cmd: DELETE
+[2022.04.27-17.12.17:395][191]Cmd: ACTOR DELETE
+[2022.04.27-17.12.17:413][191]LogEditorActor: Deleted Actor: FlickerLightBP_2_C
+[2022.04.27-17.12.17:448][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.04.27-17.12.17:449][191]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.04.27-17.12.42:938][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.04.27-17.12.43:154][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3
+[2022.04.27-17.12.43:155][415]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMap_Auto3F1C529D54941DFA7A869B483DB832C75.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2022.04.27-17.12.43:161][415]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.247
+[2022.04.27-17.12.43:161][415]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.247
+[2022.04.27-17.13.06:623][999]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.13.06:623][999]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.13.06:624][999]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_41
+[2022.04.27-17.13.06:625][999]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_41
+[2022.04.27-17.13.13:550][715]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.13.13:550][715]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FlickerLightBP_2.FlickerLightBP_2_C
+[2022.04.27-17.13.13:553][715]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_42
+[2022.04.27-17.13.13:553][715]LogActorFactory: Actor Factory spawned Blueprint /Game/FlickerLightBP_2.FlickerLightBP_2 as actor: FlickerLightBP_2_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FlickerLightBP_2_C_42
+[2022.04.27-17.14.37:830][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.04.27-17.14.37:904][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.04.27-17.14.38:134][394]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.04.27-17.14.38:134][394]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMapB285FB3949FF69B648F896B408615542.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-17.14.38:145][394]LogFileHelpers: No new changes to save!
+[2022.04.27-17.14.38:145][394]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.266
+[2022.04.27-17.14.38:158][394]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.27-17.14.38:158][394]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-17.15.51:168][351]BlueprintLog: New page: Compile FlickerLightBP
+[2022.04.27-17.15.51:239][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.04.27-17.15.52:002][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlickerLightBP" FILE="C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FlickerLightBP.uasset" SILENT=true
+[2022.04.27-17.15.52:008][421]LogSavePackage: Moving output files for package: /Game/FlickerLightBP
+[2022.04.27-17.15.52:009][421]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FlickerLightBP8D6866674CB251C85C08B3B2B202D82E.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FlickerLightBP.uasset'
+[2022.04.27-17.15.52:023][421]AssetCheck: New page: Asset Save: FlickerLightBP
+[2022.04.27-17.15.52:023][421]LogContentValidation: Display: Validating Blueprint /Game/FlickerLightBP.FlickerLightBP
+[2022.04.27-17.15.54:888][648]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.27-17.15.54:894][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-17.15.54:895][648]PIE: New page: PIE session: FirstPersonExampleMap (Apr 27, 2022, 9:15:54 AM)
+[2022.04.27-17.15.54:895][648]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-17.15.54:974][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078663s)
+[2022.04.27-17.15.54:974][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.078762s)
+[2022.04.27-17.15.54:974][648]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.27-17.15.54:974][648]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-17.15.54:974][648]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-17.15.54:975][648]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2022.04.27-17.15.54:999][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.04.27-17.15.55:001][648]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.04.27-17.15.55:001][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-17.15.55:001][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-17.15.55:001][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-17.15.55:001][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-17.15.55:001][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-17.15.55:001][648]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.27-17.15.55:001][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-17.15.55:001][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-17.15.55:001][648]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-17.15.55:001][648]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-17.15.55:001][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-17.15.55:003][648]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.27-17.15.55:019][648]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.27-17.15.55:019][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-17.15.55:020][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-17.15.55:020][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-17.15.55:020][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2022.04.27-17.15.55:020][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2022.04.27-17.15.55:021][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2022.04.27-17.15.55:021][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2022.04.27-17.15.55:021][648]LogInit: FAudioDevice initialized.
+[2022.04.27-17.15.55:021][648]LogAudio: Display: Audio Device (ID: 17) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-17.15.55:030][648]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-17.15.55:061][648]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.27-13.15.55
+[2022.04.27-17.15.55:065][648]LogWorld: Bringing up level for play took: 0.034822
+[2022.04.27-17.15.55:066][648]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2022.04.27-17.15.55:072][648]PIE: Server logged in
+[2022.04.27-17.15.55:073][648]PIE: Play in editor total start time 0.178 seconds.
+[2022.04.27-17.15.57:288][796]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.27-17.15.57:783][834]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-17.15.57:902][843]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.27-17.15.58:795][905]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.27-17.15.59:802][977]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.27-17.16.00:806][ 52]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.04.27-17.16.24:890][ 59]LogBlueprintUserMessages: [NPC_2_adv_C_10] 85.0
+[2022.04.27-17.16.24:892][ 59]LogBlueprintUserMessages: [NPC_2_AI_C_2] HELOOOOOOOO
+[2022.04.27-17.16.25:182][ 83]LogBlueprintUserMessages: [NPC_2_adv_C_10] 10.0
+[2022.04.27-17.16.25:512][112]LogBlueprintUserMessages: [NPC_2_adv_C_10] 0.0
+[2022.04.27-17.16.25:889][143]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.27-17.16.26:901][215]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.27-17.16.27:912][281]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-17.16.28:913][350]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.27-17.16.29:916][426]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.27-17.16.30:925][514]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.04.27-17.16.46:797][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-17.16.46:797][697]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-17.16.46:797][697]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-17.16.46:801][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-17.16.46:819][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-17.16.46:825][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-17.16.46:849][697]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-17.16.46:854][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.04.27-17.16.46:855][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.04.27-17.16.46:858][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-17.16.46:873][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.04.27-17.16.46:920][698]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.04.27-17.16.53:298][180]LogTurnkeySupport: Display: Adding device menu item for CYBERPOWERPCMT
+[2022.04.27-17.16.55:785][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-17.16.55:785][361]PIE: New page: SIE session: FirstPersonExampleMap (Apr 27, 2022, 9:16:55 AM)
+[2022.04.27-17.16.55:785][361]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-17.16.55:871][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084987s)
+[2022.04.27-17.16.55:871][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.085052s)
+[2022.04.27-17.16.55:871][361]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.27-17.16.55:871][361]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-17.16.55:871][361]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-17.16.55:871][361]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2022.04.27-17.16.55:894][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.04.27-17.16.55:897][361]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.04.27-17.16.55:897][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-17.16.55:897][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-17.16.55:897][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-17.16.55:897][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-17.16.55:897][361]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-17.16.55:897][361]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.27-17.16.55:897][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-17.16.55:897][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-17.16.55:897][361]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-17.16.55:897][361]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-17.16.55:897][361]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-17.16.55:899][361]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.27-17.16.55:912][361]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.27-17.16.55:913][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-17.16.55:913][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-17.16.55:913][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-17.16.55:913][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2022.04.27-17.16.55:913][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2022.04.27-17.16.55:914][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2022.04.27-17.16.55:914][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2022.04.27-17.16.55:914][361]LogInit: FAudioDevice initialized.
+[2022.04.27-17.16.55:914][361]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-17.16.55:928][361]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-17.16.55:961][361]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.27-13.16.55
+[2022.04.27-17.16.55:964][361]LogWorld: Bringing up level for play took: 0.036091
+[2022.04.27-17.16.55:965][361]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2022.04.27-17.16.55:971][361]PIE: Server logged in
+[2022.04.27-17.16.55:972][361]PIE: Play in editor total start time 0.187 seconds.
+[2022.04.27-17.17.25:865][750]LogAudio: Warning: Detected orphaned looping sound 'Generator_Hum_Cue'.
+[2022.04.27-17.17.27:487][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-17.17.27:487][866]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-17.17.27:488][866]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-17.17.27:494][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-17.17.27:506][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-17.17.27:511][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-17.17.27:541][866]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-17.17.27:541][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.04.27-17.17.27:542][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.04.27-17.17.27:545][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-17.17.27:556][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.04.27-17.17.27:591][867]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.04.27-17.17.30:997][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.04.27-17.17.31:071][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.27-17.17.31:285][ 58]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.04.27-17.17.31:286][ 58]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMap29ABFA6B4681CEE698F224822D8584E2.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-17.17.31:296][ 58]LogFileHelpers: No new changes to save!
+[2022.04.27-17.17.31:296][ 58]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.249
+[2022.04.27-17.17.38:221][ 58]LogSlate: Window 'Save Level As' being destroyed
+[2022.04.27-17.17.38:242][ 58]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.27-17.17.38:242][ 58]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-17.17.40:821][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.04.27-17.17.42:456][206]LogSlate: Window 'Save Level As' being destroyed
+[2022.04.27-17.17.46:655][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.27-17.17.46:873][492]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.04.27-17.17.46:873][492]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMapE577A517481EC8906FFF95B7E412E238.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-17.17.46:882][492]LogFileHelpers: No new changes to save!
+[2022.04.27-17.17.46:902][492]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.27-17.17.46:902][492]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-17.17.48:967][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.27-17.18.09:841][642]LogSlate: Window 'Save Level As' being destroyed
+[2022.04.27-17.18.10:165][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.04.27-17.18.10:381][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-17.18.10:514][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.04.27-17.18.10:723][642]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/Untitled4
+[2022.04.27-17.18.10:723][642]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Untitled4383EE7524FE3C980BCCCA78B40D69D6F.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/Untitled4.umap'
+[2022.04.27-17.18.10:785][642]LogFileHelpers: Saving map 'Untitled4' took 0.939
+[2022.04.27-17.18.15:097][642]LogSlate: Window 'Save Level As' being destroyed
+[2022.04.27-17.18.15:349][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.04.27-17.18.15:558][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-17.18.15:676][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.04.27-17.18.15:880][642]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/Untitled5
+[2022.04.27-17.18.15:880][642]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Untitled5276604C944342C46C3682C9876AF0F62.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/Untitled5.umap'
+[2022.04.27-17.18.15:944][642]LogFileHelpers: Saving map 'Untitled5' took 0.841
+[2022.04.27-17.18.15:964][642]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-17.18.15:964][642]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Untitled5.Untitled5
+[2022.04.27-17.18.15:964][642]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Untitled4.Untitled4
+[2022.04.27-17.18.21:504][999]LogTurnkeySupport: Display: Adding device menu item for CYBERPOWERPCMT
+[2022.04.27-17.18.58:041][998]Cmd: SELECT NONE
