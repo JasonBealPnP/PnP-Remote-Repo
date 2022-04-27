@@ -2535,3 +2535,964 @@ Recommended: 511.79
 [2022.04.27-02.49.44:369][969]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenu39B5FBFE42C52D09AFD6068525D2B78B.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset'
 [2022.04.27-02.49.44:387][969]AssetCheck: New page: Asset Save: PauseMenu
 [2022.04.27-02.49.44:388][969]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.04.27-02.50.53:879][129]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\Ball and Chain Icon.png)
+[2022.04.27-02.50.53:929][129]LogTexture: Display: Building textures: /Game/UI/Assets/PauseMenu/Ball_and_Chain_Icon.Ball_and_Chain_Icon (BGRA8, 2400X1265 X1X1) (Required Memory Estimate: 57.907104 MB), EncodeSpeed: Fast
+[2022.04.27-02.50.53:929][129]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\Enemy Arm Icon.png)
+[2022.04.27-02.50.53:978][129]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2022.04.27-02.50.54:001][129]LogTexture: Display: Building textures: /Game/UI/Assets/PauseMenu/Enemy_Arm_Icon.Enemy_Arm_Icon (BGRA8, 2400X1265 X1X1) (Required Memory Estimate: 57.907104 MB), EncodeSpeed: Fast
+[2022.04.27-02.51.40:596][741]LogEditorTransaction: Undo Resize Widget
+[2022.04.27-02.51.53:254][191]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-02.51.53:328][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.04.27-02.51.53:870][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.04.27-02.51.53:876][247]LogSavePackage: Moving output files for package: /Game/UI/PauseMenu
+[2022.04.27-02.51.53:877][247]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenuFCC22D5C45D3BF71B88F36BF0558C206.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset'
+[2022.04.27-02.51.53:892][247]AssetCheck: New page: Asset Save: PauseMenu
+[2022.04.27-02.51.53:892][247]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.04.27-02.57.32:230][ 39]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-02.57.32:308][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.27-02.59.39:181][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.04.27-02.59.39:187][862]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.054
+[2022.04.27-02.59.39:187][862]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PauseMenu] ([2] browsable assets)...
+[2022.04.27-02.59.39:190][862]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PauseMenu.PauseMenu]
+[2022.04.27-02.59.39:190][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PauseMenu]
+[2022.04.27-02.59.39:190][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/PauseMenu_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.04.27-02.59.39:198][862]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/PauseMenu_Auto4
+[2022.04.27-02.59.39:198][862]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenu_Auto48E7052D040AA0630FD96E1856DCC24F1.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/PauseMenu_Auto4.uasset'
+[2022.04.27-02.59.39:200][862]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/PauseMenu/Ball_and_Chain_Icon] ([1] browsable assets)...
+[2022.04.27-02.59.39:200][862]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/PauseMenu/Ball_and_Chain_Icon.Ball_and_Chain_Icon]
+[2022.04.27-02.59.39:200][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/PauseMenu/Ball_and_Chain_Icon]
+[2022.04.27-02.59.39:218][862]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/PauseMenu/Ball_and_Chain_Icon_Auto4
+[2022.04.27-02.59.39:218][862]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Ball_and_Chain_Icon_Auto414BEDCE74DF9A267D3C89797E6A8B432.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/PauseMenu/Ball_and_Chain_Icon_Auto4.uasset'
+[2022.04.27-02.59.39:227][862]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/PauseMenu/Enemy_Arm_Icon] ([1] browsable assets)...
+[2022.04.27-02.59.39:227][862]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/PauseMenu/Enemy_Arm_Icon.Enemy_Arm_Icon]
+[2022.04.27-02.59.39:227][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/PauseMenu/Enemy_Arm_Icon]
+[2022.04.27-02.59.39:241][862]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/PauseMenu/Enemy_Arm_Icon_Auto4
+[2022.04.27-02.59.39:241][862]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Enemy_Arm_Icon_Auto483623FD948E8B91764A27DA3FA82B93F.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/PauseMenu/Enemy_Arm_Icon_Auto4.uasset'
+[2022.04.27-02.59.39:249][862]LogFileHelpers: Auto-saving content packages took 0.063
+[2022.04.27-03.00.15:951][807]LogEditorTransaction: Undo Resize Widget
+[2022.04.27-03.00.41:824][116]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.00.41:896][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.04.27-03.00.50:131][ 61]LogSlate: Window 'Widget Reflector' being destroyed
+[2022.04.27-03.00.50:135][ 61]LogSlate: Window 'Widget Reflector' being destroyed
+[2022.04.27-03.03.06:212][228]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/EnemyArm Silhouette's Outer Glow.png]
+[2022.04.27-03.03.06:212][228]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/EnemyArm Silhouette's Outer Glow.png)
+[2022.04.27-03.03.06:217][228]LogTexture: Display: Building textures: /Game/UI/Assets/PauseMenu/EnemyArm_Silhouette_s_Outer_Glow.EnemyArm_Silhouette_s_Outer_Glow (BGRA8, 416X234 X1X1) (Required Memory Estimate: 1.856689 MB), EncodeSpeed: Fast
+[2022.04.27-03.03.06:217][228]LogEditorFactories: -- imported successfully
+[2022.04.27-03.03.14:048][999]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.03.14:099][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.04.27-03.03.15:775][193]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.27-03.03.15:792][193]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.27-03.03.15:795][193]LogPlayLevel: [PlayLevel] Compiling UI before play...
+[2022.04.27-03.03.15:858][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.04.27-03.03.15:860][193]LogPlayLevel: PlayLevel: Blueprint regeneration took 68 ms (1 blueprints)
+[2022.04.27-03.03.15:864][193]PIE: New page: PIE session: FirstPersonExampleMap (Apr 26, 2022, 7:03:15 PM)
+[2022.04.27-03.03.15:871][193]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.04.27-03.03.15:872][193]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.27-03.03.15:872][193]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.03.15:975][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103336s)
+[2022.04.27-03.03.15:975][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.103431s)
+[2022.04.27-03.03.15:975][193]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.27-03.03.15:976][193]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-03.03.15:976][193]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-03.03.15:977][193]LogPlayLevel: PIE: World Init took: (0.001642s)
+[2022.04.27-03.03.16:021][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.04.27-03.03.16:022][193]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.27-03.03.16:022][193]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-03.03.16:022][193]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-03.03.16:022][193]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-03.03.16:022][193]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-03.03.16:022][193]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-03.03.16:022][193]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.27-03.03.16:022][193]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-03.03.16:022][193]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-03.03.16:023][193]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-03.03.16:023][193]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-03.03.16:023][193]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-03.03.16:025][193]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.27-03.03.16:041][193]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Jared’s AirPods Stereo)
+[2022.04.27-03.03.16:041][193]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-03.03.16:041][193]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-03.03.16:041][193]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-03.03.16:041][193]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.04.27-03.03.16:041][193]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.04.27-03.03.16:042][193]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.04.27-03.03.16:042][193]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.04.27-03.03.16:042][193]LogInit: FAudioDevice initialized.
+[2022.04.27-03.03.16:042][193]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-03.03.16:085][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.03.16:086][193]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-03.03.16:139][193]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.26-23.03.16
+[2022.04.27-03.03.16:156][193]LogWorld: Bringing up level for play took: 0.069272
+[2022.04.27-03.03.16:159][193]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.04.27-03.03.16:212][193]PIE: Server logged in
+[2022.04.27-03.03.16:213][193]PIE: Play in editor total start time 0.424 seconds.
+[2022.04.27-03.03.19:453][334]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.27-03.03.19:961][360]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-03.03.20:346][379]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.27-03.03.20:955][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.03.20:955][421]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.03.20:955][421]LogSlate: Window 'Plug_N_Play Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.04.27-03.03.20:963][421]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.03.20:969][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.03.20:984][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-03.03.20:995][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.03.21:050][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.04.27-03.03.21:052][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.04.27-03.03.21:120][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.04.27-03.03.21:156][422]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.04.27-03.03.26:253][995]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI.UI
+[2022.04.27-03.03.26:254][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-03.03.26:255][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-03.03.26:848][995]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.04.27-03.03.26:848][995]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.04.27-03.03.32:541][506]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.03.32:541][506]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.03.41:762][564]LogSlate: Window 'Reimport missing files' being destroyed
+[2022.04.27-03.03.41:769][564]Message dialog closed, result: Yes, title: Reimport missing files, text: There is 4 assets with missing source file path. Do you want to specify a new source file path for each asset?
+ "No" will skip the reimport of all asset with a missing source file path.
+ "Cancel" will cancel the whole reimport.
+
+Asset EmptyHP -> Missing file G:/Plug n Play/UI/Assets/EmptyHP.png
+Asset EmptyMP -> Missing file G:/Plug n Play/UI/Assets/EmptyMP.png
+Asset FullHP -> Missing file G:/Plug n Play/UI/Assets/FullHP.png
+Asset FullMP -> Missing file G:/Plug n Play/UI/Assets/FullMP.png
+[2022.04.27-03.04.11:356][564]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/EmptyHP.png]
+[2022.04.27-03.04.11:356][564]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/EmptyHP.png)
+[2022.04.27-03.04.11:362][564]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/EmptyHP.EmptyHP (BGRA8, 321X589 X1X1) (Required Memory Estimate: 3.606205 MB), EncodeSpeed: Fast
+[2022.04.27-03.04.11:362][564]LogEditorFactories: -- imported successfully
+[2022.04.27-03.04.11:367][564]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/EmptyMP.png]
+[2022.04.27-03.04.11:367][564]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/EmptyMP.png)
+[2022.04.27-03.04.11:373][564]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/EmptyMP.EmptyMP (BGRA8, 321X461 X1X1) (Required Memory Estimate: 2.822514 MB), EncodeSpeed: Fast
+[2022.04.27-03.04.11:373][564]LogEditorFactories: -- imported successfully
+[2022.04.27-03.04.11:385][564]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/FullHP.png]
+[2022.04.27-03.04.11:385][564]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/FullHP.png)
+[2022.04.27-03.04.11:391][564]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/FullHP.FullHP (BGRA8, 321X589 X1X1) (Required Memory Estimate: 3.606205 MB), EncodeSpeed: Fast
+[2022.04.27-03.04.11:391][564]LogEditorFactories: -- imported successfully
+[2022.04.27-03.04.11:402][564]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/FullMP.png]
+[2022.04.27-03.04.11:402][564]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/FullMP.png)
+[2022.04.27-03.04.11:407][564]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/FullMP.FullMP (BGRA8, 321X589 X1X1) (Required Memory Estimate: 3.606205 MB), EncodeSpeed: Fast
+[2022.04.27-03.04.11:407][564]LogEditorFactories: -- imported successfully
+[2022.04.27-03.05.52:273][959]LogDerivedDataCache: C:/Users/craigjd1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.387 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.27-03.06.26:435][463]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.06.26:435][463]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.06.27:253][531]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/FullMP.png]
+[2022.04.27-03.06.27:253][531]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/FullMP.png)
+[2022.04.27-03.06.27:259][531]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/FullMP.FullMP (BGRA8, 321X589 X1X1) (Required Memory Estimate: 3.606205 MB), EncodeSpeed: Fast
+[2022.04.27-03.06.27:259][531]LogEditorFactories: -- imported successfully
+[2022.04.27-03.06.27:275][531]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/EmptyMP.png]
+[2022.04.27-03.06.27:275][531]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/EmptyMP.png)
+[2022.04.27-03.06.27:281][531]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/EmptyMP.EmptyMP (BGRA8, 321X589 X1X1) (Required Memory Estimate: 3.606205 MB), EncodeSpeed: Fast
+[2022.04.27-03.06.27:281][531]LogEditorFactories: -- imported successfully
+[2022.04.27-03.06.57:593][404]LogEditorTransaction: Undo Wrap Widgets
+[2022.04.27-03.07.03:742][999]LogEditorTransaction: Undo Wrap Widgets
+[2022.04.27-03.07.42:029][525]BlueprintLog: New page: Compile UI
+[2022.04.27-03.07.42:163][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.04.27-03.07.42:815][594]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.27-03.07.42:824][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-03.07.42:824][594]PIE: New page: PIE session: FirstPersonExampleMap (Apr 26, 2022, 7:07:42 PM)
+[2022.04.27-03.07.42:824][594]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.07.42:926][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102219s)
+[2022.04.27-03.07.42:926][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.102307s)
+[2022.04.27-03.07.42:926][594]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.27-03.07.42:926][594]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-03.07.42:927][594]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-03.07.42:927][594]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2022.04.27-03.07.42:981][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.04.27-03.07.42:985][594]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.27-03.07.42:985][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-03.07.42:985][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-03.07.42:985][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-03.07.42:985][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-03.07.42:985][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-03.07.42:985][594]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.27-03.07.42:985][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-03.07.42:985][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-03.07.42:986][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-03.07.42:986][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-03.07.42:986][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-03.07.42:988][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.27-03.07.43:004][594]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Jared’s AirPods Stereo)
+[2022.04.27-03.07.43:004][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-03.07.43:004][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-03.07.43:004][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-03.07.43:005][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.04.27-03.07.43:005][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.04.27-03.07.43:006][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.04.27-03.07.43:006][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.04.27-03.07.43:006][594]LogInit: FAudioDevice initialized.
+[2022.04.27-03.07.43:006][594]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-03.07.43:033][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.07.43:033][594]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-03.07.43:083][594]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.26-23.07.43
+[2022.04.27-03.07.43:088][594]LogWorld: Bringing up level for play took: 0.054380
+[2022.04.27-03.07.43:090][594]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.04.27-03.07.43:099][594]PIE: Server logged in
+[2022.04.27-03.07.43:100][594]PIE: Play in editor total start time 0.276 seconds.
+[2022.04.27-03.07.45:056][679]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-03.07.45:514][711]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.27-03.07.46:069][750]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.27-03.07.46:168][757]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.27-03.07.46:688][796]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.27-03.07.47:081][826]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.27-03.07.48:090][901]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.27-03.07.49:099][981]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-03.07.50:101][ 59]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.27-03.07.51:081][138]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.27-03.07.51:106][140]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-03.07.52:110][220]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.27-03.07.52:472][247]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.27-03.07.53:110][291]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.27-03.07.54:117][360]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.27-03.07.55:120][427]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-03.07.56:134][502]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.27-03.07.57:141][576]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.27-03.07.58:146][649]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.04.27-03.07.58:193][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.07.58:193][650]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.07.58:194][650]LogSlate: Window 'Plug_N_Play Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.04.27-03.07.58:202][650]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.07.58:208][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.07.58:221][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-03.07.58:231][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.07.58:288][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.04.27-03.07.58:290][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.04.27-03.07.58:310][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.04.27-03.07.58:348][651]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.04.27-03.08.00:395][888]Launching UnrealBuildTool... [D:/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="D:/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.04.27-03.08.00:533][888]Launching UnrealBuildTool... [D:/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="D:/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.04.27-03.08.00:638][888]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2022.04.27-03.08.00:639][888]LogTurnkeySupport: Display: Adding device menu item for DMC28505
+[2022.04.27-03.08.00:640][888]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Plug_N_Play.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Intermediate/TurnkeyReport_1.log" -log="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Intermediate/TurnkeyLog_1.log" -project="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Plug_N_Play.uproject"  -Device=Win64@DMC28505'
+[2022.04.27-03.08.00:640][888]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Plug_N_Play.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Intermediate/TurnkeyReport_1.log" -log="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Intermediate/TurnkeyLog_1.log" -project="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Plug_N_Play.uproject"  -Device=Win64@DMC28505" ]
+[2022.04.27-03.08.00:755][895]LogTurnkeySupport: Completed device detection: Code = 9009
+[2022.04.27-03.08.02:479][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-03.08.02:479][ 76]PIE: New page: PIE session: FirstPersonExampleMap (Apr 26, 2022, 7:08:02 PM)
+[2022.04.27-03.08.02:479][ 76]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.08.02:581][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102116s)
+[2022.04.27-03.08.02:582][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.102203s)
+[2022.04.27-03.08.02:582][ 76]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.27-03.08.02:582][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-03.08.02:582][ 76]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-03.08.02:583][ 76]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2022.04.27-03.08.02:635][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.04.27-03.08.02:637][ 76]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.27-03.08.02:637][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-03.08.02:637][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-03.08.02:637][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-03.08.02:637][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-03.08.02:637][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-03.08.02:637][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.27-03.08.02:637][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-03.08.02:637][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-03.08.02:637][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-03.08.02:638][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-03.08.02:638][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-03.08.02:639][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.27-03.08.02:655][ 76]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Jared’s AirPods Stereo)
+[2022.04.27-03.08.02:655][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-03.08.02:655][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-03.08.02:655][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-03.08.02:655][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.04.27-03.08.02:655][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.04.27-03.08.02:657][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.04.27-03.08.02:657][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.04.27-03.08.02:657][ 76]LogInit: FAudioDevice initialized.
+[2022.04.27-03.08.02:657][ 76]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-03.08.02:700][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.08.02:701][ 76]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-03.08.02:750][ 76]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.26-23.08.02
+[2022.04.27-03.08.02:755][ 76]LogWorld: Bringing up level for play took: 0.053995
+[2022.04.27-03.08.02:757][ 76]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.04.27-03.08.02:766][ 76]PIE: Server logged in
+[2022.04.27-03.08.02:767][ 76]PIE: Play in editor total start time 0.288 seconds.
+[2022.04.27-03.08.06:863][284]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.27-03.08.07:868][342]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.04.27-03.08.09:233][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.08.09:233][422]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.08.09:234][422]LogSlate: Window 'Plug_N_Play Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.04.27-03.08.09:240][422]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.08.09:246][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.08.09:256][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-03.08.09:266][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.08.09:322][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-03.08.09:322][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.04.27-03.08.09:324][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.04.27-03.08.09:341][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.27-03.08.09:375][423]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.04.27-03.08.41:530][628]LogEditorTransaction: Undo Edit Bottom
+[2022.04.27-03.09.00:249][413]LogEditorTransaction: Undo Move Anchor
+[2022.04.27-03.09.52:013][421]BlueprintLog: New page: Compile UI
+[2022.04.27-03.09.52:088][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.04.27-03.10.12:437][683]BlueprintLog: New page: Compile UI
+[2022.04.27-03.10.12:510][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.04.27-03.10.21:695][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/UI.uasset" SILENT=true
+[2022.04.27-03.10.21:704][773]LogSavePackage: Moving output files for package: /Game/UI/UI
+[2022.04.27-03.10.21:705][773]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/UICB6247144E27ADCC66281B8FBC045F7F.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/UI.uasset'
+[2022.04.27-03.10.21:721][773]AssetCheck: New page: Asset Save: UI
+[2022.04.27-03.10.21:721][773]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI.UI
+[2022.04.27-03.10.51:205][  5]LogEditorTransaction: Undo Paste clipboard contents
+[2022.04.27-03.10.51:527][ 10]LogEditorTransaction: Undo Paste clipboard contents
+[2022.04.27-03.10.51:956][ 24]LogEditorTransaction: Undo Paste clipboard contents
+[2022.04.27-03.11.27:800][600]LogEditorTransaction: Undo Paste clipboard contents
+[2022.04.27-03.11.28:228][606]LogEditorTransaction: Undo Paste clipboard contents
+[2022.04.27-03.11.28:525][617]LogEditorTransaction: Undo Paste clipboard contents
+[2022.04.27-03.11.29:349][712]LogEditorTransaction: Undo Edit Bottom
+[2022.04.27-03.12.05:627][583]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.12.05:694][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.04.27-03.12.25:688][481]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Assets/PauseMenu/EnemyArm_Silhouette_s_Outer_Glow.EnemyArm_Silhouette_s_Outer_Glow
+[2022.04.27-03.12.25:688][481]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.04.27-03.13.30:338][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.04.27-03.13.30:342][167]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.064
+[2022.04.27-03.13.30:343][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/FullMP] ([1] browsable assets)...
+[2022.04.27-03.13.30:345][167]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/FullMP.FullMP]
+[2022.04.27-03.13.30:345][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/FullMP]
+[2022.04.27-03.13.30:347][167]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/FullMP_Auto5
+[2022.04.27-03.13.30:347][167]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullMP_Auto5D6B2E829455ADDCEE40E82A0E8A288D4.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/FullMP_Auto5.uasset'
+[2022.04.27-03.13.30:349][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/EmptyHP] ([1] browsable assets)...
+[2022.04.27-03.13.30:350][167]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/EmptyHP.EmptyHP]
+[2022.04.27-03.13.30:350][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/EmptyHP]
+[2022.04.27-03.13.30:353][167]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/EmptyHP_Auto5
+[2022.04.27-03.13.30:353][167]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/EmptyHP_Auto5AFE244AD4D685EF8624C1181F9AC96BF.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/EmptyHP_Auto5.uasset'
+[2022.04.27-03.13.30:354][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/EmptyMP] ([1] browsable assets)...
+[2022.04.27-03.13.30:355][167]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/EmptyMP.EmptyMP]
+[2022.04.27-03.13.30:355][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/EmptyMP]
+[2022.04.27-03.13.30:357][167]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/EmptyMP_Auto5
+[2022.04.27-03.13.30:358][167]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/EmptyMP_Auto5D82E965E410DAA9F92D6A195CEF29ACA.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/EmptyMP_Auto5.uasset'
+[2022.04.27-03.13.30:359][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/FullHP] ([1] browsable assets)...
+[2022.04.27-03.13.30:360][167]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/FullHP.FullHP]
+[2022.04.27-03.13.30:360][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/FullHP]
+[2022.04.27-03.13.30:363][167]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/FullHP_Auto5
+[2022.04.27-03.13.30:363][167]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullHP_Auto585F4593D402A73E62DFE0E90F8A2FF4D.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/FullHP_Auto5.uasset'
+[2022.04.27-03.13.30:365][167]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PauseMenu] ([2] browsable assets)...
+[2022.04.27-03.13.30:368][167]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PauseMenu.PauseMenu]
+[2022.04.27-03.13.30:368][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PauseMenu]
+[2022.04.27-03.13.30:368][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/PauseMenu_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.04.27-03.13.30:376][167]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/PauseMenu_Auto5
+[2022.04.27-03.13.30:376][167]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenu_Auto51E60547441E39A79710FA0947796A92E.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/PauseMenu_Auto5.uasset'
+[2022.04.27-03.13.30:377][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/PauseMenu/EnemyArm_Silhouette_s_Outer_Glow] ([1] browsable assets)...
+[2022.04.27-03.13.30:379][167]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/PauseMenu/EnemyArm_Silhouette_s_Outer_Glow.EnemyArm_Silhouette_s_Outer_Glow]
+[2022.04.27-03.13.30:379][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/PauseMenu/EnemyArm_Silhouette_s_Outer_Glow]
+[2022.04.27-03.13.30:381][167]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/PauseMenu/EnemyArm_Silhouette_s_Outer_Glow_Auto5
+[2022.04.27-03.13.30:381][167]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/EnemyArm_Silhouette_s_Outer_Glow5EFEB2F54A164A4DF1698499AD179D77.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/PauseMenu/EnemyArm_Silhouette_s_Outer_Glow_Auto5.uasset'
+[2022.04.27-03.13.30:382][167]LogFileHelpers: Auto-saving content packages took 0.040
+[2022.04.27-03.14.01:672][ 34]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.14.01:672][ 34]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.14.03:106][192]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/EnemyArm Silhouette's Outer Glow.png]
+[2022.04.27-03.14.03:106][192]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/EnemyArm Silhouette's Outer Glow.png)
+[2022.04.27-03.14.03:110][192]LogTexture: Display: Building textures: /Game/UI/Assets/PauseMenu/EnemyArm_Silhouette_s_Outer_Glow.EnemyArm_Silhouette_s_Outer_Glow (BGRA8, 416X181 X1X1) (Required Memory Estimate: 1.436157 MB), EncodeSpeed: Fast
+[2022.04.27-03.14.03:110][192]LogEditorFactories: -- imported successfully
+[2022.04.27-03.14.46:027][907]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.14.46:106][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.27-03.16.04:399][937]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.27-03.16.04:944][971]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2022.04.27-03.16.04:945][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-03.17.22:721][559]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.27-03.19.49:180][861]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.04.27-03.19.49:285][861]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.04.27-03.20.44:226][739]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview
+[2022.04.27-03.20.44:226][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-03.20.46:629][941]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.20.46:629][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.20.51:215][430]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.27-03.20.51:215][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-03.22.21:126][199]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.27-03.22.27:647][862]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.27-03.22.27:929][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.04.27-03.22.33:693][383]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2022.04.27-03.22.33:899][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.27-03.22.35:185][508]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.22.35:185][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.23.48:441][800]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.27-03.23.48:705][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.27-03.25.04:082][ 55]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.27-03.25.04:363][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.04.27-03.25.08:555][409]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.04.27-03.25.08:564][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-03.25.08:564][409]PIE: New page: PIE session: FirstPersonExampleMap (Apr 26, 2022, 7:25:08 PM)
+[2022.04.27-03.25.08:564][409]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.25.08:666][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101237s)
+[2022.04.27-03.25.08:666][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.101331s)
+[2022.04.27-03.25.08:666][409]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.27-03.25.08:666][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-03.25.08:666][409]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-03.25.08:667][409]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2022.04.27-03.25.08:731][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.04.27-03.25.08:736][409]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.27-03.25.08:736][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-03.25.08:736][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-03.25.08:736][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-03.25.08:736][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-03.25.08:736][409]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-03.25.08:736][409]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.27-03.25.08:736][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-03.25.08:736][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-03.25.08:737][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-03.25.08:737][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-03.25.08:737][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-03.25.08:739][409]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.27-03.25.08:756][409]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Jared’s AirPods Stereo)
+[2022.04.27-03.25.08:756][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-03.25.08:756][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-03.25.08:756][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-03.25.08:757][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.04.27-03.25.08:757][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.04.27-03.25.08:759][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.04.27-03.25.08:759][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.04.27-03.25.08:759][409]LogInit: FAudioDevice initialized.
+[2022.04.27-03.25.08:759][409]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-03.25.08:788][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.25.08:788][409]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-03.25.08:841][409]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.26-23.25.08
+[2022.04.27-03.25.08:846][409]LogWorld: Bringing up level for play took: 0.057546
+[2022.04.27-03.25.08:848][409]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.04.27-03.25.08:874][409]PIE: Server logged in
+[2022.04.27-03.25.08:892][409]PIE: Play in editor total start time 0.329 seconds.
+[2022.04.27-03.25.10:764][476]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.27-03.25.10:937][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.25.10:937][482]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.25.10:938][482]LogSlate: Window 'Plug_N_Play Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.04.27-03.25.10:950][482]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.25.10:955][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.25.10:971][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-03.25.10:981][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.25.11:046][482]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-03.25.11:047][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.04.27-03.25.11:048][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.04.27-03.25.11:067][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.04.27-03.25.11:111][483]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.04.27-03.25.15:123][875]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.04.27-03.25.15:133][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-03.25.15:133][875]PIE: New page: PIE session: FirstPersonExampleMap (Apr 26, 2022, 7:25:15 PM)
+[2022.04.27-03.25.15:133][875]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.25.15:234][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100643s)
+[2022.04.27-03.25.15:235][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.100737s)
+[2022.04.27-03.25.15:235][875]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.27-03.25.15:235][875]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-03.25.15:235][875]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-03.25.15:236][875]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2022.04.27-03.25.15:295][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.04.27-03.25.15:297][875]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.27-03.25.15:297][875]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-03.25.15:297][875]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-03.25.15:297][875]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-03.25.15:297][875]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-03.25.15:297][875]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-03.25.15:297][875]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.27-03.25.15:297][875]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-03.25.15:297][875]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-03.25.15:297][875]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-03.25.15:297][875]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-03.25.15:297][875]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-03.25.15:299][875]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.27-03.25.15:315][875]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Jared’s AirPods Stereo)
+[2022.04.27-03.25.15:315][875]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-03.25.15:315][875]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-03.25.15:315][875]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-03.25.15:315][875]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.04.27-03.25.15:315][875]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.04.27-03.25.15:317][875]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.04.27-03.25.15:317][875]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.04.27-03.25.15:317][875]LogInit: FAudioDevice initialized.
+[2022.04.27-03.25.15:317][875]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-03.25.15:371][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.25.15:372][875]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-03.25.15:422][875]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.26-23.25.15
+[2022.04.27-03.25.15:426][875]LogWorld: Bringing up level for play took: 0.054224
+[2022.04.27-03.25.15:428][875]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2022.04.27-03.25.15:454][875]PIE: Server logged in
+[2022.04.27-03.25.15:473][875]PIE: Play in editor total start time 0.34 seconds.
+[2022.04.27-03.25.17:215][934]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-03.25.17:677][954]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.27-03.25.18:230][978]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.27-03.25.18:371][984]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.27-03.25.19:249][ 22]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.27-03.25.20:258][ 68]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.27-03.25.21:272][111]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.27-03.25.21:787][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.25.21:787][131]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.25.21:788][131]LogSlate: Window 'Plug_N_Play Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.04.27-03.25.21:800][131]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.25.21:806][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.25.21:821][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-03.25.21:832][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.25.21:892][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-03.25.21:896][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.04.27-03.25.21:898][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.04.27-03.25.21:917][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.04.27-03.25.21:952][132]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.04.27-03.25.27:299][421]LogTurnkeySupport: Display: Adding device menu item for DMC28505
+[2022.04.27-03.25.28:251][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-03.25.28:251][481]PIE: New page: PIE session: FirstPersonExampleMap (Apr 26, 2022, 7:25:28 PM)
+[2022.04.27-03.25.28:251][481]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.25.28:352][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100093s)
+[2022.04.27-03.25.28:352][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.100176s)
+[2022.04.27-03.25.28:352][481]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.27-03.25.28:352][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-03.25.28:352][481]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-03.25.28:353][481]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2022.04.27-03.25.28:410][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.04.27-03.25.28:412][481]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.27-03.25.28:412][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-03.25.28:412][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-03.25.28:412][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-03.25.28:412][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-03.25.28:412][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-03.25.28:412][481]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.27-03.25.28:412][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-03.25.28:412][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-03.25.28:412][481]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-03.25.28:412][481]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-03.25.28:412][481]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-03.25.28:414][481]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.27-03.25.28:430][481]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Jared’s AirPods Stereo)
+[2022.04.27-03.25.28:430][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-03.25.28:430][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-03.25.28:430][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-03.25.28:431][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.04.27-03.25.28:431][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.04.27-03.25.28:432][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.04.27-03.25.28:432][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.04.27-03.25.28:432][481]LogInit: FAudioDevice initialized.
+[2022.04.27-03.25.28:433][481]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-03.25.28:489][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.25.28:489][481]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-03.25.28:541][481]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.26-23.25.28
+[2022.04.27-03.25.28:545][481]LogWorld: Bringing up level for play took: 0.056220
+[2022.04.27-03.25.28:547][481]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.04.27-03.25.28:574][481]PIE: Server logged in
+[2022.04.27-03.25.28:592][481]PIE: Play in editor total start time 0.34 seconds.
+[2022.04.27-03.25.30:888][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.25.30:888][565]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.25.30:888][565]LogSlate: Window 'Plug_N_Play Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.04.27-03.25.30:906][565]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.25.30:912][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.25.30:928][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-03.25.30:939][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.25.31:004][565]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-03.25.31:004][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.04.27-03.25.31:006][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.04.27-03.25.31:024][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.04.27-03.25.31:057][566]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.04.27-03.25.33:610][739]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.27-03.25.33:619][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-03.25.33:619][739]PIE: New page: PIE session: FirstPersonExampleMap (Apr 26, 2022, 7:25:33 PM)
+[2022.04.27-03.25.33:619][739]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.25.33:719][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.099433s)
+[2022.04.27-03.25.33:719][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.099537s)
+[2022.04.27-03.25.33:719][739]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.27-03.25.33:719][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-03.25.33:719][739]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-03.25.33:720][739]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2022.04.27-03.25.33:779][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.04.27-03.25.33:781][739]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.04.27-03.25.33:782][739]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-03.25.33:782][739]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-03.25.33:782][739]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-03.25.33:782][739]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-03.25.33:782][739]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-03.25.33:782][739]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.27-03.25.33:782][739]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-03.25.33:782][739]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-03.25.33:782][739]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-03.25.33:782][739]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-03.25.33:782][739]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-03.25.33:784][739]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.27-03.25.33:800][739]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Jared’s AirPods Stereo)
+[2022.04.27-03.25.33:800][739]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-03.25.33:800][739]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-03.25.33:800][739]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-03.25.33:800][739]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.04.27-03.25.33:800][739]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.04.27-03.25.33:802][739]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.04.27-03.25.33:802][739]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.04.27-03.25.33:802][739]LogInit: FAudioDevice initialized.
+[2022.04.27-03.25.33:802][739]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-03.25.33:814][739]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-03.25.33:864][739]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.26-23.25.33
+[2022.04.27-03.25.33:869][739]LogWorld: Bringing up level for play took: 0.054538
+[2022.04.27-03.25.33:871][739]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.04.27-03.25.33:878][739]PIE: Server logged in
+[2022.04.27-03.25.33:879][739]PIE: Play in editor total start time 0.26 seconds.
+[2022.04.27-03.25.34:567][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.25.34:567][761]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.25.34:568][761]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.25.34:574][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.25.34:584][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-03.25.34:595][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.25.34:658][761]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-03.25.34:658][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.04.27-03.25.34:660][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.04.27-03.25.34:663][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.25.34:678][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.04.27-03.25.34:716][762]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.04.27-03.25.41:592][ 70]LogTurnkeySupport: Display: Adding device menu item for DMC28505
+[2022.04.27-03.25.45:336][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.04.27-03.25.47:584][487]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.25.47:591][487]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2022.04.27-03.25.47:592][487]PIE: Warning: PIE failed because map save was canceled
+[2022.04.27-03.25.49:703][573]LogSlate: Window 'Message Log' being destroyed
+[2022.04.27-03.25.49:707][573]LogSlate: Window 'Message Log' being destroyed
+[2022.04.27-03.25.50:833][622]LogTurnkeySupport: Display: Adding device menu item for DMC28505
+[2022.04.27-03.25.56:595][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.04.27-03.25.57:944][274]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.25.58:050][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/_run_SELF_DIAGNOSIS______LOGIC_SYS_________FAULTY_BALANCE_MODUL
+[2022.04.27-03.25.58:050][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/_run_SELF_DIAGNOSIS______LOGIC_S53F5B4D64B17C46C27C44482BE077AAA.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/_run_SELF_DIAGNOSIS______LOGIC_SYS_________FAULTY_BALANCE_MODUL.uasset'
+[2022.04.27-03.25.58:054][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/ARM_REPOSITORY__Acquired_means_of_defense_
+[2022.04.27-03.25.58:054][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/ARM_REPOSITORY__Acquired_means_oF0311AF5473F5B491B614A92E36627AE.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/ARM_REPOSITORY__Acquired_means_of_defense_.uasset'
+[2022.04.27-03.25.58:156][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Ball_and_Chain_Icon
+[2022.04.27-03.25.58:157][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Ball_and_Chain_IconA31A185343E37C1C203D8793C34E3417.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Ball_and_Chain_Icon.uasset'
+[2022.04.27-03.25.58:163][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Ball_and_Chain_Silhouette_s_Outer_Glow
+[2022.04.27-03.25.58:163][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Ball_and_Chain_Silhouette_s_OuteBF4A892148376A3D447A1E9846B6D442.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Ball_and_Chain_Silhouette_s_Outer_Glow.uasset'
+[2022.04.27-03.25.58:168][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/CONSTRUCT_BOT_-_AG_55427
+[2022.04.27-03.25.58:168][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/CONSTRUCT_BOT_-_AG_55427BBD4363E4534057619EA7CA4263D3582.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/CONSTRUCT_BOT_-_AG_55427.uasset'
+[2022.04.27-03.25.58:169][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/HUD/EmptyHP" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/EmptyHP.uasset" SILENT=true
+[2022.04.27-03.25.58:177][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/EmptyHP
+[2022.04.27-03.25.58:178][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/EmptyHP638467C9438B22DC6523C499573B2507.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/EmptyHP.uasset'
+[2022.04.27-03.25.58:179][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/HUD/EmptyMP" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/EmptyMP.uasset" SILENT=true
+[2022.04.27-03.25.58:186][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/EmptyMP
+[2022.04.27-03.25.58:187][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/EmptyMP52D8CFA144F707C49C87588E06CD7BC0.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/EmptyMP.uasset'
+[2022.04.27-03.25.58:289][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Enemy_Arm_Icon
+[2022.04.27-03.25.58:289][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Enemy_Arm_Icon1AF1FB734E693C33F0CC90B52F03D034.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Enemy_Arm_Icon.uasset'
+[2022.04.27-03.25.58:297][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/EnemyArm_Silhouette_s_Outer_Glow
+[2022.04.27-03.25.58:297][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/EnemyArm_Silhouette_s_Outer_Glow5DA0CBB840C80198F7ADBCAC5F52DC19.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/EnemyArm_Silhouette_s_Outer_Glow.uasset'
+[2022.04.27-03.25.58:497][274]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Blueprints/FirstPersonCharacter
+[2022.04.27-03.25.58:499][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonCharacter9D18385A416732F859C0D5ACA71B46D0.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.04.27-03.25.58:562][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.27-03.25.58:895][274]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.04.27-03.25.58:898][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMap123CBA2944F78492C1BBAFB53CBB480F.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-03.25.58:923][274]LogFileHelpers: No new changes to save!
+[2022.04.27-03.25.58:923][274]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.421
+[2022.04.27-03.25.58:923][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/PauseMenu/FRAME" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/FRAME.uasset" SILENT=true
+[2022.04.27-03.25.58:926][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/FRAME
+[2022.04.27-03.25.58:926][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FRAME38EBA2E34264ADB5CA92D38009C9EB4A.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/FRAME.uasset'
+[2022.04.27-03.25.58:928][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/PauseMenu/FRAME_Glow" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/FRAME_Glow.uasset" SILENT=true
+[2022.04.27-03.25.58:931][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/FRAME_Glow
+[2022.04.27-03.25.58:931][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FRAME_Glow1C224CD04E4D5015548B3E9755020B90.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/FRAME_Glow.uasset'
+[2022.04.27-03.25.58:932][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/PauseMenu/Frame_Pattern" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Frame_Pattern.uasset" SILENT=true
+[2022.04.27-03.25.58:938][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Frame_Pattern
+[2022.04.27-03.25.58:938][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Frame_Pattern7E1E942744689BA4A2EBE4B7E0C0D77D.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Frame_Pattern.uasset'
+[2022.04.27-03.25.58:940][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/HUD/FullHP" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/FullHP.uasset" SILENT=true
+[2022.04.27-03.25.58:946][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/FullHP
+[2022.04.27-03.25.58:948][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullHP3892D1A84600F2D4791C68B01F2CAD99.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/FullHP.uasset'
+[2022.04.27-03.25.58:949][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/HUD/FullMP" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/FullMP.uasset" SILENT=true
+[2022.04.27-03.25.58:956][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/FullMP
+[2022.04.27-03.25.58:957][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullMPA70AAF034B755E94F762AE893A749611.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/FullMP.uasset'
+[2022.04.27-03.25.58:963][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/info_RETURN________“a_simple_set_of_mass__produced_arms_meant_t
+[2022.04.27-03.25.58:963][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/info_RETURN________“a_simple_set090394EE4B6BB50F231FF1B9BCB97C7D.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/info_RETURN________“a_simple_set_of_mass__produced_arms_meant_t.uasset'
+[2022.04.27-03.25.59:016][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Light_Fluid_Pattern
+[2022.04.27-03.25.59:016][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Light_Fluid_Pattern1CC120F647B53C216331358B4BC83097.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Light_Fluid_Pattern.uasset'
+[2022.04.27-03.25.59:017][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/PauseMenu/OS" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/OS.uasset" SILENT=true
+[2022.04.27-03.25.59:019][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/OS
+[2022.04.27-03.25.59:019][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/OS12724A804E3B26BCEBDEB498413EFE5E.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/OS.uasset'
+[2022.04.27-03.25.59:143][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Pattern_Overlay
+[2022.04.27-03.25.59:143][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Pattern_Overlay08BFD5DE48BC4FB3087F3CA9CBFE1AD5.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Pattern_Overlay.uasset'
+[2022.04.27-03.25.59:148][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.04.27-03.25.59:157][274]LogSavePackage: Moving output files for package: /Game/UI/PauseMenu
+[2022.04.27-03.25.59:158][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenu57F8AC8746C1C47B4963F984370E4AF1.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset'
+[2022.04.27-03.25.59:160][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/PauseMenu/PLUG" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/PLUG.uasset" SILENT=true
+[2022.04.27-03.25.59:165][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/PLUG
+[2022.04.27-03.25.59:165][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PLUG3DABDCAD43D7CFFA71E8D9A84A457E6C.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/PLUG.uasset'
+[2022.04.27-03.25.59:234][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/PLUG_N_PLAY_LOGO
+[2022.04.27-03.25.59:235][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PLUG_N_PLAY_LOGO6D32961948D2279340D01697AEF3B612.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/PLUG_N_PLAY_LOGO.uasset'
+[2022.04.27-03.25.59:245][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Popout_Frame_Blue
+[2022.04.27-03.25.59:245][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Popout_Frame_BlueCCABBBA64B1A5E3866F768A3A34828F4.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Popout_Frame_Blue.uasset'
+[2022.04.27-03.25.59:255][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Popout_Frame_Orange
+[2022.04.27-03.25.59:255][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Popout_Frame_OrangeF2C119FF4A6B06E6B1F4B18623BCF15B.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Popout_Frame_Orange.uasset'
+[2022.04.27-03.25.59:259][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/struct_group_info_init_groups______usage___ATOMIC_INIT_2__
+[2022.04.27-03.25.59:259][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/struct_group_info_init_groups___F4CD54F3429197F9043B33841B0CBFE1.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/struct_group_info_init_groups______usage___ATOMIC_INIT_2__.uasset'
+[2022.04.27-03.25.59:260][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/PauseMenu/White_Bars" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/White_Bars.uasset" SILENT=true
+[2022.04.27-03.25.59:313][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/White_Bars
+[2022.04.27-03.25.59:314][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/White_Bars5AC528234B2DF3531BA4E4AFC712136E.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/White_Bars.uasset'
+[2022.04.27-03.25.59:315][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/PauseMenu/Zip_Line_1" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Zip_Line_1.uasset" SILENT=true
+[2022.04.27-03.25.59:320][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Zip_Line_1
+[2022.04.27-03.25.59:320][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Zip_Line_131C3719B4AF83175D470B597FB67AAC5.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Zip_Line_1.uasset'
+[2022.04.27-03.25.59:321][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/PauseMenu/Zip_Line_2" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Zip_Line_2.uasset" SILENT=true
+[2022.04.27-03.25.59:325][274]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Zip_Line_2
+[2022.04.27-03.25.59:325][274]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Zip_Line_2E343785545713ECA90FCA78992EEB682.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Zip_Line_2.uasset'
+[2022.04.27-03.25.59:463][275]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-03.25.59:463][275]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.27-03.25.59:463][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/EmptyHP.EmptyHP
+[2022.04.27-03.25.59:463][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/EmptyMP.EmptyMP
+[2022.04.27-03.25.59:463][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/FullHP.FullHP
+[2022.04.27-03.25.59:463][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/FullMP.FullMP
+[2022.04.27-03.25.59:463][275]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-03.25.59:463][275]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Enemy_Arm_Icon.Enemy_Arm_Icon
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Ball_and_Chain_Icon.Ball_and_Chain_Icon
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Ball_and_Chain_Silhouette_s_Outer_Glow.Ball_and_Chain_Silhouette_s_Outer_Glow
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/FRAME_Glow.FRAME_Glow
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/ARM_REPOSITORY__Acquired_means_of_defense_.ARM_REPOSITORY__Acquired_means_of_defense_
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/CONSTRUCT_BOT_-_AG_55427.CONSTRUCT_BOT_-_AG_55427
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/_run_SELF_DIAGNOSIS______LOGIC_SYS_________FAULTY_BALANCE_MODUL._run_SELF_DIAGNOSIS______LOGIC_SYS_________FAULTY_BALANCE_MODUL
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/struct_group_info_init_groups______usage___ATOMIC_INIT_2__.struct_group_info_init_groups______usage___ATOMIC_INIT_2__
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/info_RETURN________“a_simple_set_of_mass__produced_arms_meant_t.info_RETURN________“a_simple_set_of_mass__produced_arms_meant_t
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Popout_Frame_Orange.Popout_Frame_Orange
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Frame_Pattern.Frame_Pattern
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Zip_Line_1.Zip_Line_1
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Zip_Line_2.Zip_Line_2
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/OS.OS
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/PLUG.PLUG
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Popout_Frame_Blue.Popout_Frame_Blue
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Light_Fluid_Pattern.Light_Fluid_Pattern
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/White_Bars.White_Bars
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/PLUG_N_PLAY_LOGO.PLUG_N_PLAY_LOGO
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Pattern_Overlay.Pattern_Overlay
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/FRAME.FRAME
+[2022.04.27-03.25.59:464][275]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/EnemyArm_Silhouette_s_Outer_Glow.EnemyArm_Silhouette_s_Outer_Glow
+[2022.04.27-03.27.43:514][881]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.27-03.27.43:778][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.04.27-03.28.01:274][727]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.04.27-03.28.01:321][727]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.28.32:121][224]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.27-03.28.32:401][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.04.27-03.29.12:389][438]LogSlate: Window 'Project Settings' being destroyed
+[2022.04.27-03.29.12:398][438]LogSlate: Window 'Project Settings' being destroyed
+[2022.04.27-03.29.22:850][360]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.29.22:850][360]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.29.23:929][445]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/FRAME.png]
+[2022.04.27-03.29.23:930][445]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/FRAME.png)
+[2022.04.27-03.29.23:934][445]LogTexture: Display: Building textures: /Game/UI/Assets/PauseMenu/FRAME.FRAME (TFO_AutoDXT, 416X180 X1X1) (Required Memory Estimate: 1.428223 MB), EncodeSpeed: Fast
+[2022.04.27-03.29.23:934][445]LogEditorFactories: -- imported successfully
+[2022.04.27-03.29.33:107][346]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.29.37:868][808]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.29.43:561][365]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.29.56:539][717]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.30.13:432][431]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.30.16:483][754]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.30.16:721][754]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.04.27-03.30.17:727][844]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.04.27-03.30.17:797][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.04.27-03.30.19:155][844]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.30.19:418][844]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Blueprints/FirstPersonCharacter
+[2022.04.27-03.30.19:421][844]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonCharacterE4BA782541088C5F831EFC96C592B82B.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.04.27-03.30.19:483][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.27-03.30.19:809][844]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.04.27-03.30.19:812][844]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMapB389E0C24D6CFC741FFD00AA4FA31E5C.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-03.30.19:833][844]LogFileHelpers: No new changes to save!
+[2022.04.27-03.30.19:833][844]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.409
+[2022.04.27-03.30.19:834][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/PauseMenu/FRAME" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/FRAME.uasset" SILENT=true
+[2022.04.27-03.30.19:837][844]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/FRAME
+[2022.04.27-03.30.19:839][844]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FRAME48EDA54A44CC7AE78080059E538CAA11.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/FRAME.uasset'
+[2022.04.27-03.30.19:842][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.04.27-03.30.19:849][844]LogSavePackage: Moving output files for package: /Game/UI/PauseMenu
+[2022.04.27-03.30.19:850][844]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenuE2142C5D4BEF986081AB058EA5C73603.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset'
+[2022.04.27-03.30.19:883][845]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-03.30.19:883][845]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.27-03.30.19:883][845]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-03.30.19:883][845]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.04.27-03.30.19:883][845]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/FRAME.FRAME
+[2022.04.27-03.31.30:236][256]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.31.30:335][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.04.27-03.32.05:966][184]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.27-03.32.32:590][795]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.32.32:667][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.04.27-03.32.33:659][883]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.04.27-03.32.33:729][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.04.27-03.32.35:521][883]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.32.35:622][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.04.27-03.32.35:950][883]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.04.27-03.32.35:953][883]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMapEB6D4A1E49DAB2086BD28E9EB1C785EC.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-03.32.35:972][883]LogFileHelpers: No new changes to save!
+[2022.04.27-03.32.35:972][883]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.409
+[2022.04.27-03.32.35:975][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.04.27-03.32.35:983][883]LogSavePackage: Moving output files for package: /Game/UI/PauseMenu
+[2022.04.27-03.32.35:984][883]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenu5DACFDB449E48D491548B78880B73CBA.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset'
+[2022.04.27-03.32.36:014][884]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-03.32.36:014][884]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-03.32.36:014][884]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.04.27-03.39.50:011][967]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.39.50:113][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.04.27-03.39.53:117][297]LogEditorTransaction: Undo Edit Bottom
+[2022.04.27-03.39.53:906][327]LogEditorTransaction: Undo Edit Top
+[2022.04.27-03.39.55:606][501]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.39.55:679][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.04.27-03.40.49:791][389]LogEditorTransaction: Undo Paste clipboard contents
+[2022.04.27-03.40.58:252][231]LogEditorTransaction: Undo Paste clipboard contents
+[2022.04.27-03.41.56:449][697]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.27-03.41.56:905][703]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.27-03.41.57:309][739]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.27-03.43.40:692][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.04.27-03.43.41:032][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6
+[2022.04.27-03.43.41:038][610]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMap_Auto688EDC9C84549C550EB01B88C06ADD58E.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2022.04.27-03.43.41:050][610]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.430
+[2022.04.27-03.43.41:050][610]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.430
+[2022.04.27-03.43.41:051][610]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PauseMenu] ([2] browsable assets)...
+[2022.04.27-03.43.41:053][610]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PauseMenu.PauseMenu]
+[2022.04.27-03.43.41:053][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PauseMenu]
+[2022.04.27-03.43.41:053][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/PauseMenu_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.04.27-03.43.41:063][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/PauseMenu_Auto6
+[2022.04.27-03.43.41:063][610]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenu_Auto6B730E8E54679315E83400996144B7078.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/PauseMenu_Auto6.uasset'
+[2022.04.27-03.43.41:064][610]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.04.27-03.44.18:685][518]LogEditorTransaction: Undo Edit Padding
+[2022.04.27-03.46.47:785][156]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.46.47:785][156]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.46.49:031][257]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/Ball and Chain Silhouette's Outer Glow.png]
+[2022.04.27-03.46.49:031][257]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/Ball and Chain Silhouette's Outer Glow.png)
+[2022.04.27-03.46.49:036][257]LogTexture: Display: Building textures: /Game/UI/Assets/PauseMenu/Ball_and_Chain_Silhouette_s_Outer_Glow.Ball_and_Chain_Silhouette_s_Outer_Glow (BGRA8, 417X180 X1X1) (Required Memory Estimate: 1.431656 MB), EncodeSpeed: Fast
+[2022.04.27-03.46.49:036][257]LogEditorFactories: -- imported successfully
+[2022.04.27-03.46.55:175][824]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.46.55:175][824]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.46.56:467][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.04.27-03.46.59:760][962]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.27-03.47.09:472][320]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\EnemyArm Clicked.png)
+[2022.04.27-03.47.09:486][320]LogTexture: Display: Building textures: /Game/UI/Assets/PauseMenu/EnemyArm_Clicked.EnemyArm_Clicked (BGRA8, 424X189 X1X1) (Required Memory Estimate: 1.528473 MB), EncodeSpeed: Fast
+[2022.04.27-03.47.09:486][320]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\Ball and Chain Clicked.png)
+[2022.04.27-03.47.09:497][320]LogTexture: Display: Building textures: /Game/UI/Assets/PauseMenu/Ball_and_Chain_Clicked.Ball_and_Chain_Clicked (BGRA8, 425X188 X1X1) (Required Memory Estimate: 1.523972 MB), EncodeSpeed: Fast
+[2022.04.27-03.47.09:497][320]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2022.04.27-03.47.31:019][131]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.47.31:118][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.04.27-03.47.32:097][216]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.04.27-03.47.32:167][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.27-03.47.33:660][216]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.47.33:732][216]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Ball_and_Chain_Clicked
+[2022.04.27-03.47.33:732][216]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Ball_and_Chain_Clicked5E807DB64FD78999BD92B594EFB825AD.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Ball_and_Chain_Clicked.uasset'
+[2022.04.27-03.47.33:740][216]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Ball_and_Chain_Silhouette_s_Outer_Glow
+[2022.04.27-03.47.33:742][216]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Ball_and_Chain_Silhouette_s_Oute51451BA546558B6D12D7C3B02034CE89.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Ball_and_Chain_Silhouette_s_Outer_Glow.uasset'
+[2022.04.27-03.47.33:751][216]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/EnemyArm_Clicked
+[2022.04.27-03.47.33:751][216]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/EnemyArm_Clicked390FF31A42DA987759B597B987BB63AA.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/EnemyArm_Clicked.uasset'
+[2022.04.27-03.47.33:812][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.27-03.47.34:140][216]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.04.27-03.47.34:143][216]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMapD268C6ED4F7229A3E08A63BEDD6E3EAB.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-03.47.34:167][216]LogFileHelpers: No new changes to save!
+[2022.04.27-03.47.34:167][216]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.415
+[2022.04.27-03.47.34:169][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.04.27-03.47.34:180][216]LogSavePackage: Moving output files for package: /Game/UI/PauseMenu
+[2022.04.27-03.47.34:181][216]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenuCDFF6BDD44B3362FD694E3B21BB9524E.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset'
+[2022.04.27-03.47.34:222][217]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-03.47.34:222][217]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-03.47.34:222][217]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.04.27-03.47.34:223][217]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Ball_and_Chain_Silhouette_s_Outer_Glow.Ball_and_Chain_Silhouette_s_Outer_Glow
+[2022.04.27-03.47.34:223][217]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Ball_and_Chain_Clicked.Ball_and_Chain_Clicked
+[2022.04.27-03.47.34:223][217]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/EnemyArm_Clicked.EnemyArm_Clicked
+[2022.04.27-03.48.30:931][397]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.48.31:033][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.04.27-03.48.31:941][478]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.04.27-03.48.32:011][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.04.27-03.48.33:702][478]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.48.33:825][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.04.27-03.48.34:154][478]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.04.27-03.48.34:157][478]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMap244E12644AA84755A393038EA6EDA7C4.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-03.48.34:176][478]LogFileHelpers: No new changes to save!
+[2022.04.27-03.48.34:177][478]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.414
+[2022.04.27-03.48.34:178][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.04.27-03.48.34:189][478]LogSavePackage: Moving output files for package: /Game/UI/PauseMenu
+[2022.04.27-03.48.34:190][478]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenuF7B7C55F4A2D1125A707CFA37C9F44BF.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset'
+[2022.04.27-03.48.34:223][479]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-03.48.34:223][479]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-03.48.34:223][479]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.04.27-03.49.46:843][ 68]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.49.46:942][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.04.27-03.49.47:616][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.04.27-03.49.47:628][121]LogSavePackage: Moving output files for package: /Game/UI/PauseMenu
+[2022.04.27-03.49.47:629][121]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenu732DE957436CCF3C6BF24493018931A7.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset'
+[2022.04.27-03.49.47:646][121]AssetCheck: New page: Asset Save: PauseMenu
+[2022.04.27-03.49.47:646][121]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.04.27-03.50.03:893][513]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.50.03:995][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.04.27-03.50.04:963][603]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.04.27-03.50.05:032][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.04.27-03.50.06:237][603]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-03.50.06:360][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.27-03.50.06:698][603]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.04.27-03.50.06:700][603]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMapD2BA48B0421C9764EF057B970A650AE5.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-03.50.06:720][603]LogFileHelpers: No new changes to save!
+[2022.04.27-03.50.06:720][603]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.422
+[2022.04.27-03.50.06:722][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.04.27-03.50.06:733][603]LogSavePackage: Moving output files for package: /Game/UI/PauseMenu
+[2022.04.27-03.50.06:734][603]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenuAB00868F4676A96729F806A08C8B082F.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset'
+[2022.04.27-03.50.06:765][604]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-03.50.06:765][604]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-03.50.06:765][604]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.04.27-03.50.43:724][944]LogTurnkeySupport: Display: Adding device menu item for DMC28505
+[2022.04.27-03.50.49:728][542]BlueprintLog: New page: Compile PauseMenu
+[2022.04.27-03.50.49:828][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.04.27-03.50.50:681][622]LogTurnkeySupport: Display: Adding device menu item for DMC28505
+[2022.04.27-03.51.02:824][ 27]BlueprintLog: New page: Compile UI
+[2022.04.27-03.51.02:900][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.04.27-03.51.06:777][309]LogTurnkeySupport: Display: Adding device menu item for DMC28505
+[2022.04.27-03.51.07:396][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-03.51.07:396][372]PIE: New page: PIE session: FirstPersonExampleMap (Apr 26, 2022, 7:51:07 PM)
+[2022.04.27-03.51.07:396][372]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.51.07:497][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100199s)
+[2022.04.27-03.51.07:497][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.100307s)
+[2022.04.27-03.51.07:497][372]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.27-03.51.07:497][372]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.27-03.51.07:498][372]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-03.51.07:498][372]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2022.04.27-03.51.07:559][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.04.27-03.51.07:564][372]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.04.27-03.51.07:564][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-03.51.07:564][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-03.51.07:564][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-03.51.07:564][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-03.51.07:564][372]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-03.51.07:564][372]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.27-03.51.07:564][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-03.51.07:564][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-03.51.07:564][372]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-03.51.07:564][372]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-03.51.07:564][372]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-03.51.07:566][372]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.27-03.51.07:581][372]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Jared’s AirPods Stereo)
+[2022.04.27-03.51.07:582][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-03.51.07:582][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-03.51.07:582][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-03.51.07:582][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.04.27-03.51.07:582][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.04.27-03.51.07:584][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.04.27-03.51.07:584][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.04.27-03.51.07:584][372]LogInit: FAudioDevice initialized.
+[2022.04.27-03.51.07:584][372]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-03.51.07:596][372]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-03.51.07:645][372]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.26-23.51.07
+[2022.04.27-03.51.07:650][372]LogWorld: Bringing up level for play took: 0.054690
+[2022.04.27-03.51.07:652][372]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.04.27-03.51.07:660][372]PIE: Server logged in
+[2022.04.27-03.51.07:661][372]PIE: Play in editor total start time 0.265 seconds.
+[2022.04.27-03.51.09:944][505]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.27-03.51.10:954][573]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.27-03.51.11:957][650]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.27-03.51.12:959][719]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.27-03.51.13:972][790]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-03.51.14:984][863]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.27-03.51.15:993][936]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-03.51.16:995][  9]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.27-03.51.18:000][ 82]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.27-03.51.19:006][155]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.04.27-03.51.22:641][421]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-03.51.23:641][492]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.27-03.51.24:648][562]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-03.51.25:650][637]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.27-03.51.26:661][715]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-03.51.27:664][796]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.27-03.51.28:676][873]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.27-03.51.29:562][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.51.29:562][935]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-03.51.29:564][935]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-03.51.29:569][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.51.29:582][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-03.51.29:592][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-03.51.29:653][935]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-03.51.29:654][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.04.27-03.51.29:656][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.04.27-03.51.29:659][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-03.51.29:674][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.27-03.51.29:746][936]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.04.27-03.59.04:878][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/UI.uasset" SILENT=true
+[2022.04.27-03.59.04:887][466]LogSavePackage: Moving output files for package: /Game/UI/UI
+[2022.04.27-03.59.04:888][466]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/UI71FAB82B495E654EBC97D6B479297169.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/UI.uasset'
+[2022.04.27-03.59.04:906][466]AssetCheck: New page: Asset Save: UI
+[2022.04.27-03.59.04:906][466]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI.UI
+[2022.04.27-03.59.19:523][130]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.59.19:523][130]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.59.21:509][341]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.59.21:509][341]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.27-03.59.35:478][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.04.27-03.59.35:604][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.27-03.59.35:934][776]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.04.27-03.59.35:936][776]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMap47F8682F40D2688D9F6FA6ABB7B38575.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-03.59.35:956][776]LogFileHelpers: No new changes to save!
+[2022.04.27-03.59.35:956][776]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.412
+[2022.04.27-03.59.35:974][776]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.27-03.59.35:974][776]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-03.59.41:647][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
