@@ -2265,3 +2265,756 @@ Script Stack (0 frames):
 [2022.04.30-01.21.32:526][187]LogContentValidation: Display: Validating Material /Game/Materials/Textures/ModWall3_textures/Modwall3_2.Modwall3_2
 [2022.04.30-01.21.32:526][187]LogContentValidation: Display: Validating Material /Game/Materials/Textures/ModWall4_textures/M_Modwall42.M_Modwall42
 [2022.04.30-01.21.32:526][187]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.30-01.22.10:493][927]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Can_1_Slurm_2.Can_1_Slurm_2
+[2022.04.30-01.22.10:495][927]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Can_1_Slurm_2.Can_1_Slurm_2
+[2022.04.30-01.22.10:496][927]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Can_1_Slurm_2.Can_1_Slurm_2 as actor: StaticMeshActor /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.StaticMeshActor_607
+[2022.04.30-01.22.13:177][ 60]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Can_1_Coke_2.Can_1_Coke_2
+[2022.04.30-01.22.13:177][ 60]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Can_1_Coke_2.Can_1_Coke_2
+[2022.04.30-01.22.13:178][ 60]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Can_1_Coke_2.Can_1_Coke_2 as actor: StaticMeshActor /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.StaticMeshActor_826
+[2022.04.30-01.22.15:258][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Can_2_Beans_2.Can_2_Beans_2
+[2022.04.30-01.22.15:258][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Can_2_Beans_2.Can_2_Beans_2
+[2022.04.30-01.22.15:259][156]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Can_2_Beans_2.Can_2_Beans_2 as actor: StaticMeshActor /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.StaticMeshActor_831
+[2022.04.30-01.22.17:226][243]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Can_2_DogFood_2.Can_2_DogFood_2
+[2022.04.30-01.22.17:226][243]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Can_2_DogFood_2.Can_2_DogFood_2
+[2022.04.30-01.22.17:227][243]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Can_2_DogFood_2.Can_2_DogFood_2 as actor: StaticMeshActor /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.StaticMeshActor_835
+[2022.04.30-01.22.20:159][346]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Bottle_2.Bottle_2
+[2022.04.30-01.22.20:159][346]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Bottle_2.Bottle_2
+[2022.04.30-01.22.20:160][346]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Bottle_2.Bottle_2 as actor: StaticMeshActor /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.StaticMeshActor_857
+[2022.04.30-01.22.36:705][194]LogMaterial: Display: Material /Game/Materials/M_Can_2_Beans.M_Can_2_Beans needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2022.04.30-01.22.36:710][194]LogMaterial: Display: Missing cached shadermap for M_Can_2_Beans in PCD3D_SM5, Default, SM5 (DDC key hash: A00E1F6FB17801F8BA0D517A26C1123365E9FBFC), compiling. 
+[2022.04.30-01.26.34:202][555]Cmd: TRANSACTION UNDO
+[2022.04.30-01.26.34:202][555]LogEditorTransaction: Undo Foliage Editing
+[2022.04.30-01.28.58:209][836]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.30-01.28.58:226][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.30-01.28.58:226][836]PIE: New page: PIE session: FirstPersonExampleMap (Apr 29, 2022, 5:28:58 PM)
+[2022.04.30-01.28.58:226][836]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.30-01.28.58:364][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.138057s)
+[2022.04.30-01.28.58:365][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.138146s)
+[2022.04.30-01.28.58:365][836]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.30-01.28.58:365][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-01.28.58:365][836]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.30-01.28.58:366][836]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2022.04.30-01.28.58:385][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.30-01.28.58:388][836]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.30-01.28.58:389][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.30-01.28.58:389][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.30-01.28.58:389][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.30-01.28.58:389][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.30-01.28.58:389][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.30-01.28.58:389][836]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.30-01.28.58:389][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.30-01.28.58:389][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.30-01.28.58:389][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.30-01.28.58:389][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.30-01.28.58:389][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.30-01.28.58:391][836]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.30-01.28.58:426][836]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.04.30-01.28.58:426][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.30-01.28.58:426][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.30-01.28.58:426][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.30-01.28.58:427][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.04.30-01.28.58:427][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.04.30-01.28.58:428][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.04.30-01.28.58:428][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.04.30-01.28.58:429][836]LogInit: FAudioDevice initialized.
+[2022.04.30-01.28.58:429][836]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.04.30-01.28.58:440][836]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.30-01.28.58:498][836]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.29-21.28.58
+[2022.04.30-01.28.58:503][836]LogWorld: Bringing up level for play took: 0.063182
+[2022.04.30-01.28.58:505][836]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2022.04.30-01.28.58:507][836]LogBlueprintUserMessages: [MovementImpact] movementimpact_component must be attached to am actor with a PrimitiveComponent at its root
+[2022.04.30-01.28.58:514][836]PIE: Server logged in
+[2022.04.30-01.28.58:515][836]PIE: Play in editor total start time 0.289 seconds.
+[2022.04.30-01.28.58:535][836]LogAudio: Warning: Detected orphaned looping sound 'Background_ambiance_Cue'.
+[2022.04.30-01.29.01:048][968]LogBlueprintUserMessages: [Pickup_C_3] picked up
+[2022.04.30-01.29.01:541][997]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.30-01.29.02:033][ 27]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.30-01.29.02:577][ 60]LogBlueprintUserMessages: [Pickup3_C_1] picked up
+[2022.04.30-01.29.03:035][ 90]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.30-01.29.03:066][ 92]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.30-01.29.03:504][121]LogBlueprintUserMessages: [Pickup2_C_1] picked up
+[2022.04.30-01.29.03:994][153]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.30-01.29.04:043][156]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.30-01.29.05:046][217]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.30-01.29.06:049][284]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.30-01.29.07:064][343]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.04.30-01.29.40:201][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.30-01.29.40:201][426]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.30-01.29.40:203][426]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.29.40:209][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-01.29.40:223][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.30-01.29.40:229][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-01.29.40:246][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.30-01.29.40:252][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.04.30-01.29.40:253][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.04.30-01.29.40:301][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.04.30-01.29.40:353][427]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.04.30-01.30.39:684][ 63]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.04.30-01.30.41:801][185]Cmd: DELETE
+[2022.04.30-01.30.41:801][185]Cmd: ACTOR DELETE
+[2022.04.30-01.30.41:886][185]LogUObjectGlobals: Warning: Guid referenced by Landscape /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0 is already used by Landscape /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:886][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_18 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_18, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:886][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_19 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_19, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:887][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_20 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_20, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:887][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_21 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_21, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:887][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_22 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_22, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:887][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_26 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_26, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:887][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_27 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_27, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:887][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_28 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_28, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:887][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_29 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_29, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:887][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_30 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_30, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:887][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_34 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_34, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:887][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_35 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_35, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:887][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_36 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_36, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:888][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_37 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_37, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:888][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_38 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_38, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:888][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_42 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_42, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:888][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_43 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_43, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:888][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_44 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_44, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:888][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_45 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_45, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:888][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_46 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_46, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:888][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_50 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_50, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:888][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_51 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_51, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:888][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_52 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_52, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:888][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_53 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_53, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:888][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_54 is already used by LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_54, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_100 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_100, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_101 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_101, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_102 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_102, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_106 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_106, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_107 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_107, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_108 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_108, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_109 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_109, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_110 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_110, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_114 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_114, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_115 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_115, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_116 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_116, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_117 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_117, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_118 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_118, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_82 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_82, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_83 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_83, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_84 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_84, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_85 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_85, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_86 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_86, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:889][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_90 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_90, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:890][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_91 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_91, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:890][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_92 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_92, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:890][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_93 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_93, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:890][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_94 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_94, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:890][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_98 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_98, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.41:890][185]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_99 is already used by LandscapeHeightfieldCollisionComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_99, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.04.30-01.30.42:183][185]LogEditorActor: Deleted Actor: DecalActor
+[2022.04.30-01.30.42:212][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.04.30-01.30.42:216][185]LogEditorActor: Deleted 1 Actors (0.413 secs)
+[2022.04.30-01.31.24:467][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.04.30-01.31.24:545][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.30-01.31.25:003][734]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.04.30-01.31.25:010][734]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMapFDBA9E9D4B1C312B04036DA3976C9F8C.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.30-01.31.25:040][734]LogFileHelpers: No new changes to save!
+[2022.04.30-01.31.25:040][734]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.514
+[2022.04.30-01.31.25:053][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Can_2_Beans" FILE="../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/M_Can_2_Beans.uasset" SILENT=true
+[2022.04.30-01.31.25:056][734]LogSavePackage: Moving output files for package: /Game/Materials/M_Can_2_Beans
+[2022.04.30-01.31.25:057][734]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/M_Can_2_Beans15BA5F12401545BB79A761944F70B8E7.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/M_Can_2_Beans.uasset'
+[2022.04.30-01.31.25:098][734]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.30-01.31.25:098][734]LogContentValidation: Display: Validating Material /Game/Materials/M_Can_2_Beans.M_Can_2_Beans
+[2022.04.30-01.31.25:098][734]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.30-01.31.49:502][149]LogMaterial: Display: Material /Game/Materials/M_Invisibility/M_Invisible.M_Invisible needed to have new flag set bUsedWithSkeletalMesh !
+[2022.04.30-01.31.49:512][149]LogMaterial: Display: Missing cached shadermap for M_Invisible in PCD3D_SM5, Default, SM5 (DDC key hash: ACAFE8425BBCCA388BA36AA9F9C5166038F2C69B), compiling. 
+[2022.04.30-01.31.49:608][149]LogShaderCompilers: Display: ================================================
+[2022.04.30-01.31.49:608][149]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.30-01.31.49:608][149]LogShaderCompilers: Display: Total job queries 1080, among them cache hits 486 (45.00%)
+[2022.04.30-01.31.49:608][149]LogShaderCompilers: Display: Tracking 434 distinct input hashes that result in 265 distinct outputs (61.06%)
+[2022.04.30-01.31.49:608][149]LogShaderCompilers: Display: RAM used: 0.76 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2022.04.30-01.31.49:608][149]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.30-01.31.49:608][149]LogShaderCompilers: Display: Shaders Compiled: 301
+[2022.04.30-01.31.49:608][149]LogShaderCompilers: Display: Jobs assigned 434, completed 434 (100.00%)
+[2022.04.30-01.31.49:608][149]LogShaderCompilers: Display: Average time worker was idle: 27.75 s
+[2022.04.30-01.31.49:608][149]LogShaderCompilers: Display: Time job spent in pending queue: average 0.64 s, longest 6.76 s
+[2022.04.30-01.31.49:608][149]LogShaderCompilers: Display: Job execution time: average 1.78 s, max 7.23 s
+[2022.04.30-01.31.49:608][149]LogShaderCompilers: Display: Job life time (pending + execution): average 2.41 s, max 8.32
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 86.83 s
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display: Jobs were issued in 370 batches (only local compilation was used), average 1.17 jobs/batch
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display: Average processing rate: 5.00 jobs/sec
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display: Effective parallelization: 4.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 4.77 sec, max 4.77 sec, min 4.77 sec)
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 4.51 sec, max 4.51 sec, min 4.51 sec)
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 4.07 sec, max 4.07 sec, min 4.07 sec)
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 3.22 sec, max 3.22 sec, min 3.22 sec)
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 3.06 sec, max 3.06 sec, min 3.06 sec)
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.10% of total time (compiled   54 times, average 0.85 sec, max 1.12 sec, min 0.63 sec)
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.29% of total time (compiled   51 times, average 0.84 sec, max 4.27 sec, min 0.53 sec)
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.97% of total time (compiled   24 times, average 0.86 sec, max 1.20 sec, min 0.64 sec)
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.44% of total time (compiled   16 times, average 1.15 sec, max 2.30 sec, min 0.63 sec)
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.28% of total time (compiled   13 times, average 1.37 sec, max 4.71 sec, min 0.91 sec)
+[2022.04.30-01.31.49:609][149]LogShaderCompilers: Display: ================================================
+[2022.04.30-01.32.03:390][801]Cmd: TRANSACTION UNDO
+[2022.04.30-01.32.03:390][801]LogEditorTransaction: Undo Create Actors
+[2022.04.30-01.32.04:708][857]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Invisibility/M_Invisible.M_Invisible
+[2022.04.30-01.32.04:711][857]LogMaterial: Display: Missing cached shadermap for Preview:M_Invisible in PCD3D_SM5, Default, SM5 (DDC key hash: 448DAA140BEEC6B19CAB72595271619677D9B494), compiling. 
+[2022.04.30-01.32.04:758][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-01.32.04:899][857]LogMaterial: Display: Missing cached shadermap for Preview:M_Invisible in PCD3D_SM5, Default, SM5 (DDC key hash: 70C448BBE15BA4DB3F86D4FE9D7E1D2B3C1AF17E), compiling. 
+[2022.04.30-01.32.04:904][857]LogMaterial: Display: Missing cached shadermap for Preview:M_Invisible in PCD3D_SM5, Default, SM5 (DDC key hash: F7B2A59DAE1E1A88FFCD8D4FF71D2B4B7668D151), compiling. 
+[2022.04.30-01.32.04:907][857]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_1 in PCD3D_SM5, Default, SM5 (DDC key hash: EB890C98F43905F5F4787009D9096E3C22C42A09), compiling. 
+[2022.04.30-01.32.04:932][857]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-01.32.04:932][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-01.32.04:932][857]MaterialEditorStats: Shader Count: 0
+[2022.04.30-01.32.05:016][859]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.30-01.32.05:017][859]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-01.32.05:017][859]MaterialEditorStats: Shader Count: 2
+[2022.04.30-01.32.09:343][ 50]LogMaterial: Display: Missing cached shadermap for Preview:M_Invisible in PCD3D_SM5, Default, SM5 (DDC key hash: F71F8D83C5FCB83E7EC281477210D724C0F7DC29), compiling. 
+[2022.04.30-01.32.09:347][ 50]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D48B9E7BB0375DFEE19760AC2739C8B083C41B34), compiling. 
+[2022.04.30-01.32.09:350][ 50]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-01.32.09:350][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-01.32.09:350][ 50]MaterialEditorStats: Shader Count: 0
+[2022.04.30-01.32.10:374][ 92]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-01.32.10:374][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-01.32.10:374][ 92]MaterialEditorStats: Shader Count: 1
+[2022.04.30-01.32.10:441][ 94]LogMaterial: Display: Missing cached shadermap for Preview:M_Invisible in PCD3D_SM5, Default, SM5 (DDC key hash: 4AFB7B0B21015627A04BD87D72860F4D73BAB4EA), compiling. 
+[2022.04.30-01.32.10:445][ 94]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2AA0DFCB93DE320FEBD2A9AA31B6EDE1103EA19F), compiling. 
+[2022.04.30-01.32.10:447][ 94]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.30-01.32.10:454][ 94]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-01.32.10:454][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-01.32.10:454][ 94]MaterialEditorStats: Shader Count: 0
+[2022.04.30-01.32.10:506][ 97]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-01.32.10:506][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-01.32.10:506][ 97]MaterialEditorStats: Shader Count: 1
+[2022.04.30-01.32.11:871][169]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.30-01.32.11:871][169]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-01.32.11:871][169]MaterialEditorStats: Shader Count: 2
+[2022.04.30-01.32.16:372][406]LogMaterialEditor: Saving and Compiling material M_Invisible
+[2022.04.30-01.32.16:883][406]LogMaterial: Display: Missing cached shadermap for Preview:M_Invisible in PCD3D_SM5, Default, SM5 (DDC key hash: 95A81B0ACE033EF62F92689A2F07618F386FC389), compiling. 
+[2022.04.30-01.32.16:926][406]LogMaterial: Display: Missing cached shadermap for M_Invisible in PCD3D_SM5, Default, SM5 (DDC key hash: 598613BCF747A2F6DD2DDC2F75D085275C19F6F3), compiling. 
+[2022.04.30-01.32.17:024][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.04.30-01.32.17:914][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.30-01.32.20:269][406]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.04.30-01.32.34:253][406]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004983s (14.161765s overbudget)
+[2022.04.30-01.32.34:275][406]LogSavePackage: Moving output files for package: /Game/Materials/M_Invisibility/M_Invisible
+[2022.04.30-01.32.34:276][406]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/M_InvisibleD0B12F3F4CE3B98E0BB26A8FAB6FCC58.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/M_Invisibility/M_Invisible.uasset'
+[2022.04.30-01.32.34:288][406]AssetCheck: New page: Asset Save: M_Invisible
+[2022.04.30-01.32.34:288][406]LogContentValidation: Display: Validating Material /Game/Materials/M_Invisibility/M_Invisible.M_Invisible
+[2022.04.30-01.32.34:289][406]MaterialEditorStats: Base pass shader: 773 instructions
+[2022.04.30-01.32.34:289][406]MaterialEditorStats: Base pass vertex shader: 273 instructions
+[2022.04.30-01.32.34:290][406]MaterialEditorStats: Base pass vertex shader: 337 instructions
+[2022.04.30-01.32.34:290][406]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.30-01.32.34:290][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-01.32.34:290][406]MaterialEditorStats: Shader Count: 56
+[2022.04.30-01.32.37:367][556]LogSlate: Window 'M_Invisible' being destroyed
+[2022.04.30-01.32.37:411][556]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.32.37:411][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-01.33.05:889][271]Cmd: TRANSACTION UNDO
+[2022.04.30-01.33.05:889][271]LogEditorTransaction: Undo Foliage Editing
+[2022.04.30-01.33.45:204][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.04.30-01.33.45:660][ 28]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.04.30-01.33.45:667][ 28]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMap1D49D7B441D6638669A22690A4D8AE25.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.30-01.33.45:701][ 28]LogFileHelpers: No new changes to save!
+[2022.04.30-01.33.45:737][ 28]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.30-01.33.45:737][ 28]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.30-01.33.47:205][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.04.30-01.33.47:207][109]LogStall: Shutdown...
+[2022.04.30-01.33.47:212][109]LogStall: Shutdown complete.
+[2022.04.30-01.33.47:259][109]LogSlate: Window 'Plug_N_Play - Unreal Editor' being destroyed
+[2022.04.30-01.33.47:260][109]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.04.30-01.33.47:421][110]Cmd: QUIT_EDITOR
+[2022.04.30-01.33.47:421][110]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.30-01.33.47:425][110]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.30-01.33.47:425][110]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.04.30-01.33.47:425][110]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.04.30-01.33.47:430][110]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.04.30-01.33.47:773][110]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.30-01.33.47:773][110]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.30-01.33.47:773][110]LogAudio: Display: Audio Device unregistered from world 'FirstPersonExampleMap'.
+[2022.04.30-01.33.47:773][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.04.30-01.33.47:775][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.04.30-01.33.47:825][110]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.30-01.33.47:830][110]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.30-01.33.47:830][110]LogExit: Preparing to exit.
+[2022.04.30-01.33.47:849][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.30-01.33.48:981][110]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.33.48:981][110]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.33.48:981][110]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.33.48:981][110]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.33.48:981][110]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.33.48:981][110]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.33.48:989][110]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.33.48:994][110]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.33.49:073][110]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.30-01.33.49:082][110]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.04.30-01.33.49:086][110]LogExit: Editor shut down
+[2022.04.30-01.33.49:087][110]LogExit: Transaction tracking system shut down
+[2022.04.30-01.33.49:098][110]LogWorld: Warning: UWorld::FinishDestroy called after InitWorld without calling CleanupWorld first.
+[2022.04.30-01.33.49:364][110]LogExit: Object subsystem successfully closed.
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: ================================================
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Total job queries 1212, among them cache hits 559 (46.12%)
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Tracking 520 distinct input hashes that result in 287 distinct outputs (55.19%)
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: RAM used: 0.85 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Shaders Compiled: 343
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Jobs assigned 520, completed 520 (100.00%)
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Average time worker was idle: 33.46 s
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Time job spent in pending queue: average 1.16 s, longest 13.42 s
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Job execution time: average 2.11 s, max 12.02 s
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Job life time (pending + execution): average 3.27 s, max 16.15
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 118.28 s
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Jobs were issued in 443 batches (only local compilation was used), average 1.17 jobs/batch
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Average processing rate: 4.40 jobs/sec
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Effective parallelization: 5.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    4 times, average 4.72 sec, max 5.45 sec, min 4.20 sec)
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    4 times, average 4.59 sec, max 5.25 sec, min 4.30 sec)
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    4 times, average 4.18 sec, max 5.03 sec, min 3.65 sec)
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 3.82 sec, max 4.22 sec, min 3.22 sec)
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    4 times, average 3.75 sec, max 5.30 sec, min 2.63 sec)
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.28% of total time (compiled   55 times, average 1.02 sec, max 4.97 sec, min 0.53 sec)
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.24% of total time (compiled   58 times, average 0.86 sec, max 1.13 sec, min 0.63 sec)
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.12% of total time (compiled   16 times, average 1.93 sec, max 5.41 sec, min 0.86 sec)
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.02% of total time (compiled   16 times, average 1.90 sec, max 4.71 sec, min 0.91 sec)
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 4.95% of total time (compiled   16 times, average 1.87 sec, max 5.21 sec, min 0.79 sec)
+[2022.04.30-01.33.49:372][110]LogShaderCompilers: Display: ================================================
+[2022.04.30-01.33.49:468][110]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.30-01.33.49:488][110]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2022.04.30-01.33.49:488][110]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2022.04.30-01.33.49:488][110]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.04.30-01.33.49:488][110]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module SubobjectEditor (862)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module SceneOutliner (860)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module StatusBar (858)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (856)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module TimeManagement (854)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module StatsViewer (852)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (850)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module AutomationWorker (848)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (846)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module GooglePADEditor (844)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (842)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (840)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (838)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (836)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module PlanarCut (834)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (832)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (830)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (828)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (826)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (824)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (822)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module WebMMedia (820)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (818)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (816)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module SequenceRecorder (815)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (812)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (810)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (808)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (806)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (804)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (802)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (800)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module CharacterAI (798)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module TextureAlignMode (796)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module BspMode (794)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module GeometryMode (792)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (790)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module IKRigEditor (788)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (786)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module ControlRigEditor (784)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module AnimationEditor (783)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module SmartSnapping (780)
+[2022.04.30-01.33.49:489][110]LogModuleManager: Shutting down and abandoning module SessionServices (778)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module MeshPaint (776)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (774)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module PlacementMode (773)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (766)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module ActorPickerMode (764)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module ViewportSnapping (762)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module EditorWidgets (760)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module ViewportInteraction (758)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module ClothPainter (756)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (755)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module LogVisualizer (752)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module IntroTutorials (750)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (748)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (746)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (745)
+[2022.04.30-01.33.49:490][110]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (743)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (740)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (738)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (736)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (734)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module CSVtoSVG (732)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (730)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module EditorConfig (728)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (726)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module EditorFramework (724)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (722)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module TraceInsights (720)
+[2022.04.30-01.33.50:015][110]MemoryProfiler: Shutdown
+[2022.04.30-01.33.50:015][110]NetworkingProfiler: Shutdown
+[2022.04.30-01.33.50:015][110]LoadingProfiler: Shutdown
+[2022.04.30-01.33.50:015][110]TimingProfiler: Shutdown
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module TraceServices (719)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (716)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (715)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module InputBindingEditor (712)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module MergeActors (710)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (708)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module LocalizationService (707)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module HardwareTargeting (704)
+[2022.04.30-01.33.50:015][110]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (702)
+[2022.04.30-01.33.50:016][110]LogModuleManager: Shutting down and abandoning module UndoHistory (700)
+[2022.04.30-01.33.50:016][110]LogModuleManager: Shutting down and abandoning module XmlParser (698)
+[2022.04.30-01.33.50:016][110]LogModuleManager: Shutting down and abandoning module Blutility (696)
+[2022.04.30-01.33.50:016][110]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (694)
+[2022.04.30-01.33.50:016][110]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (693)
+[2022.04.30-01.33.50:016][110]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (690)
+[2022.04.30-01.33.50:016][110]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (689)
+[2022.04.30-01.33.50:016][110]LogModuleManager: Shutting down and abandoning module SettingsEditor (686)
+[2022.04.30-01.33.50:016][110]LogModuleManager: Shutting down and abandoning module ProjectLauncher (684)
+[2022.04.30-01.33.50:016][110]LogModuleManager: Shutting down and abandoning module SessionFrontend (682)
+[2022.04.30-01.33.50:016][110]LogModuleManager: Shutting down and abandoning module ProfilerClient (680)
+[2022.04.30-01.33.50:016][110]LogModuleManager: Shutting down and abandoning module DeviceManager (678)
+[2022.04.30-01.33.50:016][110]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (677)
+[2022.04.30-01.33.50:027][110]LogModuleManager: Shutting down and abandoning module AutomationController (674)
+[2022.04.30-01.33.50:027][110]LogModuleManager: Shutting down and abandoning module AutomationWindow (672)
+[2022.04.30-01.33.50:027][110]LogModuleManager: Shutting down and abandoning module Layers (670)
+[2022.04.30-01.33.50:027][110]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (668)
+[2022.04.30-01.33.50:027][110]LogModuleManager: Shutting down and abandoning module DetailCustomizations (666)
+[2022.04.30-01.33.50:027][110]LogModuleManager: Shutting down and abandoning module PackagesDialog (664)
+[2022.04.30-01.33.50:027][110]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (662)
+[2022.04.30-01.33.50:027][110]LogModuleManager: Shutting down and abandoning module Persona (660)
+[2022.04.30-01.33.50:027][110]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (659)
+[2022.04.30-01.33.50:027][110]LogModuleManager: Shutting down and abandoning module AnimGraph (657)
+[2022.04.30-01.33.50:027][110]LogModuleManager: Shutting down and abandoning module Kismet (654)
+[2022.04.30-01.33.50:030][110]LogModuleManager: Shutting down and abandoning module KismetWidgets (653)
+[2022.04.30-01.33.50:030][110]LogModuleManager: Shutting down and abandoning module GraphEditor (650)
+[2022.04.30-01.33.50:031][110]LogModuleManager: Shutting down and abandoning module StructViewer (648)
+[2022.04.30-01.33.50:031][110]LogModuleManager: Shutting down and abandoning module ClassViewer (646)
+[2022.04.30-01.33.50:031][110]LogModuleManager: Shutting down and abandoning module NaniteTools (644)
+[2022.04.30-01.33.50:031][110]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (642)
+[2022.04.30-01.33.50:031][110]LogModuleManager: Shutting down and abandoning module SourceControlWindows (640)
+[2022.04.30-01.33.50:031][110]LogModuleManager: Shutting down and abandoning module OutputLog (638)
+[2022.04.30-01.33.50:031][110]LogModuleManager: Shutting down and abandoning module Documentation (636)
+[2022.04.30-01.33.50:031][110]LogModuleManager: Shutting down and abandoning module LiveCoding (634)
+[2022.04.30-01.33.50:037][110]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (632)
+[2022.04.30-01.33.50:037][110]LogModuleManager: Shutting down and abandoning module MovieScene (630)
+[2022.04.30-01.33.50:037][110]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (628)
+[2022.04.30-01.33.50:037][110]LogModuleManager: Shutting down and abandoning module LauncherPlatform (626)
+[2022.04.30-01.33.50:037][110]LogModuleManager: Shutting down and abandoning module AnalyticsET (624)
+[2022.04.30-01.33.50:037][110]LogModuleManager: Shutting down and abandoning module PortalServices (622)
+[2022.04.30-01.33.50:037][110]LogModuleManager: Shutting down and abandoning module PortalRpc (620)
+[2022.04.30-01.33.50:037][110]LogModuleManager: Shutting down and abandoning module MessagingRpc (618)
+[2022.04.30-01.33.50:037][110]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (616)
+[2022.04.30-01.33.50:037][110]LogModuleManager: Shutting down and abandoning module AudioMixer (615)
+[2022.04.30-01.33.50:037][110]LogModuleManager: Shutting down and abandoning module AudioMixerCore (614)
+[2022.04.30-01.33.50:037][110]LogModuleManager: Shutting down and abandoning module AIModule (610)
+[2022.04.30-01.33.50:037][110]LogModuleManager: Shutting down and abandoning module GameplayDebugger (609)
+[2022.04.30-01.33.50:038][110]LogModuleManager: Shutting down and abandoning module AITestSuite (607)
+[2022.04.30-01.33.50:038][110]LogModuleManager: Shutting down and abandoning module NavigationSystem (605)
+[2022.04.30-01.33.50:038][110]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (602)
+[2022.04.30-01.33.50:038][110]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (600)
+[2022.04.30-01.33.50:038][110]LogModuleManager: Shutting down and abandoning module TypedElementFramework (598)
+[2022.04.30-01.33.50:038][110]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (596)
+[2022.04.30-01.33.50:038][110]LogModuleManager: Shutting down and abandoning module ProfilerService (594)
+[2022.04.30-01.33.50:180][110]LogModuleManager: Shutting down and abandoning module TaskGraph (592)
+[2022.04.30-01.33.50:180][110]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (590)
+[2022.04.30-01.33.50:180][110]LogModuleManager: Shutting down and abandoning module MegascansPlugin (588)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module Bridge (586)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (584)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (582)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module InterchangePipelines (580)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module InterchangeExport (578)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module InterchangeMessages (576)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module InterchangeImport (574)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module InterchangeNodes (572)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (570)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (568)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module InterchangeEditor (566)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (564)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (562)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (560)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module CollectionManager (559)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module ResonanceAudio (556)
+[2022.04.30-01.33.50:277][110]LogModuleManager: Shutting down and abandoning module SynthesisEditor (554)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module Synthesis (552)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (550)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (548)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (546)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (544)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ModelingOperators (542)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (540)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ModelingComponents (538)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (536)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module MeshModelingTools (534)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (532)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module GooglePAD (530)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module DynamicMesh (528)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (526)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (524)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (522)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (520)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (518)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module CableComponent (516)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module AudioCapture (514)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (513)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module AssetTags (510)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (508)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (506)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module AppleImageUtils (504)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module AndroidPermission (502)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (500)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (498)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (492)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module SequencerScripting (490)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (488)
+[2022.04.30-01.33.50:278][110]LogOpenImageDenoise: OIDN shutting down
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (486)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (484)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (482)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (480)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (478)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (477)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (474)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (472)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (470)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module UObjectPlugin (468)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module MediaCompositing (466)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ImgMedia (464)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (462)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (460)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (458)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (456)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module PluginUtils (454)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module GitSourceControl (452)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module AlembicImporter (450)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module AlembicLibrary (449)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module GeometryCache (448)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (447)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (442)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (440)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (438)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (436)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ChaosNiagara (434)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module FractureEditor (432)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (430)
+[2022.04.30-01.33.50:278][110]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (428)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module BackChannel (426)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (424)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module AutomationUtils (422)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (420)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (418)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (416)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (412)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module PluginBrowser (410)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (408)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (406)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (404)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module EditorDebugTools (402)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module CurveEditorTools (400)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (398)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module CryptoKeys (396)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module ControlRigSpline (394)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (392)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (390)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (388)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (386)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module Paper2DEditor (384)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (382)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (380)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module SoundFields (378)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module SignificanceManager (376)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (374)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (372)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (368)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (367)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (364)
+[2022.04.30-01.33.50:279][110]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (362)
+[2022.04.30-01.33.50:286][110]LogModuleManager: Shutting down and abandoning module ActorSequence (360)
+[2022.04.30-01.33.50:286][110]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (358)
+[2022.04.30-01.33.50:286][110]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (356)
+[2022.04.30-01.33.50:286][110]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (354)
+[2022.04.30-01.33.50:286][110]LogModuleManager: Shutting down and abandoning module UdpMessaging (352)
+[2022.04.30-01.33.50:387][110]LogModuleManager: Shutting down and abandoning module TcpMessaging (350)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module PBIK (348)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module FullBodyIK (346)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (344)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module Niagara (342)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module SignalProcessing (341)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module NiagaraEditor (339)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module NiagaraCore (336)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module AnimationSharing (334)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (332)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (330)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module FacialAnimation (328)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module DataValidation (326)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (324)
+[2022.04.30-01.33.50:487][110]LogModuleManager: Shutting down and abandoning module LevelEditor (323)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (322)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (320)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (318)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module MainFrame (316)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module HotReload (315)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module ContentBrowser (311)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module ToolMenus (310)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module ContentBrowserData (308)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module TreeMap (305)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module GameplayCameras (302)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (300)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module IKRig (298)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (296)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module ControlRig (294)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module LevelSequence (293)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module Paper2D (290)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (288)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (286)
+[2022.04.30-01.33.50:491][110]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (284)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module AndroidFileServer (282)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (280)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module PacketHandler (278)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module AnimationDataController (276)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2022.04.30-01.33.50:492][110]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (253)
+[2022.04.30-01.33.50:493][110]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2022.04.30-01.33.50:493][110]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2022.04.30-01.33.50:493][110]LogModuleManager: Shutting down and abandoning module SlateReflector (244)
+[2022.04.30-01.33.50:493][110]LogModuleManager: Shutting down and abandoning module Slate (242)
+[2022.04.30-01.33.50:493][110]LogModuleManager: Shutting down and abandoning module SlateCore (240)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (238)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (236)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module UnrealEd (234)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module MRMesh (232)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module Messaging (230)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (228)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (226)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module Networking (224)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module Core (222)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module MaterialEditor (220)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module MovieSceneTools (218)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module CurveEditor (217)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module Sequencer (215)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module EditorStyle (214)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module KismetCompiler (210)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module MeshBuilder (208)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module NaniteBuilder (206)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2022.04.30-01.33.50:494][110]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2022.04.30-01.33.50:495][110]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module TargetPlatform (182)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (181)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (179)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module AudioFormatBink (171)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (169)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (167)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (165)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (163)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (161)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (159)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (157)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (155)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (153)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (151)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module TextureFormat (149)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (148)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (146)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (140)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (138)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module ImageWrapper (137)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module TurnkeySupport (133)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (126)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2022.04.30-01.33.50:497][110]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2022.04.30-01.33.50:498][110]LogModuleManager: Shutting down and abandoning module D3D11RHI (110)
+[2022.04.30-01.33.50:498][110]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2022.04.30-01.33.50:498][110]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2022.04.30-01.33.50:498][110]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2022.04.30-01.33.50:498][110]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2022.04.30-01.33.50:498][110]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2022.04.30-01.33.50:498][110]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2022.04.30-01.33.50:498][110]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2022.04.30-01.33.50:498][110]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.04.30-01.33.50:498][110]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (92)
+[2022.04.30-01.33.50:498][110]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2022.04.30-01.33.50:500][110]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2022.04.30-01.33.50:500][110]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2022.04.30-01.33.50:529][110]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2022.04.30-01.33.50:529][110]LogHttp: Warning: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.04.30-01.33.50:529][110]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3D0061A3-4A95-DD73-799B-588A9092A2DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=5bc946fb4723132cf6a63ca038179876%7C9c76191d364f4cbbb3c5e06dea96fb4b%7C0a438035-dde7-42d3-b9b2-f4993682a23b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.04.30-01.33.50:529][110]LogHttp: Warning: Cleaning up 1 outstanding Http requests.
+[2022.04.30-01.33.50:537][110]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2022.04.30-01.33.50:538][110]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2022.04.30-01.33.50:540][110]LogModuleManager: Shutting down and abandoning module Media (75)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module PixWinPlugin (70)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (68)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module NiagaraShader (66)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.04.30-01.33.50:541][110]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.04.30-01.33.50:542][110]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.04.30-01.33.50:542][110]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2022.04.30-01.33.50:542][110]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2022.04.30-01.33.50:542][110]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.04.30-01.33.50:542][110]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.04.30-01.33.50:542][110]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.04.30-01.33.50:542][110]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.04.30-01.33.50:543][110]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.30-01.33.50:543][110]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.30-01.33.50:543][110]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.30-01.33.50:543][110]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.30-01.33.50:543][110]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.04.30-01.33.50:543][110]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.04.30-01.33.50:543][110]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.04.30-01.33.50:543][110]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.04.30-01.33.50:543][110]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.04.30-01.33.50:543][110]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.04.30-01.33.50:581][110]LogD3D11RHI: Shutdown
+[2022.04.30-01.33.50:582][110]LogD3D11RHI: CleanupD3DDevice
+[2022.04.30-01.33.50:596][110]LogExit: Exiting.
+[2022.04.30-01.33.50:603][110]Log file closed, 04/29/22 21:33:50
