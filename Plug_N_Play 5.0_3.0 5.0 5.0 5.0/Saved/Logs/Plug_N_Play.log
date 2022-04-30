@@ -1787,3 +1787,481 @@ Recommended: 511.79
 [2022.04.30-01.09.48:638][217]LogPlayLevel: Display: Destroying online subsystem :Context_9
 [2022.04.30-01.09.55:087][594]LogSlate: Window 'Message Log' being destroyed
 [2022.04.30-01.09.55:108][594]LogSlate: Window 'Message Log' being destroyed
+[2022.04.30-01.13.24:349][326]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/ModWall1_Textures/MOdwall1_2.MOdwall1_2
+[2022.04.30-01.13.24:352][326]LogMaterial: Display: Missing cached shadermap for Preview:MOdwall1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 65C0E22BC52325EF5CDB4C6BA264AC17DAB00B32), compiling. 
+[2022.04.30-01.13.24:372][326]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-01.13.24:503][326]LogMaterial: Display: Missing cached shadermap for Preview:MOdwall1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F9FCB8556642C077E1348F544E937E5E9F47445E), compiling. 
+[2022.04.30-01.13.24:507][326]LogMaterial: Display: Missing cached shadermap for Preview:MOdwall1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B832EE0ADCDC16FDBFF79BE38B4D9FFBF3FBC6A0), compiling. 
+[2022.04.30-01.13.24:510][326]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9AC4F751EB0C889E333144183E86A04E885204BC), compiling. 
+[2022.04.30-01.13.24:512][326]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F77D6DFD2ED667592F26B040114387D6C5FF5E91), compiling. 
+[2022.04.30-01.13.24:514][326]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 814B5C27C2258761EDD39C9BD03578DB8E76577B), compiling. 
+[2022.04.30-01.13.24:516][326]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E0E71DA662ED65F0B94C888376F5BA54D0A3B9D4), compiling. 
+[2022.04.30-01.13.24:538][326]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-01.13.24:538][326]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.24:538][326]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.24:538][326]MaterialEditorStats: Shader Count: 0
+[2022.04.30-01.13.24:717][330]LogShaderCompilers: Display: ================================================
+[2022.04.30-01.13.24:717][330]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Total job queries 730, among them cache hits 341 (46.71%)
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Tracking 279 distinct input hashes that result in 166 distinct outputs (59.50%)
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: RAM used: 0.48 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Shaders Compiled: 163
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Jobs assigned 283, completed 279 (98.59%)
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Average time worker was idle: 19.50 s
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Time job spent in pending queue: average 0.52 s, longest 5.99 s
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Job execution time: average 1.67 s, max 4.87 s
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Job life time (pending + execution): average 2.20 s, max 8.32
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 60.78 s
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Jobs were issued in 247 batches (only local compilation was used), average 1.15 jobs/batch
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Average processing rate: 4.59 jobs/sec
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Effective parallelization: 4.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 4.77 sec, max 4.77 sec, min 4.77 sec)
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 4.51 sec, max 4.51 sec, min 4.51 sec)
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 4.07 sec, max 4.07 sec, min 4.07 sec)
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 3.22 sec, max 3.22 sec, min 3.22 sec)
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 3.06 sec, max 3.06 sec, min 3.06 sec)
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.93% of total time (compiled   38 times, average 0.85 sec, max 1.12 sec, min 0.63 sec)
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.06% of total time (compiled   35 times, average 0.86 sec, max 4.27 sec, min 0.53 sec)
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.13% of total time (compiled   11 times, average 1.27 sec, max 2.30 sec, min 0.63 sec)
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.61% of total time (compiled   15 times, average 0.83 sec, max 1.09 sec, min 0.64 sec)
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.34% of total time (compiled    8 times, average 1.47 sec, max 4.71 sec, min 0.91 sec)
+[2022.04.30-01.13.24:718][330]LogShaderCompilers: Display: ================================================
+[2022.04.30-01.13.25:248][349]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-01.13.25:248][349]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.25:248][349]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.25:248][349]MaterialEditorStats: Shader Count: 1
+[2022.04.30-01.13.25:750][365]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-01.13.25:750][365]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.25:750][365]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.25:750][365]MaterialEditorStats: Shader Count: 2
+[2022.04.30-01.13.27:334][431]LogMaterial: Display: Missing cached shadermap for Preview:MOdwall1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: CE9B71F237A0EE5E84C521D819FC01A4CE009B24), compiling. 
+[2022.04.30-01.13.27:337][431]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DBF9505EF57EC5CF28CD4915543E9BA901EDB599), compiling. 
+[2022.04.30-01.13.27:340][431]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-01.13.27:340][431]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.27:340][431]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.27:340][431]MaterialEditorStats: Shader Count: 0
+[2022.04.30-01.13.27:930][452]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-01.13.27:930][452]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.27:930][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.27:930][452]MaterialEditorStats: Shader Count: 1
+[2022.04.30-01.13.28:346][464]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-01.13.28:346][464]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.28:346][464]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.28:346][464]MaterialEditorStats: Shader Count: 2
+[2022.04.30-01.13.29:971][528]LogMaterial: Display: Missing cached shadermap for Preview:MOdwall1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: AAE436609E6DDD185DC8170A0E911868380E8688), compiling. 
+[2022.04.30-01.13.29:974][528]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C32E7298B0EA147B0C090BAB584495C5BA84A781), compiling. 
+[2022.04.30-01.13.29:977][528]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-01.13.29:977][528]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.29:977][528]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.29:977][528]MaterialEditorStats: Shader Count: 0
+[2022.04.30-01.13.30:648][547]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-01.13.30:648][547]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.30:648][547]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.30:648][547]MaterialEditorStats: Shader Count: 1
+[2022.04.30-01.13.31:118][560]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-01.13.31:118][560]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.31:118][560]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.31:118][560]MaterialEditorStats: Shader Count: 3
+[2022.04.30-01.13.31:550][574]LogMaterialEditor: Applying material MOdwall1_2
+[2022.04.30-01.13.32:053][574]LogMaterial: Display: Missing cached shadermap for Preview:MOdwall1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D245CE69569060DF0449831CEEE63F95B8D9BF70), compiling. 
+[2022.04.30-01.13.32:078][574]LogMaterial: Display: Missing cached shadermap for MOdwall1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: C4F7431E84794F4DCB895C5A6ED1E87B4627A522), compiling. 
+[2022.04.30-01.13.32:167][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.30-01.13.33:363][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.30-01.13.33:376][574]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.30-01.13.33:737][583]LogSlate: Window 'MOdwall1_2' being destroyed
+[2022.04.30-01.13.33:782][583]LogSlate: Window 'MOdwall1_2' being destroyed
+[2022.04.30-01.13.33:798][583]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.13.33:798][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-01.13.45:421][234]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/ModWall3_textures/Modwall3_2.Modwall3_2
+[2022.04.30-01.13.45:423][234]LogMaterial: Display: Missing cached shadermap for Preview:Modwall3_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E40A690480E3CD403DDBA537DF72CBB828C036DF), compiling. 
+[2022.04.30-01.13.45:462][234]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-01.13.45:605][234]LogMaterial: Display: Missing cached shadermap for Preview:Modwall3_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 78ACD21D4FC9903AED8AF75F487A96F12505E094), compiling. 
+[2022.04.30-01.13.45:609][234]LogMaterial: Display: Missing cached shadermap for Preview:Modwall3_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9FB488E5286854C1C977E232EFD4FBB5B1172A58), compiling. 
+[2022.04.30-01.13.45:612][234]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 47A5F292582BDE9518D500BE5703FF077CD63AF9), compiling. 
+[2022.04.30-01.13.45:614][234]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B368EBF5618F6D66132E34DEF47C117BFCD1FFD), compiling. 
+[2022.04.30-01.13.45:616][234]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AF1CC0B81181FAD294B70E07448E21C913F6357D), compiling. 
+[2022.04.30-01.13.45:618][234]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 11FBA2CA25009B3A5AF3F467D947F847DE194A60), compiling. 
+[2022.04.30-01.13.45:641][234]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-01.13.45:641][234]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.45:641][234]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.45:641][234]MaterialEditorStats: Shader Count: 0
+[2022.04.30-01.13.46:199][253]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-01.13.46:200][253]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.46:200][253]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.46:200][253]MaterialEditorStats: Shader Count: 1
+[2022.04.30-01.13.46:614][269]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-01.13.46:614][269]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.46:614][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.46:614][269]MaterialEditorStats: Shader Count: 3
+[2022.04.30-01.13.48:682][361]LogMaterial: Display: Missing cached shadermap for Preview:Modwall3_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1BFB379CB05B004F2AE3DB7F1FD0EE0CE3A9C568), compiling. 
+[2022.04.30-01.13.48:685][361]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AE871226D69D703484E92DE209F7DB2B7F484A47), compiling. 
+[2022.04.30-01.13.48:688][361]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-01.13.48:688][361]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.48:688][361]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.48:688][361]MaterialEditorStats: Shader Count: 0
+[2022.04.30-01.13.49:350][386]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-01.13.49:350][386]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.49:350][386]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.49:350][386]MaterialEditorStats: Shader Count: 1
+[2022.04.30-01.13.49:660][398]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-01.13.49:660][398]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.49:660][398]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.49:660][398]MaterialEditorStats: Shader Count: 2
+[2022.04.30-01.13.50:968][457]LogMaterial: Display: Missing cached shadermap for Preview:Modwall3_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5100AD38CF7473CD62ABC48BF5CB8402353085FA), compiling. 
+[2022.04.30-01.13.50:972][457]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B5E67BBD586AD905DFB1ED218B418BE8997C2361), compiling. 
+[2022.04.30-01.13.50:973][457]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.30-01.13.50:981][457]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-01.13.50:981][457]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.50:981][457]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.50:981][457]MaterialEditorStats: Shader Count: 0
+[2022.04.30-01.13.51:039][460]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-01.13.51:040][460]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.13.51:040][460]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.13.51:040][460]MaterialEditorStats: Shader Count: 4
+[2022.04.30-01.13.51:808][493]LogMaterialEditor: Applying material Modwall3_2
+[2022.04.30-01.13.52:319][493]LogMaterial: Display: Missing cached shadermap for Preview:Modwall3_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B906FD89A138025DB27F43475A35D032234C4D88), compiling. 
+[2022.04.30-01.13.52:343][493]LogMaterial: Display: Missing cached shadermap for Modwall3_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9D2A308957CB9CA82246FF70C8EEE4CE1082D086), compiling. 
+[2022.04.30-01.13.52:436][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.30-01.13.53:546][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.30-01.13.55:294][576]LogSlate: Window 'Modwall3_2' being destroyed
+[2022.04.30-01.13.55:315][576]LogSlate: Window 'Modwall3_2' being destroyed
+[2022.04.30-01.13.55:331][576]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.13.55:331][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-01.14.10:570][400]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Textures/ModWall4_textures/M_Modwall42.M_Modwall42
+[2022.04.30-01.14.10:573][400]LogMaterial: Display: Missing cached shadermap for Preview:M_Modwall42 in PCD3D_SM5, Default, SM5 (DDC key hash: 315CA8EF4FAE9E897F7C0919B5CC10036A6A616D), compiling. 
+[2022.04.30-01.14.10:612][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-01.14.10:737][400]LogMaterial: Display: Missing cached shadermap for Preview:M_Modwall42 in PCD3D_SM5, Default, SM5 (DDC key hash: 76A5FA5F73FA82D05862DB69C53F24F97E096DCB), compiling. 
+[2022.04.30-01.14.10:741][400]LogMaterial: Display: Missing cached shadermap for Preview:M_Modwall42 in PCD3D_SM5, Default, SM5 (DDC key hash: ECF935F67DBD46FCB8111BB6BB3FEEB8433C594F), compiling. 
+[2022.04.30-01.14.10:744][400]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B2AB63D9A6D4760C9BA098F774C6E2B58AD31A3), compiling. 
+[2022.04.30-01.14.10:746][400]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 72E9EB679DFEEC75A306A39D0983BAB29EB42D27), compiling. 
+[2022.04.30-01.14.10:748][400]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FD4E8DECEB4E7CEC48E37F9AD1DA294FFDA1916B), compiling. 
+[2022.04.30-01.14.10:750][400]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 389ECD2AEAE32D72F8C94CC5A3A962279D16B148), compiling. 
+[2022.04.30-01.14.10:775][400]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-01.14.10:775][400]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.14.10:775][400]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.14.10:775][400]MaterialEditorStats: Shader Count: 0
+[2022.04.30-01.14.11:322][419]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-01.14.11:322][419]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.14.11:322][419]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.14.11:322][419]MaterialEditorStats: Shader Count: 1
+[2022.04.30-01.14.11:915][441]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-01.14.11:915][441]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.14.11:915][441]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.14.11:915][441]MaterialEditorStats: Shader Count: 4
+[2022.04.30-01.14.14:246][530]LogMaterial: Display: Missing cached shadermap for Preview:M_Modwall42 in PCD3D_SM5, Default, SM5 (DDC key hash: 2B8EE2C8834A9BBE5F40ECD8993D0900B4E381F8), compiling. 
+[2022.04.30-01.14.14:250][530]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D6201FD677E2BA7B53D9D6AB68284E09477ADC8), compiling. 
+[2022.04.30-01.14.14:252][530]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-01.14.14:252][530]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.14.14:252][530]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.14.14:252][530]MaterialEditorStats: Shader Count: 0
+[2022.04.30-01.14.14:920][552]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-01.14.14:920][552]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.14.14:921][552]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.14.14:921][552]MaterialEditorStats: Shader Count: 1
+[2022.04.30-01.14.15:406][568]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-01.14.15:407][568]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.14.15:407][568]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.14.15:407][568]MaterialEditorStats: Shader Count: 4
+[2022.04.30-01.14.16:602][620]LogMaterial: Display: Missing cached shadermap for Preview:M_Modwall42 in PCD3D_SM5, Default, SM5 (DDC key hash: EB5933957A89E841839F90BA539BFF53FC62EC38), compiling. 
+[2022.04.30-01.14.16:606][620]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6AB4E7561E7A6AD8853B6A9A90ACA6871081790D), compiling. 
+[2022.04.30-01.14.16:607][620]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.30-01.14.16:614][620]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-01.14.16:614][620]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.14.16:614][620]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.14.16:614][620]MaterialEditorStats: Shader Count: 0
+[2022.04.30-01.14.16:672][623]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-01.14.16:672][623]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-01.14.16:672][623]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-01.14.16:672][623]MaterialEditorStats: Shader Count: 4
+[2022.04.30-01.14.17:500][661]LogMaterialEditor: Applying material M_Modwall42
+[2022.04.30-01.14.17:990][661]LogMaterial: Display: Missing cached shadermap for Preview:M_Modwall42 in PCD3D_SM5, Default, SM5 (DDC key hash: 1480E7C4E0586A4437BB56D114F055E2CFC4FB5F), compiling. 
+[2022.04.30-01.14.18:014][661]LogMaterial: Display: Missing cached shadermap for M_Modwall42 in PCD3D_SM5, Default, SM5 (DDC key hash: AA7BF13ADAB66145FBC7192B1623F42FA7845EB9), compiling. 
+[2022.04.30-01.14.18:099][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.30-01.14.19:316][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.30-01.14.19:896][678]LogSlate: Window 'M_Modwall42' being destroyed
+[2022.04.30-01.14.19:922][678]LogSlate: Window 'M_Modwall42' being destroyed
+[2022.04.30-01.14.19:938][678]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.14.19:938][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-01.15.20:628][324]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.04.30-01.15.20:665][324]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.038 s
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: === Handled ensure: ===
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: 
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: Ensure condition failed: InstanceSceneData.IsValidIndex(RenderInstanceIndex) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\InstancedStaticMesh.cpp] [Line: 1443]
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: 
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: Stack: 
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: [Callstack] 0x00007ff828dd4600 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: [Callstack] 0x00007ff828cecdb5 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: [Callstack] 0x00007ff828cec6f9 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: [Callstack] 0x00007ff828d06bb8 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: [Callstack] 0x00007ff81f015c65 UnrealEditor-Renderer.dll!UnknownFunction []
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: [Callstack] 0x00007ff828911673 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: [Callstack] 0x00007ff8289d80d2 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: [Callstack] 0x00007ff8288c35d1 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: [Callstack] 0x00007ff8288968e1 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: [Callstack] 0x00007ff828ec5958 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: [Callstack] 0x00007ff828efd462 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: [Callstack] 0x00007ff82dd7e7f7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.04.30-01.15.20:665][324]LogOutputDevice: Error: [Callstack] 0x00007ff82e709f56 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.04.30-01.15.20:666][324]LogOutputDevice: Error: [Callstack] 0x00007ff7032082f6 UnrealEditor.exe!UnknownFunction []
+[2022.04.30-01.15.20:666][324]LogOutputDevice: Error: [Callstack] 0x00007ff703220d9c UnrealEditor.exe!UnknownFunction []
+[2022.04.30-01.15.20:666][324]LogOutputDevice: Error: [Callstack] 0x00007ff703220e8a UnrealEditor.exe!UnknownFunction []
+[2022.04.30-01.15.20:666][324]LogOutputDevice: Error: [Callstack] 0x00007ff703223c4d UnrealEditor.exe!UnknownFunction []
+[2022.04.30-01.15.20:666][324]LogOutputDevice: Error: [Callstack] 0x00007ff703235534 UnrealEditor.exe!UnknownFunction []
+[2022.04.30-01.15.20:666][324]LogOutputDevice: Error: [Callstack] 0x00007ff7032386e6 UnrealEditor.exe!UnknownFunction []
+[2022.04.30-01.15.20:666][324]LogOutputDevice: Error: [Callstack] 0x00007ff8cb247034 KERNEL32.DLL!UnknownFunction []
+[2022.04.30-01.15.20:666][324]LogOutputDevice: Error: [Callstack] 0x00007ff8cc962651 ntdll.dll!UnknownFunction []
+[2022.04.30-01.15.20:666][324]LogOutputDevice: Error: 
+[2022.04.30-01.15.20:669][324]LogStats:                SubmitErrorReport -  0.000 s
+[2022.04.30-01.15.21:406][324]LogStats:                    SendNewReport -  0.736 s
+[2022.04.30-01.15.21:406][324]LogStats:             FDebug::EnsureFailed -  0.778 s
+[2022.04.30-01.17.52:463][980]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Can_2_Beans_2.Can_2_Beans_2
+[2022.04.30-01.17.52:543][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-01.18.07:088][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Can_2_Beans_2" FILE="../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_2_Beans_2.uasset" SILENT=true
+[2022.04.30-01.18.07:114][600]LogSavePackage: Moving output files for package: /Game/Meshes/Can_2_Beans_2
+[2022.04.30-01.18.07:114][600]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Can_2_Beans_2DA68FBE54DC92EC933F31598D9C4D80A.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_2_Beans_2.uasset'
+[2022.04.30-01.18.07:130][600]AssetCheck: New page: Asset Save: Can_2_Beans_2
+[2022.04.30-01.18.07:130][600]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Can_2_Beans_2.Can_2_Beans_2
+[2022.04.30-01.18.28:397][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Can_2_Beans_2" FILE="../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_2_Beans_2.uasset" SILENT=true
+[2022.04.30-01.18.28:416][520]LogSavePackage: Moving output files for package: /Game/Meshes/Can_2_Beans_2
+[2022.04.30-01.18.28:417][520]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Can_2_Beans_210AC7AB74ABFBD0D7DFBCB932C19E85F.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_2_Beans_2.uasset'
+[2022.04.30-01.18.28:430][520]AssetCheck: New page: Asset Save: Can_2_Beans_2
+[2022.04.30-01.18.28:430][520]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Can_2_Beans_2.Can_2_Beans_2
+[2022.04.30-01.18.36:528][836]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.18.36:528][836]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.18.40:660][  1]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.18.40:660][  1]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.18.45:828][208]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.18.45:828][208]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.19.03:236][565]LogEditorFactories: Performing atomic reimport of [D:/James NIx Gitkraken/PnP-Remote-Repo/Jared_FBX_Textures/Models/Can_2.fbx]
+[2022.04.30-01.19.03:242][565]LogFbx: Loading FBX Scene from D:/James NIx Gitkraken/PnP-Remote-Repo/Jared_FBX_Textures/Models/Can_2.fbx
+[2022.04.30-01.19.03:251][565]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.30-01.19.03:335][565]LogFbx: Display: Triangulating static mesh pCylinder1
+[2022.04.30-01.19.03:467][565]LogStaticMesh: Display: Building static mesh Can_2_Beans_2...
+[2022.04.30-01.19.03:579][565]LogStaticMesh: Built static mesh [0.11s] /Game/Meshes/Can_2_Beans_2.Can_2_Beans_2
+[2022.04.30-01.19.05:423][565]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2022.04.30-01.19.05:431][565]LogEditorFactories: -- imported successfully
+[2022.04.30-01.19.05:432][565]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.30-01.19.08:905][687]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Can_2_DogFood_2.Can_2_DogFood_2
+[2022.04.30-01.19.08:945][687]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-01.19.16:726][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Can_2_DogFood_2" FILE="../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_2_DogFood_2.uasset" SILENT=true
+[2022.04.30-01.19.16:751][943]LogSavePackage: Moving output files for package: /Game/Meshes/Can_2_DogFood_2
+[2022.04.30-01.19.16:751][943]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Can_2_DogFood_27D43D65C4A7B18229BE7F39373639CE9.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_2_DogFood_2.uasset'
+[2022.04.30-01.19.16:766][943]AssetCheck: New page: Asset Save: Can_2_DogFood_2
+[2022.04.30-01.19.16:766][943]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Can_2_DogFood_2.Can_2_DogFood_2
+[2022.04.30-01.19.19:378][ 37]LogSlate: Window 'Can_2_DogFood_2' being destroyed
+[2022.04.30-01.19.19:412][ 37]LogSlate: Window 'Can_2_DogFood_2' being destroyed
+[2022.04.30-01.19.19:452][ 37]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.19.19:452][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-01.19.19:516][ 37]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.19.19:516][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-01.19.24:213][273]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.19.24:213][273]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.19.24:861][298]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.19.24:862][298]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.19.32:033][345]LogEditorFactories: Performing atomic reimport of [D:/James NIx Gitkraken/PnP-Remote-Repo/Jared_FBX_Textures/Models/Can_2.fbx]
+[2022.04.30-01.19.32:040][345]LogFbx: Loading FBX Scene from D:/James NIx Gitkraken/PnP-Remote-Repo/Jared_FBX_Textures/Models/Can_2.fbx
+[2022.04.30-01.19.32:047][345]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.30-01.19.32:118][345]LogFbx: Display: Triangulating static mesh pCylinder1
+[2022.04.30-01.19.32:249][345]LogStaticMesh: Display: Building static mesh Can_2_DogFood_2...
+[2022.04.30-01.19.32:358][345]LogStaticMesh: Built static mesh [0.11s] /Game/Meshes/Can_2_DogFood_2.Can_2_DogFood_2
+[2022.04.30-01.19.33:836][345]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2022.04.30-01.19.33:843][345]LogEditorFactories: -- imported successfully
+[2022.04.30-01.19.33:844][345]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.30-01.19.37:980][511]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.19.37:980][511]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.19.38:396][525]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.19.38:396][525]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.19.39:880][586]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Can_1_Slurm_2.Can_1_Slurm_2
+[2022.04.30-01.19.39:963][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-01.19.54:395][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Can_1_Slurm_2" FILE="../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_1_Slurm_2.uasset" SILENT=true
+[2022.04.30-01.19.54:409][197]LogSavePackage: Moving output files for package: /Game/Meshes/Can_1_Slurm_2
+[2022.04.30-01.19.54:409][197]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Can_1_Slurm_2E048D2A24C894D6E380006AB3D1A173D.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_1_Slurm_2.uasset'
+[2022.04.30-01.19.54:425][197]AssetCheck: New page: Asset Save: Can_1_Slurm_2
+[2022.04.30-01.19.54:425][197]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Can_1_Slurm_2.Can_1_Slurm_2
+[2022.04.30-01.19.56:734][298]LogSlate: Window 'Can_1_Slurm_2' being destroyed
+[2022.04.30-01.19.56:795][298]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.19.56:795][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-01.20.01:430][465]LogEditorFactories: Performing atomic reimport of [D:/James NIx Gitkraken/PnP-Remote-Repo/Jared_FBX_Textures/Models/Can_1.fbx]
+[2022.04.30-01.20.01:436][465]LogFbx: Loading FBX Scene from D:/James NIx Gitkraken/PnP-Remote-Repo/Jared_FBX_Textures/Models/Can_1.fbx
+[2022.04.30-01.20.01:444][465]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.30-01.20.01:502][465]LogFbx: Display: Triangulating static mesh pCylinder2
+[2022.04.30-01.20.01:575][465]LogStaticMesh: Display: Building static mesh Can_1_Slurm_2...
+[2022.04.30-01.20.01:651][465]LogStaticMesh: Built static mesh [0.08s] /Game/Meshes/Can_1_Slurm_2.Can_1_Slurm_2
+[2022.04.30-01.20.03:718][465]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2022.04.30-01.20.03:723][465]LogEditorFactories: -- imported successfully
+[2022.04.30-01.20.19:196][ 84]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Bottle_2.Bottle_2
+[2022.04.30-01.20.19:281][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-01.20.27:845][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Bottle_2" FILE="../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Bottle_2.uasset" SILENT=true
+[2022.04.30-01.20.27:856][444]LogSavePackage: Moving output files for package: /Game/Meshes/Bottle_2
+[2022.04.30-01.20.27:856][444]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Bottle_2A39660D145267426FBD5ECABEFFD677C.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Bottle_2.uasset'
+[2022.04.30-01.20.27:869][444]AssetCheck: New page: Asset Save: Bottle_2
+[2022.04.30-01.20.27:869][444]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Bottle_2.Bottle_2
+[2022.04.30-01.20.28:711][482]LogSlate: Window 'Bottle_2' being destroyed
+[2022.04.30-01.20.28:742][482]LogSlate: Window 'Bottle_2' being destroyed
+[2022.04.30-01.20.28:773][482]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.20.28:773][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-01.20.30:536][552]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Bottle_2.Bottle_2
+[2022.04.30-01.20.30:614][552]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-01.20.32:691][628]LogSlate: Window 'Bottle_2' being destroyed
+[2022.04.30-01.20.32:720][628]LogSlate: Window 'Bottle_2' being destroyed
+[2022.04.30-01.20.32:752][628]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.20.32:752][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-01.20.43:801][778]LogEditorFactories: Performing atomic reimport of [D:/James NIx Gitkraken/PnP-Remote-Repo/Jared_FBX_Textures/Models/Bottle_1.fbx]
+[2022.04.30-01.20.43:807][778]LogFbx: Loading FBX Scene from D:/James NIx Gitkraken/PnP-Remote-Repo/Jared_FBX_Textures/Models/Bottle_1.fbx
+[2022.04.30-01.20.43:814][778]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.30-01.20.43:871][778]LogFbx: Display: Triangulating static mesh pCylinder1
+[2022.04.30-01.20.43:918][778]LogStaticMesh: Display: Building static mesh Bottle_2...
+[2022.04.30-01.20.43:977][778]LogStaticMesh: Built static mesh [0.06s] /Game/Meshes/Bottle_2.Bottle_2
+[2022.04.30-01.20.45:218][778]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2022.04.30-01.20.45:225][778]LogEditorFactories: -- imported successfully
+[2022.04.30-01.20.48:420][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.30-01.20.48:869][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1
+[2022.04.30-01.20.48:876][896]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMap_Auto13E9878DF4E2AAD0EAB70A49E6B6F007C.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2022.04.30-01.20.48:890][896]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.491
+[2022.04.30-01.20.48:890][896]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.491
+[2022.04.30-01.20.48:891][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/ModWall1_Textures/MOdwall1_2] ([1] browsable assets)...
+[2022.04.30-01.20.51:080][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.04.30-01.20.51:694][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002035s (0.741065s overbudget)
+[2022.04.30-01.20.51:700][896]LogShaderCompilers: Display: ================================================
+[2022.04.30-01.20.51:700][896]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Total job queries 943, among them cache hits 457 (48.46%)
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Tracking 354 distinct input hashes that result in 207 distinct outputs (58.47%)
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: RAM used: 0.58 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Shaders Compiled: 195
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Jobs assigned 354, completed 354 (100.00%)
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Average time worker was idle: 29.79 s
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Time job spent in pending queue: average 0.46 s, longest 5.99 s
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Job execution time: average 1.51 s, max 4.87 s
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Job life time (pending + execution): average 1.97 s, max 8.32
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 74.43 s
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Jobs were issued in 318 batches (only local compilation was used), average 1.11 jobs/batch
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Average processing rate: 4.76 jobs/sec
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Effective parallelization: 4.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 4.77 sec, max 4.77 sec, min 4.77 sec)
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 4.51 sec, max 4.51 sec, min 4.51 sec)
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 4.07 sec, max 4.07 sec, min 4.07 sec)
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 3.22 sec, max 3.22 sec, min 3.22 sec)
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 3.06 sec, max 3.06 sec, min 3.06 sec)
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.32% of total time (compiled   52 times, average 0.85 sec, max 1.12 sec, min 0.63 sec)
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.23% of total time (compiled   49 times, average 0.83 sec, max 4.27 sec, min 0.53 sec)
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.52% of total time (compiled   22 times, average 0.83 sec, max 1.09 sec, min 0.64 sec)
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.50% of total time (compiled   12 times, average 1.24 sec, max 2.30 sec, min 0.63 sec)
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 3.90% of total time (compiled   10 times, average 1.29 sec, max 4.58 sec, min 0.79 sec)
+[2022.04.30-01.20.51:701][896]LogShaderCompilers: Display: ================================================
+[2022.04.30-01.20.51:712][896]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Textures/ModWall1_Textures/MOdwall1_2.MOdwall1_2]
+[2022.04.30-01.20.51:712][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/ModWall1_Textures/MOdwall1_2]
+[2022.04.30-01.20.51:714][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/Textures/ModWall1_Textures/MOdwall1_2_Auto1
+[2022.04.30-01.20.51:714][896]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/MOdwall1_2_Auto1DD473EAB460E2769E81B9ABB656571B1.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/ModWall1_Textures/MOdwall1_2_Auto1.uasset'
+[2022.04.30-01.20.51:716][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/ModWall3_textures/Modwall3_2] ([1] browsable assets)...
+[2022.04.30-01.20.53:785][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.04.30-01.20.54:200][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003158s (0.464471s overbudget)
+[2022.04.30-01.20.54:215][896]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Textures/ModWall3_textures/Modwall3_2.Modwall3_2]
+[2022.04.30-01.20.54:215][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/ModWall3_textures/Modwall3_2]
+[2022.04.30-01.20.54:218][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/Textures/ModWall3_textures/Modwall3_2_Auto1
+[2022.04.30-01.20.54:218][896]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Modwall3_2_Auto154E2906C4235717959C69F9DD28A8414.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/ModWall3_textures/Modwall3_2_Auto1.uasset'
+[2022.04.30-01.20.54:219][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/ModWall4_textures/M_Modwall42] ([1] browsable assets)...
+[2022.04.30-01.20.56:278][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.04.30-01.20.56:395][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003178s (0.153130s overbudget)
+[2022.04.30-01.20.56:410][896]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Textures/ModWall4_textures/M_Modwall42.M_Modwall42]
+[2022.04.30-01.20.56:410][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/ModWall4_textures/M_Modwall42]
+[2022.04.30-01.20.56:413][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/Textures/ModWall4_textures/M_Modwall42_Auto1
+[2022.04.30-01.20.56:413][896]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/M_Modwall42_Auto15FBE8ABA4A17B68FFF0E42B6F6707BF2.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/Materials/Textures/ModWall4_textures/M_Modwall42_Auto1.uasset'
+[2022.04.30-01.20.56:414][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Can_2_Beans_2] ([1] browsable assets)...
+[2022.04.30-01.20.56:422][896]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Can_2_Beans_2.Can_2_Beans_2]
+[2022.04.30-01.20.56:422][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Can_2_Beans_2]
+[2022.04.30-01.20.56:437][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/Can_2_Beans_2_Auto1
+[2022.04.30-01.20.56:437][896]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Can_2_Beans_2_Auto1C49D001548F91AE77AB747A60CA96069.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/Meshes/Can_2_Beans_2_Auto1.uasset'
+[2022.04.30-01.20.56:439][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Can_2_DogFood_2] ([1] browsable assets)...
+[2022.04.30-01.20.56:447][896]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Can_2_DogFood_2.Can_2_DogFood_2]
+[2022.04.30-01.20.56:447][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Can_2_DogFood_2]
+[2022.04.30-01.20.56:461][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/Can_2_DogFood_2_Auto1
+[2022.04.30-01.20.56:461][896]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Can_2_DogFood_2_Auto18CC3693A4D255815765810AF743DB292.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/Meshes/Can_2_DogFood_2_Auto1.uasset'
+[2022.04.30-01.20.56:463][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Can_1_Slurm_2] ([1] browsable assets)...
+[2022.04.30-01.20.56:472][896]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Can_1_Slurm_2.Can_1_Slurm_2]
+[2022.04.30-01.20.56:472][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Can_1_Slurm_2]
+[2022.04.30-01.20.56:481][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/Can_1_Slurm_2_Auto1
+[2022.04.30-01.20.56:481][896]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Can_1_Slurm_2_Auto1CE3745094D85133E9EB81FBADF4C5941.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/Meshes/Can_1_Slurm_2_Auto1.uasset'
+[2022.04.30-01.20.56:482][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Can_1_Coke_2] ([1] browsable assets)...
+[2022.04.30-01.20.56:490][896]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Can_1_Coke_2.Can_1_Coke_2]
+[2022.04.30-01.20.56:490][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Can_1_Coke_2]
+[2022.04.30-01.20.56:504][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/Can_1_Coke_2_Auto1
+[2022.04.30-01.20.56:504][896]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Can_1_Coke_2_Auto134C297F74A2793BADEBC409650739CF9.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/Meshes/Can_1_Coke_2_Auto1.uasset'
+[2022.04.30-01.20.56:506][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Bottle_2] ([1] browsable assets)...
+[2022.04.30-01.20.56:513][896]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Bottle_2.Bottle_2]
+[2022.04.30-01.20.56:514][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Bottle_2]
+[2022.04.30-01.20.56:520][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/Bottle_2_Auto1
+[2022.04.30-01.20.56:520][896]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Bottle_2_Auto14AB3B5B34866630553E495B73FC87122.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/Meshes/Bottle_2_Auto1.uasset'
+[2022.04.30-01.20.56:522][896]LogFileHelpers: Auto-saving content packages took 7.631
+[2022.04.30-01.21.02:908][ 71]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.21.02:908][ 71]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.21.04:167][136]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.21.04:167][136]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.21.06:416][236]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.21.06:417][236]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.21.07:498][283]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Can_1_Coke_2.Can_1_Coke_2
+[2022.04.30-01.21.07:584][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-01.21.16:033][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Can_1_Coke_2" FILE="../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_1_Coke_2.uasset" SILENT=true
+[2022.04.30-01.21.16:044][622]LogSavePackage: Moving output files for package: /Game/Meshes/Can_1_Coke_2
+[2022.04.30-01.21.16:044][622]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Can_1_Coke_265606DC64095B68454A9FFA325DA1C09.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_1_Coke_2.uasset'
+[2022.04.30-01.21.16:056][622]AssetCheck: New page: Asset Save: Can_1_Coke_2
+[2022.04.30-01.21.16:056][622]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Can_1_Coke_2.Can_1_Coke_2
+[2022.04.30-01.21.17:684][692]LogSlate: Window 'Can_1_Coke_2' being destroyed
+[2022.04.30-01.21.17:715][692]LogSlate: Window 'Can_1_Coke_2' being destroyed
+[2022.04.30-01.21.17:747][692]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-01.21.17:747][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-01.21.20:040][804]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.21.20:040][804]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-01.21.24:613][925]LogEditorFactories: Performing atomic reimport of [D:/James NIx Gitkraken/PnP-Remote-Repo/Jared_FBX_Textures/Models/Can_1.fbx]
+[2022.04.30-01.21.24:619][925]LogFbx: Loading FBX Scene from D:/James NIx Gitkraken/PnP-Remote-Repo/Jared_FBX_Textures/Models/Can_1.fbx
+[2022.04.30-01.21.24:626][925]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.30-01.21.24:690][925]LogFbx: Display: Triangulating static mesh pCylinder2
+[2022.04.30-01.21.24:764][925]LogStaticMesh: Display: Building static mesh Can_1_Coke_2...
+[2022.04.30-01.21.24:856][925]LogStaticMesh: Built static mesh [0.09s] /Game/Meshes/Can_1_Coke_2.Can_1_Coke_2
+[2022.04.30-01.21.26:054][925]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2022.04.30-01.21.26:061][925]LogEditorFactories: -- imported successfully
+[2022.04.30-01.21.31:842][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.30-01.21.31:921][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.04.30-01.21.32:370][187]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.04.30-01.21.32:377][187]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMapD977983E43026BDF65C71894B665BF22.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.30-01.21.32:408][187]LogFileHelpers: No new changes to save!
+[2022.04.30-01.21.32:408][187]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.505
+[2022.04.30-01.21.32:410][187]LogSavePackage: Moving output files for package: /Game/Materials/Textures/ModWall1_Textures/MOdwall1_2
+[2022.04.30-01.21.32:412][187]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/MOdwall1_25C5588FB4BFCFBA1F3BE4A9ECA191AAA.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/Textures/ModWall1_Textures/MOdwall1_2.uasset'
+[2022.04.30-01.21.32:416][187]LogSavePackage: Moving output files for package: /Game/Materials/Textures/ModWall3_textures/Modwall3_2
+[2022.04.30-01.21.32:417][187]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Modwall3_29EE61F5C4EC39F20B49AF1AEEB9A5E91.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/Textures/ModWall3_textures/Modwall3_2.uasset'
+[2022.04.30-01.21.32:422][187]LogSavePackage: Moving output files for package: /Game/Materials/Textures/ModWall4_textures/M_Modwall42
+[2022.04.30-01.21.32:423][187]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/M_Modwall420391807D4C8EAD756D6ABF9D1CBA9240.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/Textures/ModWall4_textures/M_Modwall42.uasset'
+[2022.04.30-01.21.32:425][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Can_2_Beans_2" FILE="../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_2_Beans_2.uasset" SILENT=true
+[2022.04.30-01.21.32:440][187]LogSavePackage: Moving output files for package: /Game/Meshes/Can_2_Beans_2
+[2022.04.30-01.21.32:442][187]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Can_2_Beans_2154BE0974C390F3F5D2EAD9483A6F288.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_2_Beans_2.uasset'
+[2022.04.30-01.21.32:443][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Can_2_DogFood_2" FILE="../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_2_DogFood_2.uasset" SILENT=true
+[2022.04.30-01.21.32:458][187]LogSavePackage: Moving output files for package: /Game/Meshes/Can_2_DogFood_2
+[2022.04.30-01.21.32:459][187]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Can_2_DogFood_20A74AE774B357ABB0CA217B2EF4300C3.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_2_DogFood_2.uasset'
+[2022.04.30-01.21.32:461][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Can_1_Slurm_2" FILE="../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_1_Slurm_2.uasset" SILENT=true
+[2022.04.30-01.21.32:471][187]LogSavePackage: Moving output files for package: /Game/Meshes/Can_1_Slurm_2
+[2022.04.30-01.21.32:472][187]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Can_1_Slurm_2E192FEE34621678D913C3CA0F3805D2D.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_1_Slurm_2.uasset'
+[2022.04.30-01.21.32:487][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Can_1_Coke_2" FILE="../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_1_Coke_2.uasset" SILENT=true
+[2022.04.30-01.21.32:496][187]LogSavePackage: Moving output files for package: /Game/Meshes/Can_1_Coke_2
+[2022.04.30-01.21.32:497][187]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Can_1_Coke_20028CA0B4FC6AD4B8D19C9BD9476B26F.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Can_1_Coke_2.uasset'
+[2022.04.30-01.21.32:499][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Bottle_2" FILE="../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Bottle_2.uasset" SILENT=true
+[2022.04.30-01.21.32:506][187]LogSavePackage: Moving output files for package: /Game/Meshes/Bottle_2
+[2022.04.30-01.21.32:507][187]LogSavePackage: Moving '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Bottle_29DB08ACF4E7F53722934FABB8DBA25A9.tmp' to '../../../../James NIx Gitkraken/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Bottle_2.uasset'
+[2022.04.30-01.21.32:525][187]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.30-01.21.32:525][187]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Bottle_2.Bottle_2
+[2022.04.30-01.21.32:525][187]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Can_1_Coke_2.Can_1_Coke_2
+[2022.04.30-01.21.32:525][187]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Can_1_Slurm_2.Can_1_Slurm_2
+[2022.04.30-01.21.32:526][187]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Can_2_DogFood_2.Can_2_DogFood_2
+[2022.04.30-01.21.32:526][187]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Can_2_Beans_2.Can_2_Beans_2
+[2022.04.30-01.21.32:526][187]LogContentValidation: Display: Validating Material /Game/Materials/Textures/ModWall1_Textures/MOdwall1_2.MOdwall1_2
+[2022.04.30-01.21.32:526][187]LogContentValidation: Display: Validating Material /Game/Materials/Textures/ModWall3_textures/Modwall3_2.Modwall3_2
+[2022.04.30-01.21.32:526][187]LogContentValidation: Display: Validating Material /Game/Materials/Textures/ModWall4_textures/M_Modwall42.M_Modwall42
+[2022.04.30-01.21.32:526][187]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
