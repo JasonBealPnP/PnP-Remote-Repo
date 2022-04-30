@@ -1307,3 +1307,1284 @@ Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead
 [2022.04.30-06.44.53:206][789]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/AssaultRifle_textures/Mt_AssaultRifle_Rubber_BaseColor.Mt_AssaultRifle_Rubber_BaseColor
 [2022.04.30-06.44.53:206][789]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/AssaultRifle_textures/Mt_AssaultRifle_Rubber_Normal.Mt_AssaultRifle_Rubber_Normal
 [2022.04.30-06.44.53:206][789]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/AssaultRifle_textures/Mt_AssaultRifle_Rubber_OcclusionRoughnessMetallic.Mt_AssaultRifle_Rubber_OcclusionRoughnessMetallic
+[2022.04.30-06.47.21:476][389]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.30-06.47.21:481][389]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.30-06.47.21:502][390]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.04.30-06.47.29:849][845]LogContentBrowser: Attempting asset rename: NewFolder -> M_AssaultRifle
+[2022.04.30-06.47.29:849][845]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.30-06.47.45:309][108]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.04.30-06.47.45:314][108]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.04.30-06.47.45:359][110]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2022.04.30-06.47.55:186][660]LogContentBrowser: Attempting asset rename: NewMaterial -> M_AR1
+[2022.04.30-06.47.55:200][660]LogContentBrowser: End creating deferred item NewMaterial
+[2022.04.30-06.47.57:662][799]LogMaterial: Display: Missing cached shadermap for M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6790A7DE93265F88B3FEC443F469F0BDD9B49A11), compiling. 
+[2022.04.30-06.47.59:177][833]LogShaderCompilers: Display: ================================================
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Total job queries 3158, among them cache hits 1 (0.03%)
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Tracking 3047 distinct input hashes that result in 1222 distinct outputs (40.11%)
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: RAM used: 4.78 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.58%
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Shaders Compiled: 3076
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Jobs assigned 3062, completed 3047 (99.51%)
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Average time worker was idle: 3.80 s
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Time job spent in pending queue: average 221.39 s, longest 488.45 s
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Job execution time: average 11.84 s, max 22.72 s
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Job life time (pending + execution): average 234.32 s, max 489.82
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 494.62 s
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Jobs were issued in 524 batches (only local compilation was used), average 5.84 jobs/batch
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Average processing rate: 6.16 jobs/sec
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Effective parallelization: 7.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled  117 times, average 2.12 sec, max 8.10 sec, min 0.90 sec)
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled   21 times, average 1.75 sec, max 2.52 sec, min 1.47 sec)
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled   21 times, average 1.73 sec, max 2.19 sec, min 1.38 sec)
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled   21 times, average 1.69 sec, max 2.24 sec, min 1.39 sec)
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   55 times, average 1.65 sec, max 2.49 sec, min 1.39 sec)
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.54% of total time (compiled  117 times, average 2.12 sec, max 8.10 sec, min 0.90 sec)
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.78% of total time (compiled  117 times, average 1.55 sec, max 2.46 sec, min 1.19 sec)
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.14% of total time (compiled  117 times, average 1.34 sec, max 1.78 sec, min 1.02 sec)
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.01% of total time (compiled  117 times, average 1.30 sec, max 1.93 sec, min 0.80 sec)
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.96% of total time (compiled  117 times, average 1.28 sec, max 1.80 sec, min 1.00 sec)
+[2022.04.30-06.47.59:178][833]LogShaderCompilers: Display: ================================================
+[2022.04.30-06.48.02:275][974]LogMaterial: Display: Missing cached shadermap for M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 1B11B4C3D07043AB98796A92D0A7ECC2257E4FEC), compiling. 
+[2022.04.30-06.48.05:095][ 47]LogMaterial: Display: Missing cached shadermap for M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: F58D635391964763DBDB631FE92026467816EA36), compiling. 
+[2022.04.30-06.48.07:302][115]LogMaterial: Display: Missing cached shadermap for M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 18F06A8BEE686263C1C46D24BA1B77C0AEC6D535), compiling. 
+[2022.04.30-06.48.12:204][342]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_AssaultRifle/M_AR1_2.M_AR1_2
+[2022.04.30-06.48.12:240][342]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: C5442F3E07905A818AE8E7B80A6E6CBDAE596AC2), compiling. 
+[2022.04.30-06.48.12:283][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-06.48.12:570][342]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1295A17EE3C6CE5AD9B11167FE3BD8B28816645D), compiling. 
+[2022.04.30-06.48.12:576][342]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 75130C192BC21314887EA3612A2CAE265137587A), compiling. 
+[2022.04.30-06.48.12:591][342]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.48.12:591][342]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.12:591][342]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.48.12:609][342]LogSlate: Took 0.015310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.30-06.48.12:910][344]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.48.12:910][344]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.12:910][344]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.48.20:228][961]LogMaterial: Display: Missing cached shadermap for M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 6802B341638E0A11DDEE03AB92D709B897C05B00), compiling. 
+[2022.04.30-06.48.23:145][ 42]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_AssaultRifle/M_AR1.M_AR1
+[2022.04.30-06.48.23:147][ 42]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1 in PCD3D_SM5, Default, SM5 (DDC key hash: 678ADBC73164372FC1B723E8ACA63BA1F82C543D), compiling. 
+[2022.04.30-06.48.23:165][ 42]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-06.48.23:229][ 42]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A178C14EC44970C3B0575079DCB9DEC06F0AD2F), compiling. 
+[2022.04.30-06.48.23:232][ 42]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1 in PCD3D_SM5, Default, SM5 (DDC key hash: A523D54917D3AB393C51C9048C3DD11B67087213), compiling. 
+[2022.04.30-06.48.23:249][ 42]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.48.23:249][ 42]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.23:249][ 42]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.48.24:319][109]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.48.24:319][109]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.24:319][109]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.48.29:303][487]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_AssaultRifle/M_AR1_3.M_AR1_3
+[2022.04.30-06.48.29:305][487]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 7502D6E1D7486ACFAC8867E1119B04A8AEBD6745), compiling. 
+[2022.04.30-06.48.29:317][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-06.48.29:382][487]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 50598A4884E914BBD1638DF2CB0547453FF1D9EA), compiling. 
+[2022.04.30-06.48.29:385][487]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: FA10F2FFDEE0621C285D22ADA7E5C89849A98F25), compiling. 
+[2022.04.30-06.48.29:401][487]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.48.29:401][487]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.29:401][487]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.48.29:464][489]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.48.29:464][489]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.29:464][489]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.48.31:704][723]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_AssaultRifle/M_AR1_4.M_AR1_4
+[2022.04.30-06.48.31:706][723]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: D441203C4B7019CDD71D68C196DB95A18A5299A2), compiling. 
+[2022.04.30-06.48.31:719][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-06.48.31:755][723]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 36582798DF583CDB2588636EC6C67E7D8FF3DF2A), compiling. 
+[2022.04.30-06.48.31:758][723]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 05DF05BEA129843AE60511F26546F795D63B1307), compiling. 
+[2022.04.30-06.48.31:775][723]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.48.31:775][723]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.31:775][723]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.48.31:823][725]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.48.31:823][725]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.31:823][725]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.48.33:199][865]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_AssaultRifle/M_AR1_5.M_AR1_5
+[2022.04.30-06.48.33:200][865]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 6EBEAA3F7A7753E0A9FE424DD95D3FA3A4619D98), compiling. 
+[2022.04.30-06.48.33:215][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-06.48.33:252][865]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 474E33B35D61035E26CA749D17D2568330D1CE0B), compiling. 
+[2022.04.30-06.48.33:255][865]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: C2DEB20AB798C692132D85D931B3789EC4CAF7F9), compiling. 
+[2022.04.30-06.48.33:274][865]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.48.33:274][865]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.33:274][865]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.48.33:322][867]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.48.33:322][867]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.33:322][867]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.48.34:405][972]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_AssaultRifle/M_AR1_6.M_AR1_6
+[2022.04.30-06.48.34:407][972]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 3877DD5770FD754A88EB2841100507A4CC063590), compiling. 
+[2022.04.30-06.48.34:419][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-06.48.34:455][972]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 201224256548D176407B44F8655715C3A959B720), compiling. 
+[2022.04.30-06.48.34:457][972]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 30BB92E5D732B8B5398638125571DF1C2F93C397), compiling. 
+[2022.04.30-06.48.34:476][972]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.48.34:476][972]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.34:476][972]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.48.34:521][974]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.48.34:521][974]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.34:521][974]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.48.48:056][494]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1 in PCD3D_SM5, Default, SM5 (DDC key hash: 827F37B6118112C7D459986BA003181834D4D49C), compiling. 
+[2022.04.30-06.48.48:058][494]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 11D83C6F9361E1DFE39A0B9D2FE7345070AA4066), compiling. 
+[2022.04.30-06.48.48:059][494]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 66898F8E0A134DEAE77CABA77E45C3AF3928EBE8), compiling. 
+[2022.04.30-06.48.48:067][494]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1 in PCD3D_SM5, Default, SM5 (DDC key hash: 691314DE7EC4890A41870ED58B0C5C0A3A42FDDC), compiling. 
+[2022.04.30-06.48.48:069][494]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 68B4CB8FE478F4B4C0D389B42A6D97B3292722C4), compiling. 
+[2022.04.30-06.48.48:070][494]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6049F735373BE4104FA72FAFB9B67E66785FD330), compiling. 
+[2022.04.30-06.48.48:072][494]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 55A2B51F3409D7418E50D713CB2C0020A10E7210), compiling. 
+[2022.04.30-06.48.48:079][494]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2F6D9EE0FB1689103FDAD86651900668BF8912CF), compiling. 
+[2022.04.30-06.48.48:081][494]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F1A4FB3B4DA6BA17CC037384924A7E3BC6CE695B), compiling. 
+[2022.04.30-06.48.48:082][494]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 17F26BD3E6EA66EF6BDFC8E06CCA29460FA1ECE2), compiling. 
+[2022.04.30-06.48.48:083][494]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B833707DE2AF6E10669CC4324FFE594DA2F31474), compiling. 
+[2022.04.30-06.48.48:084][494]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 28F008B5227CDC2C56D4D61C41FC12FE2E190786), compiling. 
+[2022.04.30-06.48.48:088][494]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.48.48:088][494]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.48:088][494]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.48.48:165][496]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.48.48:165][496]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.48.48:165][496]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.48.51:610][812]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F94535DC103165238640BA656CF34AABED5F524), compiling. 
+[2022.04.30-06.48.51:612][812]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FF3D425267B46A748E727FD430A2E020887B9BE3), compiling. 
+[2022.04.30-06.48.51:616][812]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.48.51:616][812]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.48.51:616][812]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.48.51:616][812]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.48.52:111][842]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.30-06.48.52:111][842]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.48.52:111][842]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.48.52:111][842]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.48.52:755][909]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.48.52:755][909]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.48.52:755][909]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.48.52:755][909]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.48.55:285][191]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1 in PCD3D_SM5, Default, SM5 (DDC key hash: A0385E7C2535C77DA22106078B6D48C11C704156), compiling. 
+[2022.04.30-06.48.55:287][191]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6262AC76F5CE17481277E86CE40012794DDED053), compiling. 
+[2022.04.30-06.48.55:291][191]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.48.55:291][191]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.48.55:291][191]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.48.55:291][191]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.48.55:828][227]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.48.55:828][227]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.48.55:828][227]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.48.55:828][227]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.48.56:536][302]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.30-06.48.56:536][302]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.48.56:536][302]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.48.56:536][302]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.49.04:886][183]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0348F38D642857F0AA8439C713A2A01505019FE2), compiling. 
+[2022.04.30-06.49.04:888][183]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: BF7D1F5272CB9EA7E0D86CD3A0B1C662EEA9FB59), compiling. 
+[2022.04.30-06.49.04:892][183]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.49.04:892][183]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.49.04:892][183]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.04:892][183]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.49.05:346][209]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.49.05:346][209]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.49.05:346][209]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.05:346][209]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.49.05:740][238]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.30-06.49.05:740][238]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.49.05:740][238]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.05:740][238]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.49.06:985][377]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0809305CC90C2FE1A85305FB6AFFF20F3A45D7D9), compiling. 
+[2022.04.30-06.49.06:988][377]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 51121D999350A310BD253A1B59E9B1283258D699), compiling. 
+[2022.04.30-06.49.06:992][377]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.49.06:992][377]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.49.06:992][377]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.06:992][377]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.49.07:506][408]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.49.07:506][408]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.49.07:506][408]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.07:506][408]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.49.08:643][523]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1 in PCD3D_SM5, Default, SM5 (DDC key hash: D7055E94A8358C32B98819BB31D4DD28DE93C199), compiling. 
+[2022.04.30-06.49.08:646][523]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9DE3195C4B1AC3D78BA3C4AB5F2D448FD6312025), compiling. 
+[2022.04.30-06.49.08:649][523]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.49.08:649][523]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.49.08:649][523]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.08:649][523]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.49.09:206][559]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.49.09:206][559]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.49.09:206][559]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.09:207][559]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.49.09:598][589]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-06.49.09:598][589]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.49.09:598][589]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.09:598][589]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.49.13:148][968]LogMaterialEditor: Saving and Compiling material M_AR1
+[2022.04.30-06.49.13:511][968]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A6E46448A845E67E54DF75EBF46BE05DEC0D55F), compiling. 
+[2022.04.30-06.49.13:534][968]LogMaterial: Display: Missing cached shadermap for M_AR1 in PCD3D_SM5, Default, SM5 (DDC key hash: 52A91D4FEFD1F180DF24C594272C9E734BD86D24), compiling. 
+[2022.04.30-06.49.13:605][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.04.30-06.49.14:414][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.30-06.49.16:528][968]LogSavePackage: Moving output files for package: /Game/Materials/M_AssaultRifle/M_AR1
+[2022.04.30-06.49.16:529][968]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/M_AR168EE43294C0D79DD6E47C4BC861A2955.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/M_AssaultRifle/M_AR1.uasset'
+[2022.04.30-06.49.16:544][968]AssetCheck: New page: Asset Save: M_AR1
+[2022.04.30-06.49.16:544][968]LogContentValidation: Display: Validating Material /Game/Materials/M_AssaultRifle/M_AR1.M_AR1
+[2022.04.30-06.49.16:545][968]MaterialEditorStats: Base pass shader: 139 instructions
+[2022.04.30-06.49.16:545][968]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.04.30-06.49.16:545][968]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.30-06.49.16:545][968]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.49.16:545][968]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.16:545][968]MaterialEditorStats: Shader Count: 16
+[2022.04.30-06.49.16:550][968]LogAutomationController: Ignoring very large delta of 3.44 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.04.30-06.49.24:231][820]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0FCB32EE973CB574FA8D2EE2D6213BE55D79D633), compiling. 
+[2022.04.30-06.49.24:234][820]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CB2B72C5D93189459C25D7C14232865FA91023E7), compiling. 
+[2022.04.30-06.49.24:235][820]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9E518D079508CF20885826349E8976F7BD1EE8C3), compiling. 
+[2022.04.30-06.49.24:242][820]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7D1CDEC85A4BA3F6844F2EFA857D295A7B4B2FDE), compiling. 
+[2022.04.30-06.49.24:245][820]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6795B819C83A1DB56EF68A31468D7028C6C91D1E), compiling. 
+[2022.04.30-06.49.24:246][820]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 98632A580FA8D4F44806F15AE0ABDA26B00B6980), compiling. 
+[2022.04.30-06.49.24:247][820]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A57CF248AE98379B81921DB3AAEC8841CBA38626), compiling. 
+[2022.04.30-06.49.24:254][820]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8DC3EA220DDD0E96DAB9F8055CB6F460A2B73A7B), compiling. 
+[2022.04.30-06.49.24:256][820]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 475C0FD7DF9BF184A23FF21F231F79C98391D3BB), compiling. 
+[2022.04.30-06.49.24:257][820]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B714B6907C36AEBE549D8F16531FCD5205E8CF24), compiling. 
+[2022.04.30-06.49.24:259][820]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6DDB28ABFB0CCF3549B7F81AC238F989354AB7EC), compiling. 
+[2022.04.30-06.49.24:260][820]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0FC2645BB9F56D229FA10E16CF9778ECD69A152B), compiling. 
+[2022.04.30-06.49.24:264][820]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.49.24:264][820]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.49.24:264][820]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.49.24:305][822]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.49.24:305][822]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.49.24:305][822]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.49.30:034][469]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: FC4D6727FF860A0E2541F08435FFE1EFCB6C3B14), compiling. 
+[2022.04.30-06.49.30:037][469]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4DE80C438CA3FB78C580E265FFB92D016E9354C6), compiling. 
+[2022.04.30-06.49.30:042][469]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.49.30:042][469]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.49.30:042][469]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.30:042][469]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.49.30:542][499]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.30-06.49.30:542][499]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.49.30:542][499]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.30:542][499]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.49.30:990][541]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.49.30:990][541]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.49.30:990][541]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.30:990][541]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.49.32:844][731]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0CA4C5BF4049C4C5B3D7DFBB45765C441DC1BA3F), compiling. 
+[2022.04.30-06.49.32:846][731]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A12DE887F664772DFF04BE55EFBFA401F9F3B5A), compiling. 
+[2022.04.30-06.49.32:851][731]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.49.32:851][731]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.49.32:851][731]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.32:851][731]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.49.33:363][759]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.30-06.49.33:363][759]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.49.33:363][759]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.33:363][759]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.49.33:757][790]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.49.33:757][790]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.49.33:757][790]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.33:757][790]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.49.38:452][315]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: DED193197BD4871C5B914C36C7258AD3F419C2F7), compiling. 
+[2022.04.30-06.49.38:455][315]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E4334D8E42B5D1B8C8E255E242D1F5C6801B338C), compiling. 
+[2022.04.30-06.49.38:459][315]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.49.38:459][315]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.49.38:459][315]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.38:459][315]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.49.38:977][339]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.30-06.49.38:977][339]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.49.38:977][339]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.38:977][339]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.49.41:493][611]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2E0DC281880447D43C84811D88DD8E34172AD519), compiling. 
+[2022.04.30-06.49.41:496][611]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 14AB3B175A6470002525353D45F5B6EA478C826A), compiling. 
+[2022.04.30-06.49.41:500][611]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.49.41:500][611]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.49.41:500][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.41:500][611]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.49.42:011][639]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.49.42:011][639]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.49.42:011][639]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.42:011][639]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.49.42:414][669]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.30-06.49.42:414][669]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.49.42:414][669]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.42:414][669]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.49.45:435][  7]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2E1F9E04DE2C74A1A9786A5C17C3838D9725BBE0), compiling. 
+[2022.04.30-06.49.45:437][  7]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EA5A79F357F90DC015A8391ECF5FDBEC8CECDACE), compiling. 
+[2022.04.30-06.49.45:441][  7]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.49.45:441][  7]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.49.45:441][  7]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.45:441][  7]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.49.45:948][ 38]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.49.45:948][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.49.45:948][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.45:948][ 38]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.49.46:350][ 66]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-06.49.46:350][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.49.46:350][ 66]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.46:350][ 66]MaterialEditorStats: Shader Count: 3
+[2022.04.30-06.49.49:116][369]LogMaterialEditor: Saving and Compiling material M_AR1_2
+[2022.04.30-06.49.49:444][369]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2592F007793A23F286CD4285325D6BEFE4F493B8), compiling. 
+[2022.04.30-06.49.49:461][369]LogMaterial: Display: Missing cached shadermap for M_AR1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1D6A703D836AB7E8F70FC57ACDE231032008B480), compiling. 
+[2022.04.30-06.49.49:489][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.30-06.49.50:305][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.04.30-06.49.52:365][369]LogSavePackage: Moving output files for package: /Game/Materials/M_AssaultRifle/M_AR1_2
+[2022.04.30-06.49.52:365][369]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/M_AR1_2061A3E3746B1211818C74CAF555825E0.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/M_AssaultRifle/M_AR1_2.uasset'
+[2022.04.30-06.49.52:378][369]AssetCheck: New page: Asset Save: M_AR1_2
+[2022.04.30-06.49.52:378][369]LogContentValidation: Display: Validating Material /Game/Materials/M_AssaultRifle/M_AR1_2.M_AR1_2
+[2022.04.30-06.49.52:378][369]MaterialEditorStats: Base pass shader: 139 instructions
+[2022.04.30-06.49.52:378][369]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.04.30-06.49.52:378][369]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.30-06.49.52:378][369]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.49.52:378][369]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.49.52:378][369]MaterialEditorStats: Shader Count: 16
+[2022.04.30-06.49.52:383][369]LogAutomationController: Ignoring very large delta of 3.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.04.30-06.50.04:900][759]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 7AD2BFE186597DDD0603FEEFAFA5B3AF0F339B4A), compiling. 
+[2022.04.30-06.50.04:902][759]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 79F6696001733CC50A311763F4603662ACD7FBF7), compiling. 
+[2022.04.30-06.50.04:904][759]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BE1A79249254BC9354F4EEE90BA173FA4C6758A8), compiling. 
+[2022.04.30-06.50.04:911][759]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A66EBE4017CC92D805564F0013DBCD124481BF1), compiling. 
+[2022.04.30-06.50.04:913][759]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F7086AF96E5F059F7EDC9EC33ABF262F4C3B5207), compiling. 
+[2022.04.30-06.50.04:914][759]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B55C3990F53B8385C16D2C65F7A68A60A35418F4), compiling. 
+[2022.04.30-06.50.04:916][759]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 979C09F353449CD057F44BB263007646B868ABD0), compiling. 
+[2022.04.30-06.50.04:923][759]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 84105392BC409F97D04C4FDDB981442CEA2F4CB2), compiling. 
+[2022.04.30-06.50.04:925][759]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4D971C9EB931CD383FB6CEFF0855EE0C4AA16ACE), compiling. 
+[2022.04.30-06.50.04:926][759]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EF1DD0163B9601F1C3D3B75374A5A5645394FD0B), compiling. 
+[2022.04.30-06.50.04:927][759]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F0E47E9CB2753263F673493E7AA27E96CCA3875A), compiling. 
+[2022.04.30-06.50.04:929][759]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C58DA1FEE93ECB40F02E3F9BD11CF2069E9D49D), compiling. 
+[2022.04.30-06.50.04:933][759]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.50.04:933][759]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.50.04:933][759]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.50.04:969][761]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.50.04:969][761]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.50.04:969][761]MaterialEditorStats: Shader Count: 2
+[2022.04.30-06.50.08:002][ 76]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 68923BFE9D9B2FC833B6121D19DB0CC8D5E7B0A1), compiling. 
+[2022.04.30-06.50.08:005][ 76]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 62376EA1E586AC2777D1122639FACF7763A01F8F), compiling. 
+[2022.04.30-06.50.08:008][ 76]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.50.08:008][ 76]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.50.08:008][ 76]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.08:008][ 76]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.50.08:538][106]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.30-06.50.08:538][106]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.50.08:538][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.08:538][106]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.50.09:575][225]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.50.09:575][225]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.50.09:575][225]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.09:575][225]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.50.11:552][423]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 11540B5B86B78B994162725FA7FBE100EA2A3093), compiling. 
+[2022.04.30-06.50.11:555][423]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E02D31C993731A0E596BBE0F1C0BC5BBE0CA54AD), compiling. 
+[2022.04.30-06.50.11:558][423]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.50.11:558][423]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.50.11:558][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.11:558][423]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.50.12:028][449]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.50.12:028][449]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.50.12:028][449]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.12:028][449]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.50.13:137][573]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.30-06.50.13:137][573]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.50.13:137][573]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.13:137][573]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.50.22:195][546]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: E834C89C8665056A7774410FF639BEF17BD30A13), compiling. 
+[2022.04.30-06.50.22:197][546]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1FDDB223B28E62DC2FF640703E51CD9A2252D534), compiling. 
+[2022.04.30-06.50.22:201][546]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.50.22:201][546]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.50.22:201][546]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.22:201][546]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.50.22:680][573]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.50.22:681][573]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.50.22:681][573]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.22:681][573]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.50.23:067][602]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-06.50.23:067][602]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.50.23:067][602]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.23:067][602]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.50.30:826][471]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 84C9EB223A73D1F8250F86A31C83DB5A66B8E573), compiling. 
+[2022.04.30-06.50.30:828][471]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 48D12389DEFD24CA59E7E88E7B8D7A65F7830E04), compiling. 
+[2022.04.30-06.50.30:830][471]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1CC80ABA7C996881DC2315E9B14945B0FF3F6C07), compiling. 
+[2022.04.30-06.50.30:831][471]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C382E105E00B188DA37C7E0A36DAF069D914578B), compiling. 
+[2022.04.30-06.50.30:832][471]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A62A10A6A919BCA637A9CB667CABF8A1C6305001), compiling. 
+[2022.04.30-06.50.30:833][471]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 666A6E31A50DD1BD51D9D6C5BEEEF6C1756C30C6), compiling. 
+[2022.04.30-06.50.32:528][628]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 77B008854A5B37C873013E557D0C9F78E61E7EE4), compiling. 
+[2022.04.30-06.50.32:531][628]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: F541033B462B41A96ADFADBD77C13F1F25E67423), compiling. 
+[2022.04.30-06.50.32:535][628]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.50.32:535][628]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.04.30-06.50.32:535][628]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.32:535][628]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.50.33:011][652]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.50.33:011][652]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.04.30-06.50.33:011][652]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.33:011][652]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.50.34:436][797]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 71A4B945FAB400322A14D8C6463AE549ADC195BA), compiling. 
+[2022.04.30-06.50.34:439][797]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 9A51090F26A514D4BE2BC81A4EBB4F568E35F33E), compiling. 
+[2022.04.30-06.50.34:443][797]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.50.34:443][797]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.04.30-06.50.34:443][797]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.34:443][797]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.50.34:856][820]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.50.34:856][820]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.04.30-06.50.34:856][820]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.34:856][820]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.50.36:085][929]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A671CC3F110103A4463AC2D4C52D22FD811090F), compiling. 
+[2022.04.30-06.50.36:087][929]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: D44FF5FCB40A858964BB87A90D448CC09BB7DBEB), compiling. 
+[2022.04.30-06.50.36:090][929]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.50.36:090][929]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.04.30-06.50.36:090][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.36:090][929]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.50.36:550][953]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.30-06.50.36:550][953]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.04.30-06.50.36:550][953]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.36:550][953]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.50.36:937][980]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.30-06.50.36:937][980]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.04.30-06.50.36:937][980]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.36:937][980]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.50.38:318][134]LogMaterialEditor: Saving and Compiling material M_AR1_3
+[2022.04.30-06.50.38:643][134]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 6DC5D274CA66C83F2671F0862B5D31746A7A91B8), compiling. 
+[2022.04.30-06.50.38:660][134]LogMaterial: Display: Missing cached shadermap for M_AR1_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 209E97389F8C1DDD69F63C066DC43C9BF21F547D), compiling. 
+[2022.04.30-06.50.38:689][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.04.30-06.50.39:522][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.30-06.50.41:529][134]LogSavePackage: Moving output files for package: /Game/Materials/M_AssaultRifle/M_AR1_3
+[2022.04.30-06.50.41:529][134]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/M_AR1_30A17ACA24D12DAD493D31A85E683AC8B.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/M_AssaultRifle/M_AR1_3.uasset'
+[2022.04.30-06.50.41:541][134]AssetCheck: New page: Asset Save: M_AR1_3
+[2022.04.30-06.50.41:541][134]LogContentValidation: Display: Validating Material /Game/Materials/M_AssaultRifle/M_AR1_3.M_AR1_3
+[2022.04.30-06.50.41:542][134]MaterialEditorStats: Base pass shader: 136 instructions
+[2022.04.30-06.50.41:542][134]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.04.30-06.50.41:542][134]MaterialEditorStats: Texture samplers: 7/16
+[2022.04.30-06.50.41:542][134]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.04.30-06.50.41:542][134]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.41:542][134]MaterialEditorStats: Shader Count: 16
+[2022.04.30-06.50.41:548][134]LogAutomationController: Ignoring very large delta of 3.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.04.30-06.50.48:532][887]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 8367B5812C01025E9A41A348955B954C37B74CE3), compiling. 
+[2022.04.30-06.50.48:535][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7EC687AB54AF5D09F3506BD8E356C5514E35B5C9), compiling. 
+[2022.04.30-06.50.48:536][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 81997B301CC45E14F356AB52183189538CA97A72), compiling. 
+[2022.04.30-06.50.48:543][887]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 9712E1F7F1796EFCCA3722F5F246E1541261C78A), compiling. 
+[2022.04.30-06.50.48:545][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A26A7E6FFAFBAE08ABB11D86CC6669C0D8D3872B), compiling. 
+[2022.04.30-06.50.48:547][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 31EFE0CCE8279065506CE68267546BF25163D14A), compiling. 
+[2022.04.30-06.50.48:548][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 84251E017A280418692EF5DC72E88CBE71A40123), compiling. 
+[2022.04.30-06.50.48:555][887]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 59EFCEA2F567E6599B0D3FD89A7DFEA0336F3D1F), compiling. 
+[2022.04.30-06.50.48:557][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 39A769DFC795F7BD67691B153F7E83DC3B05E529), compiling. 
+[2022.04.30-06.50.48:558][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A520702BF7D7BFA87357D697B6332FE0B7DBC1BE), compiling. 
+[2022.04.30-06.50.48:559][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0E1C4BCA369F212F8E033693E9B65B505A44ABAE), compiling. 
+[2022.04.30-06.50.48:561][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 11C07BF6CD22F9152E7321007F7191D39C1914A3), compiling. 
+[2022.04.30-06.50.48:565][887]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.50.48:565][887]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.50.48:565][887]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.50.48:601][889]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.50.48:601][889]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.50.48:601][889]MaterialEditorStats: Shader Count: 2
+[2022.04.30-06.50.55:879][693]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 5F8CFD29073EEAC58604F2CDC697E9883C8B2C44), compiling. 
+[2022.04.30-06.50.55:881][693]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A3B92B716B2F86966A6B56FAE3F24F1E9484BAE), compiling. 
+[2022.04.30-06.50.55:885][693]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.50.55:885][693]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.50.55:885][693]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.55:885][693]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.50.58:618][943]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.50.58:618][943]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.50.58:618][943]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.50.58:618][943]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.51.02:769][360]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: C8F7FA5F7AB70F2E4F26C7998116F310585D8385), compiling. 
+[2022.04.30-06.51.02:771][360]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7A3AA013DCF0B641532150A8C101235A561809E0), compiling. 
+[2022.04.30-06.51.02:776][360]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.51.02:776][360]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.51.02:776][360]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.02:776][360]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: ================================================
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Total job queries 3624, among them cache hits 269 (7.42%)
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Tracking 3244 distinct input hashes that result in 1271 distinct outputs (39.18%)
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: RAM used: 4.89 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.60%
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Shaders Compiled: 3222
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Jobs assigned 3244, completed 3244 (100.00%)
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Average time worker was idle: 5.74 s
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Time job spent in pending queue: average 208.98 s, longest 488.45 s
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Job execution time: average 11.22 s, max 22.72 s
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Job life time (pending + execution): average 220.20 s, max 489.82
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 534.40 s
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Jobs were issued in 670 batches (only local compilation was used), average 4.84 jobs/batch
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Average processing rate: 6.07 jobs/sec
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Effective parallelization: 7.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled  125 times, average 2.03 sec, max 8.10 sec, min 0.49 sec)
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled   21 times, average 1.75 sec, max 2.52 sec, min 1.47 sec)
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled   21 times, average 1.73 sec, max 2.19 sec, min 1.38 sec)
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled   21 times, average 1.69 sec, max 2.24 sec, min 1.39 sec)
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   55 times, average 1.65 sec, max 2.49 sec, min 1.39 sec)
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.41% of total time (compiled  125 times, average 2.03 sec, max 8.10 sec, min 0.49 sec)
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.16% of total time (compiled  145 times, average 1.41 sec, max 2.46 sec, min 0.62 sec)
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.28% of total time (compiled  140 times, average 1.21 sec, max 1.80 sec, min 0.63 sec)
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.11% of total time (compiled  125 times, average 1.30 sec, max 1.78 sec, min 0.46 sec)
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.10% of total time (compiled  145 times, average 1.12 sec, max 1.71 sec, min 0.49 sec)
+[2022.04.30-06.51.02:816][361]LogShaderCompilers: Display: ================================================
+[2022.04.30-06.51.03:197][384]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.30-06.51.03:198][384]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.51.03:198][384]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.03:198][384]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.51.04:295][492]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 31ADCA5FA362FD5AB1C25387723EEE7DA8AC968E), compiling. 
+[2022.04.30-06.51.04:297][492]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 009DC22247ECEA924B0321632535F804831F4590), compiling. 
+[2022.04.30-06.51.04:301][492]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.51.04:301][492]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.51.04:301][492]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.04:301][492]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.51.04:768][516]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.30-06.51.04:768][516]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.51.04:768][516]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.04:768][516]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.51.06:153][643]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 324858F5060AD822017FBB9705EF40B5D81EF5B0), compiling. 
+[2022.04.30-06.51.06:155][643]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B9E3D17CFB3B5362153E355C920B8AB193F87EF), compiling. 
+[2022.04.30-06.51.06:159][643]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.51.06:159][643]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.51.06:159][643]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.06:159][643]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.51.06:916][700]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.51.06:916][700]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.51.06:916][700]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.06:916][700]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.51.07:101][712]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.30-06.51.07:101][712]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.51.07:101][712]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.07:101][712]MaterialEditorStats: Shader Count: 2
+[2022.04.30-06.51.08:278][839]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 44F87B65010A6434D8E3CE6F305F8609982E1210), compiling. 
+[2022.04.30-06.51.08:280][839]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C3E82B306184553EA685EA6991160999B1ACE705), compiling. 
+[2022.04.30-06.51.08:284][839]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.51.08:284][839]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.51.08:284][839]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.08:284][839]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.51.08:836][869]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.51.08:836][869]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.51.08:836][869]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.08:836][869]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.51.09:128][891]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-06.51.09:128][891]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.51.09:128][891]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.09:128][891]MaterialEditorStats: Shader Count: 3
+[2022.04.30-06.51.09:750][960]LogMaterialEditor: Saving and Compiling material M_AR1_4
+[2022.04.30-06.51.10:078][960]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 25949E2C601ED1A3481E819BF98E7CBEC2B6CCC2), compiling. 
+[2022.04.30-06.51.10:095][960]LogMaterial: Display: Missing cached shadermap for M_AR1_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 2B298CC0B9121599880B2273657E80D2888B5BE8), compiling. 
+[2022.04.30-06.51.10:126][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.30-06.51.11:038][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.30-06.51.13:034][960]LogSavePackage: Moving output files for package: /Game/Materials/M_AssaultRifle/M_AR1_4
+[2022.04.30-06.51.13:034][960]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/M_AR1_4312CDE914B21DC29D4E171BEE720116A.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/M_AssaultRifle/M_AR1_4.uasset'
+[2022.04.30-06.51.13:048][960]AssetCheck: New page: Asset Save: M_AR1_4
+[2022.04.30-06.51.13:048][960]LogContentValidation: Display: Validating Material /Game/Materials/M_AssaultRifle/M_AR1_4.M_AR1_4
+[2022.04.30-06.51.13:049][960]MaterialEditorStats: Base pass shader: 139 instructions
+[2022.04.30-06.51.13:049][960]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.04.30-06.51.13:049][960]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.30-06.51.13:049][960]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.51.13:049][960]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.13:049][960]MaterialEditorStats: Shader Count: 16
+[2022.04.30-06.51.13:056][960]LogAutomationController: Ignoring very large delta of 3.31 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.04.30-06.51.20:366][744]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 00D1D83BFE25D82E8A9A7C90B7D80600E8E8DAD3), compiling. 
+[2022.04.30-06.51.20:369][744]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D111DBCEC4853C6E3668D1A75A69DFF375FDA3E3), compiling. 
+[2022.04.30-06.51.20:370][744]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 19464F5906960FFA268B3621A3CAA9D1DE3C1046), compiling. 
+[2022.04.30-06.51.20:377][744]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 892787DD8038F567D746F8E9521E44F24C4062FB), compiling. 
+[2022.04.30-06.51.20:380][744]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 652B59260CA004B50E257BB1B49E62ED7F163A8E), compiling. 
+[2022.04.30-06.51.20:381][744]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BCDEE91108F5420A3CCFD356A20B24E47772C0DC), compiling. 
+[2022.04.30-06.51.20:383][744]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 635556468E4C11E51262E924B5D587FA51FDDF80), compiling. 
+[2022.04.30-06.51.20:390][744]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 8215E600BDD8F5910BDDE285B30EA65FE9F7B025), compiling. 
+[2022.04.30-06.51.20:393][744]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5880ECC516FE6B3CB562974CCFEB333698417745), compiling. 
+[2022.04.30-06.51.20:394][744]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 405C141255553262E39F2772704788763CFBB718), compiling. 
+[2022.04.30-06.51.20:395][744]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 65C4A4DDE67132B788B2927263BC8B110808D4FD), compiling. 
+[2022.04.30-06.51.20:397][744]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 89E951A47E35C250DF87E6AA7157B0C9653D0F4D), compiling. 
+[2022.04.30-06.51.20:403][744]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.51.20:403][744]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.51.20:403][744]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.51.20:437][746]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.51.20:438][746]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.51.20:438][746]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.51.27:678][518]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: B8355882D7FB9949BA9C8040551996A8A8579A5B), compiling. 
+[2022.04.30-06.51.27:680][518]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1EC662EF6A77E68E4321DACD4A4E703983528C9D), compiling. 
+[2022.04.30-06.51.27:685][518]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.51.27:685][518]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.51.27:685][518]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.27:685][518]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.51.28:205][548]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.30-06.51.28:205][548]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.51.28:205][548]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.28:205][548]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.51.29:008][636]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.51.29:008][636]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.51.29:008][636]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.29:008][636]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.51.33:412][ 98]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: BEC59571129F087A74BC8D8C0ED2F7F55955D8AC), compiling. 
+[2022.04.30-06.51.33:414][ 98]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8B8CDFA1A9410B62886BC3435303DCCA7C9C1421), compiling. 
+[2022.04.30-06.51.33:418][ 98]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.51.33:419][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.51.33:419][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.33:419][ 98]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.51.33:928][128]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.51.33:928][128]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.51.33:928][128]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.33:928][128]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.51.34:895][216]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: B78C265AF1CFAF01C289493B9290729AD8630CE7), compiling. 
+[2022.04.30-06.51.34:898][216]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8B2EB3F575C302F469D7209E9AD4B338C96D6031), compiling. 
+[2022.04.30-06.51.34:901][216]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.51.34:901][216]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.51.34:901][216]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.34:901][216]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.51.35:417][242]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.51.35:417][242]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.51.35:417][242]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.35:417][242]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.51.36:047][307]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.30-06.51.36:047][307]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.51.36:047][307]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.36:047][307]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.51.37:128][424]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 441F1CD54F8152F46E7CC2AF3E90AB6A002002A1), compiling. 
+[2022.04.30-06.51.37:131][424]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2464F6542AD633D6CEDDFC21F049F7589F174E75), compiling. 
+[2022.04.30-06.51.37:136][424]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.51.37:136][424]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.51.37:136][424]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.37:136][424]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.51.37:683][455]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.51.37:683][455]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.51.37:683][455]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.37:683][455]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.51.38:453][523]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: FD5ED8950C1D411F1F331CFE416CA0DF70E63DAF), compiling. 
+[2022.04.30-06.51.38:455][523]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: EEDB0BAEA8D980776E04C747299F9C9FA32D97E0), compiling. 
+[2022.04.30-06.51.38:459][523]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.51.38:459][523]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.51.38:459][523]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.38:459][523]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.51.39:224][589]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.51.39:224][589]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.51.39:224][589]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.39:224][589]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.51.39:234][590]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-06.51.39:234][590]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.51.39:234][590]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.39:234][590]MaterialEditorStats: Shader Count: 2
+[2022.04.30-06.51.40:130][687]LogMaterialEditor: Saving and Compiling material M_AR1_5
+[2022.04.30-06.51.40:456][687]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 63C12A169166F02337FD6F180316B625BD66F2A6), compiling. 
+[2022.04.30-06.51.40:472][687]LogMaterial: Display: Missing cached shadermap for M_AR1_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 1C8AD9729D75D2BDCA1F76129E63C86E2E24E0E5), compiling. 
+[2022.04.30-06.51.40:505][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.04.30-06.51.41:338][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.04.30-06.51.43:370][687]LogSavePackage: Moving output files for package: /Game/Materials/M_AssaultRifle/M_AR1_5
+[2022.04.30-06.51.43:370][687]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/M_AR1_57F1E953A463014C01B8788AC935E0782.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/M_AssaultRifle/M_AR1_5.uasset'
+[2022.04.30-06.51.43:384][687]AssetCheck: New page: Asset Save: M_AR1_5
+[2022.04.30-06.51.43:384][687]LogContentValidation: Display: Validating Material /Game/Materials/M_AssaultRifle/M_AR1_5.M_AR1_5
+[2022.04.30-06.51.43:385][687]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.04.30-06.51.43:385][687]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.04.30-06.51.43:385][687]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.30-06.51.43:385][687]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.51.43:385][687]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.43:385][687]MaterialEditorStats: Shader Count: 16
+[2022.04.30-06.51.43:390][687]LogAutomationController: Ignoring very large delta of 3.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.04.30-06.51.50:175][403]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: B119C9D3B21EC7B064C1416988A7BB5879B192AE), compiling. 
+[2022.04.30-06.51.50:178][403]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 10ED45DCA88E2F215C16F729BA3B7C02647239AD), compiling. 
+[2022.04.30-06.51.50:179][403]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9852377C12384CA15A9A2ED29EF3D456BCDBE4E9), compiling. 
+[2022.04.30-06.51.50:186][403]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 2373759A66819E5B139375BE2CD296C6D22C72F7), compiling. 
+[2022.04.30-06.51.50:188][403]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7927AB14796E77FC6C9910B82D34CEE6DCDD4A47), compiling. 
+[2022.04.30-06.51.50:189][403]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 55F974AA768EDB990D620F0ECAE43BB6698DA8FE), compiling. 
+[2022.04.30-06.51.50:191][403]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9FA78127FFE818B1548BA145EFA7928298FC55AB), compiling. 
+[2022.04.30-06.51.50:197][403]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 1C51440821BDFB1A5EC11FDA613FE71D23C08D60), compiling. 
+[2022.04.30-06.51.50:199][403]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2145D68465E88C343CF16328D10DE74193EDDB49), compiling. 
+[2022.04.30-06.51.50:201][403]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3EB556F94D6DB7E4B893DDA9B53DA6AFF9F5850F), compiling. 
+[2022.04.30-06.51.50:202][403]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 39A15B5E819FBD67FCDFB2D9E0F336785343F621), compiling. 
+[2022.04.30-06.51.50:203][403]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8D620F786AC9844F346F6C5ADDF5AD8DF64705AE), compiling. 
+[2022.04.30-06.51.50:207][403]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.51.50:207][403]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.51.50:207][403]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.51.50:246][405]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.51.50:246][405]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.04.30-06.51.50:246][405]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.51.57:463][186]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 50821DFBF75027E059CFDE87D441CEAE76E3733A), compiling. 
+[2022.04.30-06.51.57:465][186]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3CD936C5A3BFA40702C345630CB1A5B1F89C26DE), compiling. 
+[2022.04.30-06.51.57:469][186]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.51.57:469][186]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.51.57:469][186]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.57:469][186]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.51.57:953][213]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.30-06.51.57:953][213]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.51.57:953][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.57:953][213]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.51.58:345][250]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.51.58:345][250]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.04.30-06.51.58:345][250]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.51.58:345][250]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.52.00:079][441]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: B045AEB1CEC523E52524EF5609C015B67F561E6D), compiling. 
+[2022.04.30-06.52.00:081][441]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 62782FE4BAC0EEE1D80CDD823DA9B95652F03D68), compiling. 
+[2022.04.30-06.52.00:086][441]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.52.00:086][441]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.52.00:086][441]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.52.00:086][441]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.52.00:543][467]MaterialEditorStats: Texture samplers: 1/16
+[2022.04.30-06.52.00:544][467]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.52.00:544][467]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.52.00:544][467]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.52.02:712][692]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: A51E593C2C5D54FC02A22E1034B4004D4FD649DF), compiling. 
+[2022.04.30-06.52.02:714][692]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 78054387017A0ECD8A13CE3A2979CF4381E40BBC), compiling. 
+[2022.04.30-06.52.02:719][692]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.52.02:719][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.52.02:719][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.52.02:719][692]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.52.03:994][792]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: A3F4A30056C389E4F5D77815D709C062145A6EC9), compiling. 
+[2022.04.30-06.52.03:997][792]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3FF8BEAD61A9CAE3A94F1A277E4F219351748537), compiling. 
+[2022.04.30-06.52.04:500][818]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.30-06.52.04:500][818]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.52.04:500][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.52.04:500][818]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.52.04:908][846]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.30-06.52.04:908][846]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.04.30-06.52.04:908][846]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.52.04:908][846]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.52.09:370][331]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 864E095CF837930CB40169ECB11CF6B80B9B8173), compiling. 
+[2022.04.30-06.52.09:372][331]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 06C08E1504EEC90824A09EC58AA4194D4F24B60B), compiling. 
+[2022.04.30-06.52.09:376][331]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.30-06.52.09:376][331]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.52.09:376][331]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.52.09:376][331]MaterialEditorStats: Shader Count: 0
+[2022.04.30-06.52.09:886][365]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.30-06.52.09:887][365]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.52.09:887][365]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.52.09:887][365]MaterialEditorStats: Shader Count: 1
+[2022.04.30-06.52.10:288][395]MaterialEditorStats: Texture samplers: 5/16
+[2022.04.30-06.52.10:288][395]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.52.10:288][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.52.10:288][395]MaterialEditorStats: Shader Count: 4
+[2022.04.30-06.52.10:847][457]LogMaterialEditor: Saving and Compiling material M_AR1_6
+[2022.04.30-06.52.11:172][457]LogMaterial: Display: Missing cached shadermap for Preview:M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 83833029977FB72F823C050182F6CAEB52435271), compiling. 
+[2022.04.30-06.52.11:189][457]LogMaterial: Display: Missing cached shadermap for M_AR1_6 in PCD3D_SM5, Default, SM5 (DDC key hash: BA7CCA00303766EEE03C641C7467065510138A7B), compiling. 
+[2022.04.30-06.52.11:220][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.04.30-06.52.12:038][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.30-06.52.13:985][457]LogSavePackage: Moving output files for package: /Game/Materials/M_AssaultRifle/M_AR1_6
+[2022.04.30-06.52.13:985][457]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/M_AR1_6A63DF4E049CD31129F8B5F93DC824191.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Materials/M_AssaultRifle/M_AR1_6.uasset'
+[2022.04.30-06.52.13:998][457]AssetCheck: New page: Asset Save: M_AR1_6
+[2022.04.30-06.52.13:998][457]LogContentValidation: Display: Validating Material /Game/Materials/M_AssaultRifle/M_AR1_6.M_AR1_6
+[2022.04.30-06.52.13:999][457]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.04.30-06.52.13:999][457]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.04.30-06.52.13:999][457]MaterialEditorStats: Texture samplers: 6/16
+[2022.04.30-06.52.13:999][457]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.04.30-06.52.13:999][457]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.30-06.52.13:999][457]MaterialEditorStats: Shader Count: 16
+[2022.04.30-06.52.14:004][457]LogAutomationController: Ignoring very large delta of 3.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.04.30-06.52.16:366][700]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.30-06.52.25:905][777]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.52.32:000][437]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.52.35:480][799]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.52.44:292][788]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.52.56:247][163]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.53.03:599][982]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.53.07:591][403]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.53.12:033][883]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.53.16:040][311]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.53.41:166][227]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.53.45:843][735]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.53.54:933][767]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.54.08:433][328]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.54.12:941][822]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.54.16:166][161]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.54.23:441][980]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Mt_AssaultRifle) ...
+[2022.04.30-06.54.34:509][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Mt_AssaultRifle" FILE="C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Mt_AssaultRifle.uasset" SILENT=true
+[2022.04.30-06.54.34:549][279]LogSavePackage: Moving output files for package: /Game/Meshes/Mt_AssaultRifle
+[2022.04.30-06.54.34:549][279]LogSavePackage: Moving 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Mt_AssaultRifleBF0A92144186E6D8A6C745A6F8278CB1.tmp' to 'C:/Users/Pizza/Desktop/PLUGNPLAY/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/Meshes/Mt_AssaultRifle.uasset'
+[2022.04.30-06.54.34:560][279]AssetCheck: New page: Asset Save: Mt_AssaultRifle
+[2022.04.30-06.54.34:560][279]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Mt_AssaultRifle.Mt_AssaultRifle
+[2022.04.30-06.54.37:833][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.30-06.54.43:033][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.30-06.54.44:434][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.04.30-06.54.44:435][996]LogStall: Shutdown...
+[2022.04.30-06.54.44:438][996]LogStall: Shutdown complete.
+[2022.04.30-06.54.44:561][996]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.44:562][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-06.54.44:643][996]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.44:643][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-06.54.44:670][996]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.44:670][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-06.54.44:710][996]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.44:710][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-06.54.44:738][996]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.44:738][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-06.54.44:768][996]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.44:768][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-06.54.44:798][996]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.44:799][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-06.54.44:858][996]LogSlate: Window 'Plug_N_Play - Unreal Editor' being destroyed
+[2022.04.30-06.54.45:059][997]Cmd: QUIT_EDITOR
+[2022.04.30-06.54.45:059][997]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.30-06.54.45:090][997]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.30-06.54.45:104][997]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.04.30-06.54.45:106][997]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.04.30-06.54.45:439][997]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.30-06.54.45:439][997]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.30-06.54.45:439][997]LogAudio: Display: Audio Device unregistered from world 'FirstPersonExampleMap'.
+[2022.04.30-06.54.45:521][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.04.30-06.54.45:523][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.04.30-06.54.45:532][997]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.30-06.54.45:532][997]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.04.30-06.54.45:575][997]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.30-06.54.45:598][997]LogExit: Preparing to exit.
+[2022.04.30-06.54.45:794][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.04.30-06.54.46:972][997]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.46:973][997]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.46:973][997]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.46:973][997]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.46:973][997]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.46:974][997]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.46:974][997]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.46:974][997]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.46:985][997]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.46:985][997]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.46:985][997]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.46:986][997]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.46:986][997]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.46:986][997]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.47:105][997]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-06.54.47:238][997]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.30-06.54.47:356][997]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.04.30-06.54.47:410][997]LogExit: Editor shut down
+[2022.04.30-06.54.47:412][997]LogExit: Transaction tracking system shut down
+[2022.04.30-06.54.50:109][997]LogExit: Object subsystem successfully closed.
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: ================================================
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Total job queries 3827, among them cache hits 382 (9.98%)
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Tracking 3338 distinct input hashes that result in 1276 distinct outputs (38.23%)
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: RAM used: 4.90 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.60%
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Shaders Compiled: 3222
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Jobs assigned 3338, completed 3338 (100.00%)
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Average time worker was idle: 5.82 s
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Time job spent in pending queue: average 203.10 s, longest 488.45 s
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Job execution time: average 10.93 s, max 22.72 s
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Job life time (pending + execution): average 214.02 s, max 489.82
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 555.33 s
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Jobs were issued in 764 batches (only local compilation was used), average 4.37 jobs/batch
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Average processing rate: 6.01 jobs/sec
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Effective parallelization: 7.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled  128 times, average 1.99 sec, max 8.10 sec, min 0.49 sec)
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled   21 times, average 1.75 sec, max 2.52 sec, min 1.47 sec)
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled   21 times, average 1.73 sec, max 2.19 sec, min 1.38 sec)
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled   21 times, average 1.69 sec, max 2.24 sec, min 1.39 sec)
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   55 times, average 1.65 sec, max 2.49 sec, min 1.39 sec)
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.33% of total time (compiled  128 times, average 1.99 sec, max 8.10 sec, min 0.49 sec)
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.35% of total time (compiled  160 times, average 1.35 sec, max 2.46 sec, min 0.62 sec)
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.46% of total time (compiled  154 times, average 1.17 sec, max 1.80 sec, min 0.63 sec)
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.29% of total time (compiled  160 times, average 1.08 sec, max 1.71 sec, min 0.49 sec)
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.07% of total time (compiled  128 times, average 1.28 sec, max 1.78 sec, min 0.46 sec)
+[2022.04.30-06.54.50:115][997]LogShaderCompilers: Display: ================================================
+[2022.04.30-06.54.50:124][997]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.30-06.54.51:927][997]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.04.30-06.54.51:927][997]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2022.04.30-06.54.51:951][997]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2022.04.30-06.54.51:951][997]LogModuleManager: Shutting down and abandoning module SubobjectEditor (862)
+[2022.04.30-06.54.51:951][997]LogModuleManager: Shutting down and abandoning module SceneOutliner (860)
+[2022.04.30-06.54.51:951][997]LogModuleManager: Shutting down and abandoning module StatusBar (858)
+[2022.04.30-06.54.51:951][997]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (856)
+[2022.04.30-06.54.51:963][997]LogModuleManager: Shutting down and abandoning module TimeManagement (854)
+[2022.04.30-06.54.51:963][997]LogModuleManager: Shutting down and abandoning module StatsViewer (852)
+[2022.04.30-06.54.51:981][997]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (850)
+[2022.04.30-06.54.51:995][997]LogModuleManager: Shutting down and abandoning module AutomationWorker (848)
+[2022.04.30-06.54.51:995][997]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (846)
+[2022.04.30-06.54.51:995][997]LogModuleManager: Shutting down and abandoning module GooglePADEditor (844)
+[2022.04.30-06.54.51:995][997]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (842)
+[2022.04.30-06.54.51:995][997]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (840)
+[2022.04.30-06.54.51:995][997]LogModuleManager: Shutting down and abandoning module IKRigEditor (838)
+[2022.04.30-06.54.52:022][997]LogModuleManager: Shutting down and abandoning module ControlRigEditor (836)
+[2022.04.30-06.54.52:062][997]LogModuleManager: Shutting down and abandoning module AnimationEditor (835)
+[2022.04.30-06.54.52:072][997]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (832)
+[2022.04.30-06.54.52:092][997]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (830)
+[2022.04.30-06.54.52:102][997]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (828)
+[2022.04.30-06.54.52:145][997]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (826)
+[2022.04.30-06.54.52:156][997]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (824)
+[2022.04.30-06.54.52:156][997]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (822)
+[2022.04.30-06.54.52:156][997]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (820)
+[2022.04.30-06.54.52:164][997]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (818)
+[2022.04.30-06.54.52:164][997]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (816)
+[2022.04.30-06.54.52:164][997]LogModuleManager: Shutting down and abandoning module WebMMedia (814)
+[2022.04.30-06.54.52:169][997]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (812)
+[2022.04.30-06.54.52:197][997]LogModuleManager: Shutting down and abandoning module SequenceRecorder (811)
+[2022.04.30-06.54.52:197][997]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (808)
+[2022.04.30-06.54.52:209][997]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (806)
+[2022.04.30-06.54.52:209][997]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (804)
+[2022.04.30-06.54.52:209][997]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (802)
+[2022.04.30-06.54.52:212][997]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (800)
+[2022.04.30-06.54.52:212][997]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (798)
+[2022.04.30-06.54.52:212][997]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (796)
+[2022.04.30-06.54.52:212][997]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (794)
+[2022.04.30-06.54.52:212][997]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (792)
+[2022.04.30-06.54.52:212][997]LogModuleManager: Shutting down and abandoning module TextureAlignMode (790)
+[2022.04.30-06.54.52:212][997]LogModuleManager: Shutting down and abandoning module BspMode (788)
+[2022.04.30-06.54.52:222][997]LogModuleManager: Shutting down and abandoning module GeometryMode (786)
+[2022.04.30-06.54.52:225][997]LogModuleManager: Shutting down and abandoning module PlanarCut (784)
+[2022.04.30-06.54.52:242][997]LogModuleManager: Shutting down and abandoning module CharacterAI (782)
+[2022.04.30-06.54.52:242][997]LogModuleManager: Shutting down and abandoning module SmartSnapping (780)
+[2022.04.30-06.54.52:242][997]LogModuleManager: Shutting down and abandoning module SessionServices (778)
+[2022.04.30-06.54.52:242][997]LogModuleManager: Shutting down and abandoning module MeshPaint (776)
+[2022.04.30-06.54.52:258][997]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (774)
+[2022.04.30-06.54.52:270][997]LogModuleManager: Shutting down and abandoning module PlacementMode (773)
+[2022.04.30-06.54.52:287][997]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.04.30-06.54.52:308][997]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.04.30-06.54.52:333][997]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (766)
+[2022.04.30-06.54.52:333][997]LogModuleManager: Shutting down and abandoning module ActorPickerMode (764)
+[2022.04.30-06.54.52:333][997]LogModuleManager: Shutting down and abandoning module ViewportSnapping (762)
+[2022.04.30-06.54.52:333][997]LogModuleManager: Shutting down and abandoning module EditorWidgets (760)
+[2022.04.30-06.54.52:343][997]LogModuleManager: Shutting down and abandoning module ViewportInteraction (758)
+[2022.04.30-06.54.52:343][997]LogModuleManager: Shutting down and abandoning module ClothPainter (756)
+[2022.04.30-06.54.52:351][997]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (755)
+[2022.04.30-06.54.52:366][997]LogModuleManager: Shutting down and abandoning module LogVisualizer (752)
+[2022.04.30-06.54.52:375][997]LogModuleManager: Shutting down and abandoning module IntroTutorials (750)
+[2022.04.30-06.54.52:394][997]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (748)
+[2022.04.30-06.54.52:400][997]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (746)
+[2022.04.30-06.54.52:400][997]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (745)
+[2022.04.30-06.54.52:417][997]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (743)
+[2022.04.30-06.54.52:832][997]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (740)
+[2022.04.30-06.54.52:832][997]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (738)
+[2022.04.30-06.54.52:832][997]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (736)
+[2022.04.30-06.54.52:832][997]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (734)
+[2022.04.30-06.54.52:832][997]LogModuleManager: Shutting down and abandoning module CSVtoSVG (732)
+[2022.04.30-06.54.52:832][997]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (730)
+[2022.04.30-06.54.52:843][997]LogModuleManager: Shutting down and abandoning module EditorConfig (728)
+[2022.04.30-06.54.52:843][997]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (726)
+[2022.04.30-06.54.52:843][997]LogModuleManager: Shutting down and abandoning module EditorFramework (724)
+[2022.04.30-06.54.52:843][997]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (722)
+[2022.04.30-06.54.52:843][997]LogModuleManager: Shutting down and abandoning module TraceInsights (720)
+[2022.04.30-06.54.52:894][997]MemoryProfiler: Shutdown
+[2022.04.30-06.54.52:903][997]NetworkingProfiler: Shutdown
+[2022.04.30-06.54.52:903][997]LoadingProfiler: Shutdown
+[2022.04.30-06.54.52:904][997]TimingProfiler: Shutdown
+[2022.04.30-06.54.52:932][997]LogModuleManager: Shutting down and abandoning module TraceServices (719)
+[2022.04.30-06.54.52:952][997]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (716)
+[2022.04.30-06.54.52:952][997]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (715)
+[2022.04.30-06.54.52:952][997]LogModuleManager: Shutting down and abandoning module InputBindingEditor (712)
+[2022.04.30-06.54.52:969][997]LogModuleManager: Shutting down and abandoning module MergeActors (710)
+[2022.04.30-06.54.52:988][997]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (708)
+[2022.04.30-06.54.52:991][997]LogModuleManager: Shutting down and abandoning module LocalizationService (707)
+[2022.04.30-06.54.52:995][997]LogModuleManager: Shutting down and abandoning module HardwareTargeting (704)
+[2022.04.30-06.54.52:995][997]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (702)
+[2022.04.30-06.54.52:999][997]LogModuleManager: Shutting down and abandoning module UndoHistory (700)
+[2022.04.30-06.54.53:007][997]LogModuleManager: Shutting down and abandoning module XmlParser (698)
+[2022.04.30-06.54.53:013][997]LogModuleManager: Shutting down and abandoning module Blutility (696)
+[2022.04.30-06.54.53:013][997]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (694)
+[2022.04.30-06.54.53:013][997]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (693)
+[2022.04.30-06.54.53:013][997]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (690)
+[2022.04.30-06.54.53:013][997]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (689)
+[2022.04.30-06.54.53:013][997]LogModuleManager: Shutting down and abandoning module SettingsEditor (686)
+[2022.04.30-06.54.53:019][997]LogModuleManager: Shutting down and abandoning module ProjectLauncher (684)
+[2022.04.30-06.54.53:023][997]LogModuleManager: Shutting down and abandoning module SessionFrontend (682)
+[2022.04.30-06.54.53:038][997]LogModuleManager: Shutting down and abandoning module ProfilerClient (680)
+[2022.04.30-06.54.53:051][997]LogModuleManager: Shutting down and abandoning module DeviceManager (678)
+[2022.04.30-06.54.53:076][997]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (677)
+[2022.04.30-06.54.53:097][997]LogModuleManager: Shutting down and abandoning module AutomationController (674)
+[2022.04.30-06.54.53:110][997]LogModuleManager: Shutting down and abandoning module AutomationWindow (672)
+[2022.04.30-06.54.53:125][997]LogModuleManager: Shutting down and abandoning module Layers (670)
+[2022.04.30-06.54.53:143][997]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (668)
+[2022.04.30-06.54.53:143][997]LogModuleManager: Shutting down and abandoning module DetailCustomizations (666)
+[2022.04.30-06.54.53:143][997]LogModuleManager: Shutting down and abandoning module PackagesDialog (664)
+[2022.04.30-06.54.53:143][997]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (662)
+[2022.04.30-06.54.53:159][997]LogModuleManager: Shutting down and abandoning module Persona (660)
+[2022.04.30-06.54.53:169][997]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (659)
+[2022.04.30-06.54.53:169][997]LogModuleManager: Shutting down and abandoning module AnimGraph (657)
+[2022.04.30-06.54.53:169][997]LogModuleManager: Shutting down and abandoning module Kismet (654)
+[2022.04.30-06.54.53:212][997]LogModuleManager: Shutting down and abandoning module KismetWidgets (653)
+[2022.04.30-06.54.53:212][997]LogModuleManager: Shutting down and abandoning module GraphEditor (650)
+[2022.04.30-06.54.53:212][997]LogModuleManager: Shutting down and abandoning module StructViewer (648)
+[2022.04.30-06.54.53:212][997]LogModuleManager: Shutting down and abandoning module ClassViewer (646)
+[2022.04.30-06.54.53:212][997]LogModuleManager: Shutting down and abandoning module NaniteTools (644)
+[2022.04.30-06.54.53:212][997]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (642)
+[2022.04.30-06.54.53:212][997]LogModuleManager: Shutting down and abandoning module SourceControlWindows (640)
+[2022.04.30-06.54.53:219][997]LogModuleManager: Shutting down and abandoning module OutputLog (638)
+[2022.04.30-06.54.53:219][997]LogModuleManager: Shutting down and abandoning module Documentation (636)
+[2022.04.30-06.54.53:219][997]LogModuleManager: Shutting down and abandoning module LiveCoding (634)
+[2022.04.30-06.54.53:230][997]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (632)
+[2022.04.30-06.54.53:230][997]LogModuleManager: Shutting down and abandoning module MovieScene (630)
+[2022.04.30-06.54.53:261][997]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (628)
+[2022.04.30-06.54.53:266][997]LogModuleManager: Shutting down and abandoning module LauncherPlatform (626)
+[2022.04.30-06.54.53:266][997]LogModuleManager: Shutting down and abandoning module AnalyticsET (624)
+[2022.04.30-06.54.53:266][997]LogModuleManager: Shutting down and abandoning module PortalServices (622)
+[2022.04.30-06.54.53:266][997]LogModuleManager: Shutting down and abandoning module PortalRpc (620)
+[2022.04.30-06.54.53:266][997]LogModuleManager: Shutting down and abandoning module MessagingRpc (618)
+[2022.04.30-06.54.53:266][997]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (616)
+[2022.04.30-06.54.53:266][997]LogModuleManager: Shutting down and abandoning module AudioMixer (615)
+[2022.04.30-06.54.53:266][997]LogModuleManager: Shutting down and abandoning module AudioMixerCore (614)
+[2022.04.30-06.54.53:266][997]LogModuleManager: Shutting down and abandoning module AIModule (610)
+[2022.04.30-06.54.53:281][997]LogModuleManager: Shutting down and abandoning module GameplayDebugger (609)
+[2022.04.30-06.54.53:289][997]LogModuleManager: Shutting down and abandoning module AITestSuite (607)
+[2022.04.30-06.54.53:301][997]LogModuleManager: Shutting down and abandoning module NavigationSystem (605)
+[2022.04.30-06.54.53:301][997]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (602)
+[2022.04.30-06.54.53:322][997]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (600)
+[2022.04.30-06.54.53:322][997]LogModuleManager: Shutting down and abandoning module TypedElementFramework (598)
+[2022.04.30-06.54.53:322][997]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (596)
+[2022.04.30-06.54.53:322][997]LogModuleManager: Shutting down and abandoning module ProfilerService (594)
+[2022.04.30-06.54.53:455][997]LogModuleManager: Shutting down and abandoning module TaskGraph (592)
+[2022.04.30-06.54.53:456][997]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (590)
+[2022.04.30-06.54.53:456][997]LogModuleManager: Shutting down and abandoning module MegascansPlugin (588)
+[2022.04.30-06.54.53:679][997]LogModuleManager: Shutting down and abandoning module Bridge (586)
+[2022.04.30-06.54.53:696][997]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (584)
+[2022.04.30-06.54.53:696][997]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (582)
+[2022.04.30-06.54.53:696][997]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (580)
+[2022.04.30-06.54.53:696][997]LogModuleManager: Shutting down and abandoning module CollectionManager (579)
+[2022.04.30-06.54.53:696][997]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (576)
+[2022.04.30-06.54.53:707][997]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (574)
+[2022.04.30-06.54.53:714][997]LogModuleManager: Shutting down and abandoning module InterchangePipelines (572)
+[2022.04.30-06.54.53:714][997]LogModuleManager: Shutting down and abandoning module InterchangeExport (570)
+[2022.04.30-06.54.53:714][997]LogModuleManager: Shutting down and abandoning module InterchangeMessages (568)
+[2022.04.30-06.54.53:714][997]LogModuleManager: Shutting down and abandoning module InterchangeImport (566)
+[2022.04.30-06.54.53:714][997]LogModuleManager: Shutting down and abandoning module InterchangeNodes (564)
+[2022.04.30-06.54.53:714][997]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (562)
+[2022.04.30-06.54.53:718][997]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (560)
+[2022.04.30-06.54.53:741][997]LogModuleManager: Shutting down and abandoning module InterchangeEditor (558)
+[2022.04.30-06.54.53:741][997]LogModuleManager: Shutting down and abandoning module ResonanceAudio (556)
+[2022.04.30-06.54.53:750][997]LogModuleManager: Shutting down and abandoning module SynthesisEditor (554)
+[2022.04.30-06.54.53:750][997]LogModuleManager: Shutting down and abandoning module Synthesis (552)
+[2022.04.30-06.54.53:765][997]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (550)
+[2022.04.30-06.54.53:774][997]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (548)
+[2022.04.30-06.54.53:774][997]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (546)
+[2022.04.30-06.54.53:784][997]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (544)
+[2022.04.30-06.54.53:797][997]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (542)
+[2022.04.30-06.54.53:816][997]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (540)
+[2022.04.30-06.54.53:816][997]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (538)
+[2022.04.30-06.54.53:816][997]LogModuleManager: Shutting down and abandoning module ModelingOperators (536)
+[2022.04.30-06.54.53:827][997]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (534)
+[2022.04.30-06.54.53:827][997]LogModuleManager: Shutting down and abandoning module ModelingComponents (532)
+[2022.04.30-06.54.53:836][997]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (530)
+[2022.04.30-06.54.53:836][997]LogModuleManager: Shutting down and abandoning module MeshModelingTools (528)
+[2022.04.30-06.54.53:841][997]LogModuleManager: Shutting down and abandoning module DynamicMesh (526)
+[2022.04.30-06.54.53:857][997]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (524)
+[2022.04.30-06.54.53:867][997]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (522)
+[2022.04.30-06.54.53:891][997]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2022.04.30-06.54.53:891][997]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (518)
+[2022.04.30-06.54.53:891][997]LogModuleManager: Shutting down and abandoning module UObjectPlugin (516)
+[2022.04.30-06.54.53:891][997]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (514)
+[2022.04.30-06.54.53:891][997]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (512)
+[2022.04.30-06.54.53:891][997]LogModuleManager: Shutting down and abandoning module PluginUtils (510)
+[2022.04.30-06.54.53:904][997]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (508)
+[2022.04.30-06.54.53:904][997]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (506)
+[2022.04.30-06.54.53:904][997]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (504)
+[2022.04.30-06.54.53:904][997]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (502)
+[2022.04.30-06.54.53:904][997]LogModuleManager: Shutting down and abandoning module GitSourceControl (500)
+[2022.04.30-06.54.53:915][997]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (498)
+[2022.04.30-06.54.53:915][997]LogModuleManager: Shutting down and abandoning module AudioCapture (496)
+[2022.04.30-06.54.53:915][997]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (495)
+[2022.04.30-06.54.53:929][997]LogModuleManager: Shutting down and abandoning module AssetTags (492)
+[2022.04.30-06.54.53:929][997]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (490)
+[2022.04.30-06.54.53:929][997]LogModuleManager: Shutting down and abandoning module AppleImageUtils (488)
+[2022.04.30-06.54.53:929][997]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (486)
+[2022.04.30-06.54.53:929][997]LogModuleManager: Shutting down and abandoning module CableComponent (484)
+[2022.04.30-06.54.53:929][997]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (482)
+[2022.04.30-06.54.53:929][997]LogModuleManager: Shutting down and abandoning module AndroidPermission (480)
+[2022.04.30-06.54.53:929][997]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (478)
+[2022.04.30-06.54.53:929][997]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (476)
+[2022.04.30-06.54.53:929][997]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (474)
+[2022.04.30-06.54.53:944][997]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (472)
+[2022.04.30-06.54.53:963][997]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (470)
+[2022.04.30-06.54.53:963][997]LogModuleManager: Shutting down and abandoning module SequencerScripting (468)
+[2022.04.30-06.54.53:976][997]LogModuleManager: Shutting down and abandoning module TemplateSequence (466)
+[2022.04.30-06.54.53:976][997]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (462)
+[2022.04.30-06.54.53:976][997]LogModuleManager: Shutting down and abandoning module MediaCompositing (460)
+[2022.04.30-06.54.53:979][997]LogModuleManager: Shutting down and abandoning module ImgMedia (458)
+[2022.04.30-06.54.53:979][997]LogModuleManager: Shutting down and abandoning module PluginBrowser (456)
+[2022.04.30-06.54.54:001][997]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (454)
+[2022.04.30-06.54.54:010][997]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (452)
+[2022.04.30-06.54.54:010][997]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (450)
+[2022.04.30-06.54.54:010][997]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (448)
+[2022.04.30-06.54.54:010][997]LogModuleManager: Shutting down and abandoning module ControlRigSpline (446)
+[2022.04.30-06.54.54:010][997]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (444)
+[2022.04.30-06.54.54:025][997]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (442)
+[2022.04.30-06.54.54:025][997]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (440)
+[2022.04.30-06.54.54:033][997]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (438)
+[2022.04.30-06.54.54:033][997]LogModuleManager: Shutting down and abandoning module CurveEditorTools (436)
+[2022.04.30-06.54.54:067][997]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (434)
+[2022.04.30-06.54.54:067][997]LogModuleManager: Shutting down and abandoning module CryptoKeys (432)
+[2022.04.30-06.54.54:067][997]LogModuleManager: Shutting down and abandoning module EditorDebugTools (430)
+[2022.04.30-06.54.54:076][997]LogModuleManager: Shutting down and abandoning module ChaosNiagara (428)
+[2022.04.30-06.54.54:083][997]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (426)
+[2022.04.30-06.54.54:083][997]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (425)
+[2022.04.30-06.54.54:083][997]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (422)
+[2022.04.30-06.54.54:086][997]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (420)
+[2022.04.30-06.54.54:114][997]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (418)
+[2022.04.30-06.54.54:115][997]LogOpenImageDenoise: OIDN shutting down
+[2022.04.30-06.54.54:115][997]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (416)
+[2022.04.30-06.54.54:120][997]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (414)
+[2022.04.30-06.54.54:133][997]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (412)
+[2022.04.30-06.54.54:142][997]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (410)
+[2022.04.30-06.54.54:148][997]LogModuleManager: Shutting down and abandoning module AlembicImporter (408)
+[2022.04.30-06.54.54:148][997]LogModuleManager: Shutting down and abandoning module AlembicLibrary (407)
+[2022.04.30-06.54.54:148][997]LogModuleManager: Shutting down and abandoning module GeometryCache (406)
+[2022.04.30-06.54.54:148][997]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (405)
+[2022.04.30-06.54.54:148][997]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (400)
+[2022.04.30-06.54.54:148][997]LogModuleManager: Shutting down and abandoning module BackChannel (398)
+[2022.04.30-06.54.54:165][997]LogModuleManager: Shutting down and abandoning module FractureEditor (396)
+[2022.04.30-06.54.54:182][997]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (394)
+[2022.04.30-06.54.54:186][997]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (392)
+[2022.04.30-06.54.54:186][997]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (390)
+[2022.04.30-06.54.54:186][997]LogModuleManager: Shutting down and abandoning module Paper2DEditor (388)
+[2022.04.30-06.54.54:207][997]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (386)
+[2022.04.30-06.54.54:207][997]LogModuleManager: Shutting down and abandoning module AutomationUtils (384)
+[2022.04.30-06.54.54:207][997]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (382)
+[2022.04.30-06.54.54:224][997]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (380)
+[2022.04.30-06.54.54:233][997]LogModuleManager: Shutting down and abandoning module SignificanceManager (378)
+[2022.04.30-06.54.54:233][997]LogModuleManager: Shutting down and abandoning module SoundFields (376)
+[2022.04.30-06.54.54:233][997]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (374)
+[2022.04.30-06.54.54:233][997]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (372)
+[2022.04.30-06.54.54:243][997]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2022.04.30-06.54.54:243][997]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (368)
+[2022.04.30-06.54.54:261][997]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (366)
+[2022.04.30-06.54.54:261][997]LogModuleManager: Shutting down and abandoning module AnimationSharing (364)
+[2022.04.30-06.54.54:261][997]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (362)
+[2022.04.30-06.54.54:277][997]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (361)
+[2022.04.30-06.54.54:277][997]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (358)
+[2022.04.30-06.54.54:277][997]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (356)
+[2022.04.30-06.54.54:277][997]LogModuleManager: Shutting down and abandoning module IKRig (354)
+[2022.04.30-06.54.54:277][997]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (352)
+[2022.04.30-06.54.54:277][997]LogModuleManager: Shutting down and abandoning module ControlRig (350)
+[2022.04.30-06.54.54:284][997]LogModuleManager: Shutting down and abandoning module LevelSequence (349)
+[2022.04.30-06.54.54:284][997]LogModuleManager: Shutting down and abandoning module ActorSequence (346)
+[2022.04.30-06.54.54:284][997]LogModuleManager: Shutting down and abandoning module GameplayCameras (344)
+[2022.04.30-06.54.54:299][997]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (342)
+[2022.04.30-06.54.54:299][997]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (340)
+[2022.04.30-06.54.54:299][997]LogModuleManager: Shutting down and abandoning module FacialAnimation (338)
+[2022.04.30-06.54.54:299][997]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (336)
+[2022.04.30-06.54.54:303][997]LogModuleManager: Shutting down and abandoning module DataValidation (334)
+[2022.04.30-06.54.54:303][997]LogModuleManager: Shutting down and abandoning module TcpMessaging (332)
+[2022.04.30-06.54.54:413][997]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (330)
+[2022.04.30-06.54.54:424][997]LogModuleManager: Shutting down and abandoning module LevelEditor (329)
+[2022.04.30-06.54.54:443][997]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (328)
+[2022.04.30-06.54.54:450][997]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (326)
+[2022.04.30-06.54.54:450][997]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (324)
+[2022.04.30-06.54.54:450][997]LogModuleManager: Shutting down and abandoning module MainFrame (322)
+[2022.04.30-06.54.54:466][997]LogModuleManager: Shutting down and abandoning module HotReload (321)
+[2022.04.30-06.54.54:466][997]LogModuleManager: Shutting down and abandoning module TreeMap (317)
+[2022.04.30-06.54.54:466][997]LogModuleManager: Shutting down and abandoning module UdpMessaging (314)
+[2022.04.30-06.54.54:567][997]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (312)
+[2022.04.30-06.54.54:567][997]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (310)
+[2022.04.30-06.54.54:567][997]LogModuleManager: Shutting down and abandoning module Niagara (308)
+[2022.04.30-06.54.54:590][997]LogModuleManager: Shutting down and abandoning module SignalProcessing (307)
+[2022.04.30-06.54.54:590][997]LogModuleManager: Shutting down and abandoning module NiagaraEditor (305)
+[2022.04.30-06.54.54:605][997]LogModuleManager: Shutting down and abandoning module ContentBrowser (304)
+[2022.04.30-06.54.54:605][997]LogModuleManager: Shutting down and abandoning module ToolMenus (303)
+[2022.04.30-06.54.54:605][997]LogModuleManager: Shutting down and abandoning module ContentBrowserData (301)
+[2022.04.30-06.54.54:605][997]LogModuleManager: Shutting down and abandoning module NiagaraCore (296)
+[2022.04.30-06.54.54:605][997]LogModuleManager: Shutting down and abandoning module PBIK (294)
+[2022.04.30-06.54.54:615][997]LogModuleManager: Shutting down and abandoning module FullBodyIK (292)
+[2022.04.30-06.54.54:615][997]LogModuleManager: Shutting down and abandoning module Paper2D (290)
+[2022.04.30-06.54.54:615][997]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (288)
+[2022.04.30-06.54.54:642][997]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (286)
+[2022.04.30-06.54.54:642][997]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (284)
+[2022.04.30-06.54.54:679][997]LogModuleManager: Shutting down and abandoning module AndroidFileServer (282)
+[2022.04.30-06.54.54:679][997]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (280)
+[2022.04.30-06.54.54:679][997]LogModuleManager: Shutting down and abandoning module PacketHandler (278)
+[2022.04.30-06.54.54:679][997]LogModuleManager: Shutting down and abandoning module AnimationDataController (276)
+[2022.04.30-06.54.54:679][997]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2022.04.30-06.54.54:679][997]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2022.04.30-06.54.54:679][997]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2022.04.30-06.54.54:679][997]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2022.04.30-06.54.54:679][997]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2022.04.30-06.54.54:679][997]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2022.04.30-06.54.54:697][997]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2022.04.30-06.54.54:709][997]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2022.04.30-06.54.54:709][997]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2022.04.30-06.54.54:730][997]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2022.04.30-06.54.54:739][997]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2022.04.30-06.54.54:759][997]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (253)
+[2022.04.30-06.54.54:774][997]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2022.04.30-06.54.54:774][997]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2022.04.30-06.54.54:795][997]LogModuleManager: Shutting down and abandoning module SlateReflector (244)
+[2022.04.30-06.54.54:828][997]LogModuleManager: Shutting down and abandoning module Slate (242)
+[2022.04.30-06.54.54:828][997]LogModuleManager: Shutting down and abandoning module SlateCore (240)
+[2022.04.30-06.54.54:838][997]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (238)
+[2022.04.30-06.54.54:838][997]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (236)
+[2022.04.30-06.54.54:838][997]LogModuleManager: Shutting down and abandoning module UnrealEd (234)
+[2022.04.30-06.54.54:838][997]LogModuleManager: Shutting down and abandoning module MRMesh (232)
+[2022.04.30-06.54.54:838][997]LogModuleManager: Shutting down and abandoning module Messaging (230)
+[2022.04.30-06.54.54:838][997]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (228)
+[2022.04.30-06.54.54:838][997]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (226)
+[2022.04.30-06.54.54:838][997]LogModuleManager: Shutting down and abandoning module Networking (224)
+[2022.04.30-06.54.54:838][997]LogModuleManager: Shutting down and abandoning module Core (222)
+[2022.04.30-06.54.54:838][997]LogModuleManager: Shutting down and abandoning module MaterialEditor (220)
+[2022.04.30-06.54.54:838][997]LogModuleManager: Shutting down and abandoning module MovieSceneTools (218)
+[2022.04.30-06.54.54:853][997]LogModuleManager: Shutting down and abandoning module CurveEditor (217)
+[2022.04.30-06.54.54:873][997]LogModuleManager: Shutting down and abandoning module Sequencer (215)
+[2022.04.30-06.54.54:890][997]LogModuleManager: Shutting down and abandoning module EditorStyle (214)
+[2022.04.30-06.54.54:891][997]LogModuleManager: Shutting down and abandoning module KismetCompiler (210)
+[2022.04.30-06.54.54:891][997]LogModuleManager: Shutting down and abandoning module MeshBuilder (208)
+[2022.04.30-06.54.54:891][997]LogModuleManager: Shutting down and abandoning module NaniteBuilder (206)
+[2022.04.30-06.54.54:899][997]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2022.04.30-06.54.54:907][997]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2022.04.30-06.54.54:911][997]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2022.04.30-06.54.54:911][997]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2022.04.30-06.54.54:921][997]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2022.04.30-06.54.54:941][997]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2022.04.30-06.54.54:989][997]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2022.04.30-06.54.55:004][997]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2022.04.30-06.54.55:008][997]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2022.04.30-06.54.55:008][997]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2022.04.30-06.54.55:026][997]LogModuleManager: Shutting down and abandoning module TargetPlatform (182)
+[2022.04.30-06.54.55:038][997]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (181)
+[2022.04.30-06.54.55:047][997]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (179)
+[2022.04.30-06.54.55:061][997]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2022.04.30-06.54.55:080][997]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2022.04.30-06.54.55:093][997]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2022.04.30-06.54.55:094][997]LogModuleManager: Shutting down and abandoning module AudioFormatBink (171)
+[2022.04.30-06.54.55:094][997]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (169)
+[2022.04.30-06.54.55:094][997]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (167)
+[2022.04.30-06.54.55:094][997]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (165)
+[2022.04.30-06.54.55:094][997]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (163)
+[2022.04.30-06.54.55:094][997]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (161)
+[2022.04.30-06.54.55:094][997]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (159)
+[2022.04.30-06.54.55:103][997]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (157)
+[2022.04.30-06.54.55:103][997]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (155)
+[2022.04.30-06.54.55:103][997]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (153)
+[2022.04.30-06.54.55:116][997]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (151)
+[2022.04.30-06.54.55:116][997]LogModuleManager: Shutting down and abandoning module TextureFormat (149)
+[2022.04.30-06.54.55:116][997]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (148)
+[2022.04.30-06.54.55:127][997]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (146)
+[2022.04.30-06.54.55:127][997]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2022.04.30-06.54.55:153][997]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2022.04.30-06.54.55:170][997]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (140)
+[2022.04.30-06.54.55:171][997]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (138)
+[2022.04.30-06.54.55:172][997]LogModuleManager: Shutting down and abandoning module ImageWrapper (137)
+[2022.04.30-06.54.55:172][997]LogModuleManager: Shutting down and abandoning module TurnkeySupport (133)
+[2022.04.30-06.54.55:172][997]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2022.04.30-06.54.55:172][997]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2022.04.30-06.54.55:172][997]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (126)
+[2022.04.30-06.54.55:172][997]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2022.04.30-06.54.55:172][997]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2022.04.30-06.54.55:172][997]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2022.04.30-06.54.55:172][997]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2022.04.30-06.54.55:174][997]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2022.04.30-06.54.55:181][997]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2022.04.30-06.54.55:181][997]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2022.04.30-06.54.55:195][997]LogModuleManager: Shutting down and abandoning module D3D11RHI (110)
+[2022.04.30-06.54.55:196][997]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2022.04.30-06.54.55:207][997]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2022.04.30-06.54.55:214][997]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2022.04.30-06.54.55:214][997]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2022.04.30-06.54.55:243][997]LogModuleManager: Shutting down and abandoning module PixWinPlugin (100)
+[2022.04.30-06.54.55:256][997]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.04.30-06.54.55:256][997]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.04.30-06.54.55:265][997]LogModuleManager: Shutting down and abandoning module VariantManagerContent (94)
+[2022.04.30-06.54.55:265][997]LogModuleManager: Shutting down and abandoning module DatasmithContent (92)
+[2022.04.30-06.54.55:265][997]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2022.04.30-06.54.55:265][997]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (88)
+[2022.04.30-06.54.55:282][997]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2022.04.30-06.54.55:346][997]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2022.04.30-06.54.55:362][997]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2022.04.30-06.54.55:419][997]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2022.04.30-06.54.55:428][997]LogHttp: Warning: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.04.30-06.54.55:435][997]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4D29FC3-4E1F-2CF2-0CE5-5E952863BF72%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=06388f2b4827645c8c38eca40c104168%7Cdc2e4a0ab313446f92958ebc399b4c58%7C13a5ddc7-e89b-40ba-9997-b6d9fb6f5a2c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.04.30-06.54.55:435][997]LogHttp: Warning: Cleaning up 1 outstanding Http requests.
+[2022.04.30-06.54.55:469][997]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2022.04.30-06.54.55:469][997]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.04.30-06.54.55:497][997]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.04.30-06.54.55:498][997]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (68)
+[2022.04.30-06.54.55:498][997]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.04.30-06.54.55:510][997]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (64)
+[2022.04.30-06.54.55:510][997]LogModuleManager: Shutting down and abandoning module NiagaraShader (62)
+[2022.04.30-06.54.55:510][997]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2022.04.30-06.54.55:519][997]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2022.04.30-06.54.55:519][997]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2022.04.30-06.54.55:528][997]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (54)
+[2022.04.30-06.54.55:546][997]LogModuleManager: Shutting down and abandoning module SourceControl (53)
+[2022.04.30-06.54.55:546][997]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (50)
+[2022.04.30-06.54.55:546][997]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (48)
+[2022.04.30-06.54.55:558][997]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (46)
+[2022.04.30-06.54.55:558][997]LogModuleManager: Shutting down and abandoning module PlatformCrypto (44)
+[2022.04.30-06.54.55:558][997]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2022.04.30-06.54.55:571][997]LogXGEController: Cleaning working directory: C:/Users/Pizza/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.04.30-06.54.55:571][997]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2022.04.30-06.54.55:586][997]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.04.30-06.54.55:601][997]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.04.30-06.54.55:606][997]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.04.30-06.54.55:607][997]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2022.04.30-06.54.55:607][997]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2022.04.30-06.54.55:607][997]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.04.30-06.54.55:607][997]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.04.30-06.54.55:607][997]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.04.30-06.54.55:607][997]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.04.30-06.54.55:625][997]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.30-06.54.55:638][997]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.30-06.54.55:646][997]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.30-06.54.55:646][997]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.30-06.54.55:646][997]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.04.30-06.54.55:658][997]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.04.30-06.54.55:658][997]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.04.30-06.54.55:658][997]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.04.30-06.54.55:663][997]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.04.30-06.54.55:663][997]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.04.30-06.54.55:745][997]LogD3D11RHI: Shutdown
+[2022.04.30-06.54.55:745][997]LogD3D11RHI: CleanupD3DDevice
+[2022.04.30-06.54.55:775][997]LogExit: Exiting.
+[2022.04.30-06.54.55:784][997]Log file closed, 04/30/22 02:54:55
