@@ -2752,3 +2752,1471 @@ Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead
 [2022.04.30-23.28.01:681][366]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Boss_Head.Boss_Head
 [2022.04.30-23.28.01:681][366]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Gear_Arm_Clicked.Gear_Arm_Clicked
 [2022.04.30-23.28.01:681][366]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Gear_Arm_Hovered.Gear_Arm_Hovered
+[2022.04.30-23.28.23:654][106]LogShaderCompilers: Display: ================================================
+[2022.04.30-23.28.23:654][106]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.30-23.28.23:654][106]LogShaderCompilers: Display: Total job queries 8271, among them cache hits 24 (0.29%)
+[2022.04.30-23.28.23:654][106]LogShaderCompilers: Display: Tracking 2674 distinct input hashes that result in 805 distinct outputs (30.10%)
+[2022.04.30-23.28.23:654][106]LogShaderCompilers: Display: RAM used: 4.84 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.30%
+[2022.04.30-23.28.23:654][106]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display: Shaders Compiled: 8100
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display: Jobs assigned 2754, completed 2674 (97.10%)
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display: Time job spent in pending queue: average 195.81 s, longest 403.09 s
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display: Job execution time: average 8.32 s, max 34.24 s
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display: Job life time (pending + execution): average 198.79 s, max 403.56
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 403.81 s
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display: Jobs were issued in 1004 batches (only local compilation was used), average 2.74 jobs/batch
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display: Average processing rate: 6.62 jobs/sec
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display: Effective parallelization: 7.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   61 times, average 1.80 sec, max 5.03 sec, min 0.84 sec)
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled   39 times, average 1.72 sec, max 13.04 sec, min 0.99 sec)
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled   22 times, average 1.64 sec, max 5.12 sec, min 0.86 sec)
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled   21 times, average 1.59 sec, max 5.62 sec, min 0.87 sec)
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled   22 times, average 1.50 sec, max 4.46 sec, min 0.86 sec)
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.18% of total time (compiled  194 times, average 1.08 sec, max 14.50 sec, min 0.67 sec)
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 6.13% of total time (compiled  158 times, average 1.14 sec, max 4.11 sec, min 0.75 sec)
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 5.94% of total time (compiled  156 times, average 1.12 sec, max 5.43 sec, min 0.72 sec)
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 4.46% of total time (compiled   96 times, average 1.36 sec, max 5.44 sec, min 0.83 sec)
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 4.07% of total time (compiled   97 times, average 1.23 sec, max 4.39 sec, min 0.86 sec)
+[2022.04.30-23.28.23:655][106]LogShaderCompilers: Display: ================================================
+[2022.04.30-23.28.25:532][163]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\Enemy Head Green.png)
+[2022.04.30-23.28.25:563][163]LogTexture: Display: Building textures: /Game/UI/Assets/PauseMenu/Enemy_Head_Green.Enemy_Head_Green (BGRA8, 765X1245 X1X1) (Required Memory Estimate: 18.166065 MB), EncodeSpeed: Fast
+[2022.04.30-23.28.25:563][163]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\Enemy Head Red.png)
+[2022.04.30-23.28.25:584][163]LogTexture: Display: Building textures: /Game/UI/Assets/PauseMenu/Enemy_Head_Red.Enemy_Head_Red (BGRA8, 765X1245 X1X1) (Required Memory Estimate: 18.166065 MB), EncodeSpeed: Fast
+[2022.04.30-23.28.25:584][163]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(210)].
+[2022.04.30-23.29.04:262][557]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.04.30-23.29.04:262][557]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.04.30-23.29.44:494][978]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AI/NPC/NPC_HUD/Enemy_HUD.Enemy_HUD
+[2022.04.30-23.29.44:496][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-23.29.44:518][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-23.29.44:521][978]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.04.30-23.29.46:256][978]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.04.30-23.29.46:256][978]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.04.30-23.29.46:464][978]LogSlate: Took 0.005066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.30-23.29.46:474][978]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.04.30-23.30.03:270][671]LogLinker: Warning: [AssetLog] D:\Jared\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0 5.0\Content\AI\NPC\NPC_3_adv.uasset: Failed to load '/Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/Ability_Combo_01_Montage': Can't find file.
+[2022.04.30-23.30.03:270][671]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/Ability_Combo_01_Montage'
+[2022.04.30-23.30.03:270][671]LogLinker: Warning: [AssetLog] D:\Jared\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0 5.0\Content\AI\NPC\NPC_3_adv.uasset: Failed to load '/Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/Ability_Combo_02_Montage': Can't find file.
+[2022.04.30-23.30.03:270][671]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/Ability_Combo_02_Montage'
+[2022.04.30-23.30.03:270][671]LogLinker: Warning: [AssetLog] D:\Jared\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0 5.0\Content\AI\NPC\NPC_3_adv.uasset: Failed to load '/Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/Ability_Combo_03_Montage': Can't find file.
+[2022.04.30-23.30.03:270][671]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/Ability_Combo_03_Montage'
+[2022.04.30-23.30.03:270][671]LogLinker: Warning: [AssetLog] D:\Jared\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0 5.0\Content\AI\NPC\NPC_3_adv.uasset: Failed to load '/Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/Death_A_Montage': Can't find file.
+[2022.04.30-23.30.03:270][671]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/Death_A_Montage'
+[2022.04.30-23.30.03:271][671]LogLinker: Warning: [AssetLog] D:\Jared\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0 5.0\Content\AI\NPC\NPC_3_adv.uasset: Failed to load '/Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/LaunchPad_Montage': Can't find file.
+[2022.04.30-23.30.03:271][671]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/LaunchPad_Montage'
+[2022.04.30-23.30.03:271][671]LogLinker: Warning: [AssetLog] D:\Jared\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0 5.0\Content\AI\NPC\NPC_3_adv.uasset: Failed to load '/Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/Death_A': Can't find file.
+[2022.04.30-23.30.03:271][671]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/Death_A'
+[2022.04.30-23.30.03:271][671]LogLinker: Warning: [AssetLog] D:\Jared\PnP-Remote-Repo\Plug_N_Play 5.0_3.0 5.0 5.0 5.0\Content\AI\NPC\NPC_3_adv.uasset: Failed to load '/Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/LaunchPad': Can't find file.
+[2022.04.30-23.30.03:271][671]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ParagonCrunch/Characters/Heroes/Crunch/Animations/LaunchPad'
+[2022.04.30-23.30.03:423][671]LogMetaData: Removing '/Game/UI/Enemy_HUD.Enemy_HUD_C' ref from Metadata '/Game/AI/NPC/NPC_HUD/Enemy_HUD.PackageMetaData'
+[2022.04.30-23.30.03:423][671]LogMetaData: Removing '/Game/UI/Enemy_HUD.Enemy_HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AI/NPC/NPC_HUD/Enemy_HUD.PackageMetaData'
+[2022.04.30-23.30.03:423][671]LogMetaData: Removing '/Game/UI/Enemy_HUD.Enemy_HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AI/NPC/NPC_HUD/Enemy_HUD.PackageMetaData'
+[2022.04.30-23.30.03:423][671]LogMetaData: Removing '/Game/UI/Enemy_HUD.Enemy_HUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/AI/NPC/NPC_HUD/Enemy_HUD.PackageMetaData'
+[2022.04.30-23.30.03:423][671]LogMetaData: Removing '/Game/UI/Enemy_HUD.Enemy_HUD:Get_EnemyHPBar_1_Percent_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/NPC/NPC_HUD/Enemy_HUD.PackageMetaData'
+[2022.04.30-23.30.03:423][671]LogMetaData: Removing '/Game/UI/Enemy_HUD.Enemy_HUD:Get_EnemyHPBar_1_Percent_0.K2Node_FunctionResult_0' ref from Metadata '/Game/AI/NPC/NPC_HUD/Enemy_HUD.PackageMetaData'
+[2022.04.30-23.30.03:423][671]LogMetaData: Removing '/Game/UI/Enemy_HUD.SKEL_Enemy_HUD_C:PreConstruct' ref from Metadata '/Game/AI/NPC/NPC_HUD/Enemy_HUD.PackageMetaData'
+[2022.04.30-23.30.03:423][671]LogMetaData: Removing '/Game/UI/Enemy_HUD.SKEL_Enemy_HUD_C:Construct' ref from Metadata '/Game/AI/NPC/NPC_HUD/Enemy_HUD.PackageMetaData'
+[2022.04.30-23.30.03:423][671]LogMetaData: Removing '/Game/UI/Enemy_HUD.SKEL_Enemy_HUD_C:Tick' ref from Metadata '/Game/AI/NPC/NPC_HUD/Enemy_HUD.PackageMetaData'
+[2022.04.30-23.30.03:423][671]LogMetaData: Removing '/Game/UI/Enemy_HUD.SKEL_Enemy_HUD_C' ref from Metadata '/Game/AI/NPC/NPC_HUD/Enemy_HUD.PackageMetaData'
+[2022.04.30-23.30.03:601][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/NPC_2_adv" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/AI/NPC/NPC_2_adv.uasset" SILENT=true
+[2022.04.30-23.30.03:743][671]LogSavePackage: Moving output files for package: /Game/AI/NPC/NPC_2_adv
+[2022.04.30-23.30.03:746][671]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/NPC_2_adv18E9A623471DCC253103E48BE339B882.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/AI/NPC/NPC_2_adv.uasset'
+[2022.04.30-23.30.03:793][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/NPC_3_adv" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/AI/NPC/NPC_3_adv.uasset" SILENT=true
+[2022.04.30-23.30.03:882][671]LogSavePackage: Moving output files for package: /Game/AI/NPC/NPC_3_adv
+[2022.04.30-23.30.03:886][671]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/NPC_3_adv10985E92406B9580827558A8EAF30D2B.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/AI/NPC/NPC_3_adv.uasset'
+[2022.04.30-23.30.03:891][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Enemy_HUD" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Enemy_HUD.uasset" SILENT=true
+[2022.04.30-23.30.03:900][671]LogSavePackage: Moving output files for package: /Game/UI/Enemy_HUD
+[2022.04.30-23.30.03:900][671]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Enemy_HUDF9C3C35342E9DB1DEB4ED5A726A6683F.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Enemy_HUD.uasset'
+[2022.04.30-23.30.04:074][671]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2022.04.30-23.30.04:165][671]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2022.04.30-23.30.04:233][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.04.30-23.30.04:273][671]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.30-23.30.04:273][671]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/NPC_2_adv.NPC_2_adv
+[2022.04.30-23.30.04:273][671]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Enemy_HUD.Enemy_HUD
+[2022.04.30-23.30.04:274][671]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/NPC_3_adv.NPC_3_adv
+[2022.04.30-23.30.17:290][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-23.30.17:293][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-23.30.17:984][240]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.04.30-23.30.17:985][240]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.04.30-23.30.18:001][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-23.30.18:004][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-23.30.18:481][240]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.04.30-23.30.18:481][240]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.04.30-23.31.01:733][862]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.30-23.31.01:763][862]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.30-23.31.01:790][863]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.04.30-23.31.05:368][ 84]LogContentBrowser: Attempting asset rename: NewFolder -> EnemyHP
+[2022.04.30-23.31.05:368][ 84]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.30-23.31.13:702][511]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\Enemy Head Green.png)
+[2022.04.30-23.31.13:730][511]LogTexture: Display: Building textures: /Game/UI/Assets/EnemyHP/Enemy_Head_Green.Enemy_Head_Green (BGRA8, 765X1245 X1X1) (Required Memory Estimate: 18.166065 MB), EncodeSpeed: Fast
+[2022.04.30-23.31.13:730][511]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\Enemy Head Red.png)
+[2022.04.30-23.31.13:754][511]LogTexture: Display: Building textures: /Game/UI/Assets/EnemyHP/Enemy_Head_Red.Enemy_Head_Red (BGRA8, 765X1245 X1X1) (Required Memory Estimate: 18.166065 MB), EncodeSpeed: Fast
+[2022.04.30-23.31.13:754][511]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2022.04.30-23.31.24:138][ 78]LogShaderCompilers: Display: ================================================
+[2022.04.30-23.31.24:138][ 78]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.30-23.31.24:138][ 78]LogShaderCompilers: Display: Total job queries 8271, among them cache hits 24 (0.29%)
+[2022.04.30-23.31.24:138][ 78]LogShaderCompilers: Display: Tracking 4121 distinct input hashes that result in 1020 distinct outputs (24.75%)
+[2022.04.30-23.31.24:138][ 78]LogShaderCompilers: Display: RAM used: 5.47 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.33%
+[2022.04.30-23.31.24:138][ 78]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.30-23.31.24:138][ 78]LogShaderCompilers: Display: Shaders Compiled: 8100
+[2022.04.30-23.31.24:138][ 78]LogShaderCompilers: Display: Jobs assigned 4201, completed 4121 (98.10%)
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display: Time job spent in pending queue: average 292.45 s, longest 581.95 s
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display: Job execution time: average 8.89 s, max 34.24 s
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display: Job life time (pending + execution): average 296.11 s, max 581.95
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 584.32 s
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display: Jobs were issued in 1182 batches (only local compilation was used), average 3.55 jobs/batch
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display: Average processing rate: 7.05 jobs/sec
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display: Effective parallelization: 7.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled   22 times, average 1.64 sec, max 5.12 sec, min 0.86 sec)
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled   23 times, average 1.57 sec, max 5.62 sec, min 0.87 sec)
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled   22 times, average 1.50 sec, max 4.46 sec, min 0.86 sec)
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   24 times, average 1.43 sec, max 4.17 sec, min 0.96 sec)
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled   23 times, average 1.43 sec, max 6.35 sec, min 0.98 sec)
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.13% of total time (compiled  208 times, average 1.08 sec, max 14.50 sec, min 0.67 sec)
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 4.34% of total time (compiled  168 times, average 1.13 sec, max 4.11 sec, min 0.75 sec)
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 4.28% of total time (compiled  169 times, average 1.11 sec, max 5.43 sec, min 0.72 sec)
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.27% of total time (compiled  132 times, average 1.41 sec, max 5.03 sec, min 0.80 sec)
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 4.24% of total time (compiled  150 times, average 1.23 sec, max 5.44 sec, min 0.83 sec)
+[2022.04.30-23.31.24:139][ 78]LogShaderCompilers: Display: ================================================
+[2022.04.30-23.31.27:586][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.04.30-23.31.28:741][242]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.30-23.31.28:858][242]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2022.04.30-23.31.28:952][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.04.30-23.31.29:051][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.04.30-23.31.37:124][658]LogSlate: Window 'Failed Renames' being destroyed
+[2022.04.30-23.31.42:471][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2022.04.30-23.31.43:481][927]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.30-23.31.43:569][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2022.04.30-23.32.06:548][454]LogSlate: Took 0.009063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.04.30-23.32.41:880][608]Launching UnrealBuildTool... [D:/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="D:/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.04.30-23.32.42:028][608]Launching UnrealBuildTool... [D:/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="D:/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.04.30-23.32.42:135][608]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2022.04.30-23.32.42:136][608]LogTurnkeySupport: Display: Adding device menu item for DMC19517
+[2022.04.30-23.32.42:137][608]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Plug_N_Play.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Intermediate/TurnkeyReport_1.log" -log="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Intermediate/TurnkeyLog_1.log" -project="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Plug_N_Play.uproject"  -Device=Win64@DMC19517'
+[2022.04.30-23.32.42:137][608]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Plug_N_Play.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Intermediate/TurnkeyReport_1.log" -log="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Intermediate/TurnkeyLog_1.log" -project="D:/Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Plug_N_Play.uproject"  -Device=Win64@DMC19517" ]
+[2022.04.30-23.32.42:616][637]LogTurnkeySupport: Completed device detection: Code = 9009
+[2022.04.30-23.32.43:310][702]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.30-23.32.43:319][702]LogPlayLevel: [PlayLevel] Compiling NEW_ENEMY_BOT_ANIM_BP before play...
+[2022.04.30-23.32.43:326][702]LogPlayLevel: [PlayLevel]   Compiling NPC_2_adv as a dependent...
+[2022.04.30-23.32.43:746][702]LogPlayLevel: [PlayLevel] Compiling NPC_3_adv before play...
+[2022.04.30-23.32.43:888][702]LogPlayLevel: [PlayLevel] Compiling PauseMenu before play...
+[2022.04.30-23.32.44:091][702]LogUObjectHash: Compacting FUObjectHashTables data took   7.73ms
+[2022.04.30-23.32.44:108][702]LogPlayLevel: PlayLevel: Blueprint regeneration took 798 ms (4 blueprints)
+[2022.04.30-23.32.44:109][702]PIE: New page: SIE session: FirstPersonExampleMap (Apr 30, 2022, 3:32:44 PM)
+[2022.04.30-23.32.44:118][702]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.04.30-23.32.44:118][702]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.30-23.32.44:119][702]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.30-23.32.44:319][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.200517s)
+[2022.04.30-23.32.44:320][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.200665s)
+[2022.04.30-23.32.44:320][702]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.30-23.32.44:321][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-23.32.44:321][702]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.30-23.32.44:322][702]LogPlayLevel: PIE: World Init took: (0.002283s)
+[2022.04.30-23.32.44:407][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2022.04.30-23.32.44:410][702]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.30-23.32.44:410][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.30-23.32.44:410][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.30-23.32.44:410][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.30-23.32.44:410][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.30-23.32.44:410][702]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.30-23.32.44:410][702]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.30-23.32.44:410][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.30-23.32.44:410][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.30-23.32.44:411][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.30-23.32.44:411][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.30-23.32.44:411][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.30-23.32.44:413][702]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.30-23.32.44:436][702]LogAudioMixer: Display: Using Audio Hardware Device DELL U3415W (NVIDIA High Definition Audio)
+[2022.04.30-23.32.44:436][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.30-23.32.44:436][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.30-23.32.44:436][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.30-23.32.44:437][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.04.30-23.32.44:437][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.04.30-23.32.44:439][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.04.30-23.32.44:439][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.04.30-23.32.44:439][702]LogInit: FAudioDevice initialized.
+[2022.04.30-23.32.44:439][702]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.04.30-23.32.44:460][702]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.30-23.32.44:552][702]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.30-19.32.44
+[2022.04.30-23.32.44:568][702]LogWorld: Bringing up level for play took: 0.107906
+[2022.04.30-23.32.44:572][702]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.04.30-23.32.44:605][702]LogBlueprintUserMessages: [MovementImpact] movementimpact_component must be attached to am actor with a PrimitiveComponent at its root
+[2022.04.30-23.32.44:622][702]PIE: Server logged in
+[2022.04.30-23.32.44:625][702]PIE: Play in editor total start time 1.317 seconds.
+[2022.04.30-23.32.44:680][702]LogAudio: Warning: Detected orphaned looping sound 'Background_ambiance_Cue'.
+[2022.04.30-23.32.52:559][200]LogSlate: Window 'Widget Reflector' being destroyed
+[2022.04.30-23.32.52:564][200]LogSlate: Window 'Widget Reflector' being destroyed
+[2022.04.30-23.32.58:643][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.30-23.32.58:643][502]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.30-23.32.58:645][502]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-23.32.58:652][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-23.32.58:675][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.30-23.32.58:692][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-23.32.58:780][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.30-23.32.58:788][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.04.30-23.32.58:790][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.04.30-23.32.58:871][502]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2022.04.30-23.32.58:952][503]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.04.30-23.33.00:579][646]LogTurnkeySupport: Display: Adding device menu item for DMC19517
+[2022.04.30-23.33.01:393][698]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2022.04.30-23.33.03:064][698]LogSlate: Window 'Save Content' being destroyed
+[2022.04.30-23.33.03:070][698]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2022.04.30-23.33.03:071][698]PIE: Warning: PIE failed because map save was canceled
+[2022.04.30-23.33.04:733][833]LogSlate: Window 'Message Log' being destroyed
+[2022.04.30-23.33.04:739][833]LogSlate: Window 'Message Log' being destroyed
+[2022.04.30-23.33.05:659][923]LogTurnkeySupport: Display: Adding device menu item for DMC19517
+[2022.04.30-23.33.06:300][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.30-23.33.06:300][980]PIE: New page: PIE session: FirstPersonExampleMap (Apr 30, 2022, 3:33:06 PM)
+[2022.04.30-23.33.06:300][980]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.30-23.33.06:496][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.195651s)
+[2022.04.30-23.33.06:496][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.195750s)
+[2022.04.30-23.33.06:496][980]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.30-23.33.06:496][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.30-23.33.06:496][980]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.30-23.33.06:497][980]LogPlayLevel: PIE: World Init took: (0.001590s)
+[2022.04.30-23.33.06:582][980]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.04.30-23.33.06:591][980]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.30-23.33.06:591][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.30-23.33.06:591][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.30-23.33.06:591][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.30-23.33.06:591][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.30-23.33.06:591][980]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.30-23.33.06:591][980]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.30-23.33.06:591][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.30-23.33.06:591][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.30-23.33.06:592][980]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.30-23.33.06:592][980]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.30-23.33.06:592][980]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.30-23.33.06:594][980]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.30-23.33.06:611][980]LogAudioMixer: Display: Using Audio Hardware Device DELL U3415W (NVIDIA High Definition Audio)
+[2022.04.30-23.33.06:611][980]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.30-23.33.06:611][980]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.30-23.33.06:612][980]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.30-23.33.06:612][980]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.04.30-23.33.06:612][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.04.30-23.33.06:614][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.04.30-23.33.06:614][980]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.04.30-23.33.06:614][980]LogInit: FAudioDevice initialized.
+[2022.04.30-23.33.06:614][980]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.04.30-23.33.06:667][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.30-23.33.06:667][980]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.30-23.33.06:764][980]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.30-19.33.06
+[2022.04.30-23.33.06:776][980]LogWorld: Bringing up level for play took: 0.108872
+[2022.04.30-23.33.06:779][980]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.04.30-23.33.06:782][980]LogBlueprintUserMessages: [MovementImpact] movementimpact_component must be attached to am actor with a PrimitiveComponent at its root
+[2022.04.30-23.33.06:793][980]PIE: Server logged in
+[2022.04.30-23.33.06:795][980]PIE: Play in editor total start time 0.495 seconds.
+[2022.04.30-23.33.06:828][980]LogAudio: Warning: Detected orphaned looping sound 'Background_ambiance_Cue'.
+[2022.04.30-23.33.12:423][ 99]LogBlueprintUserMessages: [Pickup_C_3] picked up
+[2022.04.30-23.33.12:919][114]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.30-23.33.13:436][127]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.30-23.33.14:460][158]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.04.30-23.33.20:696][357]LogBlueprintUserMessages: [Pickup3_C_1] picked up
+[2022.04.30-23.33.21:180][372]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.30-23.33.21:671][392]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.30-23.33.22:353][418]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.30-23.33.22:677][430]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.30-23.33.23:057][442]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.30-23.33.23:695][464]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.30-23.33.24:729][502]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.30-23.33.25:132][515]LogBlueprintUserMessages: [Pickup2_C_1] picked up
+[2022.04.30-23.33.25:625][535]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.04.30-23.33.25:752][539]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.30-23.33.26:788][573]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.30-23.33.27:140][584]LogBlueprintUserMessages: [NPC_2_adv_C_11] 85.0
+[2022.04.30-23.33.27:143][584]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue_1
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_3
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:04EC
+[2022.04.30-23.33.27:144][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue_1". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.04.30-23.33.27:144][584]LogBlueprintUserMessages: [NPC_2_AI_C_3] HELOOOOOOOO
+[2022.04.30-23.33.27:788][609]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.30-23.33.28:788][642]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.30-23.33.28:852][644]LogBlueprintUserMessages: [NPC_2_adv_C_11] 10.0
+[2022.04.30-23.33.28:853][644]LogBlueprintUserMessages: [NPC_2_adv_C_11] Hello
+[2022.04.30-23.33.28:853][644]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 90.0
+[2022.04.30-23.33.28:907][646]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_3
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:019C
+[2022.04.30-23.33.28:907][646]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.04.30-23.33.29:473][664]LogBlueprintUserMessages: [NPC_2_adv_C_11] Hello
+[2022.04.30-23.33.29:473][664]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 80.0
+[2022.04.30-23.33.29:701][672]LogBlueprintUserMessages: [NPC_2_adv_C_11] Hello
+[2022.04.30-23.33.29:798][675]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.30-23.33.29:923][679]LogBlueprintUserMessages: [NPC_2_adv_C_11] Hello
+[2022.04.30-23.33.30:830][710]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.30-23.33.31:026][716]LogBlueprintUserMessages: [NPC_2_adv_C_11] 0.0
+[2022.04.30-23.33.31:856][738]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.30-23.33.32:863][759]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.30-23.33.33:898][784]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.30-23.33.34:931][812]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.30-23.33.35:962][841]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.30-23.33.36:986][871]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.30-23.33.38:014][901]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.30-23.33.39:053][932]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.30-23.33.40:070][965]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.30-23.33.41:094][999]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.30-23.33.42:108][ 26]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.30-23.33.43:113][ 56]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.30-23.33.44:121][ 92]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.30-23.33.45:132][128]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.30-23.33.46:138][162]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.30-23.33.47:143][192]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.30-23.33.48:164][224]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.30-23.33.49:166][257]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.30-23.33.50:185][288]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.04.30-23.33.58:593][585]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.30-23.33.59:617][625]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.30-23.34.00:625][665]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.04.30-23.34.01:093][682]LogBlueprintUserMessages: [NPC_2_adv_C_10] 85.0
+[2022.04.30-23.34.01:095][682]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue_1
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_2
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:04EC
+[2022.04.30-23.34.01:095][682]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue_1". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.04.30-23.34.01:095][682]LogBlueprintUserMessages: [NPC_2_AI_C_2] HELOOOOOOOO
+[2022.04.30-23.34.02:070][718]LogBlueprintUserMessages: [NPC_2_adv_C_10] 10.0
+[2022.04.30-23.34.02:092][719]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.30-23.34.02:625][739]LogBlueprintUserMessages: [NPC_2_adv_C_10] 0.0
+[2022.04.30-23.34.03:103][753]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.30-23.34.04:133][785]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.30-23.34.05:144][815]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.04.30-23.34.06:155][840]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.30-23.34.07:190][870]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.04.30-23.34.08:200][903]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.04.30-23.34.18:639][211]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_5
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:019C
+[2022.04.30-23.34.18:639][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.04.30-23.34.19:176][223]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.04.30-23.34.19:403][230]LogBlueprintUserMessages: [NPC_2_adv_C_3] 85.0
+[2022.04.30-23.34.19:687][237]LogBlueprintUserMessages: [NPC_2_adv_C_3] 70.0
+[2022.04.30-23.34.19:807][240]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.04.30-23.34.19:807][240]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 95.0
+[2022.04.30-23.34.20:208][250]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.30-23.34.20:256][251]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.04.30-23.34.20:256][251]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 85.0
+[2022.04.30-23.34.21:238][275]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.30-23.34.21:352][278]LogBlueprintUserMessages: [NPC_2_adv_C_3] 55.0
+[2022.04.30-23.34.22:267][302]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.30-23.34.22:452][307]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.04.30-23.34.22:706][314]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.04.30-23.34.23:316][328]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.30-23.34.23:368][329]LogBlueprintUserMessages: [NPC_2_adv_C_3] 40.0
+[2022.04.30-23.34.24:329][355]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.30-23.34.25:223][379]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.04.30-23.34.25:223][379]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 75.0
+[2022.04.30-23.34.25:327][382]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.04.30-23.34.25:515][386]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.04.30-23.34.25:515][386]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 65.0
+[2022.04.30-23.34.25:949][397]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.04.30-23.34.25:950][397]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 55.0
+[2022.04.30-23.34.26:260][404]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.04.30-23.34.26:260][404]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 45.0
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: ================================================
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Total job queries 8281, among them cache hits 34 (0.41%)
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Tracking 5496 distinct input hashes that result in 1329 distinct outputs (24.18%)
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: RAM used: 6.37 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.39%
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Shaders Compiled: 8100
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Jobs assigned 5576, completed 5496 (98.57%)
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Time job spent in pending queue: average 382.31 s, longest 763.83 s
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Job execution time: average 9.11 s, max 34.24 s
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Job life time (pending + execution): average 386.15 s, max 763.83
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 766.47 s
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Jobs were issued in 1370 batches (only local compilation was used), average 4.07 jobs/batch
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Average processing rate: 7.17 jobs/sec
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Effective parallelization: 7.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled   32 times, average 1.56 sec, max 5.12 sec, min 0.86 sec)
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled   33 times, average 1.51 sec, max 5.62 sec, min 0.87 sec)
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled   32 times, average 1.47 sec, max 4.46 sec, min 0.86 sec)
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled   34 times, average 1.38 sec, max 6.35 sec, min 0.98 sec)
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   32 times, average 1.35 sec, max 4.17 sec, min 0.96 sec)
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.34% of total time (compiled  235 times, average 1.07 sec, max 14.50 sec, min 0.59 sec)
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 4.33% of total time (compiled  209 times, average 1.20 sec, max 5.44 sec, min 0.83 sec)
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.31% of total time (compiled  214 times, average 1.16 sec, max 4.41 sec, min 0.87 sec)
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.22% of total time (compiled  186 times, average 1.31 sec, max 5.03 sec, min 0.71 sec)
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 4.02% of total time (compiled  208 times, average 1.12 sec, max 4.39 sec, min 0.80 sec)
+[2022.04.30-23.34.26:344][405]LogShaderCompilers: Display: ================================================
+[2022.04.30-23.34.26:357][406]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.04.30-23.34.26:561][410]LogBlueprintUserMessages: [NPC_2_adv_C_3] 25.0
+[2022.04.30-23.34.27:300][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.30-23.34.27:300][427]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.30-23.34.27:302][427]LogSlate: Window 'Plug_N_Play Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.04.30-23.34.27:327][427]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.30-23.34.27:340][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-23.34.27:359][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.30-23.34.27:380][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.30-23.34.27:472][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.30-23.34.27:473][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.04.30-23.34.27:474][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.04.30-23.34.27:509][427]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2022.04.30-23.34.27:734][428]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.04.30-23.34.28:861][533]LogSlate: Window 'Message Log' being destroyed
+[2022.04.30-23.34.28:868][533]LogSlate: Window 'Message Log' being destroyed
+[2022.04.30-23.35.32:537][125]LogEditorTransaction: Undo Edit Size To Content
+[2022.04.30-23.35.34:100][196]Cmd: TRANSACTION UNDO
+[2022.04.30-23.35.34:100][196]LogEditorTransaction: Undo Edit Image
+[2022.04.30-23.36.57:343][273]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.30-23.36.57:852][279]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: ================================================
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Total job queries 8281, among them cache hits 34 (0.41%)
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Tracking 6976 distinct input hashes that result in 1954 distinct outputs (28.01%)
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: RAM used: 8.27 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.50%
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Shaders Compiled: 8100
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Jobs assigned 7056, completed 6976 (98.87%)
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Time job spent in pending queue: average 479.03 s, longest 944.60 s
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Job execution time: average 9.26 s, max 34.24 s
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Job life time (pending + execution): average 483.09 s, max 944.67
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 947.83 s
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Jobs were issued in 1518 batches (only local compilation was used), average 4.65 jobs/batch
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Average processing rate: 7.36 jobs/sec
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Effective parallelization: 7.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled   35 times, average 1.54 sec, max 5.12 sec, min 0.86 sec)
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled   36 times, average 1.49 sec, max 5.62 sec, min 0.87 sec)
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled   35 times, average 1.46 sec, max 4.46 sec, min 0.86 sec)
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled   35 times, average 1.37 sec, max 6.35 sec, min 0.98 sec)
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   35 times, average 1.32 sec, max 4.17 sec, min 0.96 sec)
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.48% of total time (compiled  263 times, average 1.22 sec, max 5.03 sec, min 0.69 sec)
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.43% of total time (compiled  282 times, average 1.13 sec, max 4.41 sec, min 0.79 sec)
+[2022.04.30-23.37.27:664][560]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 4.19% of total time (compiled  259 times, average 1.16 sec, max 5.44 sec, min 0.83 sec)
+[2022.04.30-23.37.27:665][560]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.98% of total time (compiled  247 times, average 1.16 sec, max 5.61 sec, min 0.88 sec)
+[2022.04.30-23.37.27:665][560]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 3.98% of total time (compiled  250 times, average 1.14 sec, max 7.01 sec, min 0.79 sec)
+[2022.04.30-23.37.27:665][560]LogShaderCompilers: Display: ================================================
+[2022.04.30-23.38.08:004][961]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.30-23.39.59:795][601]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.30-23.40.43:906][339]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.30-23.41.01:808][384]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Assets/HUD/MP+2_Full.MP+2_Full
+[2022.04.30-23.41.01:858][384]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.04.30-23.41.04:999][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/HUD/MP+2_Full" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/MP+2_Full.uasset" SILENT=true
+[2022.04.30-23.41.05:001][606]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/MP+2_Full
+[2022.04.30-23.41.05:002][606]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/MP+2_Full5DD083B6445EE5729A358599EDA97468.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/MP+2_Full.uasset'
+[2022.04.30-23.41.05:026][606]AssetCheck: New page: Asset Save: MP+2_Full
+[2022.04.30-23.41.05:026][606]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/MP+2_Full.MP+2_Full
+[2022.04.30-23.41.06:087][696]LogSlate: Window 'MP+2_Full' being destroyed
+[2022.04.30-23.41.06:092][696]LogSlate: Window 'MP+2_Full' being destroyed
+[2022.04.30-23.41.13:252][425]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.30-23.41.49:835][767]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2022.04.30-23.41.50:296][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1
+[2022.04.30-23.41.50:313][767]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMap_Auto1F51129A5469962AD8D70FEB6D0BA54D9.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2022.04.30-23.41.50:328][767]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.627
+[2022.04.30-23.41.50:329][767]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.627
+[2022.04.30-23.41.50:329][767]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PauseMenu] ([2] browsable assets)...
+[2022.04.30-23.41.50:334][767]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PauseMenu.PauseMenu]
+[2022.04.30-23.41.50:334][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PauseMenu]
+[2022.04.30-23.41.50:334][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/PauseMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.04.30-23.41.50:345][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/PauseMenu_Auto1
+[2022.04.30-23.41.50:345][767]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenu_Auto108DFA53643D250E1A457A684DEAF3747.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/PauseMenu_Auto1.uasset'
+[2022.04.30-23.41.50:347][767]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI] ([2] browsable assets)...
+[2022.04.30-23.41.50:348][767]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI.UI]
+[2022.04.30-23.41.50:348][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI]
+[2022.04.30-23.41.50:348][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.04.30-23.41.50:356][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Auto1
+[2022.04.30-23.41.50:358][767]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/UI_Auto1E29F4C5A45F60A3E00C8EAAAAA78347D.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto1.uasset'
+[2022.04.30-23.41.50:360][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/EnemyHP/Enemy_Head_Red] ([1] browsable assets)...
+[2022.04.30-23.41.50:361][767]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/EnemyHP/Enemy_Head_Red.Enemy_Head_Red]
+[2022.04.30-23.41.50:361][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/EnemyHP/Enemy_Head_Red]
+[2022.04.30-23.41.50:367][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/EnemyHP/Enemy_Head_Red_Auto1
+[2022.04.30-23.41.50:367][767]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Enemy_Head_Red_Auto1212154814E64564B830FFC965EEC05D5.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/EnemyHP/Enemy_Head_Red_Auto1.uasset'
+[2022.04.30-23.41.50:370][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/EnemyHP/Enemy_Head_Green] ([1] browsable assets)...
+[2022.04.30-23.41.50:371][767]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/EnemyHP/Enemy_Head_Green.Enemy_Head_Green]
+[2022.04.30-23.41.50:371][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/EnemyHP/Enemy_Head_Green]
+[2022.04.30-23.41.50:376][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/EnemyHP/Enemy_Head_Green_Auto1
+[2022.04.30-23.41.50:376][767]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Enemy_Head_Green_Auto1FE9B23134F42754F6919E1940698BF5D.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/EnemyHP/Enemy_Head_Green_Auto1.uasset'
+[2022.04.30-23.41.50:380][767]LogFileHelpers: Auto-saving content packages took 0.051
+[2022.04.30-23.44.07:094][629]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-23.44.07:094][629]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-23.44.08:063][717]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/End Screen/Credits.png]
+[2022.04.30-23.44.08:064][717]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/End Screen/Credits.png)
+[2022.04.30-23.44.08:097][717]LogEditorFactories: -- imported successfully
+[2022.04.30-23.44.08:106][717]LogTexture: Display: Building textures: /Game/UI/Assets/EndScreen/Credits.Credits (BGRA8, 909X1758 X1X1) (Required Memory Estimate: 30.479851 MB), EncodeSpeed: Fast
+[2022.04.30-23.51.50:899][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2022.04.30-23.51.50:915][983]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.137
+[2022.04.30-23.51.50:916][983]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI] ([2] browsable assets)...
+[2022.04.30-23.51.50:918][983]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI.UI]
+[2022.04.30-23.51.50:918][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI]
+[2022.04.30-23.51.50:918][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.04.30-23.51.50:926][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Auto2
+[2022.04.30-23.51.50:928][983]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/UI_Auto2827836B84CC150E00D742A9685BFB943.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto2.uasset'
+[2022.04.30-23.51.50:930][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/EndScreen/Credits] ([1] browsable assets)...
+[2022.04.30-23.51.50:931][983]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/EndScreen/Credits.Credits]
+[2022.04.30-23.51.50:931][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/EndScreen/Credits]
+[2022.04.30-23.51.50:939][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/EndScreen/Credits_Auto2
+[2022.04.30-23.51.50:939][983]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Credits_Auto296E51DCD463128A42F2A5BA8FF104ACE.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/EndScreen/Credits_Auto2.uasset'
+[2022.04.30-23.51.50:943][983]LogFileHelpers: Auto-saving content packages took 0.029
+[2022.04.30-23.57.43:032][324]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-23.57.43:032][324]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.30-23.57.44:732][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.04.30-23.57.46:463][475]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.30-23.57.46:655][475]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/UI/Assets/HUD/MP+1_Empty.MP+1_Empty
+	Asset Type: Texture2D
+	Asset Name: /Game/UI/Assets/HUD/MP+1_Full.MP+1_Full
+	Asset Type: Texture2D
+	Asset Name: /Game/UI/Assets/HUD/MP+2_Empty.MP+2_Empty
+	Asset Type: Texture2D
+	Asset Name: /Game/UI/Assets/HUD/MP+2_Full.MP+2_Full
+	Asset Type: Texture2D
+	Asset Name: /Game/UI/Assets/HUD/MP+3_Empty.MP+3_Empty
+	Asset Type: Texture2D
+	Asset Name: /Game/UI/Assets/HUD/MP+3_Full.MP+3_Full
+	Asset Type: Texture2D
+[2022.04.30-23.57.47:972][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.04.30-23.57.48:037][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.04.30-23.57.48:098][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.04.30-23.58.01:735][ 89]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\HP and MP-assets\STRUCTURAL_INTEGRITY.png)
+[2022.04.30-23.58.01:742][ 89]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/STRUCTURAL_INTEGRITY.STRUCTURAL_INTEGRITY (BGRA8, 38X349 X1X1) (Required Memory Estimate: 0.252953 MB), EncodeSpeed: Fast
+[2022.04.30-23.58.01:742][ 89]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\HP and MP-assets\Empty MP+1.png)
+[2022.04.30-23.58.01:850][ 89]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/Empty_MP+1.Empty_MP+1 (BGRA8, 53X517 X1X1) (Required Memory Estimate: 0.522633 MB), EncodeSpeed: Fast
+[2022.04.30-23.58.01:850][ 89]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\HP and MP-assets\Empty MP+3.png)
+[2022.04.30-23.58.01:858][ 89]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/Empty_MP+3.Empty_MP+3 (BGRA8, 53X631 X1X1) (Required Memory Estimate: 0.637875 MB), EncodeSpeed: Fast
+[2022.04.30-23.58.01:858][ 89]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\HP and MP-assets\Empty MP+2.png)
+[2022.04.30-23.58.01:865][ 89]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/Empty_MP+2.Empty_MP+2 (BGRA8, 53X574 X1X1) (Required Memory Estimate: 0.580254 MB), EncodeSpeed: Fast
+[2022.04.30-23.58.01:865][ 89]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\HP and MP-assets\FullMP+1.png)
+[2022.04.30-23.58.01:872][ 89]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/FullMP+1.FullMP+1 (BGRA8, 53X517 X1X1) (Required Memory Estimate: 0.522633 MB), EncodeSpeed: Fast
+[2022.04.30-23.58.01:872][ 89]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\HP and MP-assets\FullMP+2.png)
+[2022.04.30-23.58.01:880][ 89]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/FullMP+2.FullMP+2 (BGRA8, 53X574 X1X1) (Required Memory Estimate: 0.580254 MB), EncodeSpeed: Fast
+[2022.04.30-23.58.01:880][ 89]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\HP and MP-assets\FullMP+3.png)
+[2022.04.30-23.58.01:888][ 89]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/FullMP+3.FullMP+3 (BGRA8, 53X631 X1X1) (Required Memory Estimate: 0.637875 MB), EncodeSpeed: Fast
+[2022.04.30-23.58.01:888][ 89]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2022.05.01-00.01.51:486][207]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.05.01-00.01.51:492][207]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.078
+[2022.05.01-00.01.51:493][207]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI] ([2] browsable assets)...
+[2022.05.01-00.01.51:495][207]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI.UI]
+[2022.05.01-00.01.51:495][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI]
+[2022.05.01-00.01.51:495][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.05.01-00.01.51:504][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Auto3
+[2022.05.01-00.01.51:504][207]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/UI_Auto3ECD8A0E3457F8698E5137BB22FE09876.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto3.uasset'
+[2022.05.01-00.01.51:505][207]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/STRUCTURAL_INTEGRITY] ([1] browsable assets)...
+[2022.05.01-00.01.51:506][207]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/STRUCTURAL_INTEGRITY.STRUCTURAL_INTEGRITY]
+[2022.05.01-00.01.51:506][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/STRUCTURAL_INTEGRITY]
+[2022.05.01-00.01.51:508][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/STRUCTURAL_INTEGRITY_Auto3
+[2022.05.01-00.01.51:508][207]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/STRUCTURAL_INTEGRITY_Auto32A610C2342755E1426A14B8F4C679DC1.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/STRUCTURAL_INTEGRITY_Auto3.uasset'
+[2022.05.01-00.01.51:510][207]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/Empty_MP+1] ([1] browsable assets)...
+[2022.05.01-00.01.51:510][207]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/Empty_MP+1.Empty_MP+1]
+[2022.05.01-00.01.51:510][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/Empty_MP+1]
+[2022.05.01-00.01.51:511][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/Empty_MP+1_Auto3
+[2022.05.01-00.01.51:512][207]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Empty_MP+1_Auto346FB6EC14142771DAD8E63BD3D27C16F.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/Empty_MP+1_Auto3.uasset'
+[2022.05.01-00.01.51:513][207]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/Empty_MP+3] ([1] browsable assets)...
+[2022.05.01-00.01.51:514][207]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/Empty_MP+3.Empty_MP+3]
+[2022.05.01-00.01.51:514][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/Empty_MP+3]
+[2022.05.01-00.01.51:515][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/Empty_MP+3_Auto3
+[2022.05.01-00.01.51:516][207]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Empty_MP+3_Auto30CE420EE43FD272DD2F83D88F849C66E.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/Empty_MP+3_Auto3.uasset'
+[2022.05.01-00.01.51:517][207]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/Empty_MP+2] ([1] browsable assets)...
+[2022.05.01-00.01.51:518][207]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/Empty_MP+2.Empty_MP+2]
+[2022.05.01-00.01.51:518][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/Empty_MP+2]
+[2022.05.01-00.01.51:519][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/Empty_MP+2_Auto3
+[2022.05.01-00.01.51:519][207]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Empty_MP+2_Auto3A569A52441E688A4E5E97A9537702D7A.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/Empty_MP+2_Auto3.uasset'
+[2022.05.01-00.01.51:521][207]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/FullMP+1] ([1] browsable assets)...
+[2022.05.01-00.01.51:521][207]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/FullMP+1.FullMP+1]
+[2022.05.01-00.01.51:521][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/FullMP+1]
+[2022.05.01-00.01.51:523][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/FullMP+1_Auto3
+[2022.05.01-00.01.51:523][207]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullMP+1_Auto325144E424CD5783C3CC22BBD4250DEE0.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/FullMP+1_Auto3.uasset'
+[2022.05.01-00.01.51:624][207]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/FullMP+2] ([1] browsable assets)...
+[2022.05.01-00.01.51:625][207]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/FullMP+2.FullMP+2]
+[2022.05.01-00.01.51:625][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/FullMP+2]
+[2022.05.01-00.01.51:627][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/FullMP+2_Auto3
+[2022.05.01-00.01.51:627][207]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullMP+2_Auto3C6F037D64D947DE9BA38249A7A9E16B7.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/FullMP+2_Auto3.uasset'
+[2022.05.01-00.01.51:628][207]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/FullMP+3] ([1] browsable assets)...
+[2022.05.01-00.01.51:629][207]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/FullMP+3.FullMP+3]
+[2022.05.01-00.01.51:629][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/FullMP+3]
+[2022.05.01-00.01.51:631][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/FullMP+3_Auto3
+[2022.05.01-00.01.51:631][207]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullMP+3_Auto3707DAD1C4D3A88F218678189D409DE11.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/FullMP+3_Auto3.uasset'
+[2022.05.01-00.01.51:632][207]LogFileHelpers: Auto-saving content packages took 0.141
+[2022.05.01-00.02.49:671][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.05.01-00.02.51:091][610]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.01-00.02.52:167][610]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.05.01-00.02.52:167][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.01-00.02.52:193][610]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.01-00.02.52:193][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.01-00.02.52:239][610]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/UI/Assets/HUD/Empty_MP+1.Empty_MP+1
+	Asset Type: Texture2D
+	Asset Name: /Game/UI/Assets/HUD/Empty_MP+3.Empty_MP+3
+	Asset Type: Texture2D
+	Asset Name: /Game/UI/Assets/HUD/Empty_MP+2.Empty_MP+2
+	Asset Type: Texture2D
+	Asset Name: /Game/UI/Assets/HUD/FullMP+1.FullMP+1
+	Asset Type: Texture2D
+	Asset Name: /Game/UI/Assets/HUD/FullMP+2.FullMP+2
+	Asset Type: Texture2D
+	Asset Name: /Game/UI/Assets/HUD/FullMP+3.FullMP+3
+	Asset Type: Texture2D
+[2022.05.01-00.02.53:505][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.05.01-00.03.00:480][ 64]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI.UI
+[2022.05.01-00.03.00:480][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.01-00.03.00:504][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.01-00.03.00:946][ 64]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.03.00:946][ 64]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.03.15:058][949]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\HP and MP-assets\FullMP+3.png)
+[2022.05.01-00.03.15:066][949]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/FullMP+3.FullMP+3 (BGRA8, 53X517 X1X1) (Required Memory Estimate: 0.522633 MB), EncodeSpeed: Fast
+[2022.05.01-00.03.15:066][949]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\HP and MP-assets\Empty MP+1.png)
+[2022.05.01-00.03.15:073][949]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/Empty_MP+1.Empty_MP+1 (BGRA8, 53X401 X1X1) (Required Memory Estimate: 0.405369 MB), EncodeSpeed: Fast
+[2022.05.01-00.03.15:073][949]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\HP and MP-assets\Empty MP+3.png)
+[2022.05.01-00.03.15:080][949]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/Empty_MP+3.Empty_MP+3 (BGRA8, 53X517 X1X1) (Required Memory Estimate: 0.522633 MB), EncodeSpeed: Fast
+[2022.05.01-00.03.15:080][949]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\HP and MP-assets\Empty MP+2.png)
+[2022.05.01-00.03.15:087][949]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/Empty_MP+2.Empty_MP+2 (BGRA8, 53X460 X1X1) (Required Memory Estimate: 0.465012 MB), EncodeSpeed: Fast
+[2022.05.01-00.03.15:087][949]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\HP and MP-assets\FullMP+1.png)
+[2022.05.01-00.03.15:094][949]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/FullMP+1.FullMP+1 (BGRA8, 53X401 X1X1) (Required Memory Estimate: 0.405369 MB), EncodeSpeed: Fast
+[2022.05.01-00.03.15:094][949]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\HP and MP-assets\FullMP+2.png)
+[2022.05.01-00.03.15:101][949]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/FullMP+2.FullMP+2 (BGRA8, 53X460 X1X1) (Required Memory Estimate: 0.465012 MB), EncodeSpeed: Fast
+[2022.05.01-00.03.15:101][949]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2022.05.01-00.04.45:279][ 41]BlueprintLog: New page: Compile UI
+[2022.05.01-00.04.45:422][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.05.01-00.04.50:972][679]BlueprintLog: New page: Compile UI
+[2022.05.01-00.04.51:080][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.05.01-00.05.00:035][718]BlueprintLog: New page: Compile UI
+[2022.05.01-00.05.00:142][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.05.01-00.05.04:362][192]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.05.04:362][192]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.05.31:806][276]BlueprintLog: New page: Compile UI
+[2022.05.01-00.05.31:915][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.05.01-00.05.32:994][396]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.05.01-00.05.32:994][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.01-00.05.33:019][396]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.05.01-00.05.33:019][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.01-00.05.52:194][576]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI.UI
+[2022.05.01-00.05.52:194][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.01-00.05.52:197][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.01-00.05.52:551][576]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.05.52:551][576]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.08.10:462][866]BlueprintLog: New page: Compile UI
+[2022.05.01-00.08.10:619][866]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.05.01-00.08.54:780][947]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/Light Fluid Pattern.png]
+[2022.05.01-00.08.54:780][947]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/Light Fluid Pattern.png)
+[2022.05.01-00.08.54:808][947]LogEditorFactories: -- imported successfully
+[2022.05.01-00.08.54:820][947]LogTexture: Display: Building textures: /Game/UI/Assets/PauseMenu/Light_Fluid_Pattern.Light_Fluid_Pattern (BGRA8, 1061X1079 X1X1) (Required Memory Estimate: 21.83569 MB), EncodeSpeed: Fast
+[2022.05.01-00.09.20:267][325]BlueprintLog: New page: Compile PauseMenu
+[2022.05.01-00.09.20:359][325]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.05.01-00.09.37:858][417]BlueprintLog: New page: Compile PauseMenu
+[2022.05.01-00.09.37:948][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.05.01-00.10.01:789][650]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\EnemyHP-assets\EnemyHP.png)
+[2022.05.01-00.10.01:798][650]LogTexture: Display: Building textures: /Game/UI/Assets/EnemyHP/EnemyHP.EnemyHP (TFO_AutoDXT, 468X56 X1X1) (Required Memory Estimate: 0.499878 MB), EncodeSpeed: Fast
+[2022.05.01-00.10.01:798][650]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\EnemyHP-assets\FullEnemyHP.png)
+[2022.05.01-00.10.01:806][650]LogTexture: Display: Building textures: /Game/UI/Assets/EnemyHP/FullEnemyHP.FullEnemyHP (BGRA8, 468X31 X1X1) (Required Memory Estimate: 0.276718 MB), EncodeSpeed: Fast
+[2022.05.01-00.10.01:806][650]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2022.05.01-00.10.13:412][369]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\Boss Head.png)
+[2022.05.01-00.10.13:446][369]LogTexture: Display: Building textures: /Game/UI/Assets/EnemyHP/Boss_Head.Boss_Head (BGRA8, 1706X1080 X1X1) (Required Memory Estimate: 35.142517 MB), EncodeSpeed: Fast
+[2022.05.01-00.10.13:446][369]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2022.05.01-00.10.46:247][612]LogEditorTransaction: Undo Resize Widget
+[2022.05.01-00.10.50:674][986]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/EnemyHP-assets/FullEnemyHP.png]
+[2022.05.01-00.10.50:674][986]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/EnemyHP-assets/FullEnemyHP.png)
+[2022.05.01-00.10.50:677][986]LogTexture: Display: Building textures: /Game/UI/Assets/EnemyHP/FullEnemyHP.FullEnemyHP (BGRA8, 468X31 X1X1) (Required Memory Estimate: 0.276718 MB), EncodeSpeed: Fast
+[2022.05.01-00.10.50:677][986]LogEditorFactories: -- imported successfully
+[2022.05.01-00.11.52:259][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.05.01-00.11.52:264][985]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.082
+[2022.05.01-00.11.52:265][985]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Enemy_HUD] ([2] browsable assets)...
+[2022.05.01-00.11.52:267][985]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Enemy_HUD.Enemy_HUD]
+[2022.05.01-00.11.52:267][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Enemy_HUD]
+[2022.05.01-00.11.52:267][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Enemy_HUD" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Enemy_HUD_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.05.01-00.11.52:272][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Enemy_HUD_Auto4
+[2022.05.01-00.11.52:272][985]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Enemy_HUD_Auto47ED89D464ACA3D02C4C0FD992C7F96F6.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Enemy_HUD_Auto4.uasset'
+[2022.05.01-00.11.52:274][985]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PauseMenu] ([2] browsable assets)...
+[2022.05.01-00.11.52:276][985]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PauseMenu.PauseMenu]
+[2022.05.01-00.11.52:276][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PauseMenu]
+[2022.05.01-00.11.52:276][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/PauseMenu_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.05.01-00.11.52:286][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/PauseMenu_Auto4
+[2022.05.01-00.11.52:288][985]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenu_Auto4D271A40A40177F1FD36C159EDD76FB05.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/PauseMenu_Auto4.uasset'
+[2022.05.01-00.11.52:290][985]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI] ([2] browsable assets)...
+[2022.05.01-00.11.52:291][985]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI.UI]
+[2022.05.01-00.11.52:292][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI]
+[2022.05.01-00.11.52:292][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.05.01-00.11.52:308][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Auto4
+[2022.05.01-00.11.52:308][985]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/UI_Auto4896DD56C40C9808D0BE4CB86356A3455.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto4.uasset'
+[2022.05.01-00.11.52:309][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/PauseMenu/Light_Fluid_Pattern] ([1] browsable assets)...
+[2022.05.01-00.11.52:310][985]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/PauseMenu/Light_Fluid_Pattern.Light_Fluid_Pattern]
+[2022.05.01-00.11.52:310][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/PauseMenu/Light_Fluid_Pattern]
+[2022.05.01-00.11.52:317][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/PauseMenu/Light_Fluid_Pattern_Auto4
+[2022.05.01-00.11.52:317][985]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Light_Fluid_Pattern_Auto4FC0918E4434E8A34BAA76FB3CA3AE174.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/PauseMenu/Light_Fluid_Pattern_Auto4.uasset'
+[2022.05.01-00.11.52:320][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/FullMP+3] ([1] browsable assets)...
+[2022.05.01-00.11.52:321][985]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/FullMP+3.FullMP+3]
+[2022.05.01-00.11.52:321][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/FullMP+3]
+[2022.05.01-00.11.52:322][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/FullMP+3_Auto4
+[2022.05.01-00.11.52:322][985]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullMP+3_Auto4B39A4E1548E9B8DD2D69B3AB2850BE99.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/FullMP+3_Auto4.uasset'
+[2022.05.01-00.11.52:324][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/Empty_MP+1] ([1] browsable assets)...
+[2022.05.01-00.11.52:325][985]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/Empty_MP+1.Empty_MP+1]
+[2022.05.01-00.11.52:325][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/Empty_MP+1]
+[2022.05.01-00.11.52:327][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/Empty_MP+1_Auto4
+[2022.05.01-00.11.52:327][985]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Empty_MP+1_Auto43EEA5F99442B89F7E8FDDFB529F03509.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/Empty_MP+1_Auto4.uasset'
+[2022.05.01-00.11.52:328][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/Empty_MP+3] ([1] browsable assets)...
+[2022.05.01-00.11.52:329][985]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/Empty_MP+3.Empty_MP+3]
+[2022.05.01-00.11.52:329][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/Empty_MP+3]
+[2022.05.01-00.11.52:331][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/Empty_MP+3_Auto4
+[2022.05.01-00.11.52:331][985]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Empty_MP+3_Auto4401A067A4BDD165631180BAE2FE6BA25.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/Empty_MP+3_Auto4.uasset'
+[2022.05.01-00.11.52:332][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/Empty_MP+2] ([1] browsable assets)...
+[2022.05.01-00.11.52:333][985]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/Empty_MP+2.Empty_MP+2]
+[2022.05.01-00.11.52:333][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/Empty_MP+2]
+[2022.05.01-00.11.52:335][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/Empty_MP+2_Auto4
+[2022.05.01-00.11.52:335][985]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Empty_MP+2_Auto48F592C3D4BCD7B8E6DA1B1AFA05C408B.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/Empty_MP+2_Auto4.uasset'
+[2022.05.01-00.11.52:337][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/FullMP+1] ([1] browsable assets)...
+[2022.05.01-00.11.52:337][985]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/FullMP+1.FullMP+1]
+[2022.05.01-00.11.52:337][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/FullMP+1]
+[2022.05.01-00.11.52:339][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/FullMP+1_Auto4
+[2022.05.01-00.11.52:339][985]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullMP+1_Auto4FEEAD5CB44989CEEABDA619BFB1D8131.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/FullMP+1_Auto4.uasset'
+[2022.05.01-00.11.52:341][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/FullMP+2] ([1] browsable assets)...
+[2022.05.01-00.11.52:342][985]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/FullMP+2.FullMP+2]
+[2022.05.01-00.11.52:342][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/FullMP+2]
+[2022.05.01-00.11.52:344][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/FullMP+2_Auto4
+[2022.05.01-00.11.52:344][985]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullMP+2_Auto463F93D084281C04D33EE5D93BED0AC30.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/FullMP+2_Auto4.uasset'
+[2022.05.01-00.11.52:345][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/EnemyHP/EnemyHP] ([1] browsable assets)...
+[2022.05.01-00.11.52:346][985]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/EnemyHP/EnemyHP.EnemyHP]
+[2022.05.01-00.11.52:346][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/EnemyHP/EnemyHP]
+[2022.05.01-00.11.52:348][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/EnemyHP/EnemyHP_Auto4
+[2022.05.01-00.11.52:348][985]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/EnemyHP_Auto4B2761D38456873D2BD8695B9666F8CB8.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/EnemyHP/EnemyHP_Auto4.uasset'
+[2022.05.01-00.11.52:349][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/EnemyHP/FullEnemyHP] ([1] browsable assets)...
+[2022.05.01-00.11.52:350][985]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/EnemyHP/FullEnemyHP.FullEnemyHP]
+[2022.05.01-00.11.52:350][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/EnemyHP/FullEnemyHP]
+[2022.05.01-00.11.52:352][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/EnemyHP/FullEnemyHP_Auto4
+[2022.05.01-00.11.52:352][985]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullEnemyHP_Auto414E58555465B5320BC6B61833F07CB9B.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/EnemyHP/FullEnemyHP_Auto4.uasset'
+[2022.05.01-00.11.52:354][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/EnemyHP/Boss_Head] ([1] browsable assets)...
+[2022.05.01-00.11.52:355][985]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/EnemyHP/Boss_Head.Boss_Head]
+[2022.05.01-00.11.52:355][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/EnemyHP/Boss_Head]
+[2022.05.01-00.11.52:363][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/EnemyHP/Boss_Head_Auto4
+[2022.05.01-00.11.52:363][985]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Boss_Head_Auto46003182E4D3C4FE37167559B217BEC78.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/EnemyHP/Boss_Head_Auto4.uasset'
+[2022.05.01-00.11.52:368][985]LogFileHelpers: Auto-saving content packages took 0.104
+[2022.05.01-00.14.17:698][531]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.01-00.14.17:698][531]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.05.01-00.14.19:448][698]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/EnemyHP-assets/EnemyHP.png]
+[2022.05.01-00.14.19:448][698]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/EnemyHP-assets/EnemyHP.png)
+[2022.05.01-00.14.19:451][698]LogTexture: Display: Building textures: /Game/UI/Assets/EnemyHP/EnemyHP.EnemyHP (BGRA8, 463X31 X1X1) (Required Memory Estimate: 0.273762 MB), EncodeSpeed: Fast
+[2022.05.01-00.14.19:451][698]LogEditorFactories: -- imported successfully
+[2022.05.01-00.14.19:467][698]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/EnemyHP-assets/FullEnemyHP.png]
+[2022.05.01-00.14.19:467][698]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/EnemyHP-assets/FullEnemyHP.png)
+[2022.05.01-00.14.19:470][698]LogTexture: Display: Building textures: /Game/UI/Assets/EnemyHP/FullEnemyHP.FullEnemyHP (BGRA8, 463X31 X1X1) (Required Memory Estimate: 0.273762 MB), EncodeSpeed: Fast
+[2022.05.01-00.14.19:470][698]LogEditorFactories: -- imported successfully
+[2022.05.01-00.14.43:802][783]LogEditorTransaction: Undo Resize Widget
+[2022.05.01-00.14.50:576][227]LogEditorTransaction: Undo Resize Widget
+[2022.05.01-00.16.15:006][461]LogEditorTransaction: Undo Resize Widget
+[2022.05.01-00.18.37:933][207]BlueprintLog: New page: Compile Enemy_HUD
+[2022.05.01-00.18.38:058][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.05.01-00.18.39:155][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Enemy_HUD" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Enemy_HUD.uasset" SILENT=true
+[2022.05.01-00.18.39:161][306]LogSavePackage: Moving output files for package: /Game/UI/Enemy_HUD
+[2022.05.01-00.18.39:163][306]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Enemy_HUD2105B5934DBF8521E99AD88DBB811538.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Enemy_HUD.uasset'
+[2022.05.01-00.18.39:186][306]AssetCheck: New page: Asset Save: Enemy_HUD
+[2022.05.01-00.18.39:186][306]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Enemy_HUD.Enemy_HUD
+[2022.05.01-00.19.43:711][ 45]BlueprintLog: New page: Compile Enemy_HUD
+[2022.05.01-00.19.43:849][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.05.01-00.20.05:398][381]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.20.05:398][381]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.20.25:705][701]BlueprintLog: New page: Compile Enemy_HUD
+[2022.05.01-00.20.25:822][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.05.01-00.20.59:450][604]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.20.59:450][604]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.21.54:391][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.05.01-00.21.54:396][ 86]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.079
+[2022.05.01-00.21.54:397][ 86]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Enemy_HUD] ([2] browsable assets)...
+[2022.05.01-00.21.54:399][ 86]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Enemy_HUD.Enemy_HUD]
+[2022.05.01-00.21.54:399][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Enemy_HUD]
+[2022.05.01-00.21.54:399][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Enemy_HUD" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Enemy_HUD_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.05.01-00.21.54:407][ 86]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Enemy_HUD_Auto5
+[2022.05.01-00.21.54:407][ 86]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Enemy_HUD_Auto519AED7E44D8A3D05CFF324A5653BFE46.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Enemy_HUD_Auto5.uasset'
+[2022.05.01-00.21.54:408][ 86]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/EnemyHP/EnemyHP] ([1] browsable assets)...
+[2022.05.01-00.21.54:409][ 86]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/EnemyHP/EnemyHP.EnemyHP]
+[2022.05.01-00.21.54:409][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/EnemyHP/EnemyHP]
+[2022.05.01-00.21.54:411][ 86]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/EnemyHP/EnemyHP_Auto5
+[2022.05.01-00.21.54:411][ 86]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/EnemyHP_Auto5745CCA7E413D38B273A1B0B5752CED16.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/EnemyHP/EnemyHP_Auto5.uasset'
+[2022.05.01-00.21.54:413][ 86]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/EnemyHP/FullEnemyHP] ([1] browsable assets)...
+[2022.05.01-00.21.54:413][ 86]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/EnemyHP/FullEnemyHP.FullEnemyHP]
+[2022.05.01-00.21.54:414][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/EnemyHP/FullEnemyHP]
+[2022.05.01-00.21.54:416][ 86]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/EnemyHP/FullEnemyHP_Auto5
+[2022.05.01-00.21.54:416][ 86]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullEnemyHP_Auto520BB110F4861B94C99B0BAB354502596.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/EnemyHP/FullEnemyHP_Auto5.uasset'
+[2022.05.01-00.21.54:417][ 86]LogFileHelpers: Auto-saving content packages took 0.021
+[2022.05.01-00.22.16:148][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.22.16:148][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.23.06:664][943]LogDerivedDataCache: C:/Users/craigjd1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.465 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.01-00.23.29:421][425]BlueprintLog: New page: Compile Enemy_HUD
+[2022.05.01-00.23.29:543][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.05.01-00.24.07:540][716]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.01-00.24.07:552][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.01-00.24.07:552][716]PIE: New page: PIE session: FirstPersonExampleMap (Apr 30, 2022, 4:24:07 PM)
+[2022.05.01-00.24.07:552][716]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.05.01-00.24.07:696][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144370s)
+[2022.05.01-00.24.07:696][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.144453s)
+[2022.05.01-00.24.07:696][716]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.01-00.24.07:696][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.01-00.24.07:697][716]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.05.01-00.24.07:697][716]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2022.05.01-00.24.07:772][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.05.01-00.24.07:776][716]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.01-00.24.07:776][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.01-00.24.07:776][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.01-00.24.07:776][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.01-00.24.07:776][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.01-00.24.07:777][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.01-00.24.07:777][716]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.01-00.24.07:777][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.01-00.24.07:777][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.01-00.24.07:777][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.01-00.24.07:777][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.01-00.24.07:777][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.01-00.24.07:779][716]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.01-00.24.07:795][716]LogAudioMixer: Display: Using Audio Hardware Device DELL U3415W (NVIDIA High Definition Audio)
+[2022.05.01-00.24.07:795][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.01-00.24.07:795][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.01-00.24.07:795][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.01-00.24.07:796][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.05.01-00.24.07:796][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.05.01-00.24.07:797][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.05.01-00.24.07:797][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.05.01-00.24.07:797][716]LogInit: FAudioDevice initialized.
+[2022.05.01-00.24.07:797][716]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2022.05.01-00.24.07:832][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.01-00.24.07:832][716]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.01-00.24.07:893][716]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.30-20.24.07
+[2022.05.01-00.24.07:898][716]LogWorld: Bringing up level for play took: 0.065553
+[2022.05.01-00.24.07:900][716]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.05.01-00.24.07:902][716]LogBlueprintUserMessages: [MovementImpact] movementimpact_component must be attached to am actor with a PrimitiveComponent at its root
+[2022.05.01-00.24.07:911][716]PIE: Server logged in
+[2022.05.01-00.24.07:913][716]PIE: Play in editor total start time 0.361 seconds.
+[2022.05.01-00.24.07:934][716]LogAudio: Warning: Detected orphaned looping sound 'Background_ambiance_Cue'.
+[2022.05.01-00.24.12:745][961]LogBlueprintUserMessages: [Pickup_C_3] picked up
+[2022.05.01-00.24.13:235][989]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.05.01-00.24.13:746][ 18]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.05.01-00.24.14:759][ 72]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.05.01-00.24.16:689][182]LogBlueprintUserMessages: [Pickup3_C_1] picked up
+[2022.05.01-00.24.17:181][212]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.05.01-00.24.17:687][242]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.05.01-00.24.18:695][305]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.05.01-00.24.19:361][346]LogBlueprintUserMessages: [Pickup2_C_1] picked up
+[2022.05.01-00.24.19:855][376]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.05.01-00.24.20:351][406]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.24.21:355][466]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.24.22:360][526]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.24.22:848][556]LogBlueprintUserMessages: [NPC_2_adv_C_11] 85.0
+[2022.05.01-00.24.22:849][556]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue_1
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_3
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:04EC
+[2022.05.01-00.24.22:850][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue_1". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.05.01-00.24.22:850][556]LogBlueprintUserMessages: [NPC_2_AI_C_3] HELOOOOOOOO
+[2022.05.01-00.24.23:365][587]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.24.24:378][645]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.05.01-00.24.24:532][654]LogBlueprintUserMessages: [NPC_2_adv_C_11] Hello
+[2022.05.01-00.24.24:570][656]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_3
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:019C
+[2022.05.01-00.24.24:570][656]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.05.01-00.24.25:030][682]LogBlueprintUserMessages: [NPC_2_adv_C_11] Hello
+[2022.05.01-00.24.25:207][692]LogBlueprintUserMessages: [NPC_2_adv_C_11] Hello
+[2022.05.01-00.24.25:385][702]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.24.25:386][702]LogBlueprintUserMessages: [NPC_2_adv_C_11] Hello
+[2022.05.01-00.24.26:395][761]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.24.27:292][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.01-00.24.27:292][812]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.05.01-00.24.27:293][812]LogSlate: Window 'Plug_N_Play Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.05.01-00.24.27:300][812]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.01-00.24.27:307][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.01-00.24.27:316][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.01-00.24.27:332][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.01-00.24.27:403][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.01-00.24.27:403][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.05.01-00.24.27:405][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.05.01-00.24.27:430][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.05.01-00.24.27:566][813]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.05.01-00.24.29:156][972]LogSlate: Window 'Message Log' being destroyed
+[2022.05.01-00.24.29:162][972]LogSlate: Window 'Message Log' being destroyed
+[2022.05.01-00.24.41:355][311]BlueprintLog: New page: Compile Enemy_HUD
+[2022.05.01-00.24.41:474][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.05.01-00.24.43:229][499]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.01-00.24.43:239][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.01-00.24.43:239][499]PIE: New page: PIE session: FirstPersonExampleMap (Apr 30, 2022, 4:24:43 PM)
+[2022.05.01-00.24.43:239][499]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.05.01-00.24.43:379][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139453s)
+[2022.05.01-00.24.43:379][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.139532s)
+[2022.05.01-00.24.43:379][499]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.01-00.24.43:379][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.01-00.24.43:380][499]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.05.01-00.24.43:380][499]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2022.05.01-00.24.43:454][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.05.01-00.24.43:456][499]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.01-00.24.43:457][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.01-00.24.43:457][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.01-00.24.43:457][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.01-00.24.43:457][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.01-00.24.43:457][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.01-00.24.43:457][499]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.01-00.24.43:457][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.01-00.24.43:457][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.01-00.24.43:457][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.01-00.24.43:457][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.01-00.24.43:457][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.01-00.24.43:459][499]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.01-00.24.43:474][499]LogAudioMixer: Display: Using Audio Hardware Device DELL U3415W (NVIDIA High Definition Audio)
+[2022.05.01-00.24.43:474][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.01-00.24.43:474][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.01-00.24.43:475][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.01-00.24.43:475][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.05.01-00.24.43:475][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.05.01-00.24.43:476][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.05.01-00.24.43:476][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.05.01-00.24.43:476][499]LogInit: FAudioDevice initialized.
+[2022.05.01-00.24.43:477][499]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2022.05.01-00.24.43:532][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.01-00.24.43:532][499]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.01-00.24.43:590][499]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.30-20.24.43
+[2022.05.01-00.24.43:595][499]LogWorld: Bringing up level for play took: 0.063943
+[2022.05.01-00.24.43:597][499]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.05.01-00.24.43:599][499]LogBlueprintUserMessages: [MovementImpact] movementimpact_component must be attached to am actor with a PrimitiveComponent at its root
+[2022.05.01-00.24.43:608][499]PIE: Server logged in
+[2022.05.01-00.24.43:609][499]PIE: Play in editor total start time 0.37 seconds.
+[2022.05.01-00.24.43:632][499]LogAudio: Warning: Detected orphaned looping sound 'Background_ambiance_Cue'.
+[2022.05.01-00.24.45:750][602]LogBlueprintUserMessages: [Pickup_C_3] picked up
+[2022.05.01-00.24.46:241][631]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.05.01-00.24.46:748][662]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.05.01-00.24.46:781][664]LogBlueprintUserMessages: [NPC_2_adv_C_11] 85.0
+[2022.05.01-00.24.46:783][664]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue_1
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_3
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:04EC
+[2022.05.01-00.24.46:783][664]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue_1". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.05.01-00.24.46:783][664]LogBlueprintUserMessages: [NPC_2_AI_C_3] HELOOOOOOOO
+[2022.05.01-00.24.47:752][723]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.24.48:442][765]LogBlueprintUserMessages: [NPC_2_adv_C_11] Hello
+[2022.05.01-00.24.48:477][767]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_3
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:019C
+[2022.05.01-00.24.48:477][767]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.05.01-00.24.48:752][783]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.24.48:770][784]LogBlueprintUserMessages: [NPC_2_adv_C_11] 10.0
+[2022.05.01-00.24.49:348][818]LogBlueprintUserMessages: [NPC_2_adv_C_11] Hello
+[2022.05.01-00.24.49:537][826]LogBlueprintUserMessages: [NPC_2_adv_C_11] Hello
+[2022.05.01-00.24.49:708][836]LogBlueprintUserMessages: [NPC_2_adv_C_11] Hello
+[2022.05.01-00.24.49:708][836]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 90.0
+[2022.05.01-00.24.49:760][839]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.24.49:968][851]LogBlueprintUserMessages: [NPC_2_adv_C_11] 0.0
+[2022.05.01-00.24.50:767][896]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.05.01-00.24.51:778][946]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.24.52:780][995]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.24.53:795][ 45]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.24.54:811][100]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.05.01-00.24.55:816][156]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.05.01-00.24.56:795][210]LogBlueprintUserMessages: [Pickup3_C_1] picked up
+[2022.05.01-00.24.57:252][238]LogBlueprintUserMessages: [Pickup2_C_1] picked up
+[2022.05.01-00.24.57:284][240]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.05.01-00.24.57:786][270]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.05.01-00.24.58:178][292]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.05.01-00.24.58:799][327]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.24.59:806][385]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.25.00:808][443]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.25.01:812][503]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.05.01-00.25.02:812][562]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.25.03:825][622]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.05.01-00.25.04:834][681]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.25.05:851][740]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.05.01-00.25.06:866][797]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.25.07:867][857]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.25.08:869][919]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.25.09:881][984]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.05.01-00.25.10:885][ 42]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.05.01-00.25.22:556][780]LogBlueprintUserMessages: [NPC_2_adv_C_10] 85.0
+[2022.05.01-00.25.22:557][780]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue_1
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_2
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:04EC
+[2022.05.01-00.25.22:558][780]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue_1". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.05.01-00.25.22:558][780]LogBlueprintUserMessages: [NPC_2_AI_C_2] HELOOOOOOOO
+[2022.05.01-00.25.22:598][783]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.25.23:604][853]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.25.23:689][859]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.23:719][861]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_2
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:019C
+[2022.05.01-00.25.23:719][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.05.01-00.25.24:313][902]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.24:479][913]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.24:613][922]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.25.24:644][924]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.25:618][986]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.25.26:627][ 51]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.05.01-00.25.26:877][ 67]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.27:046][ 78]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.27:214][ 89]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.27:385][100]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.27:635][116]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.25.28:642][180]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.25.29:616][244]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.29:645][246]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.25.29:796][256]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.29:964][267]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.30:133][278]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.30:647][312]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.05.01-00.25.31:657][378]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.05.01-00.25.32:300][421]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.32:466][432]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.32:629][443]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.32:791][454]LogBlueprintUserMessages: [NPC_2_adv_C_10] Hello
+[2022.05.01-00.25.33:091][474]LogBlueprintUserMessages: [NPC_2_adv_C_10] 10.0
+[2022.05.01-00.25.33:182][480]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.25.33:833][523]LogBlueprintUserMessages: [NPC_2_adv_C_10] 0.0
+[2022.05.01-00.25.34:197][545]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.25.35:205][605]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.25.36:213][657]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.25.37:233][712]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.05.01-00.25.38:643][785]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.05.01-00.25.39:023][807]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.05.01-00.25.40:028][866]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2022.05.01-00.25.47:651][246]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2022.05.01-00.25.47:654][246]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.05.01-00.25.48:656][293]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.25.49:659][344]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.25.50:672][391]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.05.01-00.25.51:684][441]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.25.52:661][489]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_5
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:019C
+[2022.05.01-00.25.52:662][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.05.01-00.25.52:703][491]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.25.52:786][495]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_6
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:019C
+[2022.05.01-00.25.52:786][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.05.01-00.25.53:720][541]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.25.53:952][552]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.25.53:952][552]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 105.0
+[2022.05.01-00.25.54:227][566]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.25.54:227][566]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 95.0
+[2022.05.01-00.25.54:428][576]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.25.54:620][586]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.25.54:620][586]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 85.0
+[2022.05.01-00.25.54:739][592]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.25.54:946][603]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.25.55:129][613]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.25.55:313][623]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.25.55:522][634]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.25.55:755][646]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.25.56:767][699]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.25.56:914][707]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.25.56:914][707]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 75.0
+[2022.05.01-00.25.57:129][719]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.25.57:129][719]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 65.0
+[2022.05.01-00.25.57:317][730]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.25.57:317][730]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 55.0
+[2022.05.01-00.25.57:515][741]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.25.57:515][741]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 45.0
+[2022.05.01-00.25.57:776][756]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2022.05.01-00.25.58:227][781]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.25.58:358][788]LogBlueprintUserMessages: [NPC_2_adv_C_4] melee
+[2022.05.01-00.25.58:359][788]LogAnimMontage: Warning: Playing a Montage (Punching__2__Anim_mixamo_com_Montage2) for the wrong Skeleton (Hook_Punch_Skeleton) instead of (Punching__2__Skeleton).
+[2022.05.01-00.25.58:433][792]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.25.58:641][803]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.25.58:791][811]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.25.58:888][816]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.25.59:215][834]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_5
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:019C
+[2022.05.01-00.25.59:215][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.05.01-00.25.59:234][835]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	NPC_2_AI_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.NPC_2_AI_C_5
+	Function /Game/AI/NPC/NPC_2_AI.NPC_2_AI_C:ExecuteUbergraph_NPC_2_AI:019C
+[2022.05.01-00.25.59:234][835]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Node:  Play Sound at Location Graph:  EventGraph Function:  Execute Ubergraph NPC 2 AI Blueprint:  NPC_2_AI
+[2022.05.01-00.25.59:762][865]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.25.59:762][865]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 35.0
+[2022.05.01-00.25.59:797][867]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.25.59:946][875]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.26.00:252][892]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.26.00:486][905]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.26.00:810][923]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.05.01-00.26.01:189][945]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.26.01:367][955]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.26.01:550][965]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.26.01:672][972]LogBlueprintUserMessages: [Pickup2_C_0] picked up
+[2022.05.01-00.26.01:725][975]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.26.01:826][981]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2022.05.01-00.26.02:175][  0]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] None
+[2022.05.01-00.26.02:701][ 28]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.26.02:842][ 36]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2022.05.01-00.26.02:879][ 38]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.26.02:879][ 38]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 25.0
+[2022.05.01-00.26.03:056][ 48]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.26.03:056][ 48]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 15.0
+[2022.05.01-00.26.03:236][ 58]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.26.03:236][ 58]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5.0
+[2022.05.01-00.26.03:851][ 92]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2022.05.01-00.26.04:069][104]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.26.04:194][111]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2022.05.01-00.26.04:252][114]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.26.04:434][124]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.26.04:621][134]LogBlueprintUserMessages: [NPC_2_adv_C_3] Hello
+[2022.05.01-00.26.04:856][147]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2022.05.01-00.26.05:359][174]LogBlueprintUserMessages: [NPC_2_adv_C_3] melee
+[2022.05.01-00.26.05:359][174]LogAnimMontage: Warning: Playing a Montage (Punching__2__Anim_mixamo_com_Montage2) for the wrong Skeleton (Hook_Punch_Skeleton) instead of (Punching__2__Skeleton).
+[2022.05.01-00.26.05:452][179]LogBlueprintUserMessages: [NPC_2_adv_C_4] Hello
+[2022.05.01-00.26.05:452][179]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] -5.0
+[2022.05.01-00.26.05:554][184]LogBlueprintUserMessages: [NPC_2_adv_C_3] melee
+[2022.05.01-00.26.05:554][184]LogAnimMontage: Warning: Playing a Montage (Punching__2__Anim_mixamo_com_Montage1) for the wrong Skeleton (Hook_Punch_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2022.05.01-00.26.10:091][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.01-00.26.10:091][423]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.05.01-00.26.10:092][423]LogSlate: Window 'Plug_N_Play Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.05.01-00.26.10:099][423]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.01-00.26.10:105][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.01-00.26.10:116][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.01-00.26.10:134][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.01-00.26.10:209][423]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.01-00.26.10:211][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.05.01-00.26.10:212][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.05.01-00.26.10:236][423]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.05.01-00.26.10:361][424]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.05.01-00.26.11:569][545]LogSlate: Window 'Message Log' being destroyed
+[2022.05.01-00.26.11:575][545]LogSlate: Window 'Message Log' being destroyed
+[2022.05.01-00.26.30:683][376]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\DamageIndicator.png)
+[2022.05.01-00.26.30:739][376]LogTexture: Display: Building textures: /Game/UI/Assets/PauseMenu/DamageIndicator.DamageIndicator (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2022.05.01-00.26.30:739][376]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2022.05.01-00.27.07:122][716]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.01-00.28.20:119][909]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.01-00.29.32:689][294]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.05.01-00.31.00:888][844]BlueprintLog: New page: Compile UI
+[2022.05.01-00.31.01:012][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.05.01-00.31.09:365][623]LogEditorTransaction: Undo Move Anchor
+[2022.05.01-00.34.26:527][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.05.01-00.34.26:534][422]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.082
+[2022.05.01-00.34.26:534][422]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Enemy_HUD] ([2] browsable assets)...
+[2022.05.01-00.34.26:536][422]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Enemy_HUD.Enemy_HUD]
+[2022.05.01-00.34.26:537][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Enemy_HUD]
+[2022.05.01-00.34.26:537][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Enemy_HUD" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Enemy_HUD_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.05.01-00.34.26:545][422]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Enemy_HUD_Auto6
+[2022.05.01-00.34.26:545][422]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Enemy_HUD_Auto6F97DEFCF4940C120D64679AD1DC969B5.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Enemy_HUD_Auto6.uasset'
+[2022.05.01-00.34.26:546][422]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI] ([2] browsable assets)...
+[2022.05.01-00.34.26:548][422]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI.UI]
+[2022.05.01-00.34.26:548][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI]
+[2022.05.01-00.34.26:549][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.05.01-00.34.26:566][422]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Auto6
+[2022.05.01-00.34.26:566][422]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/UI_Auto6043DE3C14EBF83C4DB36559B4990375E.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto6.uasset'
+[2022.05.01-00.34.26:568][422]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/PauseMenu/DamageIndicator] ([1] browsable assets)...
+[2022.05.01-00.34.26:569][422]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/PauseMenu/DamageIndicator.DamageIndicator]
+[2022.05.01-00.34.26:569][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/PauseMenu/DamageIndicator]
+[2022.05.01-00.34.26:580][422]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/PauseMenu/DamageIndicator_Auto6
+[2022.05.01-00.34.26:581][422]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/DamageIndicator_Auto67ADD088F4C623AE822AC5AA0A61448CA.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/PauseMenu/DamageIndicator_Auto6.uasset'
+[2022.05.01-00.34.26:587][422]LogFileHelpers: Auto-saving content packages took 0.053
+[2022.05.01-00.34.44:537][ 55]BlueprintLog: New page: Compile UI
+[2022.05.01-00.34.44:692][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.05.01-00.35.04:868][320]LogEditorTransaction: Undo Edit Render Opacity
+[2022.05.01-00.35.15:368][482]BlueprintLog: New page: Compile UI
+[2022.05.01-00.35.15:486][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.05.01-00.35.59:410][346]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.01-00.36.00:832][346]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.05.01-00.36.00:840][346]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.05.01-00.36.00:846][346]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.05.01-00.36.00:862][347]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.05.01-00.36.10:348][475]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> EndScreen
+[2022.05.01-00.36.10:353][475]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.05.01-00.36.14:996][794]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.05.01-00.36.15:003][794]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.05.01-00.36.15:008][794]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.05.01-00.36.15:017][795]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.05.01-00.36.20:419][433]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> DeathScreen
+[2022.05.01-00.36.20:424][433]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.05.01-00.36.21:553][553]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/DeathScreen.DeathScreen
+[2022.05.01-00.36.21:553][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.01-00.36.21:556][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.01-00.36.21:979][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.36.21:979][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.36.24:584][837]LogSlate: Window 'DeathScreen' being destroyed
+[2022.05.01-00.38.15:864][144]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.01-00.38.20:649][618]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.01-00.38.24:141][965]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.01-00.39.03:424][940]LogEditorTransaction: Undo Resize Widget
+[2022.05.01-00.41.32:535][504]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/Fail Screen/restart unclicked.png]
+[2022.05.01-00.41.32:535][504]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/Fail Screen/restart unclicked.png)
+[2022.05.01-00.41.32:538][504]LogTexture: Display: Building textures: /Game/UI/Assets/DeathScreen/restart_unclicked.restart_unclicked (BGRA8, 355X77 X1X1) (Required Memory Estimate: 0.521374 MB), EncodeSpeed: Fast
+[2022.05.01-00.41.32:538][504]LogEditorFactories: -- imported successfully
+[2022.05.01-00.41.32:545][504]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/Fail Screen/restart clicked.png]
+[2022.05.01-00.41.32:545][504]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/Fail Screen/restart clicked.png)
+[2022.05.01-00.41.32:548][504]LogTexture: Display: Building textures: /Game/UI/Assets/DeathScreen/restart_clicked.restart_clicked (BGRA8, 355X77 X1X1) (Required Memory Estimate: 0.521374 MB), EncodeSpeed: Fast
+[2022.05.01-00.41.32:549][504]LogEditorFactories: -- imported successfully
+[2022.05.01-00.41.32:561][504]LogEditorFactories: Performing atomic reimport of [F:/Plug n Play/UI/Assets/Fail Screen/restart hovered.png]
+[2022.05.01-00.41.32:561][504]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Plug n Play/UI/Assets/Fail Screen/restart hovered.png)
+[2022.05.01-00.41.32:564][504]LogTexture: Display: Building textures: /Game/UI/Assets/DeathScreen/restart_hovered.restart_hovered (BGRA8, 355X77 X1X1) (Required Memory Estimate: 0.521374 MB), EncodeSpeed: Fast
+[2022.05.01-00.41.32:564][504]LogEditorFactories: -- imported successfully
+[2022.05.01-00.42.28:203][760]BlueprintLog: New page: Compile DeathScreen
+[2022.05.01-00.42.28:324][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.05.01-00.42.29:393][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/DeathScreen" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/DeathScreen.uasset" SILENT=true
+[2022.05.01-00.42.29:398][874]LogSavePackage: Moving output files for package: /Game/UI/DeathScreen
+[2022.05.01-00.42.29:398][874]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/DeathScreen66F1410C44E866EAD0A38CAB7E03B63E.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/DeathScreen.uasset'
+[2022.05.01-00.42.29:419][874]AssetCheck: New page: Asset Save: DeathScreen
+[2022.05.01-00.42.29:419][874]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/DeathScreen.DeathScreen
+[2022.05.01-00.43.27:932][726]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.43.27:932][726]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.43.31:407][107]BlueprintLog: New page: Compile DeathScreen
+[2022.05.01-00.43.31:527][107]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.05.01-00.43.32:020][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/DeathScreen" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/DeathScreen.uasset" SILENT=true
+[2022.05.01-00.43.32:025][152]LogSavePackage: Moving output files for package: /Game/UI/DeathScreen
+[2022.05.01-00.43.32:026][152]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/DeathScreen043CD831408661F3052CF3BA83732F18.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/DeathScreen.uasset'
+[2022.05.01-00.43.32:049][152]AssetCheck: New page: Asset Save: DeathScreen
+[2022.05.01-00.43.32:049][152]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/DeathScreen.DeathScreen
+[2022.05.01-00.43.52:275][530]BlueprintLog: New page: Compile Enemy_HUD
+[2022.05.01-00.43.52:405][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.05.01-00.43.52:915][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Enemy_HUD" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Enemy_HUD.uasset" SILENT=true
+[2022.05.01-00.43.52:922][564]LogSavePackage: Moving output files for package: /Game/UI/Enemy_HUD
+[2022.05.01-00.43.52:923][564]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Enemy_HUDD64665214094BD55C573CCBA925AA257.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Enemy_HUD.uasset'
+[2022.05.01-00.43.52:944][564]AssetCheck: New page: Asset Save: Enemy_HUD
+[2022.05.01-00.43.52:944][564]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Enemy_HUD.Enemy_HUD
+[2022.05.01-00.44.13:402][239]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/EndScreen.EndScreen
+[2022.05.01-00.44.13:403][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.01-00.44.13:405][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.01-00.44.13:773][239]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.44.13:773][239]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.01-00.47.57:092][ 61]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2022.05.01-00.47.57:135][ 61]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_7' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.05.01-00.48.26:377][690]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.05.01-00.48.26:384][690]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.05.01-00.49.14:924][274]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.05.01-00.49.56:307][350]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2022.05.01-00.49.56:356][350]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_7' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.05.01-00.50.10:959][787]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.05.01-00.50.10:966][787]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.05.01-00.50.31:094][739]BlueprintLog: New page: Compile EndScreen
+[2022.05.01-00.50.31:238][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.05.01-00.50.32:927][909]BlueprintLog: New page: Compile EndScreen
+[2022.05.01-00.50.33:018][909]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.05.01-00.53.21:206][ 67]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.05.01-00.54.44:476][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.05.01-00.54.44:482][827]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.103
+[2022.05.01-00.54.44:482][827]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PauseMenu] ([2] browsable assets)...
+[2022.05.01-00.54.44:485][827]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PauseMenu.PauseMenu]
+[2022.05.01-00.54.44:485][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PauseMenu]
+[2022.05.01-00.54.44:485][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/PauseMenu_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.05.01-00.54.44:495][827]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/PauseMenu_Auto7
+[2022.05.01-00.54.44:496][827]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenu_Auto7DCD8FB9B4F3B78A5B061B1ADE118699D.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/PauseMenu_Auto7.uasset'
+[2022.05.01-00.54.44:497][827]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI] ([2] browsable assets)...
+[2022.05.01-00.54.44:499][827]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI.UI]
+[2022.05.01-00.54.44:499][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI]
+[2022.05.01-00.54.44:499][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.05.01-00.54.44:516][827]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Auto7
+[2022.05.01-00.54.44:517][827]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/UI_Auto7E3245E944689B4D9FC562CAA63A10F83.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto7.uasset'
+[2022.05.01-00.54.44:518][827]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/DeathScreen/restart_clicked] ([1] browsable assets)...
+[2022.05.01-00.54.44:519][827]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/DeathScreen/restart_clicked.restart_clicked]
+[2022.05.01-00.54.44:519][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/DeathScreen/restart_clicked]
+[2022.05.01-00.54.44:521][827]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/DeathScreen/restart_clicked_Auto7
+[2022.05.01-00.54.44:521][827]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/restart_clicked_Auto7EC9612EC4C877B201E73C09154F5FBB6.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/DeathScreen/restart_clicked_Auto7.uasset'
+[2022.05.01-00.54.44:522][827]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/DeathScreen/restart_hovered] ([1] browsable assets)...
+[2022.05.01-00.54.44:523][827]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/DeathScreen/restart_hovered.restart_hovered]
+[2022.05.01-00.54.44:523][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/DeathScreen/restart_hovered]
+[2022.05.01-00.54.44:525][827]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/DeathScreen/restart_hovered_Auto7
+[2022.05.01-00.54.44:525][827]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/restart_hovered_Auto7FAF80773465A416091B0E0BEFDFB71AE.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/DeathScreen/restart_hovered_Auto7.uasset'
+[2022.05.01-00.54.44:526][827]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/DeathScreen/restart_unclicked] ([1] browsable assets)...
+[2022.05.01-00.54.44:527][827]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/DeathScreen/restart_unclicked.restart_unclicked]
+[2022.05.01-00.54.44:527][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/DeathScreen/restart_unclicked]
+[2022.05.01-00.54.44:528][827]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/DeathScreen/restart_unclicked_Auto7
+[2022.05.01-00.54.44:528][827]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/restart_unclicked_Auto717F1425B4B48856A4BAA30A36BA547AB.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/DeathScreen/restart_unclicked_Auto7.uasset'
+[2022.05.01-00.54.44:530][827]LogFileHelpers: Auto-saving content packages took 0.048
+[2022.05.01-00.56.45:722][956]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\Flashlight Control.png)
+[2022.05.01-00.56.45:740][956]LogTexture: Display: Building textures: /Game/UI/Assets/PauseMenu/Flashlight_Control.Flashlight_Control (BGRA8, 233X97 X1X1) (Required Memory Estimate: 0.43108 MB), EncodeSpeed: Fast
+[2022.05.01-00.56.45:740][956]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2022.05.01-01.04.59:429][211]BlueprintLog: New page: Compile UI
+[2022.05.01-01.04.59:610][211]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.05.01-01.06.55:099][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.05.01-01.06.56:776][801]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.01-01.06.56:866][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.05.01-01.06.56:948][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.05.01-01.06.57:029][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.05.01-01.07.07:169][689]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\Gear Inner.png)
+[2022.05.01-01.07.07:193][689]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/Gear_Inner.Gear_Inner (BGRA8, 685X686 X1X1) (Required Memory Estimate: 8.962822 MB), EncodeSpeed: Fast
+[2022.05.01-01.07.07:193][689]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Plug n Play\UI\Assets\Gear Outer.png)
+[2022.05.01-01.07.07:223][689]LogTexture: Display: Building textures: /Game/UI/Assets/HUD/Gear_Outer.Gear_Outer (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2022.05.01-01.07.07:223][689]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2022.05.01-01.07.48:489][404]BlueprintLog: New page: Compile EndScreen
+[2022.05.01-01.07.48:583][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.05.01-01.07.49:856][543]BlueprintLog: New page: Compile UI
+[2022.05.01-01.07.49:992][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.05.01-01.07.51:289][676]BlueprintLog: New page: Compile DeathScreen
+[2022.05.01-01.07.51:385][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.05.01-01.07.51:612][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.05.01-01.07.51:615][677]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.085
+[2022.05.01-01.07.51:615][677]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI] ([2] browsable assets)...
+[2022.05.01-01.07.51:618][677]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI.UI]
+[2022.05.01-01.07.51:618][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI]
+[2022.05.01-01.07.51:618][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2022.05.01-01.07.51:635][677]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Auto8
+[2022.05.01-01.07.51:635][677]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/UI_Auto87EE7E5894F90438863C8D2B5105D4F79.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/UI_Auto8.uasset'
+[2022.05.01-01.07.51:637][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/PauseMenu/Flashlight_Control] ([1] browsable assets)...
+[2022.05.01-01.07.51:638][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/PauseMenu/Flashlight_Control.Flashlight_Control]
+[2022.05.01-01.07.51:638][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/PauseMenu/Flashlight_Control]
+[2022.05.01-01.07.51:640][677]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/PauseMenu/Flashlight_Control_Auto8
+[2022.05.01-01.07.51:640][677]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Flashlight_Control_Auto8FD14CA7248F2521A2E7F36AD0B55E734.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/PauseMenu/Flashlight_Control_Auto8.uasset'
+[2022.05.01-01.07.51:641][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/Gear_Inner] ([1] browsable assets)...
+[2022.05.01-01.07.51:642][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/Gear_Inner.Gear_Inner]
+[2022.05.01-01.07.51:642][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/Gear_Inner]
+[2022.05.01-01.07.51:646][677]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/Gear_Inner_Auto8
+[2022.05.01-01.07.51:646][677]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Gear_Inner_Auto8969402F94473A49F353AF1805AEE9445.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/Gear_Inner_Auto8.uasset'
+[2022.05.01-01.07.51:648][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Assets/HUD/Gear_Outer] ([1] browsable assets)...
+[2022.05.01-01.07.51:649][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Assets/HUD/Gear_Outer.Gear_Outer]
+[2022.05.01-01.07.51:649][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/HUD/Gear_Outer]
+[2022.05.01-01.07.51:655][677]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Assets/HUD/Gear_Outer_Auto8
+[2022.05.01-01.07.51:655][677]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Gear_Outer_Auto8BC0F2A1F4E69A79B531972AF0230E635.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Autosaves/Game/UI/Assets/HUD/Gear_Outer_Auto8.uasset'
+[2022.05.01-01.07.51:658][677]LogFileHelpers: Auto-saving content packages took 0.043
+[2022.05.01-01.11.18:225][225]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.01-01.11.18:237][225]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.05.01-01.11.18:241][225]LogPlayLevel: [PlayLevel] Compiling PauseMenu before play...
+[2022.05.01-01.11.18:433][225]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.05.01-01.11.18:436][225]LogPlayLevel: PlayLevel: Blueprint regeneration took 199 ms (1 blueprints)
+[2022.05.01-01.11.18:436][225]PIE: New page: PIE session: FirstPersonExampleMap (Apr 30, 2022, 5:11:18 PM)
+[2022.05.01-01.11.18:436][225]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.05.01-01.11.18:596][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.159972s)
+[2022.05.01-01.11.18:596][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.160057s)
+[2022.05.01-01.11.18:596][225]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.01-01.11.18:596][225]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.01-01.11.18:597][225]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.05.01-01.11.18:597][225]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2022.05.01-01.11.18:679][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.05.01-01.11.18:680][225]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.01-01.11.18:680][225]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.01-01.11.18:680][225]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.01-01.11.18:680][225]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.01-01.11.18:680][225]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.01-01.11.18:680][225]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.01-01.11.18:680][225]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.01-01.11.18:680][225]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.01-01.11.18:680][225]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.01-01.11.18:681][225]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.01-01.11.18:681][225]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.01-01.11.18:681][225]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.01-01.11.18:709][225]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.01-01.11.18:725][225]LogAudioMixer: Display: Using Audio Hardware Device DELL U3415W (NVIDIA High Definition Audio)
+[2022.05.01-01.11.18:726][225]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.01-01.11.18:726][225]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.01-01.11.18:726][225]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.01-01.11.18:726][225]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.05.01-01.11.18:726][225]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.05.01-01.11.18:728][225]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.05.01-01.11.18:728][225]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.05.01-01.11.18:728][225]LogInit: FAudioDevice initialized.
+[2022.05.01-01.11.18:728][225]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2022.05.01-01.11.18:777][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.01-01.11.18:778][225]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.01-01.11.18:840][225]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.30-21.11.18
+[2022.05.01-01.11.18:845][225]LogWorld: Bringing up level for play took: 0.067228
+[2022.05.01-01.11.18:847][225]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.05.01-01.11.18:849][225]LogBlueprintUserMessages: [MovementImpact] movementimpact_component must be attached to am actor with a PrimitiveComponent at its root
+[2022.05.01-01.11.18:859][225]PIE: Server logged in
+[2022.05.01-01.11.18:860][225]PIE: Play in editor total start time 0.624 seconds.
+[2022.05.01-01.11.18:882][225]LogAudio: Warning: Detected orphaned looping sound 'Background_ambiance_Cue'.
+[2022.05.01-01.11.27:224][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.01-01.11.27:224][683]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.05.01-01.11.27:225][683]LogSlate: Window 'Plug_N_Play Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.05.01-01.11.27:232][683]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.01-01.11.27:239][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.01-01.11.27:250][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.01-01.11.27:267][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.01-01.11.27:359][683]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.05.01-01.11.27:361][683]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.05.01-01.11.27:383][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2022.05.01-01.11.27:413][684]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.05.01-01.11.34:256][426]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.05.01-01.11.34:257][426]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.01-01.12.12:451][549]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.05.01-01.12.12:451][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.01-01.17.00:784][510]LogEditorTransaction: Undo Move Anchor
+[2022.05.01-01.18.48:554][965]LogSlate: Window 'Save Asset As' being destroyed
+[2022.05.01-01.19.00:378][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.05.01-01.19.00:388][  5]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.01-01.19.00:471][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.05.01-01.19.00:945][  5]LogSavePackage: Moving output files for package: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.05.01-01.19.00:952][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FirstPersonExampleMap80F6440940794FE3AA59C6987B4D6783.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.05.01-01.19.00:994][  5]LogFileHelpers: No new changes to save!
+[2022.05.01-01.19.00:994][  5]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.605
+[2022.05.01-01.19.01:001][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenu" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset" SILENT=true
+[2022.05.01-01.19.01:011][  5]LogSavePackage: Moving output files for package: /Game/UI/PauseMenu
+[2022.05.01-01.19.01:012][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/PauseMenuBA3EF1D14DBE430492569380FC3BB271.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/PauseMenu.uasset'
+[2022.05.01-01.19.01:017][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/UI.uasset" SILENT=true
+[2022.05.01-01.19.01:035][  5]LogSavePackage: Moving output files for package: /Game/UI/UI
+[2022.05.01-01.19.01:036][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/UI6E526A2F48D234D63DB82AA33426D891.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/UI.uasset'
+[2022.05.01-01.19.01:041][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/DeathScreen/restart_clicked
+[2022.05.01-01.19.01:042][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/restart_clickedFE0A89534C24B1C9CEB8628FF615F94F.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/DeathScreen/restart_clicked.uasset'
+[2022.05.01-01.19.01:046][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/DeathScreen/restart_hovered
+[2022.05.01-01.19.01:048][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/restart_hovered7CCCDADC4B81FDD343BF7DADBD4B4B92.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/DeathScreen/restart_hovered.uasset'
+[2022.05.01-01.19.01:052][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/DeathScreen/restart_unclicked
+[2022.05.01-01.19.01:053][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/restart_unclicked70892825454C0B445C029AB600969AD5.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/DeathScreen/restart_unclicked.uasset'
+[2022.05.01-01.19.01:055][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/EndScreen/Credits" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/EndScreen/Credits.uasset" SILENT=true
+[2022.05.01-01.19.01:118][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/EndScreen/Credits
+[2022.05.01-01.19.01:119][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Credits38CF73F44E90FC18367A08BF09D2918B.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/EndScreen/Credits.uasset'
+[2022.05.01-01.19.01:173][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Light_Fluid_Pattern
+[2022.05.01-01.19.01:174][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Light_Fluid_PatternD268275C49335118B9CDE58DD9335601.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Light_Fluid_Pattern.uasset'
+[2022.05.01-01.19.01:179][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/Flashlight_Control
+[2022.05.01-01.19.01:179][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Flashlight_ControlBE7C216D459FBCCFBFD79B98FD9C6D01.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/Flashlight_Control.uasset'
+[2022.05.01-01.19.01:181][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/EnemyHP/Enemy_Head_Red" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/EnemyHP/Enemy_Head_Red.uasset" SILENT=true
+[2022.05.01-01.19.01:220][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/EnemyHP/Enemy_Head_Red
+[2022.05.01-01.19.01:220][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Enemy_Head_Red0A803629483D8D520C61AA853F46E2C1.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/EnemyHP/Enemy_Head_Red.uasset'
+[2022.05.01-01.19.01:260][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/EnemyHP/Enemy_Head_Green
+[2022.05.01-01.19.01:260][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Enemy_Head_Green52C01F8F4BCDDEEBCAEB6DB874FBC46E.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/EnemyHP/Enemy_Head_Green.uasset'
+[2022.05.01-01.19.01:263][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/STRUCTURAL_INTEGRITY
+[2022.05.01-01.19.01:264][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/STRUCTURAL_INTEGRITY3F6262DB4AFA211483D64E879BEAA8B6.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/STRUCTURAL_INTEGRITY.uasset'
+[2022.05.01-01.19.01:265][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/HUD/FullMP+3" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/FullMP+3.uasset" SILENT=true
+[2022.05.01-01.19.01:267][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/FullMP+3
+[2022.05.01-01.19.01:267][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullMP+3B5A3942F4544FC4C7736E9BECFC1E66B.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/FullMP+3.uasset'
+[2022.05.01-01.19.01:268][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/HUD/Empty_MP+1" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/Empty_MP+1.uasset" SILENT=true
+[2022.05.01-01.19.01:270][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/Empty_MP+1
+[2022.05.01-01.19.01:270][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Empty_MP+1ADB1403441C645BF69BE6AB432341904.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/Empty_MP+1.uasset'
+[2022.05.01-01.19.01:272][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/HUD/Empty_MP+3" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/Empty_MP+3.uasset" SILENT=true
+[2022.05.01-01.19.01:274][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/Empty_MP+3
+[2022.05.01-01.19.01:274][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Empty_MP+3E807A9CC4E58A36737FA84AA7684770F.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/Empty_MP+3.uasset'
+[2022.05.01-01.19.01:275][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/HUD/Empty_MP+2" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/Empty_MP+2.uasset" SILENT=true
+[2022.05.01-01.19.01:277][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/Empty_MP+2
+[2022.05.01-01.19.01:277][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Empty_MP+2D5504079441A28B1677D5A87D6E9F1D3.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/Empty_MP+2.uasset'
+[2022.05.01-01.19.01:278][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/HUD/FullMP+1" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/FullMP+1.uasset" SILENT=true
+[2022.05.01-01.19.01:280][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/FullMP+1
+[2022.05.01-01.19.01:280][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullMP+15D549CAF4B39EFFD1437B88C8E105D7B.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/FullMP+1.uasset'
+[2022.05.01-01.19.01:281][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/HUD/FullMP+2" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/FullMP+2.uasset" SILENT=true
+[2022.05.01-01.19.01:283][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/FullMP+2
+[2022.05.01-01.19.01:283][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullMP+298939770483837EA841CE5B2785A8B63.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/FullMP+2.uasset'
+[2022.05.01-01.19.01:284][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/EnemyHP/EnemyHP" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/EnemyHP/EnemyHP.uasset" SILENT=true
+[2022.05.01-01.19.01:286][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/EnemyHP/EnemyHP
+[2022.05.01-01.19.01:286][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/EnemyHPEFF85E314C76E28770DE73B49C574F99.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/EnemyHP/EnemyHP.uasset'
+[2022.05.01-01.19.01:288][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/EnemyHP/FullEnemyHP" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/EnemyHP/FullEnemyHP.uasset" SILENT=true
+[2022.05.01-01.19.01:289][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/EnemyHP/FullEnemyHP
+[2022.05.01-01.19.01:289][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/FullEnemyHP28494EC9420245D3CBCD1ABC714FDC09.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/EnemyHP/FullEnemyHP.uasset'
+[2022.05.01-01.19.01:291][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/EnemyHP/Boss_Head" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/EnemyHP/Boss_Head.uasset" SILENT=true
+[2022.05.01-01.19.01:383][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/EnemyHP/Boss_Head
+[2022.05.01-01.19.01:383][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Boss_Head065533C2442FAB219F96EA8884721157.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/EnemyHP/Boss_Head.uasset'
+[2022.05.01-01.19.01:602][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/PauseMenu/DamageIndicator
+[2022.05.01-01.19.01:602][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/DamageIndicator7ACE9C874626D81FB8CFE8B0EFF85A07.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/PauseMenu/DamageIndicator.uasset'
+[2022.05.01-01.19.01:606][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/EndScreen" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/EndScreen.uasset" SILENT=true
+[2022.05.01-01.19.01:612][  5]LogSavePackage: Moving output files for package: /Game/UI/EndScreen
+[2022.05.01-01.19.01:612][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/EndScreenB699534B4E337A205D34328E6B30130E.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/EndScreen.uasset'
+[2022.05.01-01.19.01:613][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/HUD/Gear_Inner" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/Gear_Inner.uasset" SILENT=true
+[2022.05.01-01.19.01:629][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/Gear_Inner
+[2022.05.01-01.19.01:629][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Gear_Inner2C1FF916439F067EA15A6498A20A277B.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/Gear_Inner.uasset'
+[2022.05.01-01.19.01:631][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/HUD/Gear_Outer" FILE="../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/Gear_Outer.uasset" SILENT=true
+[2022.05.01-01.19.01:670][  5]LogSavePackage: Moving output files for package: /Game/UI/Assets/HUD/Gear_Outer
+[2022.05.01-01.19.01:670][  5]LogSavePackage: Moving '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Saved/Gear_OuterEF9FABCC458E1F3516FCE8BDB675F69A.tmp' to '../../../../Jared/PnP-Remote-Repo/Plug_N_Play 5.0_3.0 5.0 5.0 5.0/Content/UI/Assets/HUD/Gear_Outer.uasset'
+[2022.05.01-01.19.01:900][  5]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.01-01.19.01:900][  5]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2022.05.01-01.19.01:901][  5]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI.UI
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/EnemyHP/Enemy_Head_Red.Enemy_Head_Red
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/EnemyHP/Enemy_Head_Green.Enemy_Head_Green
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/FullMP+2.FullMP+2
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/FullMP+1.FullMP+1
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/Empty_MP+2.Empty_MP+2
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/Empty_MP+3.Empty_MP+3
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/Empty_MP+1.Empty_MP+1
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/FullMP+3.FullMP+3
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/DamageIndicator.DamageIndicator
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/EndScreen.EndScreen
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/DeathScreen/restart_clicked.restart_clicked
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/DeathScreen/restart_hovered.restart_hovered
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/DeathScreen/restart_unclicked.restart_unclicked
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/EndScreen/Credits.Credits
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/STRUCTURAL_INTEGRITY.STRUCTURAL_INTEGRITY
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Light_Fluid_Pattern.Light_Fluid_Pattern
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/EnemyHP/Boss_Head.Boss_Head
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/EnemyHP/FullEnemyHP.FullEnemyHP
+[2022.05.01-01.19.01:902][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/EnemyHP/EnemyHP.EnemyHP
+[2022.05.01-01.19.01:903][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/PauseMenu/Flashlight_Control.Flashlight_Control
+[2022.05.01-01.19.01:903][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/Gear_Outer.Gear_Outer
+[2022.05.01-01.19.01:903][  5]LogContentValidation: Display: Validating Texture2D /Game/UI/Assets/HUD/Gear_Inner.Gear_Inner
+[2022.05.01-01.19.06:239][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.05.01-01.19.08:282][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.05.01-01.19.08:965][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.05.01-01.19.09:118][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.05.01-01.19.09:298][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.05.01-01.19.09:472][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.05.01-01.19.29:262][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
