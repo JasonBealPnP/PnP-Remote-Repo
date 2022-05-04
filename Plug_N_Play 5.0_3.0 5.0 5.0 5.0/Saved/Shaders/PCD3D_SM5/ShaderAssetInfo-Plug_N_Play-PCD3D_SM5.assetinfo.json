@@ -1048,18 +1048,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EC2C567AA6AE1BBEC7D4EE4A1D049BBBCD081F48",
-			"Assets": [
-				"/Game/FirstPersonBP/Blueprints/ChainMAT5"
-			]
-		},
-		{
-			"ShaderMapHash": "791CC57956276EAD2F32858A67E15F8F86132188",
-			"Assets": [
-				"/Game/Angel/HexMAT1"
-			]
-		},
-		{
 			"ShaderMapHash": "572E627E8957F728442BA2FEB6378B6EB3AE1CB4",
 			"Assets": [
 				"/Game/Particles/Fires/FireSystems/Explosion_System"
@@ -1075,6 +1063,18 @@
 			"ShaderMapHash": "8A30B93B51FACCFD45BA4F2F1C49E5D0EC08256F",
 			"Assets": [
 				"/Game/Particles/Lighting/LightningSystems/LightningLaserImpact_System"
+			]
+		},
+		{
+			"ShaderMapHash": "EC2C567AA6AE1BBEC7D4EE4A1D049BBBCD081F48",
+			"Assets": [
+				"/Game/FirstPersonBP/Blueprints/ChainMAT5"
+			]
+		},
+		{
+			"ShaderMapHash": "791CC57956276EAD2F32858A67E15F8F86132188",
+			"Assets": [
+				"/Game/Angel/HexMAT1"
 			]
 		},
 		{
